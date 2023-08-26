@@ -1,4 +1,3 @@
-const fs = require('fs')
 const logoImage = document.querySelector('img');
 const headerTitle = document.querySelector('h1');
 const questionStatement = document.getElementById('enunciadoDeLaPregunta');
@@ -13,14 +12,15 @@ const respuestaSection = document.getElementById('respuesta');
 const rightAnswer = document.getElementById('opcionCorrecta')
 const argument = document.getElementById('argumentoOpcionCorrecta')
 const siguientePreguntaButton = document.getElementById('siguientePregunta');
+var grupos = [];
 
 
 logoImage.addEventListener('click', function () {
-    window.location.href = 'https://soydanieluva.notion.site/Preguntas-Carpe-29df5a68b4a74ed089408f600950c739?pvs=4';
+  window.location.href = 'https://soydanieluva.notion.site/Preguntas-Carpe-29df5a68b4a74ed089408f600950c739?pvs=4';
 });
 
 headerTitle.addEventListener('click', function () {
-    window.location.href = 'https://soydanieluva.notion.site/Preguntas-Carpe-29df5a68b4a74ed089408f600950c739?pvs=4';
+  window.location.href = 'https://soydanieluva.notion.site/Preguntas-Carpe-29df5a68b4a74ed089408f600950c739?pvs=4';
 });
 
 opcionesDiv.addEventListener('click', function (event) {
@@ -43,27 +43,63 @@ siguientePreguntaButton.addEventListener('click', function () {
   });
 });
 
-fs.readFile('Recursos/preguntasSeparadasPorNumeral.txt', 'utf8', (err, data) => {
-    if (err) {
-        console.error('Error al leer el archivo:', err);
-        return;
-    }
-    
-    let elementos = data.split('#').filter(elemento => elemento.trim() !== '');
-    let grupos =[]
-    for (let i = 0; i < elementos.length; i += 7) {
-        grupos.push(elementos.slice(i, i + 7));
-    }
-    
-    let grupoAleatorio = grupos[Math.floor(Math.random() * grupos.length)];
-    
-    questionStatement.textContent = grupoAleatorio[0];
-    opcionA.value = grupoAleatorio[1];
-    opcionB.value = grupoAleatorio[2];
-    opcionC.value = grupoAleatorio[3];
-    opcionD.value = grupoAleatorio[4];
-    rightAnswer.textContent = grupoAleatorio[5];
-    argument.textContent = grupoAleatorio[6];
-});
-    
+function populateQuestionGroups(data) {
+  var elementos = data.split('#').filter(function(elemento) {
+    return elemento.trim() !== '';
+  });
 
+  for (var i = 0; i < elementos.length; i += 7) {
+    grupos.push(elementos.slice(i, i + 7));
+  }
+}
+
+function displayRandomQuestion() {
+  var grupoAleatorio = grupos[Math.floor(Math.random() * grupos.length)];
+
+  questionStatement.textContent = grupoAleatorio[0];
+  opcionA.textContent = grupoAleatorio[1];
+  opcionB.textContent = grupoAleatorio[2];
+  opcionC.textContent = grupoAleatorio[3];
+  opcionD.textContent = grupoAleatorio[4];
+  rightAnswer.textContent = grupoAleatorio[5];
+  argument.textContent = grupoAleatorio[6];
+
+  opcionA.name = 'answer';
+  opcionB.name = 'answer';
+  opcionC.name = 'answer';
+  opcionD.name = 'answer';
+
+  respuestaSection.setAttribute('hidden', 'true');
+  radioOptions.forEach(function(option) {
+    option.checked = false;
+  });
+}
+
+function fetchData(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState === 4) {
+      if (xhr.status === 200) {
+        callback(null, xhr.responseText);
+      } else {
+        callback(new Error('Failed to fetch data'));
+      }
+    }
+  };
+  xhr.open('GET', url, true);
+  xhr.send();
+}
+
+fetchData('Recursos/preguntasSeparadasPorNumeral.txt', function(err, data) {
+  if (err) {
+    console.error('Error fetching data:', err);
+    return;
+  }
+
+  populateQuestionGroups(data);
+  displayRandomQuestion();
+});
+
+siguientePreguntaButton.addEventListener('click', function() {
+  displayRandomQuestion();
+});

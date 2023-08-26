@@ -14,20 +14,18 @@
     <h1>CarpeDiem</h1>
   </header>
   <section id="pregunta">
-    <p id="enunciadoDeLaPregunta"></p>
+    <div id="enunciadoDeLaPregunta"></div>
     <div id="opciones">
-      <input type="radio" id="opcionA"></input>
-      <input type="radio" id="opcionB"></input>
-      <input type="radio" id="opcionC"></input>
-      <input type="radio" id="opcionD"></input>
+      <div type="radio" name="opcionA" id="opcionA"></div>
+      <div type="radio" name="opcionB" id="opcionB"></div>
+      <div type="radio" name="opcionC" id="opcionC"></div>
+      <div type="radio" name="opcionD" id="opcionD"></div>
     </div>
     <button id="respuestaCorrecta">Ver respuesta</button>
   </section>
   <section id="respuesta" hidden>
     <h2 id="opcionCorrecta"></h2>
-    <p id="argumentoOpcionCorrecta">
-      
-    </p>
+    <div id="argumentoOpcionCorrecta"></div>
     <button id="siguientePregunta">Siguiente pregunta</button>
   </section>
   <script src="script.js"></script>
