@@ -321,9 +321,10 @@ Argumento: Si bien es cierto que el principal punto hoy en día para definir el 
     
     1. Summary of Revisions: Standards of Care in Diabetes-2023. Diabetes Care. 2023 Jan 1;46(Suppl 1):S5-S9.
     2. Román Gonzales, A. Manejo individualizado de la diabetes. Medellín: XXI Memorias Curso de Actualización en Medicina Interna, Facultad de Medicina, Universidad de Antioquia; 2022.
-#Aclaración pregunta anulada:
+
+Aclaración pregunta anulada:
     
-    Como se menciona en la justificación de la pregunta #1 un factor importante en la elección de medicamentos para el manejo de pacientes diabéticos es la tasa de filtración glomerular, pues estadios avanzados de la enfermedad renal contraindican su administración. Si bien, el uso de uno de los inhibidores de la dipeptidil peptidasa 4 (iDPP-4) traerían un amplio beneficio en este paciente por los efectos ya descritos y el uso de la linagliptina no necesitaría ajuste de dosis por su TFG; debemos recordar que este grupo de medicamentos NO debe asociarse con otros fármacos antidiabéticos con efecto increatinico como la semaglutide (Que ya viene recibiendo este paciente) por su alto riesgo de presentar efectos adversos no deseados.
+    Como se menciona en la justificación de la pregunta 1 un factor importante en la elección de medicamentos para el manejo de pacientes diabéticos es la tasa de filtración glomerular, pues estadios avanzados de la enfermedad renal contraindican su administración. Si bien, el uso de uno de los inhibidores de la dipeptidil peptidasa 4 (iDPP-4) traerían un amplio beneficio en este paciente por los efectos ya descritos y el uso de la linagliptina no necesitaría ajuste de dosis por su TFG; debemos recordar que este grupo de medicamentos NO debe asociarse con otros fármacos antidiabéticos con efecto increatinico como la semaglutide (Que ya viene recibiendo este paciente) por su alto riesgo de presentar efectos adversos no deseados.
     
     También es relevante mencionar que, en la práctica clínica diaria, se elegiría de primera elección la semaglutide por encima de la linagliptina para este paciente ya que ofrece mayores beneficios por su antecedente de enfermedad cardiovascular establecida y sería más ideal para la reducción de la Hb1Ac.
     
@@ -607,15 +608,13 @@ Argumento: Los antidepresivos tricíclicos (ADT), son un grupo de medicamentos f
     
     1. Retrepo M, Peña L, Intoxicación por antidepresivos triciclicos. Protocolos de Manejo del Paciente Intoxicado, Universidad de Antioquia. 2017.
 
-#Mujer de 27 años, consulta a primer nivel por cuadro clínico de 72 horas de evolución consistente en dolor abdominal bajo asociado a disuria. Tiene antecedentes de 3 episodios de ITU baja en los últimos 6 meses, además de ser sexualmente activa con dos parejas masculinas con uso de preservativo ocasional. Al examen físico se encuentra en regular estado general, T 38.7°C, dolor a la palpación profunda en hemiabdomen bajo. La exploración con espéculo evidencia leucorrea purulenta abundante y dolor a la movilización cervical. Analítica: leucocitos 18.000, VSG 9 mm/h, gravindex (-). Uroanálisis: 2 leucocitos/hpf, 1-2 hematies/hpf, nitritos (-), ++ de bacterias.
+#Mujer de 27 años, consulta a segundo nivel por cuadro clínico de 72 horas de evolución consistente en dolor abdominal bajo asociado a disuria. Tiene antecedentes de 3 episodios de ITU baja en los últimos 6 meses, además de ser sexualmente activa con dos parejas masculinas con uso de preservativo ocasional. Al examen físico se encuentra en regular estado general, T 38.7°C, dolor a la palpación profunda en hemiabdomen bajo. La exploración con espéculo evidencia leucorrea purulenta abundante y dolor a la movilización cervical. Analítica: leucocitos 18.000, VSG 9 mm/h, gravindex (-). Uroanálisis: 2 leucocitos/hpf, 1-2 hematies/hpf, nitritos (-), ++ de bacterias.
 ¿Cuál de los siguientes esquemas de tratamiento iniciaría en esta paciente?
 #A. Ampicilina/sulbactam 3 g IV c/6 horas + doxiciclina 100 mg VO c/12 horas
 #B. Levofloxacina 500 mg VO c/24h
 #C. Ceftriaxona 250 mg IM DU + azitromicina 1 g VO DU + Levofloxacina 500 mg VO c/24h
 #D. Ceftriaxona 250 mg IM DU + doxiciclina 100 mg VO c/12 horas
 #Respuesta correcta: A
-    
-    Corrección del caso clínico: Mujer de 27 años, consulta a SEGUNDO nivel por cuadro clínico de 72 horas de evolución consistente en dolor abdominal bajo asociado a disuria.
 #Tema e ítem: Enfermedad pélvica inflamatoria - Esquemas de tratamiento alternativos según las directrices de la CDC 2021
     
 Argumento: Ante un cuadro clínico de dolor abdominal bajo, leucorrea purulenta y dolor a la movilización cervical en una paciente sexualmente activa se debe pensar indudablemente en enfermedad pélvica inflamatoria (EPI).
@@ -649,7 +648,7 @@ Argumento: El inicio rápido de dolor ocular progresivo, unilateral, asociado a 
     
     Los antibióticos fortificados para aplicación tópica (gotas) son el tratamiento de elección de la QB. Dado que esta afección puede conducir rápidamente a una pérdida de la visión irreversible y a la destrucción de la córnea, se considera una urgencia oftalmológica y el tratamiento debe iniciarse inmediatamente de forma empírica. Como este paciente es usuario de lentes de contacto, debemos escoger opciones que ofrecen cobertura frente a Pseudomonas spp como lo son: ceftazidima, moxifloxacino o tobramicina.
     
-    Bonus para futura pregunta en el simulacro #1:
+    Bonus para futura pregunta en el simulacro 1:
     
     Recuerda que el único escenario en el cual debe usarse tratamiento sistémico en la QB es cuando el microorganismo causante es N. gonorrhoeae.
     
@@ -1369,7 +1368,7 @@ Argumento: la hipertensión de nueva aparición a  ≥20 semanas de gestación (
 #C.	Realizar una punción lumbar
 #D.	Realizar un test rápido para influenza y tratar con oseltamivir si es positivo.
 #Respuesta correcta: C
-    Tema e ítem: Meningitis Bacteriana – Enfoque diagnóstico.
+#Tema e ítem: Meningitis Bacteriana – Enfoque diagnóstico.
     
 Argumento: El cuadro clínico súbito de esta paciente: fiebre, cefalea, emesis, mialgias graves con hallazgos de piel moteada, extremidades frías y confusión deben alertar de una posible meningitis y septicemia causada por Neisseria meningitidis. La infección meningocócica temprana típicamente causa un inicio agudo de síntomas inespecíficos (fiebre, cefalea, emesis); sin embargo, las características claves incluyen: mialgias intensas y signos de mala perfusión (frialdad y piel moteada). En estos casos los síntomas progresan rápidamente (durante 12 a 24 horas) incluyendo erupción petequial/purpúrica, rigidez de cuello y alteración del estado mental. La enfermedad puede progresar rápidamente a shock, coagulación intravascular diseminada, falla multiorgánica y muerte; por ende, los pacientes con sospecha de infección meningocócica deben someterse a una punción lumbar, además, deben obtenerse hemocultivos, los cuales deben tomarse antes del inicio de la terapia con antibióticos, la cual no debe retrasarse mientras se realiza la punción lumbar.
     
@@ -1995,7 +1994,7 @@ Argumento: La trombocitopenia aislada en una paciente embarazada asintomática n
 #C. Iniciar metamizol
 #D. Iniciar propiltiouracilo
 #Respuesta correcta: D
-    Tema e ítem: Tiroides y Embarazo – Enfermedad de Graves: ¿Cuál antitiroideo es el de elección?
+#Tema e ítem: Tiroides y Embarazo – Enfermedad de Graves: ¿Cuál antitiroideo es el de elección?
     
 Argumento: Los síntomas de palpitaciones, intolerancia al calor, fatiga y temblor distal en una paciente embarazada con TSH suprimida y anticuerpos TSI (inmunoglobulina estimulante de la tiroides) positivos sugieren indudablemente enfermedad de Graves (hipertirodismo primario autoinmune).
     
@@ -3198,7 +3197,7 @@ Argumento: La presentación de esta paciente de presión pélvica, tamaño uteri
 #C.	Aconsejar al esposo que obtenga ayuda adicional para el cuidado de los hijos.
 #D.	Prescribir un manejo corto para dormir y hacer un seguimiento en 1-2 semanas.
 #Respuesta correcta: A
-    Tema e ítem: Depresión posparto - conducta.
+#Tema e ítem: Depresión posparto - conducta.
 Argumento: Aunque la interrupción del sueño es común en las madres recientes, varias características de la presentación de esta paciente sugieren depresión posparto, incluyendo su marcada alteración del sueño con despertar temprano en la mañana, baja energía, tristeza y deterioro del funcionamiento (obligarse a ducharse y cuidar al bebé). Todas las pacientes con síntomas de depresión deben ser evaluadas para detectar ideación suicida. Por lo tanto, el siguiente paso más apropiado es evaluar a esta paciente en busca de ideas suicidas.
     
     La depresión posparto es frecuente y, si no se trata, puede deteriorar el vínculo materno-infantil y tener un impacto negativo tanto en la salud de la madre como en la del bebé. Las pacientes con depresión grave pueden tener tendencias suicidas; por lo tanto, la evaluación de la ideación suicida es fundamental, ya que puede ser necesaria la hospitalización si la paciente tiene estructuración de ideas de auto o heteroagresión.
@@ -3527,16 +3526,13 @@ Argumento: Este paciente con disnea aguda, hipoxemia y antecedente significativo
     - Pérez M, Méndez B. Decisiones en la exacerbación de la EPOC. VII Simposio de Medicina de Urgencias. ANIR. 2019
 
 #Masculino de 32 años tuvo ultima consulta médica hace 2 años por fatiga, anorexia e ictericia luego de compartir agujas con otro usuario de drogas inyectables. La prueba serológica de hepatitis viral en ese momento fue positiva para antígeno de superficie de hepatitis B, pero negativa para el resto de antígeno y anticuerpos, incluida hepatitis C. No busco atención médica durante este tiempo y ha estado asintomático. Además, dejó de usar drogas IV. Tiene una vida monógama con su pareja. Signos vitales y examen físico normales. Usted espera encontrar el siguiente patrón en las pruebas serológicas para el virus de hepatitis B:
+
+    Abreviaciones: HBsAG: Antígeno de Superficie de la hepatitis B, HbsAb: Anticuerpo contra el antígeno de superficie de la hepatitis B, HBcAb: Anticuerpos anti-core de la hepatitis B.
+        
 #A.	HBsAG (+), HbsAb (-), HBcAb (-).
 #B.	HBsAG (-), HbsAb (+), HBcAb (+).
 #C.	HBsAG (-), HbsAb (+), HBcAb (-).
 #D.	HBsAG (+),HbsAb (-),HBcAb (+).
-    
-    <aside>
-    💡 Abreviaciones: HBsAG: Antígeno de Superficie de la hepatitis B, HbsAb: Anticuerpo contra el antígeno de superficie de la hepatitis B, HBcAb: Anticuerpos anti-core de la hepatitis B.
-    
-    </aside>
-    
 #Respuesta correcta: B
 #Tema e ítem: Hepatitis B – Interpretación de pruebas serológicas.
     
@@ -3679,7 +3675,7 @@ Argumento: Este paciente tenía una lesión por proyectil de alta velocidad en e
 #C.	Requerir terapia inmunomoduladora
 #D.	Requerir profilaxis antiviral y antifúngica
 #Respuesta Correcta A
-    Tema e item: Inmunología- inmunodeficiencia común variable-Manejo.
+#Tema e item: Inmunología- inmunodeficiencia común variable-Manejo.
     
 Argumento: Esta paciente, con bacteriemia estreptocócica, infección por G. lamblia, sinusitis recurrente, retraso en el crecimiento y asma, debe hacer sospechar de una inmunodeficiencia común variable (ICV), la cual requiere infusión de inmunoglobulina intravenosa para reponer las inmunoglobulinas y prevenir infecciones graves; sin embargo, los pacientes tienen un mayor riesgo de enfermedad autoinmune y ciertas neoplasias malignas, independientemente del tratamiento.Recordemos, que en la ICV, la diferenciación anormal de células B en células plasmáticas da como resultado una disminución en la producción de múltiples clases de inmunoglobulinas. Se debe tener en cuenta que la ICV se presenta en adolescentes o adultos jóvenes con infecciones sinopulmonares recurrentes causadas por organismos encapsulados. La enfermedad pulmonar crónica (asma) es frecuente. Los pacientes también pueden tener infecciones diarreicas recurrentes (Salmonella, G.lamblia) y retraso en el crecimiento. Finalmente, los resultados de laboratorio característicos incluyen un perfil de inmunoglobulina con una marcada disminución de IgG, IgA y/o IgM, mientras que el hemoleucograma no suele mostrar alteraciones.
     
@@ -3894,7 +3890,7 @@ Argumento: Recordemos que la ADA recomienda un enfoque práctico y centrado en e
 #C. Realizar ecocardiografía TT
 #D. Realizar holter cardiaco de 24 horas
 #Respuesta correcta: B
-    Tema e ítem: Sincope neuralmente mediado - ¿Cómo actuar en el servicio de Urgencias?
+#Tema e ítem: Sincope neuralmente mediado - ¿Cómo actuar en el servicio de Urgencias?
     
 Argumento: De entrada, recordemos que la clave en el abordaje y manejo del paciente con sincope es la historia clínica completa y un examen físico riguroso. Este paciente presentó un episodio de perdida súbita de la consciencia con recuperación espontanea compatible con un síncope reflejo (o neuralmente mediado), la forma más común de síncope.
     
@@ -4175,7 +4171,7 @@ Argumento: La prevención eficaz de la malaria se basa en una comprensión profu
 #C.	Cor pulmonale.
 #D.	Arteriopatía coronaria.
 #Respuesta correcta: C
-#Tema: Falla cardiaca por Hipertensión pulmonar-Diagnóstico
+#Tema e item: Falla cardiaca por Hipertensión pulmonar-Diagnóstico
     
 Argumento: La presentación de este paciente sugiere cor pulmonale, definida como insuficiencia cardíaca derecha (ICD) por hipertensión pulmonar (HP). La HP puede ser idiopática o deberse a enfermedad pulmonar obstructiva crónica (EPOC), enfermedad pulmonar intersticial (fibrosis pulmonar idiopática), apnea obstructiva del sueño, enfermedad vascular pulmonar (tromboembólica) o trastornos de la pared torácica (cifoescoliosis). La ICD debida a cardiopatía izquierda o congénita no se considera cor pulmonale.
     
@@ -4193,7 +4189,7 @@ Argumento: La presentación de este paciente sugiere cor pulmonale, definida com
 #C.	Cervicitis por Chlamydia trachomatis permanente
 #D.	Infección Intraamniótica (Corioamnionitis)
 #Respuesta correcta: D
-#Tema e ítem Corioamnionitis-Diagnóstico
+#Tema e ítem: Corioamnionitis-Diagnóstico
     
 Argumento: Esta paciente que se presenta con síntomas vagales, en el contexto de una ruptura de membrana prolongada (>18 horas) (debido a flujo constante en los últimos 2 días junto a un test de nitrazina positivo, con salida de líquido claro en el cérvix), que además presenta fiebre,náuseas,emesis, dolor en el fondo uterino taquicardia fetal >160/min durante al menos 10 minutos, leucocitosis materna y taquicardia materna, cumple los criterios diagnósticos para una infección intraamniótica (IAI), en este caso una corioamnionitis. Recordemos que el diagnóstico se basa en la presencia de fiebre materna más al menos 1 de los siguientes: taquicardia fetal >160/min durante al menos 10 minutos, leucocitosis materna, taquicardia materna o líquido amniótico purulento. Los pacientes pueden tener un patrón de contracción anormal debido al efecto de la IAI en la contractilidad del músculo uterino.
     
@@ -4202,7 +4198,8 @@ Argumento: Esta paciente que se presenta con síntomas vagales, en el contexto d
     Finalmente, la cervicitis por Chlamydia trachomatis que tuvo esta paciente fue tratada y la evidencia de un resultado negativo en las pruebas de seguimiento sugieren que no es una infección permanente.
     
 
-#Teniendo en cuenta el caso clínico de la pregunta anterior, además de los antibióticos de amplio espectro, ¿cuál de las siguientes opciones, corresponde al paso a seguir en el manejo de esta paciente?
+#Femenina de 19 años G1P0, 39 semanas de gestación, consulta por emesis, náuseas y dolor abdominal constante en hipogastrio. Refiere flujo vaginal claro constante durante los últimos 2 días y manchado vaginal intermitente, junto a polaquiuria durante todo el embarazo, sin disuria o hematuria. Antecedente de infección ya tratada para C. trachomatis en el primer trimestre; con prueba negativa de la misma de a las 5 semanas y al tercer trimestre. Signos vitales: Tº 39,4 C, PA de 120/68 mmHg y FC de 100 lpm. Al examen físico sensibilidad uterina difusa. El cuello uterino es blando, dilatación 4 cm, borramiento de 40%, en posición anterior. El vértice fetal en estación -1 y acumulación de líquido claro, positivo para nitrazina en el fórnix posterior. La monitorización fetal con FCF de 175/min, variabilidad moderada y sin desaceleraciones, con contracciones cada 10 minutos. Los resultados de laboratorio son los siguientes: Hb 10.2g/dL, plaquetas 198.000 y leucocitos 18,500/mm3.
+Teniendo en cuenta el caso clínico de la pregunta anterior, además de los antibióticos de amplio espectro, ¿cuál de las siguientes opciones, corresponde al paso a seguir en el manejo de esta paciente?
 #A.	Iniciar manejo con tocolíticos.
 #B.	Se debe programar a la paciente para Cesárea.
 #C.	Inducción del trabajo de parto.
@@ -5287,6 +5284,7 @@ Argumento: Recuerda que el síndrome hiperglicémico hiperosmolar (SHH) es una c
 #D.	Granuloma inguinal, azitromicina 1 g VO c/7 días/3 semanas
 #Respuesta correcta: D
 #Tema e ítem: Ulceras genitales – enfoque.
+
 Argumento: La presencia de úlceras genitales múltiples, induradas e indoloras, con una base eritematosa y márgenes elevados, junto con la ausencia de linfadenopatía inguinal, sugieren un granuloma inguinal (donovanosis), causado por Klebsiella granulomatis. Las lesiones comienzan en forma de nódulos (granulomas subcutáneos) en el lugar de inoculación tras un periodo de incubación muy variable (mediana de 50 días) antes de ulcerarse. También pueden desarrollarse lesiones ulcerosas en el periné.
     
     El organismo causante del granuloma inguinal es difícil de cultivar. El diagnóstico requiere la visualización de cuerpos de Donovan en el campo oscuro de una biopsia. El tratamiento de elección se realiza con azitromicina 1 g VO semanal, por 3 semanas o hasta que la úlcera sane. Se debe dar tratamiento a las parejas sexuales de los 60 días previos al inicio de los síntomas.
@@ -5874,7 +5872,8 @@ Argumento: Lo más probable es que esta paciente tenga una cervicitis aguda caus
 #C.	Realizar seguimiento en 2 meses.
 #D.	Realizar mamografía.
 #Respuesta correcta: C
-    Tema e ítem: Masa movible - Ultrasonido
+#Tema e ítem: Masa movible - Ultrasonido
+
 Argumento: Una masa sensible y móvil en una paciente joven es probablemente benigna. En una paciente de edad <30 años con una masa clínicamente benigna, la ecografía mamaria es el estudio de imagen de primera línea. La ecografía de esta paciente muestra realce acústico posterior (indicativo de líquido) y ausencia de restos ecogénicos o componentes sólidos; estas características son compatibles con un quiste mamario simple.
     
     La presentación de un quiste mamario simple es variable, desde la ausencia de síntomas hasta el dolor intenso y localizado. Las pacientes sintomáticas pueden beneficiarse de la aspiración, que debería producir un líquido claro y provocar la desaparición de la masa, confirmando así el diagnóstico. Como el líquido quístico puede volver a acumularse, la paciente debe volver en 2-4 meses para un examen clínico de seguimiento de la mama.
@@ -6151,10 +6150,10 @@ Argumento: El ECG de este paciente muestra ondas de aleteo en dientes de sierra 
 
 #Masculino de 31 años, consulta al programa control de diabetes. Tiene antecedente de un episodio reciente (5 semanas) de cetoacidosis diabética sin etiología identificada, siendo dado de alta con esquema basal. Refiere cambios en su plan alimentario y perdida de 5 kg de peso desde el alta con disminución gradual de la dosis de insulina. También menciona que su madre y hermana han sido diagnosticados de DM2. Registra glucometrías con glicemias en ayunas entre 95-98 mg/dL y postprandial de 110 mg/dL. Al examen fisico presenta signos vitales estables, IMC 30, moderado panículo adiposo de distribución central y acantosis nigricans. Trae reporte de analítica: Hb1Ac 5.8%, péptido C 3,2 ng/mL (VR: 0,8-3,1 ng/mL), glicemia en ayunas 105 mg/dL, anticuerpos Anti GAD negativos. Se decide suspender el esquema basal.
 ¿Cuál de los siguientes tratamientos debe ser iniciado en este paciente?
-#Dapaglifozina
-#Continuar con el plan alimentario actual y cita de control en 1 mes
-#Glimepiride
-#Metformina
+#A. Dapaglifozina
+#B. Continuar con el plan alimentario actual y cita de control en 1 mes
+#C. Glimepiride
+#D. Metformina
 #Respuesta correcta: C
 #Tema e ítem: Diabetes mellitus con predisposición a la cetoacidosis - ¿Qué tan común es?
     
@@ -6510,7 +6509,8 @@ Argumento: Esta paciente que presenta nistagmo unidireccional con la maniobra de
 #C.	Neuralgia en territorio del trigémino, parálisis de los músculos de la masticación, peribucales y orbiculares
 #D.	Ptosis palpebral, limitación de la aducción, supra e infraducción ocular y miosis pupilar.
 #Respuesta correcta: A
-    Tema e ítem: Hematoma epidural - Diagnóstico
+#Tema e ítem: Hematoma epidural - Diagnóstico
+
 Argumento: Esta paciente que presenta un trauma craneoencefálico (TEC) y compromiso en región temporal (laceración, hematoma) debemos pensar indudablemente como principal diagnóstico diferencial en un hematoma epidural (HE) por lesión de la arteria meníngea media. Es probable que dicho HE se haya expandido de forma rápida aumentando la presión intracraneal, generando un efecto de compresión en el lóbulo temporal y culminando en una herniación del uncus (localizado en la región posteromedial de dicho lóbulo). Cuando se produce una herniación de dicha estructura, los pacientes pueden desarrollar los siguientes déficits neurológicos:
     
     ●	Hemiparesia contralateral (por tanto, el caso clínico debió referirse al miembro inferior izquierdo y no derecho), sin embargo, también puede presentarse un signo conocido como fenómeno de Kernohan (hemiparesia ipsilateral) que se produce por la compresión del pedúnculo cerebral contralateral contra el tentorio a medida que avanza la herniación.
@@ -7190,6 +7190,7 @@ La jefe de enfermería le comenta que el tratamiento que usted le ordenó a Juan
 #D. Metronidazol
 #Respuesta correcta: A
 #Tema e ítem: Neumonía bacteriana aspirativa (endoscopia) tramiento
+
 Argumento:Esta paciente que presenta fiebre, síntomas respiratorios, esputo maloliente, leucocitosis, crepitos en ápex pulmonar derecho, que junto a una radiografía que reporta infiltrado en el lóbulo superior derecho, nos debe hacer sospechar de un cuadro de neumonía adquirida en la comunidad. Además, esta paciente se sometió a una endoscopia gastrointestinal superior y posteriormente desarrolló neumonía, probablemente debido a aspiración bacteriana durante el procedimiento. Recordemos, la endoscopia superior aumenta el riesgo de aspiración, porque la sonda del endoscopio deteriora el cierre de la glotis y del esfínter esofágico inferior, lo que puede provocar neumonitis química a las pocas horas debido a aspiración de ácido gástrico o neumonía varios días después por la aspiración de microbios gástricos. Aunque durante mucho tiempo se consideró que los anaerobios (Peptostreptococcus, Fusobacterium) eran los organismos dominantes involucrados en la neumonía por aspiración bacteriana, según indica la evidencia más reciente, los patógenos aeróbicos comunes (bacilos gramnegativos, Streptococcus pneumoniae, Staphylococcus aureus) están presentes en la mayoría de las infecciones. Por lo tanto, la terapia antibiótica empírica ahora está diseñado para cubrir patógenos aeróbicos y anaeróbicos, de la siguiente manera:
     
     ●	Ámbito ambulatorio: amoxicilina-clavulánico
@@ -7209,6 +7210,7 @@ Argumento:Esta paciente que presenta fiebre, síntomas respiratorios, esputo mal
 #D. Embolia pulmonar
 #Respuesta correcta: A
 #Tema e ítem: Exacerbación de asma por medicamentos - diagnóstico
+
 Argumento: Este paciente que ingresó inicialmente por dolor torácico (posiblemente angina inestable debido a las depresiones del segmento ST en el ECG) y que fue tratado adecuadamente (terapia antiplaquetaria, betabloqueantes, IECA y anticoagulante), que desarrolló posteriormente de forma aguda disnea y sibilancias espiratorias, indican una broncoconstricción. Dado los antecedentes de rinitis alérgica, dermatitis atópica, y su historial previo episodios intermitentes de disnea y tos, es probable que el paciente tenga síntomas no diagnosticados de asma, que ahora se ve exacerbada por la aspirina o por la terapia con beta bloqueadores. Recordemos que la aspirina es un desencadenante común de broncoconstricción en pacientes con asma. En cuanto a los beta-bloqueadores no selectivos (propranolol) actúan sobre los receptores β1 y β2 y a menudo desencadenan broncoconstricción en pacientes con asma subyacente. Por otro lado, los beta-bloqueadores cardioselectivos (metoprolol) actúan predominantemente sobre los receptores β1 y se consideran seguros de usar en pacientes con asma leve a moderada; sin embargo, todos los beta-bloqueadores pueden desencadenar broncoconstricción, especialmente cuando se administran en grandes dosis. Además, los IECA (lisinopril) pueden causar tos seca a través del aumento de los niveles circulantes de bradicinina y la consiguiente irritación bronquial.
     
     En cuanto a la bronquitis aguda, generalmente es causada por una infección viral de las vías respiratorias superiores; y se caracteriza por tos persistente, a veces con producción de esputo. El momento de aparición de síntomas (1-2 días después de tomar nuevos medicamentos) y ausencia de otros síntomas, hacen poco probable este diagnóstico. Por otra parte, la pericarditis aguda se caracteriza por un dolor torácico pleurítico agudo que a menudo se alivia al inclinarse hacia adelante, junto a la presencia de un roce pericárdico. Finalmente, los pacientes con embolia pulmonar pueden tener dolor torácico, disnea y/o taquipnea. Las sibilancias y la espiración prolongada son posibles, pero no típicas.
@@ -7224,6 +7226,7 @@ Argumento: Este paciente que ingresó inicialmente por dolor torácico (posiblem
 #D. Neuropatía diabética
 #Respuesta correcta: C
 #Tema e ítem: Anemia por deficiencia de cobalamina -  Diagnóstico
+
 Argumento: Este paciente tiene una anemia macrocítica con HCM elevado, para la cual fue tratada empíricamente como una anemia por deficiencia de folato, en el contexto de consumo excesivo de alcohol. Ahora tiene síntomas neurológicos que empeoran, consistentes con la coexistencia de una deficiencia de cobalamina (vitamina B12) no tratada. Recordemos que la suplementación con cobalamina no se administra de forma rutinaria porque, en estos pacientes, la deficiencia de cobalamina es rara en ausencia de pancreatitis crónica; sin embargo, puede desarrollarse una deficiencia de cobalamina al tener una ingesta limitada de proteínas animales (carne) o con una edad avanzada, debido a una disminución del factor intrínseco (anemia perniciosa) y posterior malabsorción de vitamina B12. En etapas avanzadas, la deficiencia de cobalamina puede provocar neuropatía periférica (parestesias) o defectos de la columna posterior, debido a una síntesis defectuosa de mielina (el folato y la cobalamina son cofactores en la conversión de homocisteína a metionina). Además, debido a que la cobalamina también se usa en otros procesos, los déficits neurológicos pueden precipitarse o empeorar cuando se administra ácido fólico sin suplementos de cobalamina. Por lo tanto, es importante considerar la deficiencia de cobalamina antes de iniciar el reemplazo de ácido fólico.
     
     En cuanto a sospechar una deficiencia de hierro, los síntomas de esta entidad son cefalea, disnea de esfuerzo, síndrome de piernas inquietas y pica. Además, la anemia inicial de este paciente es una anemia macrocítica, que no es el patrón de una anemia ferropénica (es normocítica o microcítica). Por otro lado, este paciente no presenta síntomas de un cuadro de abstinencia como la anhedonia, irritabilidad, alteración de la concentración, del patrón del sueño o algún nivel de agitación psicomotora. Finalmente, para considerar una neuropatía diabética, se debe plantear primero si el paciente tiene el diagnóstico previo de diabetes (este paciente no tiene diagnóstico previo).  Además, si se sospechara de una diabetes no diagnosticada que cursara ya con una neuropatía diabética, se esperaría tener valores elevados de una hemoglobina glicada junto a síntomas propios de la diabetes.
@@ -7240,6 +7243,7 @@ Argumento: Este paciente tiene una anemia macrocítica con HCM elevado, para la 
 #D. Pedir plumbemia en sangre
 #Respuesta correcta: C
 #Tema e ítem: Anemia- Diagnóstico
+
 Argumento: Este paciente que presenta anemia, junto a un VCM y HCM elevado, la presencia de parestesias bilaterales de MI y el antecedente de un trastorno inflamatorio del intestino delgado, nos debe hacer sospechar de una deficiencia de vitamina B12, debido a una reducción de la absorción del complejo factor intrínseco-vitamina B12 en el íleon, por lo que se debe solicitar medición de vitamina B12 en suero. Recordemos que la vitamina B12 es esencial para la síntesis de ADN (a través de la reducción de 5-metiltetrahidrofolato a tetrahidrofolato) y formación de mielina (mediante metilación de lípidos y proteínas neuronales). La deficiencia afecta con mayor frecuencia a células hematológicas que se dividen rápidamente (anemia megaloblastica-leucopenia), posteriormente los pacientes clásicamente desarrollan desmielinización de la columna dorsal de la médula espinal (reducción sensación vibratoria, ataxia sensorial de la marcha) y los tractos corticoespinales laterales (paresia espástica, reflejos mejorados); sin embargo, los nervios mielinizados del sistema nervioso periférico suelen verse afectados primero, lo que lleva a parestesias en las extremidades inferiores sin otros hallazgos neurológicos. Se deben solicitar niveles de ácido metilmalónico y homocisteína para aquellos con resultados dudosos/no concluyentes.
     
     En cuanto a solicitar una resonancia magnética de la columna, no se realizan de forma rutinaria, está reservada para una evaluación adicional después de la evaluación inicial con tomografía computarizada. Además, la clínica de este paciente no presenta hallazgos que sugieran compromiso de la médula espinal (síntomas de compresión). Por otra parte, la realización de una electroforesis de proteinas (EP) está indicada en todos los pacientes en los que se sospecha mieloma múltiple, macroglobulinemia de Waldenström, amiloidosis primaria. La EP también debe considerarse en cualquier paciente con una proteína sérica total elevada o signos y síntomas inexplicables que sugieran la presencia de un trastorno de las células plasmáticas (Anemia con dolor de espalda  inexplicable, osteopenia o lesiones osteolíticas, insuficiencia renal con sedimento de orina blando, hipercalcemia, entre otras). Finalmente, este paciente no presenta factores de riesgo para sospechar de una intoxicación por plomo (consumo, balas de plomo, riesgo laboral, ambiente industrial). Además, la intoxicación por plomo cursa la mayoría de veces con una anemia microcítica normocrómica, y este paciente tiene una anemia macrocítica.
@@ -7275,6 +7279,7 @@ Argumento:  Argumento: Esta paciente tiene características clínicas compatible
 #D.	Mioma con necrosis roja del embarazo.
 #Respuesta correcta: C
 #Tema e ítem: Hemorragia obstétrica del segundo y tercer trimestre: Enfoque etiológico.
+
 Argumento: La hemorragia obstétrica es causante del 22% de las muertes maternas en Latinoamérica y en el caribe, siendo la segunda causa de muerte materna directa en Colombia.  La mayoría de defunciones eran prevenibles, y es por esto que, desde las diferentes entidades mundiales, se ha hecho un llamado a implementar estrategias para disminuirlas. El primer paso es realizar una anamnesis ágil y completa que ayude a discernir una posible etiología y su gravedad, teniendo en cuenta antecedentes y desencadenantes. Los reportes de ecografía anteriores pueden orientar hacia anomalías de inserción placentaria o del cordón, hematomas retrocoriales y signos de abruptio crónico. En el examen físico se evaluarán signos vitales y estado de conciencia, tono uterino, fetocardia, valorar la dilatación cervical y evaluar el canal vaginal en busca de lesiones (Recuerde que en caso de sospechar placenta previa se encuentra contraindicado el tacto vaginal).
     
     La ruptura uterina es una complicación potencialmente mortal tanto para la madre como para el feto, que puede ocurrir antes o durante el parto y ser parcial o total. Frecuentemente está relacionado con antecedentes quirúrgicos como cesárea, miomectomía o corrección de ruptura uterina anterior. Se debe sospechar en mujeres que presentaron aparente taquisistolia (Esta paciente presentó varios días de actividad uterina aumentada), dolor abdominal agudo que no es igual a las contracciones que venía sintiendo en el trabajo de parto, dolor que no mejora con anestesia epidural, cambio súbito del patrón de contracciones, bradicardia fetal o ascenso de la presentación.
@@ -9570,9 +9575,7 @@ Argumento: Todas las mujeres en periodo preconcepcional deben someterse a estudi
 #C. Fascitis plantar
 #D. Ruptura del tendón de Aquiles
 #Respuesta correcta: C
-#Tema e ítem: Fascitis plantar –
-    
-    Diagnóstico diferencial
+#Tema e ítem: Fascitis plantar – Diagnóstico diferencial
 Argumento: El dolor intenso a nivel de la región subcalcánea, exacerbado por la caminata al despertar en la mañana sugieren fuertemente un diagnostico de fascitis plantar (FP).
     
     La FP es la causa más común de dolor en talón en el ámbito ambulatorio. Tiene una incidencia máxima entre los 40 y 60 años. Los factores de riesgo más comúnmente asociado son la obesidad, el pie plano y el sedentarismo. El dolor suele ser de inicio agudo y aparece con los primeros pasos que se dan después de una inactividad prolongada, como al despertarse por la mañana o después de estar sentado mucho tiempo. Al examen físico, hay dolor a la palpación del tubérculo calcáneo medial (donde se inserta la fascia plantar). También suele aparecer dolor con la dorsiflexión pasiva de los dedos. El diagnóstico suele ser clínico, aunque una ecografía podría mostrar engrosamiento y edema de la fascia plantar en el tercio medio o sitio de inserción de la fascia plantar, que es una característica típica.
