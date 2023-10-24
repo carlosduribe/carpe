@@ -3766,7 +3766,7 @@ Argumento: Este paciente presenta una crisis asmática grave, de acuerdo al PSI.
 #A. Si ya fue vacunada, no requiere nueva aplicación.
 #B. Se aplica un refuerzo a los diez años.
 #C. Debe aplicarse entre la semana 27-36 en cada embarazo.
-#C. Debe aplicarse en el primer trimestre en cada embarazo.
+#D. Debe aplicarse en el primer trimestre en cada embarazo.
 #Respuesta correcta: C.
 #Tema-Ítem: Vacunación durante el embarazo-Inmunidad neonatal pasiva.
     
@@ -4365,7 +4365,7 @@ Argumento: El crecimiento anormal de la adenohipófisis es la causa subyacente m
 #D. Rx de abdomen
 #Respuesta correcta: A.
     
-Argumento: Es muy importante que a la hora de responder preguntas con selección múltiple, leamos bien pero la interpretación es igual de importante. No debemos suponer información que no esté escrita, si no lo mencionan muy posiblemente no es un elemento relevante para llegar a la respuesta correcta. Sin embargo, en este caso, estamos hablando de un caso clínico donde no se describe un paso sumamente importante en el examen físico de un paciente con hemorragia digestiva baja: La inspección anal. Una de las etiologías más frecuentes de hematoquezia en lactantes son las fisuras anales, por lo tanto en este paciente necesitamos más datos para poder definir qué exámenes adicionales realizaremos.
+#Argumento: Es muy importante que a la hora de responder preguntas con selección múltiple, leamos bien pero la interpretación es igual de importante. No debemos suponer información que no esté escrita, si no lo mencionan muy posiblemente no es un elemento relevante para llegar a la respuesta correcta. Sin embargo, en este caso, estamos hablando de un caso clínico donde no se describe un paso sumamente importante en el examen físico de un paciente con hemorragia digestiva baja: La inspección anal. Una de las etiologías más frecuentes de hematoquezia en lactantes son las fisuras anales, por lo tanto en este paciente necesitamos más datos para poder definir qué exámenes adicionales realizaremos.
     
     La hemorragia digestiva baja es el sangrado intestinal cuyo origen se encuentra desde la válvula ileocecal hasta el ano. Se puede presentar como rectorragia, enterorragia, hematoquezia o sangre oculta. Es mucho más frecuente que la hemorragia del tracto digestivo superior.
     
@@ -6188,7 +6188,6 @@ Argumento: Tal como su nombre lo indica, la CAE es una cetoacidosis diabética (
 
 #Masculino de 61 años, sin antecedentes de interés, es evaluado por un historial de 3 meses de evolución consistente en fatiga creciente e hiporexia. El examen físico es anodino. Trae reporte de estudios realizados recientemente: Hto 28%, Cr 1.6 mg/dL, glucosa plasmática 101 mg/dL, Na+ 130 mEq/L, K+ 3.8 mEq/L, Ca+ 10.5 mg/dL, albumina 3.0 g/dL, osmolalidad plasmática 290 mOsm/kg H2O, proteínas totales 9.7 g/dL, osmolaridad urinaria 240 mOsm/kg H2O, Na+ urinario: 45 mEq/L.
 ¿Cuál es la causa más probable de la hiponatremia del paciente?
-¿Cuál de las siguientes es la causa más probable de la hiponatremia de este paciente?
 #A. síndrome de secreción inadecuada de ADH
 #B. Ingesta ineficiente de sodio en la dieta
 #C. Mieloma múltiple
