@@ -9659,3 +9659,415 @@ Argumento: La enfermedad pulmonar obstructiva crónica (EPOC) se manifiesta con 
 Lecturas recomendadas:
 
 - Pélaez G, Tovar L. ¿Cómo manejar al paciente con EPOC en el consultorio? XXI Actualización en Medicina Interna. 2021
+
+#Paciente masculino de 15 años presenta cuadro de 4 días de síntomas respiratorios superiores y fiebre. Al examen físico se observa eritema orofaríngeo con exudado amigdalino y petequias en paladar blando. Además, se palpan adenopatías cervicales posteriores y hepatoesplenomegalia. Se le indica manejo con amoxicilina y se da de alta. Días después el paciente regresa con un rash cutáneo generalizado. ¿Cuál es el diagnostico más probable?
+#A.	Mononucleosis infecciosa.
+#B.	Faringitis por S. aureus.
+#C.	Angina por Streptococo.
+#D.	Enfermedad mano pie boca.
+#Respuesta correcta: A
+#Tema e ítem: Mononucleosis infecciosa – diagnostico.
+
+Argumento: La mononucleosis infecciosa es una entidad clínica que se caracteriza por fiebre, faringitis y linfadenopatia cervical, asociado a linfocitosis. El virus del Epstein-Barr causa aproximadamente el 90% de los casos de mononucleosis infecciosa. Tiene una incidencia de 5 casos por cada 1.000 personas principalmente entre los 15 a 24 años. El virus puede transmitirse mediante besos, vía sexual, transfusión sanguínea y trasplante aloinjerto. El período de incubación oscila entre 30 y 50 días. Los síntomas típicos incluyen:
+
+- Odinofagia: en el 98% de los pacientes. Al examen físico se documenta faringitis en cerca del 85% de los afectados y petequias en paladar hasta en el 50%.
+- Linfadenopatías: en el 76% de los casos, son prominentes en el triángulo anterior y posterior del cuello. En la amigdalitis bacteriana, las adenomegalias se presentan en la cadena ganglionar anterosuperior, lo cual permite realizar su diferenciación. Pueden persistir hasta por dos semanas.
+- Fiebre.
+- Fatiga: Puede ser persistente e incapacitante y su resolución suele ser más lenta con respecto a los otros síntomas.
+- Exantema: puede presentarse una erupción maculopapular fina, generalmente esta ocurre tras la administración de penicilinas (amoxicilina, ampicilina) e incluso macrólidos o quinolonas.
+- Otros signos comunes a la exploración física incluyen esplenomegalia (8%), hepatomegalia (7%) e ictericia (6 a 8%).
+
+Actualmente no hay un tratamiento específico aceptado para la mononucleosis infecciosa. Dado que es una enfermedad viral en la mayoría de los casos, puede tratarse con medidas generales como reposo, hidratación, analgesia y antipiréticos.
+
+Lecturas recomendadas:
+
+- Ariza G. Mononucleosis Infecciosa. XIX Curso de Actualización en Medicina Interna. Medellín, Universidad de Antioquía, 2019
+
+#Don Alberto de 56 años, con antecedentes de colelitiasis, en postoperatorio de colecistectomía abierta hace 5 días, es evaluado ahora en ronda por 2 días de disnea, fiebre, astenia y adinamia, junto con tos húmeda productiva con esputo verdoso. Signos vitales Tº: 39,5 °C, FC: 104 lpm, PA: 94/68 mm/Hg, FR: 30 rpm y SO2: 92% con Oxígeno por cánula a 2 Litros/min. Al examen físico, crépitos en base pulmonar derecha, cicatriz en hipocondrio derecho sin eritema ni secreción y llenado capilar menor a 2 segundos. Paraclínicos que reportan leucocitos de 16.000/mm3. Se decide iniciar un bolo líquidos cristaloides a 1000 cc, se realiza hemocultivo y se mide lactato. ¿Cuál de las siguientes es la conducta adecuada?
+#A. Administrar vancomicina y cefepime
+#B. Solicitar una radiografía abdominal
+#C. Prescribir acetaminofén intravenoso
+#D. Administrar ampicilina/sulbactam y cefepime
+#Respuesta correcta: A
+#Tema e ítem: Tratamiento de la sepsis en contexto de neumonía adquirida en el hospital
+
+Argumento: La presencia de fiebre, disnea, taquipnea, tos productiva y crépitos, en el contexto de un paciente que ha estado hospitalizado más de 48 horas, nos sugiere una neumonía adquirida en el hospital (NAH) que, además cumple con los cuatro criterios SIRS (temperatura> 38 °C, FC >90 lpm, FR> 20 rpm, recuento de leucocitos > 12.000/mm3) y tiene una puntuación qSOFA de 2 (PA≤ 100 mmHg, frecuencia respiratoria ≥ 22/min), lo que indica sepsis hasta que se demuestre lo contrario, por lo que se debe iniciar manejo antibiótico con vancomicina y cefepime, inmediatamente posterior a la toma de cultivos.  Recordemos futuro R1 dos ítems importantes en el manejo de Don Alberto, el primero es que se deben tener los elementos del “paquete de la 1ª Hora” que plantea “surviving sepsis”, por lo que el elemento faltante, aparte de líquidos, toma de cultivos y medición lactato en este paciente, es el inicio de un antibiótico empírico, y en ese orden de ideas, el segundo ítem es la elección del manejo antibiótico, que en un paciente con infección de foco respiratoria adquirida en el hospital se debe tener cubrimiento para bacterias gramnegativas (Cefepime) y S. aureus Meticilino resistente (Vancomicina, Linezolid) (Respuesta correcta es la A).
+
+- Por otra parte, si bien los pacientes posquirúrgicos tienen un mayor riesgo de desarrollar una obstrucción intestinal que podría evidenciarse por medio de una radiografía abdominal, este paciente cursa con hallazgos al examen físico y signos que nos sugieren un foco infeccioso pulmonar; por ende, no hay indicación de realizar una rx abdominal.
+•	El uso de ampicilina-sulbactam de forma empírica estaría indicado para manejo empírico de una neumonía adquirida en la comunidad con criterios de hospitalización; sin embargo, un cuadro clínico de neumonía que ha iniciado de forma intrahospitalaria debería recibir manejo con un antibiótico con espectro para S. aureus meticilino resistente.
+
+Lectura recomendada:
+●	Evans L, Rhodes A, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Available in Intensive Care Med. 2021
+
+
+#Don Humberto de 60 años, con antecedente de hipertensión, enfermedad coronaria, con IPA de 50 y consumo de enalapril, aspirina y atorvastatina, consultó por 30 minutos de dolor abdominal intenso, referido a flanco izquierdo. El dolor genera incapacidad para la bipedestación, y se acompaña de náuseas, 2 eventos eméticos y constipación en los últimos 3 días. Signos vitales: FC 131 lpm, FR 31 rpm, PA de 80/54 mmHg y SO2 de 92% al ambiente. Al examen físico, en abdomen, presencia de soplo concomitante con masa dolorosa, junto con murmullo vesicular conservado y ruidos cardiacos rítmicos sin agregados. ¿Cuál de las siguientes es la estrategia de tratamiento más apropiada?
+#A. Transfusión de concentrados de glóbulos rojos.
+#B. Radiografías de abdomen en bipedestación y supino
+#C. Laparotomía de urgencia
+#D. Terapia intravenosa con ampicilina/sulbactam
+#Respuesta correcta: C
+#Tema e ítem: Qué hacer y cuándo sospechar de aneurisma de aorta abdominal
+
+Argumento: La presencia de factores de riesgo como enfermedad cardiovascular y arterial, junto con su tabaquismo y edad, en el contexto de la tríada de dolor abdominal, hipotensión y una masa abdominal pulsátil, son indicativos de un aneurisma de aorta abdominal (AAA); por ende, la laparotomía urgente es el paso a seguir. Recordemos estimado lector, que en un paciente hemodinámicamente inestable con alta sospecha clínica de rotura de AAA, no se debe retrasar el tratamiento con la finalidad de realizar imágenes, es así, el caso del señor Don Humberto que cursa con un shock hemorrágico grave, dada la presencia de hipotensión, taquicardia y taquipnea, por lo que requiere una intervención quirúrgica inmediatamente (Respuesta correcta C).
+
+- Es muy probable que este paciente requiera una transfusión de concentrados de glóbulos rojos para compensar la pérdida de volumen sanguíneo intravascular, incluso un paciente con rotura de AAA, va a requerir listas al menos 10 UGR para una posible transfusión intraoperatoria, ya que estos pacientes pierden cantidades significativas de sangre; sin embargo, la transfusión puede ayudar temporalmente, pero el manejo definitivo para contener el sangrado es la intervención quirúrgica.
+- En cuanto a realizar radiografías abdominales con cambio de posición, se indicarían si se sospechara de una perforación de víscera u obstrucción intestinal, y es plausible pensar que un paciente que cursa con emesis y constipación pueda presentar una obstrucción intestinal; sin embargo, la ausencia de dolor epigástrico reciente o distensión, junto con la inestabilidad hemodinámica de Don Humberto, hace poco probable una obstrucción.
+
+Lectura recomendada
+●	Timarán R, Pineda C. Aneurisma de aorta abdominal.Medellín. II Curso de actualización en cirugía general. Universidad de Antioquia. 2019
+
+
+#Doña Ligia, de 45 años, sin antecedentes de interés, consultó por 2 semanas de náuseas y dolor abdominal intenso, refiere que el dolor se agrava posterior a la ingesta de alimentos y que no ha mejorado con el uso de ibuprofeno. Signos vitales: Tº 37,5 °C, FC de 78 lpm, FR: 19 rpm y PA de 118/75 mm/Hg. Al examen físico, IMC de 29 kg/m², dolor a la palpación en el reborde subcostal derecho que detiene la inspiración, sin megalias, sin otro hallazgo anormal. Paraclínicos que reportan leucocitos de 13.000, Bilirrubina total 1 mg/dl, AST de 49, ALT de 60, FA 120 y GGT 35. Se realiza ecografía del cuadrante superior derecho, la cual no es concluyente. ¿Cuál es la conducta adecuada a seguir?
+#A. Una tomografía computarizada del abdomen.
+#B. Colangiopancreatografía retrógrada endoscópica (CPRE)
+#C. Colescintigrafía
+#D. Resonancia magnética del abdomen.
+#Respuesta correcta: C
+#Tema e ítem: Sospecha probable de colecistitis aguda con ecografía no concluyente - ¿Cómo confirmar el diagnóstico?
+
+Argumento: La presencia del signo de murphy y la leucocitosis >10.000, según los criterios de TOKYO confirman una sospecha probable de colecistitis aguda; sin embargo, para contar con un diagnóstico confirmado se requiere una imagen que tuviera hallazgos de colecistitis; no obstante, la ecografía de esta paciente no fue concluyente; por ende, se necesita una prueba diferente para confirmar el diagnóstico, tal como la colescintigrafía, también llamada gammagrafía con ácido hepatoiminodiacético (exploración HIDA), la cual es una  gammagrafía de la vesícula biliar en la que el contraste utilizado permite visualizar el tracto biliar. Esta imagen es diagnóstica si se confirma que no es posible visualizar la vesícula biliar (es decir, falta de llenado de la vesícula biliar por obstrucción o inflamación de las paredes) a las 4 horas de aplicado el contraste (Respuesta correcta C).
+
+- La tomografía computarizada del abdomen es una modalidad de imagen alternativa utilizada para diagnosticar la colecistitis aguda en pacientes que tienen resultados de ultrasonido no concluyentes y se sospecha de complicaciones como hemorragia, colecistitis enfisematosa, íleo biliar y colecistitis gangrenoso; sin embargo, antes de la TAC está indicado otro estudio alternativo para diagnosticar la colecistitis aguda no complicada.
+•	En cuanto a la CPRE, está indicada en pacientes con coledocolitiasis, que puede manifestarse de manera similar a la presentación clínica de esta paciente; no obstante, la coledocolitiasis clásicamente causa aumento de las concentraciones de bilirrubina y gamma-glutamiltransferasa (GGT), ninguna de las cuales se observa en esta paciente; por ende, la sospecha con Ligia es colecistitis aguda no complicada, en lugar de una coledocolitiasis.
+•	La resonancia magnética es una modalidad de imagen alternativa utilizada para diagnosticar la colecistitis aguda en pacientes que tienen resultados ecográficos no concluyentes, y que tienen una contraindicación para la tomografía computarizada (embarazo, alergia al contraste); no obstante, esta paciente no cursa con alguna contraindicación absoluta para el uso de contraste.
+
+Lectura recomendada:
+●	Takada, T, et al. Tokyo Guidelines Revision Committee. Updated Tokyo Guidelines for the management of acute cholangitis and cholecystitis. Available in Journal of hepato-biliary-pancreatic sciences. 2018.
+
+
+#Don Arnulfo, de 51 años, con antecedente de hepatitis C diagnosticada hace 3 años, sin manejo por disentimiento del paciente y dos hospitalizaciones por pancreatitis aguda este año. Es traído por su esposa a urgencias, por 2 días de fiebre, dolor abdominal y alteración del estado de conciencia. Signos vitales Tº de  38,3 °C, FC de 101 lpm y PA de 104/68 mm Hg. Al examen físico, ictericia escleral, abdomen distendido, con dolor difuso a la palpación, con matidez desplazable y onda ascítica, junto con temblor en manos. Paraclínicos reportan Leucocitos en 14.000, Albúmina sérica en 2.6 g/dl, BT: 2.5, AST: 27 y ALT: 54. Se realiza paracentesis qué reporta albúmina de 0.8 gramos, leucocitos de 1.900/mm3 con un 60% de neutrófilos. ¿Cuál de los siguientes es la causa más probable de su cuadro clínico?
+#A. Hipertensión portal en contexto de translocación bacteriana
+#B. Ascitis pancreática
+#C. Hipertensión portal sin translocación bacteriana
+#D. Peritonitis secundaria a proceso neoplásico
+#Respuesta correcta: A
+#Tema e ítem: Ascitis - ¿Como se interpreta el GASA?
+
+Argumento: La presencia de un antecedente de hepatitis C no tratada, junto con dolor en hipocondrio derecho y ascitis, nos debe hacer sospechar de una cirrosis que cursa ahora con hipertensión portal, como lo indica un gradiente de albúmina sérica-ascítica (GASA) > 1,1 (Recuerda que el GASA se calcula: Albúmina sérica – Albúmina en liquido ascítico). Además, a su vez, en el contexto de líquido ascítico con presencia de >250 polimorfonucleares, debemos pensar en translocación bacteriana (Peritonitis bacteriana espontánea) causada generalmente por bacilos gramnegativos (Respuesta correcta A).
+
+- La ascitis pancreática, es resultado de la alteración del conducto pancreático debido a una pancreatitis aguda o crónica grave. Si bien Don Arnulfo ha tenido dos episodios de pancreatitis aguda, actualmente no presenta los síntomas característicos. Además, la ascitis pancreática tendría un GASA bajo < 1,1 g/dl.
+- En cuanto a una hipertensión portal (HP) sin translocación bacteriana, debemos tener presente que el paciente cumple con el criterio de HP, dado que cursa con un GASA > 1.1 g/dl en el contexto de un paciente con síntomas de cirrosis; sin embargo, el análisis de líquido ascítico de este paciente nos sugiere que hay 1140 neutrófilos. Por ende, cursa con una alta sospecha de peritonitis bacteriana espontánea secundaria a la traslación bacteriana.
+- Una neoplasia maligna a nivel de abdomen puede provocar una peritonitis secundaria si perfora el intestino y provoca un derrame del contenido intestinal; sin embargo, Don Arnulfo no ha presentado síntomas de un síndrome constitucional o de hemorragia gastrointestinal, y el GASA que se esperaría en un proceso oncológico sería < 1,1 g/dL.
+
+Lectura recomendada:
+●	Chiejina M, Kudaravalli P, Samant H. Ascitis. Available in StatPearls 2023
+●	Mora M.I, Trejos A.M, Gómez J.P. Complicaciones de la cirrosis hepática: Manejo en urgencias. XXI Curso de actualización para medicos generales. Disponible en: La visión del residente 2021.
+
+
+#Camilo de 28 años, llevado a urgencias por una ambulancia posterior a accidente automovilístico de alta energía hace 30 minutos. Ahora con disnea y dolor torácico. Signos vitales Tº: 36.5, FC: 103 lpm, FR: 33 rpm, PA 132/28 mm/Hg y SO2 de 94% al ambiente. Al examen físico, glasgow de 14, laceración de 2,5 cm en el hemitórax izquierdo, junto con disminución del murmullo vesicular de ese lado y abdomen blando, con dolor a la palpación en hipocondrio izquierdo. Se realiza una Rx de tórax que reporta hemidiafragma izquierdo elevado, con borde superior discontinuo, lobulado y no delimitado, junto a acúmulo de aire con nivel hidroaéreo a nivel del 5 espacio intercostal. ¿Cuál es el diagnóstico más probable?
+#A. Perforación esofágica
+#B. Rotura diafragmática
+#C. Parálisis del nervio frénico
+#D. Neumotórax
+#Respuesta correcta: B
+#Tema e ítem: ¿Cuándo se debe sospechar de rotura diafragmática?
+
+Argumento: La presencia de una lesión en la región toracoabdominal izquierda, disminución del murmullo vesicular ipsilateral y taquipnea, en el contexto de un trauma de alto impacto, junto con una radiografía de tórax que reporta hallazgos de elevación de diafragma, borde diafragmático superior irregular, acúmulo de aire y nivel hidroaéreo,  nos debe hacer sospechar de una hernia diafragmática postraumática secundaria a ruptura del diafragma (Respuesta correcta B).
+
+Recordemos futuro R1, que la rotura diafragmática es causada más comúnmente por lesiones penetrantes, seguidas de un traumatismo cerrado, y suelen ocurrir con mayor frecuencia en el lado izquierdo porque el diafragma derecho está protegido por el hígado. Las características clínicas incluyen disminución/abolición de los ruidos respiratorios debido al desplazamiento del contenido abdominal por la hernia hacia el tórax y disnea. La auscultación del tórax puede revelar ruidos peristálticos. La radiografía de tórax puede mostrar alteración del contorno de la hemidiafragma (como en el caso de Camilo), órganos abdominales desplazados y desplazamiento mediastínico.
+
+- La perforación esofágica puede ocurrir en una variedad de escenarios clínicos, incluido el síndrome de Boerhaave, un traumatismo torácico cerrado - penetrante y la perforación esofágica iatrogénica. Los pacientes con perforación esofágica presentan dolor torácico, taquicardia y taquipnea; sin embargo, esta afección a menudo se asocia con hallazgos adicionales como fiebre y crepitación en tórax debido al enfisema mediastínico. Además, la radiografía de tórax suele mostrar un mediastino ensanchado.
+•	En cuanto al nervio frénico, recordemos inerva el diafragma a través de las raíces nerviosas C3, C4 y C5. La parálisis del nervio frénico suele ser iatrogénica (por ejemplo, después de un bloqueo supraclavicular) o posterior a un traumatismo. Esta condición conduce a una elevación ipsilateral del diafragma, que afecta la función pulmonar y cardíaca; no obstante, no se apreciaría herniación del contenido abdominal hacia el tórax.
+- Finalmente, un neumotórax puede ocurrir espontáneamente o después de un trauma, como una colisión automovilística a alta velocidad. Los pacientes suelen presentar taquipnea, disnea, dolor torácico y reducción unilateral de los ruidos respiratorios, sin embargo, una radiografía de tórax suele mostrar una línea pleural, un cambio repentino en la radiolucidez y una ‘’parada’’ abrupta en las marcas vasculares pulmonares.
+
+Lectura recomendada
+●	Hoyos J.P, Trauma de abdomen estado del arte. .Medellín. II Curso de actualización en cirugía general. Universidad de Antioquia. 2019
+●	Castaño A.L, Jaramillo S.L. Enfoque del paciente con trauma to
+
+
+#Marta, de 50 años, asiste a consulta rutinaria. Padece diabetes mellitus tipo 2 e hipertensión arterial. Toma amlodipino, hidroclorotiazida, metformina, glimepirida y lisinopril, el cual se añadió hace 2 sem por persistencia de cifras elevadas de PA. Examen físico: FC 90/min y PA 170/110 mmHg. Paraclínicos previos fueron normales; actuales: Hb 14 g/dl, Na 138 mEq/L, K 3.2 mEq/L, Cl 100 mEq/L, Cr 2.1 mg/dl, BUN 44 mg/dl, Uroanálisis: sangre (-), proteínas (-) y glucosa (1+). ¿Qué diagnóstico sospecha en Marta?
+#A.	Síndrome de apnea obstructiva del sueño.
+#B.	Nefropatía diabética.
+#C.	Estenosis de la arteria renal.
+#D.	Síndrome de Cushing
+#Respuesta correcta: C
+#Tema e ítem: Estenosis de arterias renales - ¿Cuándo sospecharla?
+
+Argumento: La hipertensión arterial (HTA) no controlada, la hipocalemia y la disfunción renal de nueva aparición tras iniciar el tratamiento con IECA sugiere estenosis de la arteria renal (respuesta correcta C). Es posible un aumento leve de la creatinina tras el inicio de un IECA, pero un descenso significativo de la función renal es un fuerte indicio de una patología. La disminución de la perfusión renal en la estenosis de la arteria renal activa el eje renina-angiotensina-aldosterona, mantenimiento la presión hidrostática capilar glomerular y la TFG, La aldosterona generará hipocalemia, mientras que la vasoconstricción sistémica debida a la angiotensina II y a la retención de Na+/H2O da lugar a hipertensión. La administración de IECAs en pacientes con estenosis de la arteria renal, especialmente en aquellos con estenosis bilateral, inhibe el mecanismo autorregulador (no hay vasoconstricción de la arteriola eferente), lo que provoca disminución de la TFG y un aumento de la creatinina, como se observa en Marta. Esto se revierte suspendiendo rápidamente el fármaco. La hidroclorotiazida también puede haber contribuido a una disminución de la presión de filtración glomerular y de la TFG. Es necesario realizar pruebas de imagen para confirmar el diagnóstico, en pacientes con disfunción renal, las de primera línea son la ecografía dúplex y la angiografía por RM sin contraste.
+
+- El síndrome de apnea obstructiva del sueño es una causa frecuente de hipertensión resistente, cefaleas y astenia, especialmente en pacientes obesos. Pero en Marta no se describen indicios de dicha condición.
+- La nefropatía diabética puede provocar un aumento de la creatinina e HTA resistente. Aunque esta paciente tiene tanto hipertensión como diabetes no controladas, sus paraclínicos previos eran normales antes de la adición de un IECA. El aumento de la creatinina en pacientes con nefropatía diabética suele producirse a lo largo de años y no en el transcurso de 2 semanas.
+- El síndrome de Cushing se asocia a HTA, obesidad, hiperglucemia e hiperlipidemia. Pero, Marta no tiene factores de riesgo sugestivos.
+
+Lectura recomendada:
+
+- Stephen Textor. Evaluation of secondary hypertension. Available on UpToDate Advanced 2023.
+
+#Elisa es una mujer de 53 años. Tiene hipertensión arterial. Ha tenido disnea progresiva por 3 meses. Examen físico: FC 92/min, FR 22/min, PA 110/70 mmHg. Se ausculta un S3 y un soplo holosistólico grado 3/6 en ápex y se irradia a la axila. Suponiendo que los demás parámetros permanecen constantes, ¿qué es más probable que reduzca el volumen sanguíneo retrógrado en el manejo de Elisa?
+#A.	Disminución de la resistencia vascular sistémica.
+#B.	Aumento del tamaño del orificio auriculoventricular.
+#C.	Disminución de la presión sistólica auricular izquierdo.
+#D.	Aumento de la presión telediastólica del ventrículo izquierdo
+#Respuesta correcta: A
+#Tema e ítem: Insuficiencia mitral - ¿Cuál es el abordaje?
+Argumento: Un soplo holosistólico que se escucha mejor en el ápex cardiaco y se irradia a la axila es característico de la insuficiencia mitral (IM). El ruido cardíaco adicional durante la diástole es un galope S3, que a menudo se escucha en pacientes con IM moderada a grave. Una disminución de la resistencia vascular sistémica (RVS) reduciría el volumen de flujo sanguíneo retrógrado a través de la válvula mitral (Respuesta correcta A).
+
+En la IM, la fracción de eyección del ventrículo izquierdo se divide entre la salida a través de la válvula aórtica y a través de la válvula mitral regurgitante anormal. Cuando disminuye la RVS (poscarga ventricular izquierda), se expulsa un mayor volumen de sangre a través de la válvula aórtica y baja el flujo retrógrado a través de la válvula mitral (fundamento del uso de vasodilatadores sistémicos: nitroprusiato sódico,  para tratar la disnea en pacientes con IM aguda grave). Por el contrario, maniobras como la contracción isométrica y el agarre con la mano, que aumentan la RVS, reducen la fracción de eyección a través de la válvula aórtica y aumentan el flujo retrógrado.
+
+- El orificio auriculoventricular izquierdo está formado por el anillo de la válvula mitral. Un aumento del tamaño de este anillo aumentaría en lugar de disminuir el flujo retrógrado.
+- La presión sistólica de la aurícula izquierda actúa como resistencia al flujo sanguíneo retrógrado a través de la válvula mitral. Por lo tanto, una disminución de la presión sistólica auricular izquierda aumentaría en lugar de disminuir el volumen de sangre regurgitada.
+- Dado que el flujo retrógrado depende del gradiente de presión entre el VI y la aurícula izquierda, un aumento de la presión telediastólica del ventrículo izquierdo aumentaría la presión de conducción e incrementaría el flujo sanguíneo retrógrado.
+
+Lectura recomendada:
+
+- Vuyisile T Nkomo. Chronic primary mitral regurgitation: General management. Available on UpToDate Advanced 2023.
+
+#Pedro, 70 años, consulta por dolor en la pierna y erupción compatible con gangrena húmeda. Padece diabetes mellitus tipo 2 y es fumador (IPA 40). 3 días luego del ingreso: se vuelve cada vez más hipóxico y taquipneico, se decide intubar. Examen físico: FC 112/min, PA 95/60 mmHg. VMI: volumen corriente de 540 ml, FR 20/min, PEEP 5 cm H2O. Se auscultan crepitantes difusos. Paraclínicos: Hb 11,5 g/dL, lactato 4,0 mmol/L, Cr 2,5 mg/dL, Gases arteriales 30 min postintubación: PCO2 50 mmHg, PO2 55 mmHg, FIO2 100%. Rx: Infiltrados bilaterales. ¿Qué puede contribuir a la mejoría de la condición de Pedro?
+#A.	Administración de óxido nítrico inhalado
+#B.	Transfusión de glóbulos rojos
+#C.	Aumentar el volumen corriente
+#D.	Aumentar la presión positiva al final de la espiración
+#Respuesta correcta: D
+#Tema e ítem: Hipoxemia - Manejo del paciente crítico
+
+Argumento: Este paciente presenta un inicio agudo de hipoxemia con infiltrados bilaterales en las imágenes. Esto sugiere un síndrome de dificultad respiratoria aguda (SDRA), especialmente en el contexto de su infección en curso (gangrena húmeda). Su relación PaO2/FiO2 es inferior a 100, lo que clasifica su SDRA como grave y conlleva un alto riesgo de mortalidad. El SDRA es un síndrome con fisiopatología compleja caracterizado por daño alveolar difuso, que conduce a edema pulmonar, colapso alveolar y alteración del intercambio gaseoso. El aumento de la presión positiva al final de la espiración (PEEP) ayudará a distender los alvéolos (aumentando así la ventilación alveolar y disminuyendo el trabajo respiratorio) y a aumentar la difusión de oxígeno en los capilares pulmonares (respuesta correcta D). Los pacientes con SDRA grave suelen necesitar niveles más altos de PEEP para ayudar a reclutar alvéolos y mejorar el intercambio. Dado que este paciente ya está al máximo de FiO2 y se encuentra en los parámetros adecuados de ventilación protectora de los pulmones (volumen corriente 6 ml/kg), aumentar la PEEP sería el siguiente paso más adecuado en el manejo de Pedro.
+
+- El óxido nítrico inhalado se utiliza en el tratamiento de ciertos pacientes con hipertensión pulmonar grave al mejorar la vasodilatación pulmonar. Este paciente no tiene antecedentes que sugieran un diagnóstico de hipertensión pulmonar y no es un manejo eficaz en el SDRA.
+- La transfusión de glóbulos rojos puede aumentar la capacidad de transporte de oxígeno de la sangre, aunque este efecto es mínimo. La hipoxia en el síndrome de distrés respiratorio agudo es el resultado de una alteración del intercambio gaseoso en la interfase capilar-alveolar, por lo que una transfusión de sangre no mejorará su oxigenación.
+- En general, el aumento del volumen corriente incrementará el volumen de oxígeno suministrado a los alvéolos y puede mejorar la oxigenación en la mayoría de los casos. Pero las altas presiones máximas y la distensión pulmonar asociadas a volúmenes corrientes elevados en pacientes con SDRA aumentan el riesgo de barotrauma y empeoramiento de la dificultad respiratoria. El uso de volúmenes corrientes más bajos mejora el riesgo de mortalidad en pacientes con SDRA y se tolera una hipercapnia leve (hipercapnia permisiva).
+
+Lectura recomendada:
+
+- Mark D Siegel, Robert C Hyzy. Acute respiratory distress syndrome: Ventilator management strategies for adults. Available on UpToDate Advanced 2023.
+
+#Sara, de 31 años, consulta por 4 días de fiebre, cólico y deposiciones diarreicas con sangre y moco. Ha tenido episodios similares por 8 meses. Examen físico: T 38,1°C, FC 75/min, PA 130/80 mmHg. El abdomen es blando, doloroso a la palpación en el cuadrante inferior izquierdo. Colonoscopia a las 2 semanas: tumores polipoides flanqueados por úlceras lineales. Biopsia: edema de la mucosa con criptas distorsionadas y células inflamatorias en la lámina propia. ¿Qué le recomendaría a Sara?
+#A.	Realizarse estudios genéticos de manera prioritaria.
+#B.	Iniciar el cribado mediante colangiopancreatografía por resonancia magnética en 10 años
+#C.	Iniciar el cribado mediante colonoscopia en 8 años
+#D.	Realizar enterografía por tomografía computarizada en 6 meses
+#Respuesta correcta: C
+#Tema e ítem: Colitis ulcerativa - ¿Cómo llegar al diagnóstico?
+
+Argumento: La diarrea sanguinolenta crónica y el dolor abdominal en la edad adulta temprana, los hallazgos en la colonoscopia de úlceras y pólipos con abscesos de las criptas en la biopsia, son rasgos característicos de la colitis ulcerativa (CU). Recuerda futuro R1, La realización de una colonoscopia con biopsia cada 1-5 años forma parte del régimen de mantenimiento de la salud en pacientes con enfermedad inflamatoria intestinal de larga evolución debido al mayor riesgo de desarrollar cáncer colorrectal (CCR). La vigilancia de la displasia debe iniciarse 8-10 años después de la aparición de los síntomas, que es cuando la incidencia de CCR comienza a aumentar significativamente (Respuesta correcta C). El riesgo de CCR es elevado en pacientes con enfermedad extensa (proximalmente a la flexura esplénica) y colangitis esclerosante primaria (CEP) concomitante. Si hay enfermedad extensa, el riesgo de CCR es de aproximadamente el 5-10% a los 20 años y del 12-20% a los 30 años del diagnóstico inicial.
+
+- Los estudios genéticos están indicados cuando se sospecha un síndrome de poliposis hereditaria, por ejemplo, debido a múltiples pólipos observados en la colonoscopia y/o antecedentes familiares de síndrome de poliposis o neoplasia gastrointestinal de aparición temprana. Aunque en la colonoscopia de este paciente se detectaron pólipos colónicos, la biopsia confirmó que se trataba de pseudopólipos inflamatorios, característicos de la CU. No se recomiendan estudios genéticos de rutina durante la evaluación de esta enfermedad.
+- En la CU hay un mayor riesgo de desarrollar CEP. No se recomienda realizar una colangiopancreatografía por resonancia magnética (CPRM) de rutina para detectar CEP en ausencia de síntomas (prurito, ictericia obstructiva, orina oscura, acolia) o pruebas de función hepática anormales. Si Elisa presenta signos o síntomas de CEP, se recomendaría una CPRM.
+- La enterografía por TC se utiliza para detectar la extensión y el patrón de afectación del intestino delgado en pacientes con enfermedad de Crohn. Sin embargo, los hallazgos de la colonoscopia y la biopsia de este paciente indican un diagnóstico de CU. El intestino delgado no está afectado en pacientes con CU; por lo tanto, la enterografía no está indicada.
+
+Lectura recomendada:
+
+- Lynch WD, Hsu R. Ulcerative Colitis. [Updated 2023 Jun 5]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from: [https://www.ncbi.nlm.nih.gov/books/NBK459282/](https://www.ncbi.nlm.nih.gov/books/NBK459282/)
+
+#Isabel, 29 años, consulta por fiebre alta, cefalea y mialgias. Hace 1 sem regresó de un trabajo en zona rural del Chocó. Tomó una dosis de cloroquina antes del viaje y otra hace 2 días. Examen físico: T 39,3°C, FC 102/min, FR 22/min, PA 112/78 mmHg. Está ictérica. Paraclínicos: Hb 10 g/dL, ESP: eritrocitos fragmentados y ocasionales cuerpos de inclusión en forma de anillo dentro de los eritrocitos. ¿Cuál es el agente causal de la infección de Isabel?
+#A.	Plasmodium falciparum
+#B.	Virus Dengue
+#C.	Virus Chikungunya
+#D.	Virus Hepatitis A
+#Respuesta correcta: A
+#Tema e ítem: Malaria - Identificación de agente etiológico
+
+Argumento: Fiebre alta, hemólisis (anemia, ictericia, eritrocitos fragmentados) y cuerpos de inclusión en forma de anillo en el frotis de sangre periférica en un paciente que acaba de regresar del Chocó, deben hacer sospechar malaria. Plasmodium falciparum es el organismo causante del paludismo falciparum, el tipo más peligroso de paludismo, que suele manifestarse con picos irregulares de fiebre alta (respuesta correcta A). Otras manifestaciones son debilidad generalizada, dolor abdominal y síntomas de disfunción orgánica grave (hemoglobinuria, insuficiencia cardiaca o coma). El periodo de incubación  es ≥ 7 días. Un ESP que muestra el organismo dentro de los glóbulos rojos confirma el diagnóstico. El P. falciparum es resistente a la cloroquina en casi todos los países donde la malaria es endémica. Se debe tomar atovacuona-proguanil, doxiciclina o mefloquina para la profilaxis del paludismo cuando se viaja a zonas endémicas con resistencia a la cloroquina. Recuerda futuro R1, este es un tema con una posibilidad considerable de ser evaluado en el examen de admisión.
+
+- El virus del dengue es endémico en zonas colombianas. Los pacientes afectados presentan fiebre alta, cefalea y mialgias, que pueden aparecer tras un periodo de incubación de siete días. Sin embargo, este paciente carece de características adicionales compatibles con el dengue, como artralgia grave y dolor retroorbitario intenso. Además, los resultados del ESP no serían compatibles con esta enfermedad.
+- Los pacientes afectados con el virus Chikungunya pueden presentar fiebre, cefaleas y mialgias. Sin embargo, esta paciente carece de dolor articular intenso, un rasgo característico de esta infección. Además, el ESP no sería compatible con esta enfermedad.
+- El virus de la hepatitis A causa infección por hepatitis A, una hepatitis aguda que puede manifestarse con fiebre, malestar e ictericia. Sin embargo, este paciente carece de otros signos de hepatitis como dolor abdominal, náuseas, vómitos, diarrea y signos de laboratorio de patología hepática (enzimas hepáticas elevadas). Además, los resultados de su frotis de sangre periférica no serían compatibles con esta enfermedad.
+
+Lectura recomendada:
+
+- Buck E, Finnigan NA. Malaria. [Updated 2023 Jul 31]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from: [https://www.ncbi.nlm.nih.gov/books/NBK551711/](https://www.ncbi.nlm.nih.gov/books/NBK551711/)
+
+#Don Fernando de 51 años, sin antecedentes de interés, es llevado a urgencias por la hija, posterior a evento de pérdida del estado de conciencia mientras estaban en la playa. Al interrogatorio refiere que el evento duró 40 segundos aproximadamente, y no relata movimientos corporales, no refiere pérdida del control de esfínteres. Además, comentó que posterior al cuadro, el paciente volvió a su estado basal de forma casi inmediata. Se realizó un electrocardiograma que se muestra a continuación.
+¿Cuál de los siguientes hallazgos se evidencia en el electrocardiograma?
+
+![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%207.png)
+
+#A. Bloqueo auriculoventricular de primer grado
+#B. Ritmo sinusal normal
+#C. Síndrome del seno enfermo
+#D. Bloqueo AV 2do grado Mobitz 1
+#Respuesta correcta: A
+#Tema e ítem: Patrones electrocardiográficos frecuentes – Bloqueo AV de primer grado
+
+Argumento: El bloqueo auriculoventricular de primer grado se caracteriza por un intervalo PR prolongado (>200 ms), sin alteración de la morfología de la onda P y que siempre precede al complejo QRS, como se observa en el ECG de Don Fernando (Respuesta correcta A). Recordemos futuro R1, el bloqueo AV de primer grado, tiene múltiples causas, desde afección benigna, así como miocardiopatías infiltrativas o un tono vagal elevado (asociado a ambiente cálido como la playa).
+
+- En cuanto al ritmo sinusal, recordemos que los criterios son: Onda P seguida de QRS y viceversa en todas las derivadas, onda positiva en DII, P de la misma morfología en la misma derivada e intervalo PR constante cuyo valor debe estar entre 120 msg y 200 msg; por ende, Don Fernando que cursa con un PR >200 msg NO tiene un ritmo sinusal NORMAL.
+•	En el síndrome del seno enfermo, los hallazgos electrocardiográficos incluyen varios fenómenos, entre ellos se tiene: Períodos de bradicardia inadecuada y, a menudo, grave (menos de 50 latidos por minuto), pausa sinusal, paro y bloqueo de salida sinoauricular (SA) con, y a menudo sin ritmos de escape auricular y de unión apropiados.
+•	El bloqueo AV 2do grado Mobitz 1, se tiene un R-R variable, con un PR que se prolonga hasta que una onda P se bloquea. Lo más característico es que el siguiente PR vuelve ser como el PR que inició esa secuencia de PR que se iban prolongando.
+
+Lectura recomendada
+●	Jaramillo C.J. Patrones electrocardiográficos. Medellín. XXI Curso de actualización en medicina interna. Universidad de Antioquia.2022.
+
+
+#Andrea de 24 años, en décima semana de gestación sin otro antecedente de interés, es llevada a urgencias por su pareja por cuadro clínico súbito de disnea y dolor torácico bilateral que empeora con la inspiración, clasificado como 8/10 en la EAD. Signos vitales Tº 37,7 °C, PA: 140/78 mm Hg, FC:110 lpm, FR: 25 rpm y SO2 de 95% con FiO2 ambiente. Al examen físico, ruidos cardiacos rítmicos sin soplos, murmullo vesicular conservado, sin agregados, extremidades eutróficas, sin edema, sin cambios en coloración o temperatura de la piel. Se realizó gammagrafía pulmonar con ventilación/perfusión que reportó alta probabilidad de embolia pulmonar. ¿Cuál es la estrategia de tratamiento más apropiada?
+#A. Dabigatrán
+#B. Fondaparinux
+#C. Heparina de bajo peso molecular
+#D. Rivaroxabán
+#Respuesta correcta: C
+#Tema e ítem: Manejo anticoagulante en paciente embarazada con enfermedad tromboembolica venosa – Embolia pulmonar
+
+Argumento: La presencia de dolor de características pleuríticas, taquicardia, taquipnea y disnea súbita per se, nos debe hacer sospechar de una tromboembolia pulmonar, además la imagen diagnóstica de Andrea nos confirma el cuadro; por ende, se deberá iniciar manejo anticoagulante para el contexto de una paciente gestante, el cual sería con heparina de bajo peso molecular (HBPM) (Respuesta correcta C). Recordemos siempre colega, que las pautas del 2018 de la Sociedad Estadounidense de Hematología (SEH) indican que el tratamiento de tromboembolia venosa en gestantes es con HBPM, dado que reduce notablemente la mortalidad en pacientes embarazadas y no embarazadas con tromboembolismo venoso agudo.
+
+- En cuanto al rivaroxaban, un anticoagulante oral directo, se tienen datos limitados de seguridad en mujeres embarazadas. Dado que es probable que atraviesen la placenta y que se desconocen sus efectos reproductivos en humanos, las directrices de la SEH no los recomiendan en mujeres en gestación.
+- El dabigatrán, no está aprobado como monoterapia para el tromboembolismo venoso (TEV), por tanto, debe ir precedido de un tratamiento con heparina.
+- Finalmente, no se recomienda fondaparinux como tratamiento de primera línea para el TEV durante el embarazo, porque se ha informado que este medicamento atraviesa la placenta en pequeñas cantidades y la evidencia durante el embarazo es muy limitada (especialmente durante el primer trimestre).
+
+Lectura recomendada:
+●	Bates SM, Rajasekhar A, Middeldorp S, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: venous thromboembolism in the context of pregnancy. Blood Adv. Available in PUBMED. 2018.
+
+
+#Juliana de 21 años, con antecedente de asma en manejo con budesonida-formoterol, consultó por 1 día de disnea progresiva de medianos esfuerzos y tos seca. Signos vitales Tº: 36,8 °C, PA: 130/80 mmHg, FC: 100 lpm, FR: 26 rpm, SO2 de 90% con oxígeno por cánula nasal a 6 L/min. Al examen físico, se evidencia paciente ansiosa, diaforética, con uso de músculos accesorios de la respiración, aleteo nasal, con sibilancias a la auscultación. Se realizan unos gases arteriales que reportan: pH 7,35, PCO2 45 mm Hg y PO2 60 mm/Hg. ¿Cuál de las siguientes es la conducta adecuada?
+#A. Máscara de no reinhalación
+#B. Cánula nasal de alto flujo
+#C. Intubación y ventilación mecánica
+#D. Ventilación con presión positiva no invasiva
+#Respuesta correcta: C
+#Tema e ítem: ¿Cuándo está indicada la intubación y ventilación mecánica invasiva en asma?
+
+Argumento: La presencia de signos y síntomas tales como disnea, tos, sibilancias, taquipnea, taquicardia, uso de musculatura accesoria, aleteo nasal, ansiedad y desaturación, a pesar de la oxigenoterapia, en el contexto de un antecedente de asma, nos configuran el diagnóstico de una crisis asmática grave. La gasometría arterial durante las exacerbaciones asmáticas suele reportar una alcalosis respiratoria secundaria a patrones respiratorios superficiales/rápidos, sin embargo, un nivel de PCO2 elevado, nos insuficiencia respiratoria inminente (IRI). Por ende, Juliana, que cursa con crisis asmática grave e IRI, junto con incapacidad para mantener una saturación de oxígeno >92% a pesar del oxígeno suplementario, tiene indicación de intubación y ventilación mecánica invasiva (VMI) (Respuesta correcta C).
+
+Recordemos colegas, que la decisión de intubar e iniciar VMI durante una crisis de asma grave es clínica y que a diferencia de otras condiciones en las que la intubación esencialmente “resuelve el problema”, en asma ocurre todo lo contrario, ya que la broncoconstricción puede empeorar rápidamente posterior a la colocación del tubo endotraqueal; además, la hiperinflación dinámica potencialmente causada o agravada por la VMI puede tener consecuencias como colapso cardiovascular y barotrauma, por ende, la intubación se debe realizar solo cuando es necesario.
+
+- El uso de máscara de no reinhalación puede retrasar otras intervenciones más definitivas que impactan en la mortalidad. En el caso de esta paciente, la crisis asmática grave y la IRI son indicaciones de intubación con VMI emergente.
+•	En cuanto a las cánulas nasales de alto flujo, estas pueden disminuir el trabajo respiratorio y el espacio muerto; sin embargo, la evidencia de su uso para la insuficiencia respiratoria es limitada; por ende, esta terapia no debe usarse como terapia primaria en un paciente con asma e insuficiencia respiratoria potencialmente mortales.
+•	Finalmente, aunque la ventilación con presión positiva no invasiva (VNPP) se utiliza con frecuencia en pacientes con asma, la evidencia sobre su uso es escasa y su función sigue sin estar clara.
+
+Lectura recomendada:
+●	Barros C.M, Salazar R.E, Asma casi fatal. VI Simposio de medicina de urgencias. ANIR. 2018.
+
+
+#Don Hugo de 55 años, sin antecedentes de interés, es llevado a urgencias por esposa, por cuadro clínico de 12 horas, consistente en dolor abdominal tipo cólico en hipocondrio derecho, que no mejora con acetaminofén y se acompaña de fiebre objetiva. Signos vitales: Tº de 38,4 °C, PA de 90/60 mm Hg, FC 110 lpm, SO2 del 95% a FiO2 ambiente y FR: 26 rpm. Al examen físico, paciente confundido, con ictericia escleral y dolor a la palpación en cuadrante superior derecho. Paraclínicos que reportan: Leucocitos 22.000, ALT: 448, BT: 5.0, BD: 4.0, Creatinina: 2.0, Lipasa: 56. Se tiene ecografía que reportó hígado y vesícula biliar de apariencia normal, con conducto biliar dilatado. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Colangitis aguda
+#B. Colecistitis aguda
+#C. Pancreatitis aguda
+#D. Absceso hepático piógeno
+#Respuesta correcta: A
+#Tema e ítem: ¿Cuándo sospechar colangitis aguda y como diagnosticarla?
+
+Argumento: La presencia de la pentada de Reynolds (fiebre, ictericia, dolor en hipocondrio derecho, hipotensión, alteración del estado mental) y una ecografía que revela signos de obstrucción biliar* nos sugiere indudablemente un diagnostico de colangitis aguda. En cuanto a los paraclínicos, recordemos que el 75% de los pacientes con colangitis cursan con elevación de reactantes de fase aguda y el 85% con alteración de la función hepática, dentro de las cuales, es la ALT la más frecuentemente positiva (97% de los casos).
+
+- : Otros hallazgos ecográficos pueden ser presencia de cálculos en la vesícula y colédoco, estenosis y lesiones malignas.
+- La colecistitis aguda (CA), también puede cursar con fiebre y dolor abdominal, y los estudios de laboratorio pueden mostrar leucocitosis y la bioquímica hepática puede no estar elevada en una CA no complicada; sin embargo, la ecografía evidenciaria engrosamiento y/o edema de la pared de la vesícula biliar, que no está presente en este paciente.
+•	Por otra parte, el diagnóstico de pancreatitis aguda requiere dos de los tres criterios siguientes: (1) dolor abdominal de inicio agudo característico de la pancreatitis (severo, persistente durante horas o días y de localización epigástrica, que a menudo se irradia hacia la espalda); (2) niveles séricos de lipasa o amilasa elevados de tres a cinco veces el límite superior normal; y (3) hallazgos radiográficos característicos en la TC con contraste. Por ende, la presentación de shock séptico y colestasis de este paciente no es consistente con pancreatitis aguda.
+- Finalmente, los abscesos hepáticos piógenos son complicaciones de infecciones del tracto biliar o diseminación venosa portal de infecciones intraabdominales como la diverticulitis; sin embargo, esto no se evidencia en la ecografía.
+
+Lectura recomendada:
+●	Muñoz L. Colangitis. Medellín. II Curso de actualización en cirugía general. Universidad de Antioquia. 2018
+
+
+#Don Orlando de 72 años, con antecedente de fibrilación auricular y falla cardiaca con FEVI de 38%, para lo que recibe sacubitril/valsartán, metoprolol, furosemida, espironolactona, empagliflozina y apixabán. Consulta junto a su esposa que refiere que el paciente “ronca mucho”. Al interrogatorio, el paciente refiere dormir 8 horas de sueño no reparador, por lo que toma siestas de 1 hora en las tardes. Al examen físico, signos vitales estables. IMC de 28, Mucosa oral rosada, cuello sin ingurgitación yugular, ritmo cardíaco irregular y murmullo vesicular conservado en ambos campos pulmonares. ¿Cuál de las siguientes es la prueba más adecuada para diagnosticar?
+#A. Actigrafía
+#B. Poligrafía
+#C. Oximetría nocturna
+#D. Polisomnografía con oximetría
+#Respuesta correcta: D
+#Tema e ítem: ¿Qué prueba escoger para diagnosticar el síndrome de apnea obstructiva del sueño?
+
+Argumento: La presentación de somnolencia diurna, sueño no reconfortante junto con factores de riesgo como sexo masculino, ronquidos, sobrepeso en el contexto de enfermedad cardiaca, nos debe indicar la necesidad de confirmar el diagnóstico de apnea obstructiva del sueño (AOS) y apnea central del sueño (ACS); por lo cual, en este paciente se deberá solicitar una polisomnografía con oximetría de pulso (Respuesta correcta D). Recordemos siempre que la polisomnografía con oximetría es la prueba de elección para el diagnóstico de AOS, y que sirve tanto para este motivo, como para la titulación del dispositivo de presión positiva de la vía aérea (CPAP, por sus siglas en inglés), tratamiento de elección de dicha condición clínica.
+
+- Por otra parte, un actígrafo es un pequeño dispositivo que se lleva en la muñeca, utiliza un acelerómetro y un sensor de luz ambiental para medir objetivamente los patrones de sueño alterados y los ciclos de sueño-vigilia durante varios días y noches. La actigrafía no sustituye a un estudio del sueño en el hogar, ni a la polisomnografía, y no puede diagnosticar los síndromes de apnea del sueño.
+- La poligrafía es un examen simplificado, debido a que no hay registro objetivo de la vigilia o el sueño, su énfasis es en los parámetros respiratorios y tiene la ventaja de que se puede realizar en casa; sin embargo, debe tenerse en cuenta que la poligrafía se debe usar en pacientes con muy alta sospecha de apnea del sueño y que no tengan enfermedades cardiacas o respiratorias asociadas, ni enfermedades neuromusculares u otros casos de posible hipoventilación nocturna, tampoco en insomnes, entre otros.
+•	Finalmente, la oximetría de pulso nocturna discrimina poco para diagnosticar síndrome apnea obstructiva; no obstante, en aquellos pacientes asintomáticos con una probabilidad baja de AOS, la oximetría nocturna normal indicaría que no es necesario realizar otras pruebas. Recordemos que Don Orlando tiene somnolencia diurna; por ende, requiere otro estudio.
+
+Lectura recomendada:
+●	Toro M.E. Síndrome de apnea obstructiva del sueño. IX Simposio de neurología clínica. ANIR. 2021.
+
+
+#Matías tiene 7 años. Acude al consultorio para realizar el seguimiento de su dermatitis atópica. Hace diez días se le prescribió un esteroide tópico de potencia media, debido a que le aparecieron 2 placas eccematosas en la pierna izquierda, muy pruriginosas. Sus padres han estado aplicando el medicamento dos veces al día, además de emolientes tópicos, sin embargo, la lesión ha empeorado. Al examen físico, con signos vitales son normales, con evidencia de 2 costras mielicéricas en pierna izquierda y excoriaciones por rascado. ¿Cuál considera el siguiente paso más apropiado en el tratamiento de Matías?
+#A. Añadir mupirocina tópica
+#B. Suspender los emolientes y observar
+#C. Recomendar terapia de envoltura húmeda con un esteroide tópico de alta potencia
+#D. Añadir prednisona oral
+#Respuesta correcta: A
+#Tema-Ítem: Dermatitis atópica – Sobreinfección de lesiones
+
+Argumento: En un paciente con antecedentes de dermatitis atópica, con exacerbación aguda (lesiones), la ausencia de mejoría después del tratamiento adecuado (emolientes y esteroides tópicos) debe hacer sospechar una complicación infecciosa. En este caso, las lesiones con costras mielicéricas indican un impétigo secundario.
+
+La dermatitis atópica es una afección crónica que predispone a los pacientes a complicaciones infecciosas, debido a una barrera cutánea comprometida y una disfunción inmune subyacente. El intenso prurito de un brote de dermatitis atópica facilita la entrada de patógenos a través de la barrera epidérmica defectuosa debido al daño en la piel al rascarse. Staphylococcus aureus es el patógeno más común porque la mayoría de los pacientes con dermatitis atópica están colonizados por esta bacteria.
+
+La presentación clásica del impétigo incluye pápulas, pústulas o vesículas que se rompen y provocan costras doradas, supuración o purulencia, como está descrito en el caso clínico. Las lesiones pueden ser dolorosas o pruriginosas. El tratamiento del impétigo incluye mupirocina tópica para la infección localizada o antibióticos orales (cefalexina) para la infección generalizada. La infección continua perpetúa la inflamación, lo que a menudo hace que la dermatitis atópica sea resistente a la terapia convencional sin tratamiento de la sobreinfección.
+
+- Los irritantes/alérgenos en los emolientes (p. ej., fragancias, conservantes) pueden causar o exacerbar los brotes de dermatitis atópica. Sin embargo, la presencia de costras doradas hace que la dermatitis de contacto sea poco probable; por lo tanto, la interrupción de los emolientes probablemente empeoraría la dermatitis atópica subyacente de este paciente.
+•	La terapia con envoltura húmeda consiste en usar ropa mojada para cubrir la piel tratada con emolientes o corticosteroides tópicos para mejorar la hidratación y la absorción de medicamentos. Por lo general, se evitan los esteroides de alta potencia debido al aumento de la absorción sistémica con la oclusión. Además, este tratamiento se reserva para la dermatitis atópica generalizada o grave y está contraindicado en caso de infección concurrente.
+
+Bibliografía recomendada:
+
+1. Howe W; et al. Treatment of atopic dermatitis (eczema). Sep 2023. UpToDate Advanced 2023
+
+#Laura tiene 3 meses. Nació a las 36 semanas de edad gestacional, con un embarazo sin complicaciones. Es llevada a su consulta por hiporexia, irritabilidad y vómito hace dos semanas. Al examen físico, con talla para la edad en -3, peso para la talla en -2 y peso para la edad en -1. Con FC 112 lpm, afebril y sin taquipnea. Lleva unos paraclínicos: Na 138, K 3.1, Cl 115. Uroanálisis: pH 6.9, sin otras alteraciones. Gases arteriales: pH 7.23, pO2 96, pCO2 12. De acuerdo a estos hallazgos, ¿Cuál considera que sería la causa más probable?
+#A. Acidosis tubular renal tipo 1
+#B. Acidosis tubular renal tipo 2
+#C. Deficiencia de 21β-hidroxilasa
+#D. Fibrosis quística
+#Respuesta correcta: A.
+#Tema-Ítem: Acidosis tubular renal - ¿Cuándo la sospecho?
+
+Argumento: En un paciente con hiporexia, dolor abdominal, vómito, retraso en el crecimiento, acidosis metabólica con anión GAP normal (hiperclorémica) y un uroanálisis que reporta un pH >5.5, debemos sospechar una acidosis tubular renal (ATR).
+
+La acidosis tubular renal tipo 1 se asocia con una disminución de la actividad del antiportador H + /K + ATPasa en la superficie apical de las células intercaladas, lo que inhibe que el túbulo distal segregue H + y reabsorba K + de la luz del túbulo. Por lo tanto, esto produce hipokalemia y acidosis metabólica hiperclorémica con orina que no puede acidificarse a un pH < 5.5. La causa más probable de ATR tipo 1 en un lactante menor es un defecto genético hereditario. Sin embargo, se suele realizar una ecografía para descartar otras causas, como nefrocalcinosis, riñón esponjoso medular y nefropatía por reflujo. El tratamiento de la RTA tipo 1 consiste en una terapia de alcalinización con bicarbonato de sodio o citrato de sodio administrados por vía oral (Respuesta Correcta A).
+
+- La incapacidad del túbulo contorneado proximal para reabsorber HCO3 daría lugar a ATR tipo 2, que de igual forma puede manifestarse con retraso del crecimiento, vómito, acidosis metabólica hiperclorémica e hipokalemia. Sin embargo, los pacientes con ATR tipo 2 normalmente tendrían un pH de la orina <5,5 (debido al aumento de la secreción de H + por el túbulo distal en un intento de corregir la acidosis metabólica).
+- La hiperplasia suprarrenal congénita causada por una deficiencia grave de 21β-hidroxilasa puede manifestarse durante la infancia con retraso del crecimiento, vómito, hiporexia y acidosis metabólica hiperclorémica. Sin embargo, el pH de la orina sería <5,5 y los pacientes estarían hiperkalémicos e hiponatrémicos como resultado de la deficiencia de aldosterona (lo que sucede en la acidosis tubular renal tipo 4). También podríamos encontrar clitoromegalia o genitales ambiguos.
+- La fibrosis quística ocurre por una mutación en el gen CFTR y puede manifestarse con retraso en el crecimiento, irritabilidad, vómito e hiporexia, sin embargo, a diferencia de la ATR suele provocar hipocloremia con acidosis respiratoria y/o alcalosis metabólica.
+
+Bibliografía recomendada:
+
+1. Aguirre Meñica M, Luis Yanes MI. Tubulopatías. Protoc diagn ter pediatr. 2014;1:135-53
+
+#Laura, 4 años, sin antecedentes patológicos referidos. Llevada a urgencias por la madre debido a cuadro clínico de aproximadamente 4 días de evolución de fiebre objetiva, conjuntivitis y tos seca. Desde ayer, le aparecieron unas pequeñas manchas blancas sobre un fondo eritematoso irregular en la mucosa oral. Hoy, inicia con un exantema maculopapular eritematoso, parcialmente confluente, que inició detrás de las orejas y se extendió de forma cefalocaudal. ¿Cuál es el diagnóstico?
+#A. Manchas de Koplik
+#B. Rubeola
+#C. Sarampión
+#D. Manchas de Forchheimer
+#Respuesta correcta: C
+#Tema – Ítem: Sarampión – Claves diagnósticas
+
+Argumento: Esta paciente, presenta el cuadro típico de sarampión: Inició con una etapa prodrómica de tos, conjuntivitis, fiebre y el enantema patognomónico, las manchas de Koplik. Al día siguiente, inició con el exantema característico cefalocaudal.
+
+El sarampión es una enfermedad altamente infecciosa causada por el virus del sarampión. Hay dos fases de la enfermedad: una etapa catarral (prodrómica) que dura aproximadamente 4-7 días y una etapa de exantema que dura aproximadamente 7 días y se desarrolla 1-2 días después del enantema. La etapa catarral se caracteriza por fiebre con conjuntivitis, coriza, tos y un enantema patognomónico denominado manchas de Koplik en la mucosa bucal. ¡Recuerda que la ausencia de manchas de Koplik no excluye el sarampión como diagnóstico!
+En la fase de exantema, aparece una fiebre alta, malestar general y el exantema, el cual es maculopapular eritematoso, inicia detrás de las orejas y se extiende al resto del cuerpo de forma cefalocaudal. Se desvanece después de aproximadamente 5 días de aparición, dejando una decoloración marrón y descamación en las áreas gravemente afectadas. (Respuesta correcta A).
+
+La tos puede persistir durante una semana más y puede ser el último síntoma en resolverse.
+Recuerda entonces que las características clínicas más importantes del sarampión son las 3 Cs y 1 K: Coriza, Cough (tos), conjuntivitis y manchas de Koplik.
+
+OJO: En el caso clínico te están preguntando por el diagnóstico y NO por el nombre del enantema, por esto la respuesta es la C y no la A.
+
+- El signo de Forchheimer o manchas de Forchheimer, es un enantema que se caracteriza por petequias en el paladar blando. Puede aparecer en la rubeola, pero NO es patognomónico de esta enfermedad. Además, en la rubeola, aparecen linfadenopatías posauriculares y suboccipitales (en contraste con el sarampión que son más generalizadas) y ocasionalmente esplenomegalia. Laura, la paciente del caso, presenta manchas de Koplik, lo que nos debe descartar de inmediato una rubeola.
+
+Bibliografía recomendada:
+D Floret. Tratados EMC Pediatría, 2023-09-01, Volumen 58, Número 3, Páginas 1-11, Copyright © 2023 Elsevier Masson SAS.
+
+
+#Neonato masculino de 9 días de vida. Nació a las 38 semanas de edad gestacional. Al nacer, con adaptación neonatal espontánea, sin complicaciones. Fue dado de alta en conjunto con su madre. Es llevado por su madre por urgencias debido a hiporexia e irritabilidad. Al examen físico, letárgico, T 38,5°C, FC 170/min y FR 63/min, con ictericia en escleras y aleteo nasal y con llenado capilar de 4 segundos. La fontanela se encuentra abombada. Se solicitan hemocultivos, urocultivo y rx de tórax. ¿Cuál considera que es el tratamiento de elección en este paciente?
+#A. Ceftriaxona + Vancomicina
+#B. Aciclovir
+#C. Ampicilina
+#D. Ampicilina + Gentamicina
+#Respuesta correcta: D
+#Tema-Ítem: Sepsis neonatal - ¿Cuál es el manejo antimicrobiano más apropiado?
+
+Argumento: En un paciente neonato, prematuro, que presente fiebre, irritabilidad, letargia, hiporexia, succión débil, taquicardia, taquipnea e ictericia, debemos sospechar sepsis neonatal (SN) de aparición tardía. Los factores de riesgo para presentar SN se pueden dividir en:
+
+- Factores de riesgo maternos (más importantes): Fiebre intraparto, ruptura prolongada de membranas, parto prematuro e infecciones.
+•	Factores de riesgo fetales: Prematuridad, bajo peso al nacer, puntaje de Apgar bajo (como en el paciente del caso), invasiones (catéter intravascular o cánula nasal).
+
+En estos pacientes, es importante tener en cuenta que la presentación clínica general es inespecífica, debido a que hay bacteriemia que puede afectar cualquier órgano. Por lo anterior, en todo neonato con fiebre sin foco, debemos hemocultivar, urocultivar, realizar rx de tórax y punción lumbar para analizar el líquido cefalorraquídeo y descartar meningitis e iniciar antibioticoterapia empírica mientras sale el resultado de los paraclínicos solicitados para dirigir la terapia.
+
+En el escenario del recién nacido febril sin foco la antibioticoterapia debe ser dirigida al tratamiento de E. coli, el cual es el patógeno más común de enfermedad febril en este grupo de edad, por lo cual el manejo más apropiado y de elección en sepsis neonatal temprana y tardía adquirida en la comunidad es ampicilina + gentamicina (Respuesta correcta D).  No se debe iniciar cubrimiento antimicrobiano con ampicilina sola. Tampoco debemos iniciar ceftriaxona + vancomicina, pues no están dirigidos a los microorganismos más frecuentes a esta edad.
+
+Bibliografía recomendada:
+
+1. Valencia I. Sepsis neonatal: Un enfoque práctico. Tácticas y prácticas pediátricas: Un mar de posibilidades, 2021. UPB.
+
+#Ana de 16 años, previamente sana, es traída al servicio de Urgencias por cuadro clínico de 3 días consistente en fiebre alta, escalofríos, mialgias, mareos y dolor en rodilla derecha. Niega traumatismo y refiere historial de dolor similar al actual a nivel de la muñeca derecha hace 4 días con resolución rápida ante la toma de analgésicos. Es sexualmente activa con su pareja y planifica con DIU de Cu. Al examen físico presenta PA 110/75 mh, FC 120 lpm, T 38.9C. Se evidencian múltiples lesiones pustulosas no dolorosas de aspecto purpúrico en ambos miembros inferiores. A la exploración articular se encuentra tumefacción, eritema y dolor a la palpación y movimiento pasivo en rodilla derecha.
+¿Cuál de las siguientes es la causa más probable de su cuadro clínico?
+#A. Artritis idiopática juvenil
+#B. Fiebre reumática
+#C. Infección gonocócica diseminada
+#D. Artritis reactiva
+#Respuesta correcta: C
+#Tema e ítem: Infección gonocócica diseminada – Diagnostico diferencial
+
+Argumento: Presentan una paciente joven con un cuadro clínico de inicio abrupto de fiebre alta, artritis migratoria y lesiones pustulosas purpúricas. El diagnóstico más probable con este cuadro clínico es la infección gonocócica diseminada (IGD).
+
+La IGD resulta de la diseminación bacteriémica del patógeno de transmisión sexual, Neisseria gonorrhoeae, y puede manifestarse en forma de síndrome artritis-dermatitis (como en este caso) o artritis gonocócica. El síndrome de artritis-dermatitis se manifiesta típicamente con afección de varias articulaciones, pero su característica distintivita es la naturaleza migratoria de las artralgias como refirió la paciente, además de tenosinovitis y lesiones dermatológicas que pueden ser pustulosas, maculopapulares o vesiculares de predominio en tronco y miembros superiores/inferiores (en ocasiones con compromiso palmoplantar).
+
+El diagnóstico definitivo de IGD se realiza mediante la identificación de N. gonorrhoeae (ya sea mediante PCR o cultivo) en una muestra de sangre, líquido o tejido sinovial, lesión cutánea u otro sitio no mucoso. Si esas muestras son negativas, el diagnóstico presuntivo se puede hacer en un paciente con evidencia microbiológica del patógeno en muestras de mucosa (urogenital, rectal o faríngea) y una presentación clínica compatible con infección diseminada.
+
+- La artritis idiopática juvenil afecta a pacientes menores de 16 años, se caracteriza por ser una artritis persistente de mas de 6 semanas de evolución, y a diferencia de la IGD, la artritis no suele ser migratoria.
+•	La fiebre reumática aguda puede presentarse con poliartritis y lesiones cutáneas en adultos jóvenes. Sin embargo, el exantema de la fiebre reumática aguda es bastante raro y, si se observa, suele ser transitorio y prácticamente nunca pustulosa o vesiculopustulosa, por tanto, no cumple con criterios esta paciente para pensar en este diagnóstico.
+•	La artritis reactiva puede confundirse con IGD. En particular, se puede sospechar de este diagnóstico en la paciente por la naturaleza migratoria de la artritis, pero a diferencia de la IGD típica, estos pacientes también suelen tener uno o más de los siguientes: conjuntivitis, uretritis, balanitis circinada o queratodermia blenorrágica. Además, un ensayo terapéutico con antibióticos puede ayudar a diferenciar entre esos trastornos. Los pacientes con artritis reactiva característicamente no responden al tratamiento para gonococo, mientras que la respuesta al tratamiento en IGD suele ser rápida e inequívoca
+
+Lectura recomendada:
+
+1. Jeffrey D Klausner. Disseminated gonococcal infection. Available on Uptodate Advanced 2023.
