@@ -11451,3 +11451,425 @@ Lectura recomendada:
     
     Lectura recomendada:
     ●	Cortés H. Estreptococo del grupo B durante el embarazo. Medellín. XXVIII Actualización en ginecología y obstetricia. Universidad de Antioquia. 2020
+
+#Andrea de 27 años, sin antecedentes de interés, acude a consulta en compañía de su pareja refiriendo un historial de 3 meses de evolución de pérdida de peso pese a tener apetito aumentado, episodios frecuentes de palpitaciones, enojo e inquietud sensori-motora. Refiere la pareja que ha notado un cambio en su apariencia ocular, describiendo sus ojos como más prominentes de lo normal. Examen físico: exoftalmos bilateral leve, bocio difuso grado 2, piel seca al tacto y temblor distal. Trae analítica con TSH 0,01 mUl/mL, tiroxina libre (T4L) de 2,8 ng/d y anticuerpos contra el receptor de TSH positivos en títulos altos. Luego de discutir las opciones de tratamiento, la paciente opta por manejo definitivo con yodo radiactivo luego de lograr el estado eutiroideo con metimazol.
+¿Qué recomendaciones le daría a la paciente antes de la terapia con yodo radiactivo?
+#A. Suspender el metimazol 1 mes antes de la terapia
+#B. No suspender el metimazol hasta 2 semanas después de haber realizado la terapia con yodo radiactivo
+#C. Suspender el metimazol 3-7 días antes de la terapia con yodo radiactivo
+#D. Suspender el metimazol 7 días antes de la terapia con yodo radiactivo e iniciar inmediatamente colestiramina + prednisolona
+#Respuesta correcta: C
+#Tema e ítem: Tratamiento definitivo con yodo radiactivo en Enfermedad de Graves - ¿Qué hacer una vez se logra el estado eutiroideo?
+
+Argumento: En presencia de bocio, con orbitopatía y función tiroidea compatible con tirotoxicosis, se debe pensar indudablemente en enfermedad de Graves (EG) e incluso se puede hacer el diagnostico sin requerir otros estudios. La presencia de anticuerpos contra el receptor de TSH positivos tiene una sensibilidad y especificidad para el diagnóstico del 99%, pues son el evento principal en la fisiopatología de la enfermedad.
+
+La EG es la causa más común de hipertiroidismo primario.  La presentación es de predominio en mujeres y usualmente entre los 30 a 50 años, pero puede darse en cualquier etapa de la vida. Los anti-tiroideos, la terapia con yodo radiactivo y la cirugía son opciones de tratamiento validas, pero, la elección va a depender de la preferencia del paciente, características particulares del mismo y la experiencia clínica del médico. La terapia con yodo radiactivo es una muy buena como opción definitiva usada de manera temprana en pacientes con títulos altos de anticuerpos contra el receptor de TSH (Como puede ocurrir en el caso de Andrea), ya que títulos elevados sugieren un riesgo de recurrencia temprana luego de la suspensión del anti–tiroideo. También se describen tasas altas de recaída con el manejo con solo anti–tiroideos en jóvenes, sexo masculino, tabaquismo y bocio grande (Andrea presenta bocio grado 2 según la OMS).
+
+La recomendación para esta paciente debe ser suspender el tratamiento con metimazol tres a siete días antes de la terapia con yodo radiactivo una vez se confirme el estado eutorideo con el control de TSH a los 2-3 meses de haber iniciado la terapia. Esto permite controlar un poco el hipertiroidismo, dado que, si es muy manifiesto, con un exceso importante de hormona tiroidea se puede desencadenar una tormenta tiroidea o una tiroiditis post–yodo (Respuesta correcta C).
+
+Esta pregunta es más probable que sea de rondas de residencia, así que no te preocupes si fallaste. El objetivo de este tipo de preguntas es concientizar que en el examen de residencia aparecerán casos de muy alta dificultad y en ocasiones, el analisis detallado, el reforzamiento del diagnóstico diferencial y el método de descarte con sentido común nos pueden permitir lograr ganar la pregunta aún sin tener a ciencia cierta la respuesta correcta.
+
+Lectura recomendada:
+
+1. Román–González, A. Builes–Barrera, CA. Hipertiroidismo por Enfermedad de Graves: ¿Qué hacer?. Medellín: XIX Memorias Curso de Actualización para Médicos Generales, la visión del Residente, ANIR – Antioquia; 2019.
+
+#Salomón, 3 años. Es llevado por la abuela a urgencias por un episodio de desconexión con el medio de aproximadamente 10 segundos mientras jugaba en un parque. La abuela dice que lo observó cianótico y con dificultad respiratoria mientras corría. Recuperó el conocimiento rápidamente. Niega TEC. La abuela dice que el paciente ha perdido previamente el conocimiento durante episodios de llanto excesivo, acompañándose de cianosis peribucal. El paciente se encuentra estable hemodinámicamente, alerta y con cianosis peribucal. A la auscultación con un soplo de eyección sistólico a lo largo del borde esternal superior izquierdo. Cuando el niño se pone en cuclillas, el soplo se vuelve más fuerte y mejora la cianosis.
+¿Cuál de los siguientes es el diagnóstico más probable en este paciente?
+#A. Cardiomiopatía hipertrófica
+#B. Defecto septal atrial aislado
+#C. Tetralogía de Fallot
+#D. Síndrome epiléptico
+#Respuesta correcta: C
+#Tema – Ítem: Tetralogía de Fallot – Manifestaciones clínicas principales
+
+Argumento: La tetralogía de Fallot es la cardiopatía congénita más común y presenta los siguientes defectos: (1) comunicación interventricular, (2) aorta cabalgada, (3) estenosis pulmonar y (4) hipertrofia ventricular derecha
+
+La presentación clínica depende de la gravedad de la obstrucción del tracto de salida del ventrículo derecho (TSVD) resultante de la estenosis pulmonar. La obstrucción grave suele presentarse poco después del nacimiento con cianosis central (p. ej., perioral). Sin embargo, la obstrucción moderada puede causar síntomas sutiles durante la infancia y presentarse con episodios repentinos de "tet spells" o crisis cianóticas debido a la derivación de derecha a izquierda durante la agitación, lo que lleva a disnea de esfuerzo y síncope. Se caracterizan por hiperpnea (respiraciones rápidas y profundas), irritabilidad, inconsolabilidad y cianosis progresivamente grave. Los ataques prolongados pueden provocar pérdida del conocimiento (como en este paciente) y paro cardíaco. Al examen físico, se ausculta un soplo de eyección sistólico sobre el borde esternal superior izquierdo debido a la obstrucción del TSVD. Ponerse en cuclillas puede reducir los síntomas (p. ej., cianosis) y aumenta la intensidad del soplo sistólico. Esta maniobra aumenta la resistencia vascular sistémica (poscarga) y disminuye la derivación de derecha a izquierda a través del defecto del tabique interventricular.
+
+Bibliografía recomendada:
+
+1. Abarca Zúñiga V, Piñar Sancho G. Tetralogía de Fallot en pediatría . Rev.méd.sinerg. [Internet]. 1 de mayo de 2020 [citado 13 de noviembre de 2023];5(5):e479.
+
+#Alejandra tiene 1 año. Es llevada a su consulta para revisión de rutina. No tiene antecedentes personales relevantes. La madre dice que consume mucha cantidad de leche de vaca entera al día, pero es hiporéxica. Tiene buena clasificación nutricional y un examen físico normal. Traen paraclínicos: Hb 10, Hto 33%, VCM 70, reticulocitos 0.8%, plaquetas 250.000, GB 6500.
+¿Cuál es el manejo más apropiado?
+#A. Electroforesis de proteínas
+#B. Completar perfil ferroquinético
+#C. Transfusión de glóbulos rojos
+#D. Iniciar hierro oral
+#Respuesta correcta: D
+#Tema-Ítem: Anemia por deficiencia de hierro – Tratamiento
+
+Argumento: Esta paciente de 1 año, previamente sana, con adecuado desarrollo y clasificación nutricional, tiene una anemia microcítica y arregenerativa.
+
+La deficiencia de hierro es la deficiencia nutricional más común en los niños. Las reservas de hierro de un bebé se ven afectadas por las reservas maternas de hierro, la hemorragia prenatal o perinatal y la edad gestacional del bebé al momento del parto. La prematuridad es un factor de riesgo de deficiencia de hierro. Los bebés a término suelen tener reservas adecuadas de hierro durante los primeros 6 meses de vida. Después de 6 meses, la ingesta dietética inadecuada se convierte en la causa más importante.
+
+La introducción temprana o el consumo excesivo de leche de vaca es problemático ya que tiene un bajo contenido y biodisponibilidad de hierro y puede causar sangre oculta en heces. Los niños no deben comenzar a tomar leche de vaca hasta el año, y los niños ≥1 año deben consumir <24 onzas/día (es decir, el consumo de >24 onzas [700 ml]/día es un factor de riesgo para la deficiencia de hierro). Un vaso típico pesa aproximadamente 8 onzas.
+
+Los niños con deficiencia de hierro suelen ser asintomáticos y es posible que no presenten síntomas reveladores como pica, fatiga o palidez. Por lo tanto, se recomienda la detección universal al año y el diagnóstico generalmente se basa en un hemograma completo, que generalmente muestra hemoglobina baja, volumen corpuscular medio bajo y ancho de distribución elevado de los glóbulos rojos. El recuento de reticulocitos es clásicamente bajo (porque la médula ósea con deficiencia de hierro no puede aumentar la producción de reticulocitos), aunque un índice de reticulocitos bajo (<2%) es un mejor indicador de anemia hipoproliferativa. Un extendido de sangre periférico mostrará eritrocitos hipocrómicos microcíticos, aunque por lo general no es necesario en el estudio inicial.
+
+No son necesarias pruebas adicionales (p. ej., perfil ferroquinético) en niños con la presentación clásica. El enfoque de tratamiento más rentable es la terapia empírica con hierro oral. La hemoglobina se debe volver a controlar en 4 semanas; si el nivel de hemoglobina ha aumentado 1 g/dL, la terapia con hierro oral debe continuar durante 2 a 3 meses después de que la hemoglobina se normalice para reponer las reservas de hierro.
+
+Bibliografía recomendada:
+
+1. Powers J. Iron deficiency in infants and children <12 years: Screening, prevention, clinical manifestations, and diagnosis. Oct 2023. UpToDate Advanced 2023.
+
+#Neonato de 6 horas de vida, nacido a término de una primigestante de 34 años mediante parto vaginal. Controles prenatales sin detección de complicaciones. Al examen físico, hay ausencia de iris bilateralmente. Se observa la abertura uretral en el lado ventral del cuerpo del pene. No se palpa el testículo izquierdo pero el testículo derecho está en bolsa escrotal. ¿Cuál de los siguientes trastornos tiene más riesgo de desarrollar este paciente?
+#A. Tumor de Wilms
+#B. Retinoblastoma
+#C. Leucemia mieloide aguda
+#D. Neuroblastoma
+#Respuesta correcta: A
+#Tema e ítem: Tumor de Wilms
+
+Argumento:  La ausencia del iris y las anomalías genitourinarias en este paciente (es decir, hipospadias, criptorquidia), hacen sospechar de síndrome WAGR/síndrome de deleción 11p. El síndrome WAGR generalmente resulta de una eliminación de novo de un gen en el cromosoma 11p13. WAGR es un acrónimo de sus afecciones asociadas (tumor de Wilms, aniridia [iris ausente], anomalías genitourinarias y discapacidad intelectual). Se debe sospechar el diagnóstico si 2 o más de estas condiciones están presentes y se confirman con pruebas genéticas.
+
+El tumor de Wilms (TW; nefroblastoma) es una neoplasia maligna renal que ocurre en aproximadamente la mitad de los pacientes con síndrome WAGR y se debe a la eliminación del gen WT1 dentro de la región cromosómica afectada. Los tumores de Wilms son más a menudo bilaterales y se presentan antes (entre 1 y 3 años) en el síndrome WAGR que de forma aislada. La ecografía abdominal se realiza cada 3 meses en la infancia y la primera infancia para una detección y tratamiento tempranos. A pesar de una vigilancia estricta, en muchos pacientes se desarrolla enfermedad renal terminal.
+
+El TW es la neoplasia maligna renal más común en niños.  La mayoría de los niños con tumor de Wilms presentan una masa o distensión abdominal, sin otros signos o síntomas. Otros síntomas pueden incluir dolor abdominal (30 a 40%), hematuria (12 a 2%), fiebre e hipertensión (25%).  Al examen físico se palpa una masa abdominal firme, no dolorosa y lisa que está ubicada excéntricamente y rara vez cruza la línea media.
+
+El diagnóstico definitivo se realiza mediante confirmación histológica en el momento de la escisión quirúrgica o la biopsia. Los niños con sospecha de tumor de Wilms deben ser remitidos a un centro oncológico pediátrico para su evaluación y diagnóstico.
+
+Bibliografía recomendada:
+
+1. Smith V; et al. Presentation, diagnosis, and staging of Wilms tumor. Oct 2023. UpToDate Advanced 2023.
+
+#Laura, 5 años, sin antecedentes personales. Llega a su consulta por dos días de eritema y edema en la parte inferior de la pierna izquierda. Tres días antes de este cuadro, presentó una picadura por un insecto desconocido. Al examen físico, febril y taquicárdico. En la pierna afectada se observa edema y eritema bien delimitado, con dolor a la palpación. También se observa una línea roja delgada con un borde elevado que se extiende desde la parte inferior de la pierna hasta la ingle.
+¿Cuál de las siguientes es la causa más probable de estos hallazgos?
+#A. Erisipela por S. aureus
+#B. Erisipela por S. pyogenes
+#C. Celulitis por S. aureus
+#D. Infección por C. perfringens
+#Respuesta correcta: B
+#Tema – Ítem: Erisipela – Etiología y manifestaciones clínicas
+
+Argumento: La línea roja delgada que se describió en la pierna de este paciente sugiere linfangitis, que, junto con los signos clásicos de inflamación (edema, dolor), síntomas sistémicos (p. ej., fiebre) y eritema claramente delimitado, es altamente sospechoso de erisipela.
+
+La celulitis y la erisipela hacen parte de las infecciones de piel y tejidos blandos no purulentas. El microorganismo más frecuente en ambas es el S. pyogenes, aunque también pueden ser ocasionadas por S. aureus. La erisipela compromete la dermis superficial y los vasos linfáticos, de ahí que tenga un borde bien delimitado. La celulitis es una infección más profunda, localizada en la dermis y el tejido celular subcutáneo y es por esto por lo que sus márgenes están pobremente delimitados (Respuesta correcta B).
+
+Tanto en la erisipela como en la celulitis, el punto de entrada más común del patógeno es una lesión cutánea (como en el caso del paciente, una picadura de un insecto).  Las extremidades inferiores y la cara son las áreas más comúnmente afectadas en la erisipela.
+
+Si bien S. aureus es una buena opción de respuesta a considerar porque es la causa más común de infecciones de piel y tejidos blandos (IPTB) purulentas (p. ej., impétigo, absceso, foliculitis); sin embargo, las IPTB no purulentas, especialmente la erisipela, son causadas más comúnmente por S. pyogenes.
+
+Bibliografía recomendada:
+
+1. I.F. Gutiérrez-Tobar, et al. Guía de práctica clínica colombiana para el tratamiento de infecciones bacterianas de piel y tejidos blandos superficiales en Población pediátrica. Infectio 2023; 27(2): 114-131
+
+#Martín tiene 7 años. Es llevado a urgencias por 3 días de fiebre, cefalea, otalgia y odinofagia. Niega rinorrea o tos. Hace 1 año presentó una sintomatología similar y le administraron amoxicilina, pero después de desarrollar una erupción cutánea, edema y disnea, le cambiaron a un medicamento diferente. PAI al día, clasificación nutricional adecuada. Al examen físico con T 39°C, FC 136, FR 28 rpm. Se observa lengua de color rojo brillante con papilas prominentes, úvula roja y amígdala derecha edematosa y eritematosa, cubierta por una membrana blanquecina. Se palpan linfadenopatías cervicales dolorosas bilaterales.
+¿Cuál es el tratamiento más apropiado?
+#A. Amoxicilina
+#B. Azitromicina
+#C. Amigdalectomía total
+#D. Cefixima
+#Respuesta correcta: B
+#Tema-Ítem: Faringoamigdalitis bacteriana – Tratamiento en alergia a penicilina
+
+Argumento: Una puntuación de Centor modificada de 4 (edad de 3 a 14 años, amígdala inflamada con exudado, linfadenopatías cervicales anteriores dolorosas, temperatura >38°C) indica una alta probabilidad de amigdalitis bacteriana aguda y la causa más común es S. pyogenes. En este paciente con una reacción alérgica grave a la amoxicilina en el pasado (angioedema, disnea), NO se debe administrar nuevamente una penicilina (amoxicilina).
+
+La amigdalitis aguda es una inflamación de las amígdalas que frecuentemente ocurre en combinación con una inflamación de la faringe (faringoamigdalitis). Los términos amigdalitis y faringitis a menudo se usan indistintamente, pero se refieren a sitios distintos de inflamación.
+
+El tratamiento empírico para pacientes con Centor ≥4 es controvertido y no se aconseja de forma rutinaria, pero dentro de las opciones de respuesta de este caso clínico, no está la realización de la prueba de estreptococo y nos preguntan por el tratamiento, por lo cual debemos contestar la mejor opción posible dentro de las respuestas de selección múltiple. Los macrólidos, como la claritromicina o la azitromicina, son el antibiótico de elección para tratar la amigdalitis bacteriana aguda en pacientes con antecedentes de alergia grave a la penicilina. Si la resistencia local a los macrólidos es un problema, también se puede considerar la clindamicina.
+
+- La amigdalectomía es una opción de tratamiento para la amigdalitis crónica y recurrente, especialmente en pacientes con hipertrofia amigdalina que causa obstrucción respiratoria y trastornos del sueño (p. ej. un niño que ronca).
+- La cefixima es una cefalosporina de tercera generación y hasta el 10% de los pacientes con alergia a la penicilina también son alérgicos a las cefalosporinas. Las cefalosporinas pueden considerarse en pacientes con reacciones previas no graves a la penicilina (es decir, reacciones sin angioedema o anafilaxia), pero no deben usarse en pacientes que hayan tenido una reacción grave previa. Además, cuando se utilizan cefalosporinas para el tratamiento de amigdalitis o faringitis, se prefieren las cefalosporinas de primera generación (p. ej., cefalexina, cefadroxilo). Las cefalosporinas de tercera generación son las menos activas entre todas las cefalosporinas contra bacterias grampositivas como S. pyogenes.
+
+Bibliografía recomendada:
+
+1. Pichichero M. Treatment and prevention of streptococcal pharyngitis in adults and children. Oct 2023. UpToDate Advanced 2023.
+
+#Julieta de 26 años, G1P0 y un aborto espontáneo e incompleto a las 12 semanas de gestación que se manejó con dilatación y legrado, consultó por amenorrea de 7 meses de evolución con previos ciclos menstruales irregulares y sangrado intermenstrual. Su menarquía fue a los 12 años. Signos vitales normales. Al examen físico IMC de 29, sin hallazgos anormales, con caracteres sexuales secundarios presentes. Paraclínicos que reportan Prolactina, FSH, TSH normales y prueba de embarazo negativa. ¿Cuál de las siguientes es la conducta adecuada?
+#A. Terapia anticonceptiva oral
+#B. Reto con acetato de medroxiprogesterona
+#C. Terapia con gonadotropinas
+#D. Prueba de supresión con dexametasona
+#Respuesta correcta: B
+#Tema e ítem: ¿Cómo se debe enfocar una amenorrea secundaria?
+
+Argumento: La presencia de amenorrea durante 6 meses, presencia de ciclos menstruales irregulares y caracteres sexuales secundarios, nos debe hacer sospechar de una amenorrea secundaria, la cual ya tiene estudios previos hormonales y de embarazo negativo, por lo que el paso a seguir es realizar un reto o ciclo con progestágeno (administrar acetato de medroxiprogesterona 10 mg por 10 días y evaluar si hay o no sangrado) (Respuesta correcta B). Recordemos futuro R1 que los paraclínicos de esta paciente, descartan prolactinoma, hipotiroidismo, insuficiencia ovárica y embarazo como causas subyacentes de amenorrea, por lo que el paso a seguir es realizar el reto de progesterona durante 10 días, cuyo objetivo es evaluar el valor de estrógenos y la integridad del tracto genital de salida. En caso de sangrado, se confirma la presencia de un tracto de salida funcional y de un endometrio reactivo preparado por los estrógenos de la propia paciente, por lo que se deberá estudiar causas como síndrome de ovario poliquístico, hiperplasia adrenal congénita no clásica o síndrome de Cushing. Mientras que si no hay sangrado se pueden administrar un reto de estrógeno y progestina, en el cual si hay sangrado puede tratarse de un caso de un síndrome de Sheehan, hipofisitis linfocítica, entre otras causas tumorales e inflamatorias. Mientras que si no hay sangrado podrá tratarse de un síndrome de sinequias uterinas (Síndrome de Asherman).
+
+- Por otra parte, la terapia anticonceptiva oral se puede utilizar para reemplazar el estrógeno y proporcionar anticoncepción en pacientes con insuficiencia ovárica prematura (IOP), que se manifiesta con amenorrea secundaria o también en el tratamiento de anomalías menstruales en pacientes con síndrome de ovario poliquístico (SOP); sin embargo, los niveles normales de FSH de Julieta excluyen la IOP y por criterios de Rotterdam es poco probable un SOP.
+- En cuanto a la terapia con gonadotropinas, se usa para tratar pacientes con problemas de fertilidad debido a anovulación (SOP o IOP); sin embargo, antes de iniciar cualquier tratamiento, se requieren estudios adicionales para confirmar la causa de la amenorrea.
+- Finalmente, la prueba de supresión con dexametasona se usa para diagnosticar el síndrome de Cushing, que puede manifestarse con amenorrea, obesidad y hormonas hipotalámicas-hipofisarias normales; no obstante, la ausencia de otras características clínicas como hipertensión, estrías abdominales, depósito anormal de grasa cutánea, hirsutismo y/o labilidad emocional hace que este diagnóstico sea poco probable.
+
+Lectura recomendada:
+
+1. Aristizábal J. Amenorrea. Medellín. XXXI Curso de actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
+
+#Carolina de 27 años, con antecedente de menarquía a los 14 años y FUM de hace 3 semanas y menstruaciones regulares, asiste a cita para realizarse un examen pélvico anual y una prueba de Papanicolaou; sin embargo, refiere dolor sordo en fosa iliaca derecha. Signos vitales dentro de rangos normales. Al examen físico, dolor abdominal a la palpación profunda en fosa iliaca izquierda, sin otro hallazgo anormal. Se realizó una prueba de embarazo en orina negativa y una ecografía de la pelvis evidenció un quiste unilocular lleno de líquido de 5 cm de paredes delgadas sin componentes sólidos en el ovario izquierdo. ¿Cuál de los siguientes es la causa más probable de su cuadro clínico?
+#A. Quiste folicular
+#B. Quiste del cuerpo lúteo
+#C. Endometrioma
+#D. Quiste dermoide
+#Respuesta correcta: A
+#Tema e ítem: Masa anexial en ginecología → Un abordaje de benignidad vs Malignidad
+
+Argumento: Dada la presencia de dolor pélvico sordo, en una paciente joven con hallazgos de masa en ovario descritos ecográficamente como quiste anecoico, unilocular, lleno de líquido, con una pared delgada, lisa y sin componentes sólidos, nos debe hacer pensar en un quiste folicular (Respuesta correcta A). Recordemos que al iniciar el enfoque de una masa anexial, existen hallazgos clínicos que permiten diferenciar entre benignidad y malignidad, por ejemplo, en el caso de Carolina está a favor de benignidad que es unilateral y quístico. Cabe resaltar que también existe el protocolo del grupo International Ovarian Tumor Analysis Group (IOTA), el cual tiene el propósito de estandarizar la caracterización del riesgo de malignidad de las masas anexiales, para lo que se definieron unas características ecográficas B, sugestivas de benignidad; y unas características M, sugestivas de malignidad, en el caso de Carolina cumple con criterios de benignidad (Ver Carpe Flash). Para concluir, si bien es importante tener en cuenta el enfoque mencionado previamente, la ecografía pélvica de Carolina es congruente con la de un quiste folicular, el cual se forma cuando un folículo de Graaf no logra ovular y continúa creciendo.
+
+- Por otra parte, los quistes del cuerpo lúteo suelen ser asintomáticos o asociarse con hemorragia o rotura uterina y se diagnostican incidentalmente en la ecografía pélvica durante las primeras etapas del embarazo (causa más común de masa ovárica). Además, la ecografía de un quiste de cuerpo lúteo suele mostrar paredes difusamente gruesas con vascularización.
+- En cuanto al endometrioma, puede tener hallazgos ecográficos similares a los de Carolina; no obstante, ella no presenta ningún síntoma de endometriosis (dismenorrea, dispareunia, disquecia o dolor pélvico crónico), lo que hace que este diagnóstico sea poco probable.
+- Una masa ovárica quística unilateral descubierta incidentalmente puede generar sospechas de un quiste dermoide (teratoma quístico maduro); sin embargo, la ecografía suele mostrar una masa quística compleja con calcificaciones y componentes sólidos, en lugar del quiste unilocular sin componentes sólidos que se observa en esta paciente.
+
+Lectura recomendada:
+●	Córdoba C. Masas anexiales. Medellín. XXX Curso de actualización en ginecología y obstetricia. Universidad de Antioquia. 2022
+
+
+#Camila de 1 mes, nacida a la semana 39 por vía vaginal en presentación podálica, es llevada a consulta por su madre, dado que ha notado que la cabeza de la niña siempre está inclinada hacia la derecha. Signos vitales Tº 37,1 °C, FC 102 lpm y 42 rpm. Al examen físico, está en el percentil 60 de talla/peso, tiene inclinación cefálica hacia la derecha y maxilar inferior girado hacia la izquierda. El movimiento cervical es limitado y se palpa una masa firme y bien circunscrita en la parte inferior derecha del cuello no dolorosa, sin otro hallazgo anormal. ¿Cuál de las siguientes es la conducta adecuada?
+#A. TAC simple de cuello
+#B. Iniciar fisioterapia
+#C. Radiografía de la columna cervical.
+#D. Biopsia por aspiración con aguja fina
+#Respuesta correcta: B
+#Tema e ítem: Tortícolis congénita, ¿Hay necesidad de realizar imágenes diagnósticas?
+
+Argumento: La presencia de masa firme, con inclinación cervical y limitación del movimiento en una recién nacida, nos debe hacer sospechar de una tortícolis congénita que se beneficia de fisioterapia (Respuesta correcta B). Recordemos que la tortícolis congénita se define como una contractura o fibrosis del músculo esternocleidomastoideo, de un lado, que produce una inclinación homolateral y una rotación contralateral de la cara/mentón. No existe una etiología clara; no obstante, existen varias teorías como la isquemia, el traumatismo durante el parto y la malposición intrauterina (Por ejemplo, Camila tuvo parto en presentación podálica). La ecografía del esternocleidomastoideo puede confirmar el origen muscular de la masa; no obstante, el diagnóstico es clínico. El tratamiento de primera línea implica el inicio temprano de fisioterapia con ejercicios de posicionamiento y terapia de estiramiento pasivo para fortalecer los músculos del cuello, estirar el esternocleidomastoideo y mejorar el rango de movimiento cervical, dado que con el manejo la mayoría de los casos resuelven en 2 a 6 meses. En pacientes que no mejoran después de 12 meses de tratamiento conservador, está indicada la cirugía (miotomía) para prevenir complicaciones como escoliosis cervical y/o asimetría craneofacial.
+
+- La TAC del cuello puede ayudar a aclarar una masa indefinida en el cuello (absceso retrofaríngeo), predecir una posible malignidad y revelar la extensión y ubicación de un tumor; sin embargo, la ubicación de la masa en el cuello de esta paciente, los antecedentes de presentación del parto y los hallazgos al examen físico son características clásicas para un diagnóstico específico que no requiere imágenes.
+- La radiografía de columna cervical, se indica ante la sospecha de traumatismo cervical, lesiones de la articulación atlantoaxial y otras anomalías óseas congénitas (hemivértebras, escoliosis congénita) que pueden provocar una rotación cefálica; no obstante, la lesión de la columna cervical durante el parto es muy rara y se presentaría con cervicalgia como principal síntoma.
+- Finalmente, la biopsia está indicada para masas en el cuello que sugieren patologías como linfoma, cáncer de tiroides, neoplasias de glándulas salivales, linfadenopatía inflamatoria o metástasis. Si bien esta paciente tiene una masa solitaria en el cuello, carece de signos de infección (fiebre, adenopatía dolorosa, infección del tracto respiratorio superior) o de malignidad (Síntomas B).
+
+Lectura recomendada:
+●	Gundrathi J, et all. Congenital Torticollis. Available in StatPearls. 2023.
+
+
+#Femenina de 20 años, que inició vida sexual hace 1 año con su novio, consultó por retraso en su menstruación, con última menstruación hace 7 semanas, refiere que ha tenido menstruaciones regulares desde la menarquia a los 11 años. Signos vitales dentro de los límites de normalidad. Al examen físico sin hallazgos anormales. Se realizó prueba de embarazo en orina positiva y ecografía de pelvis que evidenció un embarazo intrauterino viable con una edad gestacional estimada de 6 semanas + 5 días, por lo que la paciente desea una interrupción voluntaria del embarazo ¿Cuál es el manejo farmacológico más efectivo a usar en esta paciente?
+#A. Misoprostol
+#B. Metrotrexate
+#C. Mifepristona + Misoprostol
+#D. Oxitocina
+#Respuesta correcta: C
+#Tema e ítem: Interrupción farmacológica voluntaria del embarazo
+
+Argumento: La mifepristona, combinada con el misoprostol, son el biconjugado de elección recomendado por la OMS para la interrupción voluntaria del embarazo (IVE) antes de la semana 10 (Respuesta correcta C). La mifepristona es un antagonista de los receptores de la progesterona que actúa inhibiendo su acción y sensibilizando el útero a la acción de las prostaglandinas. Mientras que el misoprostol es un análogo sintético de la prostaglandina E1, que estimula las contracciones uterinas y produce ablandamiento y dilatación del cérvix.  La tasa de efectividad del tratamiento con mifepristona y misoprostol está alrededor del 94% y la del misoprostol solo entre el 85% y 90% (dependiendo de la dosis y la vía de administración) por lo que la recomendación es el uso de ambos.
+•	El uso solo de Misoprostol es una buena opción para IVE en la paciente; sin embargo, la pregunta indaga por “farmacológico más efectivo”, por lo que se debe tener en cuenta que la tasa de efectividad con el uso en solitario del misoprostol es del 85% y 90% (dependiendo de dosis y vía de administración)
+
+- El metotrexato (MTX) es un inhibidor competitivo de la dihidrofolato reductasa, por lo que inhibe indirectamente la duplicación celular en el embrión y puede utilizarse en la interrupción del embarazo; sin embargo, sus numerosos efectos secundarios, incluida la hepatotoxicidad y la mielosupresión, así como la duración prolongada del tratamiento lo hacen una opción alternativa que poco o nada se usa en la práctica clínica actual, por lo que se prefiere la administración combinada de mifepristona y misoprostol para inducir abortos médicamente. En el caso de embarazo ectópico, el MTX sigue siendo el tratamiento médico de elección.
+- Finalmente, la oxitocina provoca contracciones uterinas, por lo que se utiliza para la inducción del parto en embarazos normales, así como en abortos con medicamentos en edades gestacionales tardías. Otra indicación común de oxitocina es la hemorragia posparto (debido a atonía uterina); no obstante, la oxitocina muestra una eficacia limitada en gestación < de 20 semanas de gestación porque el útero tiene menos receptores de oxitocina durante los dos primeros trimestres.
+
+Lectura recomendada:
+●	Flórez A.M, Londoño J.G, Manejo médico del aborto. Medellín. XXVIII Curso de actualización en ginecología y obstetricia. Universidad de Antioquia. 2020
+
+
+#Valentina de 28 años G1P0, con 10 semanas de gestación, sin antecedentes de interés, asiste a su primera visita prenatal. Signos vitales Tº 37,1 °C, FC 102 lpm y PA 126/84 mmHg. Al examen físico sin bocio, con tiroides grado 1/OMS, sin hallazgos anormales. La ecografía evidenció un embarazo intrauterino de 10 semanas de gestación con desarrollo normal esperado. Valentina trajo consigo un perfil tiroideo que decidió realizarse por tamizaje, el estudio reportó TSH 4 mU/L (VR: 0.2-4.0), T4 libre: 1 ng/dl (VR: 0.9-2.3), T3 Libre en 3 pg/ml, anticuerpos tiroideos anti TPO negativos. ¿Cuál es el manejo indicado para esta paciente?
+#A. Iniciar tratamiento con levotiroxina
+#B. Informarle que tamizaje se debe hacer de la semana 15 en adelante
+#C. Informar que no hay que iniciar tratamiento
+#D. Realizar una ecografía de tiroides.
+#Respuesta correcta: C
+#Tema e ítem: ¿Cuándo tratar un hipotiroidismo subclínico en la gestante?
+
+Argumento: Ante la presencia de falta de síntomas o signos clínicos de hipotiroidismo, con un perfil tiroideo en rangos de hipotiroidismo subclínico, el determinante de iniciar manejo farmacológico es el valor de anti TPO, que en el caso de Valentina al ser negativos con TSH de 4 mU/L, no es indicativo de manejo farmacológico (Respuesta correcta C). Recordemos futuro R1 que la gran duda de tratar con levotiroxina o no, cuando se encuentran valores de TSH entre 2.5 a 4 ha persistido en la práctica clínica y la evidencia más reciente respalda el concepto de la asociación entre autoinmunidad tiroidea y pérdidas fetales, pero que la intervención con levotiroxina en mujeres con TSH en rango normal no cambia los desenlaces de pérdida fetal o parto pretérmino, aun en presencia de anticuerpos antiTPO positivos y pérdidas fetales previas, como fue reportado en el metanálisis de Dong; no obstante, se tiene estipulado que el manejo farmacológico del hipotiroidismo subclínico según las guías de tiroides y embarazo de la American Thyroid Association 2017 se da en los siguientes escenarios: Mujeres TPOAb-positivas con una TSH mayor de 2.5 mU/L, mujeres TPOab negativas con TSH >10 mU/L, y para mujeres con TSH entre 4.1 y 10 con TPO negativas la decisión es controversial dado que los estudios aún no son concluyentes.
+
+Por otra parte, el iniciar tratamiento farmacológico en un hipotiroidismo subclínico se indica solo si se encuentra en alguno de los 3 escenarios anotados previamente, de resto no hay evidencia que respalde el tratamiento con levotiroxina, por ejemplo el caso de Valentina no tiene indicación del manejo farmacológico. En cuanto al tamizaje, recordemos futuro R1 que dada la baja prevalencia de hipotiroidismo primario establecido en mujeres gestantes, se recomienda su evaluación como búsqueda específica de casos y no como tamización universal, por lo que en una paciente sana, sin antecedentes personales o familiares (enfermedad tiroidea u otra autoinmune, con bocio, anticuerpos antitiroideos, síntomas de disfunción tiroidea, diabetes mellitus tipo 1 u otra enfermedad autoinmune, historia de aborto o parto prematuro, infertilidad, historia de radioterapia en cabeza o cuello, tratadas con amiodarona, interferón o litio, provenientes de área deficitaria de yodo y mayores de 30 años), no se recomienda la tamización. Finalmente, esta paciente no tiene la indicación de realizar una ecografía de tiroides, recordemos que se indica para pacientes con nódulos palpables o sospecha de nódulo tiroideo, no es una estrategia de tamizaje.
+
+El iniciar tratamiento farmacológico en un hipotiroidismo subclínico se indica si se encuentra en alguno de los 3 escenarios mencionados previamente, de resto no hay evidencia que respalde el tratamiento con levotiroxina, como en el caso de Valentina que no tiene indicación del manejo farmacológico dado su TSH en 4 con TPO negativo.
+
+- En cuanto al tamizaje, recordemos que, dada la baja prevalencia de hipotiroidismo primario establecido en mujeres gestantes, se recomienda su evaluación como búsqueda específica de casos y no como tamización universal, por lo que en una paciente sana, sin antecedentes personales o familiares (enfermedad tiroidea u otra autoinmune, con bocio, anticuerpos antitiroideos, síntomas de disfunción tiroidea, diabetes mellitus tipo 1, etc), no se recomienda la tamización.
+•	Finalmente, esta paciente no tiene la indicación de realizar una ecografía de tiroides, recordemos que se indica para pacientes con nódulos palpables o sospecha de nódulo tiroideo.
+
+Lectura recomendada:
+●	Noreña E. et all. Hipotiroidismo en la gestación. XX Curso de Actualización para Médicos Generales. 2020.
+
+
+#Marta, 46 años, estaba tomando alcohol y comenzó a tener palpitaciones de inicio súbito desde hace 1h. Niega disnea, dolor y mareos. Ha tenido episodios previos, pero autolimitados. Examen físico: T 36,8°C, FC 180/min, FR 18/min, PA 130/82 mmHg, SatO2 97% al ambiente. La exploración física es normal. ECG: QRS < 100 ms, Ausencia de ondas P, Mínima depresión del ST (más notable en la derivación I), Alternancia del QRS. La maniobra de valsalva modificada es ineficaz. ¿Cuál es la mejor conducta?
+#A.	Administrar adenosina IV dosis inicial de 12 mg.
+#B.	Administrar verapamilo VO 480 mg
+#C.	Realizar cardioversión eléctrica
+#D.	Administrar digoxina IV 15 mcg/kg
+#Respuesta correcta: A
+#Tema e ítem: taquiarritmias - ¿Cómo tratarlas?
+
+Argumento: El ECG que muestra complejos QRS estrechos regulares sin ondas P claras (ocultas dentro de los complejos QRS) sugiere taquicardia por reentrada nodal auriculoventricular (TRNAV), una taquicardia supraventricular causada por un circuito de reentrada en el nodo AV. El estrés, el alcohol y la cafeína pueden desencadenar episodios de TRNAV. La alternancia del QRS es más característica de la taquicardia auriculoventricular reciprocante (AVRT), pero también puede estar presente en la TRNAV. Si las maniobras vagales no ponen fin a la TRNAV, la administración de adenosina IV es el siguiente paso, tiene un rápido inicio de acción y resuelve más del 80% de los casos. Durante la administración los pacientes deben estar en decúbito supino y someterse a una monitorización continua. La adenosina ralentiza la conducción en el nódulo AV, lo que provoca un bloqueo cardíaco de corta duración, que puede crear una sensación incómoda. Los efectos adversos incluyen rubor y disnea, hipotensión y bradicardia. Los pacientes con asma y enfermedad reactiva de las vías respiratorias no deben recibirla por el riesgo de broncoespasmo.
+
+- El verapamilo puede terminar la TRNAV, pero generalmente se considera un agente de segunda línea. Los efectos adversos incluyen hipotensión y bradicardia. El verapamilo también puede utilizarse en la fibrilación auricular, el flutter auricular y la taquicardia auricular multifocal.
+- La cardioversión eléctrica es la opción de tratamiento de elección en pacientes con taquicardia supraventricular que presentan signos de inestabilidad hemodinámica. Marta está hemodinámicamente estable, por lo que se prefiere una estrategia de manejo alternativa.
+- La digoxina puede terminar la TRNAV, pero generalmente se considera un agente de segunda línea, en particular porque la digoxina tiene un índice terapéutico bajo; la toxicidad puede causar arritmias cardíacas, síntomas gastrointestinales (náuseas, vómitos, dolor abdominal), síntomas neurológicos (confusión, debilidad, letargo) y cambios visuales. La digoxina también puede utilizarse en la fibrilación auricular.
+
+Lectura recomendada:
+•	Daniel Ribero, Juan Jaramillo, Jairo Gándara. Enfoque del paciente con palpitaciones. Medellín: XXI Curso de actualización en medicina interna. Facultad de Medicina, Universidad de Antioquia. 2021.
+
+
+#Pedro, 40 años, consulta por palpitaciones y mareos durante 1 sem. Examen físico: FC 65/min. ECG: QRS estrecho, frecuencia auricular de 240/min en un patrón en diente de sierra. Se administra verapamilo y se obtiene mejoría. ¿Qué efecto sobre el sistema de conducción cardiaca puede generar el fármaco administrado en Pedro?
+#A.	Prolongación del periodo refractario de la fibra de Purkinje.
+#B.	Retraso de la repolarización miocárdica ventricular.
+#C.	Prolongación de la repolarización del nodo AV.
+#D.	Disminución de la duración del potencial de acción miocárdico ventricular.
+#Respuesta correcta: C
+#Tema e ítem: Antiarrítmicos - ¿Cuál y cómo usar?¿Qué esperar de cada uno?
+
+Argumento: Los síntomas de Pedro y los hallazgos del ECG son los más compatibles con un flutter auricular. El verapamilo y el diltiazem son antagonistas del calcio no dihidropiridínico que suelen utilizarse como tratamiento de primera línea. La prolongación de la repolarización del nodo AV se observa en pacientes que toman fármacos antiarrítmicos de clase IV como el verapamilo y el diltiazem. Dado que la despolarización de los tejidos nodales (los nódulos sinoauricular y auriculoventricular) depende del movimiento de los iones de calcio, los bloqueadores de los canales de calcio no dihidropiridínicos afectan principalmente a estos tejidos. El resultado final es una prolongación del tiempo de conducción del nodo AV (disminución de la velocidad de conducción) y del período refractario (aumento del período refractario efectivo). Este mecanismo único permite a los fármacos antiarrítmicos de clase IV disminuir eficazmente la automaticidad del nodo en arritmias como el flutter auricular, la fibrilación auricular y las taquicardias supraventriculares. También aumentan el intervalo PR.
+
+- La prolongación del periodo refractario de la fibra de Purkinje puede observarse en pacientes que toman fármacos antiarrítmicos de clase IA y antiarrítmicos de clase III. Los bloqueadores de los canales de calcio tienen poco o ningún efecto directo sobre la conducción o refractariedad ventricular o del tracto de His-Purkinje.
+- La prolongación de la repolarización de los miocitos ventriculares puede ser causada por fármacos antiarrítmicos de clase III, que actúan principalmente bloqueando los canales de potasio cardíacos. Esta repolarización prolongada se manifiesta como un intervalo QT prolongado en el ECG. Los bloqueadores de los canales del calcio se basan en un efecto diferente sobre el sistema de conducción cardiaco para prevenir las arritmias.
+- Se observa una disminución de la duración del potencial de acción miocárdico en pacientes que toman fármacos antiarrítmicos de clase IB (lidocaína, mexiletina). Tienen un bloqueo débil sobre los canales de sodio dependientes de voltaje y son capaces de disminuir la duración del potencial de acción. Tienen efectos vagales, nodales y auriculares mínimos. Son más eficaces en el tratamiento de las taquiarritmias ventriculares.
+
+Lectura recomendada:
+•	Julián Pérez-Villacastín. Arritmias. Teleducación, Facultad de Medicina, Universidad de Antioquia. Disponible en: [https://www.youtube.com/watch?v=KzvF5ICUhTQ](https://www.youtube.com/watch?v=KzvF5ICUhTQ)
+
+
+#Sara, 55 años, hace 2 meses le diagnosticaron cirrosis. Refiere un aumento progresivo de su perímetro abdominal en el último mes. Tomaba mínimo una botella al día de vino desde hace 10 años, lleva 6 sem libre de consumo. Examen físico: IMC 18 kg/m2, T 37°C, FC 89/min, PA 124/76 mmHg. Tiene eritema palmar, rinofima, ictericia escleral y ascitis. Se palpa el borde hepático 5 cm por debajo del reborde costal. Paracentesis: líquido amarillo claro. ¿Cuál es la mejor conducta?
+#A.	Realizar cultivo de líquido peritoneal.
+#B.	Realizar Ecocardiografía.
+#C.	Realizar TAC abdominal.
+#D.	Realizar Endoscopia digestiva alta.
+#Respuesta correcta: D
+#Tema e ítem: Cirrosis - ¿Cómo diagnosticar sus complicaciones?
+
+Argumento: Sara debe ser evaluada por una complicación que afecta aproximadamente a la mitad de los pacientes con cirrosis hepática. Se debe realizar una endoscopia digestiva alta a todos los pacientes con cirrosis hepática recién diagnosticada para detectar várices esofágicas, que son un factor de riesgo de hemorragia potencialmente mortal. El tratamiento profiláctico con betabloqueadores no selectivos (propranolol, nadolol) o la ligadura endoscópica de las varices está indicada en pacientes con várices de alto riesgo (varices grandes con alta presión en la pared). La endoscopia debe repetirse a intervalos regulares que van de anuales a cada 3 años, dependiendo de la presencia y el tamaño de las varices y de si el paciente tiene una lesión hepática en curso (consumo continuado). Además, los pacientes con cirrosis deben someterse a una ecografía abdominal a intervalos de 6 meses con control periódico de la alfafetoproteína para detectar carcinoma hepatocelular, deben repetir las pruebas de laboratorio cada 6 meses para recalcular la puntuación Child-Pugh y la puntuación del Modelo de Enfermedad Hepática Terminal, y deben ser evaluados clínicamente para detectar encefalopatía hepática de forma periódica.
+
+- Los cultivos de líquido peritoneal deben obtenerse si se sospecha peritonitis bacteriana espontánea (PBE). La PBE ocurre casi exclusivamente en individuos con cirrosis y ascitis. El empeoramiento de la ascitis puede ser un signo de PBE. Aunque los síntomas de la PBE pueden ser sutiles, suelen presentarse características adicionales como dolor abdominal difuso, fiebre, náuseas, cambios en el estado mental y líquido peritoneal turbio.
+- La ecocardiografía se utiliza para evaluar la cardiomiopatía alcohólica, una complicación común del consumo excesivo de alcohol a largo plazo que conduce a la insuficiencia cardíaca congestiva (ICC). Sara no presenta síntomas ni hallazgos en la exploración física de ICC. No existen recomendaciones para realizar un cribado rutinario de cardiomiopatía en pacientes asintomáticos con trastorno por consumo de alcohol.
+- La TAC abdominal con contraste puede utilizarse para evaluar la presencia de carcinoma hepatocelular (CHC). Se recomienda el cribado periódico a intervalos de 6 meses en todos los pacientes diagnosticados de cirrosis. Pero la ecografía abdominal es la modalidad de elección. Puede utilizarse una TAC si la evaluación ecográfica es limitada (cirrosis grave) o como prueba confirmatoria por lesión sospechosa.
+
+Lectura recomendada:
+•	Eric Goldberg, Sanjiv Chopra. Cirrhosis in adults: Overview of complications, general management, and prognosis. Available on UpToDate Advanced 2023.
+
+
+#Carlos, 58 años, consulta por hemoptisis desde hace 2h. Lleva 6 meses con disnea progresiva y tos productiva. Tiene HTA y EPOC. Examen físico: T 37,2°C, FC 118/min, FR 22/min, PA 97/63 mmHg, SatO2 89% al ambiente. Hay disminución del murmullo vesicular bilateral. Paraclínicos: Hb 11,5 g/dL, WBC 8800/mm3, Plq 160.000/mm3, pruebas de coagulación normales. Se intubó y se puso en decúbito lateral derecho. Rx: hiperinsuflación y nódulo (2 cm) en lóbulo inferior derecho. ¿Cuál es la mejor conducta?
+#A.	Realizar TAC de tórax.
+#B.	Realizar broncoscopia.
+#C.	Llevar a cirugía.
+#D.	Realizar arteriografía
+#Respuesta correcta: B
+#Tema e ítem: Hemoptisis - ¿Cómo manejarla en un contexto agudo?
+
+Argumento: Carlos presenta hemoptisis masiva y un nódulo pulmonar en la radiografía. Tras asegurar sus vías respiratorias y su función cardiovascular, se debe localizar la fuente de la hemorragia. Los pasos iniciales en el manejo de la hemoptisis masiva potencialmente mortal implican la colocación correcta del paciente, la protección de las vías respiratorias y el soporte cardiovascular. Una vez estabilizado el paciente, se realiza una broncoscopia para identificar el origen de la hemorragia y detenerla. Si la hemorragia no puede controlarse mediante broncoscopia, debe intentarse la arteriografía con embolización o la cirugía. En pacientes con signos de coagulopatía, o en aquellos que toman anticoagulantes, puede estar justificada la transfusión de productos sanguíneos o la administración de agentes de reversión. El cuadro de Carlos sugiere una hemorragia pulmonar debida a un carcinoma broncogénico.
+
+- La TAC de tórax está indicada en pacientes con una lesión nueva detectada en la radiografía de tórax. La TAC también puede utilizarse para identificar el lugar de la hemorragia en pacientes con hemoptisis y debe realizarse dentro de las primeras 12-24 horas de la manifestación de los síntomas. Sin embargo, en este paciente con hemorragia activa y signos vitales que indican compromiso hemodinámico, debe realizarse primero otra modalidad de manejo.
+- Debe considerarse la cirugía en pacientes con hemorragia unilateral no controlable mediante tratamientos de primera y segunda línea. Aún no se ha intentado controlar la hemoptisis de este paciente. Además, la resección pulmonar, especialmente en pacientes con hemorragia pulmonar activa, se asocia a una elevada morbilidad y mortalidad y requiere en primer lugar una evaluación de la capacidad del paciente para someterse a cirugía. Carlos tiene EPOC, lo que puede contraindicar la cirugía.
+- La arteriografía puede utilizarse para identificar un foco de hemorragia intrapulmonar y detener la hemorragia mediante embolización. Aunque esta opción de tratamiento está indicada en pacientes con hemoptisis persistente tras el fracaso del tratamiento de primera línea, todavía no se han intentado otras medidas hemostáticas en este paciente.
+
+Lectura recomendada:
+•	David H Ingbar, Erhan Dincer. Evaluation and management of life-threatening hemoptysis. Available on UpToDate Advanced 2023.
+
+
+#Juan, 41 años, consulta por náuseas, malestar abdominal posprandial y diarrea desde antier. Tiene calambres en las extremidades. Hace 4 días le hicieron una tiroidectomía total por lesión de células de Hurthle. Examen físico: T 36°C, FC 72/min, FR 20/min, PA 130/70 mmHg. Al colocar el tensiómetro se nota un espasmo en la mano. Paraclínicos: Na 138 mEq/L, K 4.2 mEq/L, CL 102 mEq/L, HCO3 25 mEq/L,  Mg 1.7 mEq/L, F 4.3 mEq/L, 25-hidroxivitamina D 20 ng/mL, PTH 2 pg/mL. ¿Cuál es la mejor conducta?
+#A.	Administrar hormona paratiroidea subcutánea.
+#B.	Vitamina D VO 50.000 UI por semana durante 6 semanas.
+#C.	Gluconato de calcio IV 1 g en 50 cc de SSN en 15 min.
+#D.	Magnesio IV 2 g en infusión inicial en solución al 10% en 15 min.
+#Respuesta correcta: C
+#Tema e ítem: hipocalcemia - ¿Cómo tratarla?
+
+Argumento: Un espasmo que se desarrolla como resultado del inflado del manguito del brazo durante la medición de la tensión arterial es coherente con el signo de Trousseau. Dar golpecitos en la mejilla de este paciente probablemente provocará la contracción de los músculos faciales (signo de Chvostek). El cuadro clínico de Juan es compatible con hipocalcemia aguda. La aparición de hipocalcemia aguda 2 días después de la tiroidectomía sugiere hipoparatiroidismo iatrogénico, la causa más común de hipoparatiroidismo primario. Durante la cirugía tiroidea, las cuatro glándulas paratiroides pueden lesionarse accidentalmente. El gluconato cálcico intravenoso es el tratamiento de primera línea para la hipocalcemia aguda, gravemente sintomática. La administración oral es preferible en pacientes con hipocalcemia leve y/o crónica. Los pacientes que reciben glucósidos cardíacos (digoxina y digitoxina) nunca deben recibir calcio IV porque potencia la toxicidad de los digitálicos y puede provocar fibrilación ventricular.
+
+- La hormona paratiroidea (PTH) recombinante subcutánea puede utilizarse en pacientes con hipoparatiroidismo iatrogénico, que puede ocurrir por la extirpación incidental de la glándula paratiroides. La PTH recombinante sólo está indicada para el tratamiento a largo plazo del hipoparatiroidismo en pacientes que no han respondido al tratamiento de primera línea. Juan requiere un manejo más inmediato.
+- La vitamina D oral está indicada en la deficiencia de vitamina D, que se manifiesta con hipocalcemia. La vitamina D oral también suele estar indicada para el tratamiento a largo plazo del hipoparatiroidismo, ya que las concentraciones bajas de PTH no pueden estimular la producción renal de 1,25-dihidroxivitamina D. Juan requiere un manejo más inmediato.
+- La suplementación con magnesio está indicada para el manejo de la hipomagnesemia, que puede causar una disminución de la secreción de hormona paratiroidea (PTH) e inducir resistencia a la PTH con el consiguiente desarrollo de hipocalcemia. Aunque la presentación de este paciente es consistente con hipocalcemia, y sus niveles de PTH están disminuidos, sus niveles de magnesio están dentro de límites normales, haciendo que una opción de manejo diferente sea más apropiada en este momento.
+
+Lectura recomendada:
+•	David Goltzman. Treatment of hypocalcemia. Available on UpToDate Advanced 2023.
+
+
+#Juan, 38 años, consulta por 3 días de fiebre cuantificada (39,4°C), cefalea, mialgias, artralgias, vómitos persistentes, diarrea y dolor lumbar. Regresó la semana pasada de un viaje del Chocó. Examen físico: T 39,4°C, FC 80/min, PA 120/80 mmHg. Se observa petequias en el brazo derecho después de la medición de la PA. Paraclínicos: Hto 41%, WBC 2850/mm3, Plq 82.000/mm3, ALT 192 U/L, AST 176 U/L, Cr 1,4 mg/dL. ¿Cual es la mejor conducta?
+#A.	Iniciar bolos con cristaloides hasta obtener PAM >80 + nuevo hemograma en 6h + comentar con servicio de cuidados intensivos.
+#B.	Hospitalizar + administrar Ringer 10 ml/Kg/hora + nuevo hemograma en 12h.
+#C.	Hospitalizar + administrar SSN (0.9%) 30 ml/Kg/hora + ECG + TP/TTP.
+#D.	Remitir a centro que cuente con UCI + iniciar bolos con SSN 20 ml/kg + nuevo hemograma en 12h
+#Respuesta correcta: B
+#Tema e ítem: Dengue con signos de alarma en el adulto - ¿Cuál es el manejo ideal?
+
+Argumento: Juan tiene una presentación típica de infección por el virus del dengue. Este flavivirus es endémico en Sudamérica, lo transmite la especie de mosquito Aedes y es una causa frecuente de fiebre en los viajeros de Sudamérica. La incubación va hasta 2 semanas, la enfermedad sintomática se manifiesta con la aparición rápida de fiebre alta, cefalea, dolor retroorbital, mialgia, artralgia y lumbalgia. Es característica la aparición de petequias tras desinflar un manguito de presión arterial (prueba del torniquete positivo). Puede haber erupción maculopapular. La leucopenia, la trombocitopenia y los niveles elevados de aminotransferasa hepática son hallazgos de laboratorio frecuentes. Futuro R1, es fundamental conocer los signos de alarma en dengue, los identificados en Juan son la emesis persistente, diarrea, trombocitopenia. Juan hace parte del Grupo B, por lo que debe recibir manejo intrahospitalario en un segundo nivel de atención, con reposición de líquidos (comenzar por 10 ml/Kg/hora/48 horas), hemograma cada 12-24h.
+
+- Juan no se encuentra en un estado de choque, por lo que en su atención inicial no es requerida la administración de bolos. Además, por pertenecer al grupo B, debe recibir monitorización del hematocrito cada 12-24h, aparte de que puede ser atendido en un segundo nivel de atención.
+- Recordar que, en este grupo de pacientes, la reposición de líquidos comienza con 10 ml/Kg/hora y se va titulando según la respuesta. El ECG sólo está indicado en casos de alteraciones del ritmo cardiaco (observadas clínicamente) y a necesidad en el Grupo C.
+- Nuevamente, recordar que el ingreso a UCI se destina para aquellos pacientes que se encuentran en un estado de choque (Grupo C). Por el momento Juan no cumple criterios para remisión a un mayor nivel de complejidad.
+
+Lectura recomendada:
+•	Ministerio de Salud. DENGUE, MEMORIAS. Federación Médica Colombiana. Colombia, 2013
+
+
+#Sara, 49 años, consulta por cefalea intensa y súbita desde ayer, la cual alcanzó su máxima intensidad en 1 minuto. Sus signos vitales son normales. Presenta rigidez nucal. No alteración de conciencia ni focalización neurológica. Se realiza una TAC de cráneo simple que es normal. Citoquímico de LCR: aspecto amarillento posterior al centrifugado. ¿Cual es la mejor conducta?
+#A.	Realizar panangiografía cerebral
+#B.	Repetir nueva punción lumbar dentro de 12 horas + Nimodipino 60 mg cada 4 horas
+#C.	Realizar venografía cerebral por resonancia magnética
+#D.	Administrar sumatriptán vía oral 100 mg
+#Respuesta correcta: A
+#Tema e ítem: Hemorragia subaracnoidea confirmada - ¿Cuál es la conducta a seguir?
+
+Argumento: Sara es atendida 24h después de la aparición de una cefalea en trueno. Aunque en ocasiones es de origen primario, la cefalea en trueno es una urgencia médica que requiere una evaluación diagnóstica inmediata. El diagnóstico diferencial de la cefalea en trueno es amplio; el más grave es la hemorragia subaracnoidea aneurismática (HSA). Una pequeña proporción (menos del 5%) de los pacientes con HSA aneurismática tendrán un TAC craneal negativo para hemorragia y requerirán una punción lumbar para descartar esta afección. En los pacientes con HSA, los resultados de la punción lumbar realizada entre 12 y 24 horas después del inicio de los síntomas revelarán recuentos eritrocitarios elevados y xantocromía (color amarillo causado por la descomposición de los glóbulos rojos). La arteriografía cerebral de 4 vasos (panangiografía cerebral) es el estándar de oro para la identificación y caracterización de aneurismas cerebrales. Permite una visualización detallada de la vasculatura cerebral y es fundamental para planificar el tratamiento endovascular o quirúrgico. Su alta resolución y capacidad para guiar intervenciones terapéuticas la hacen esencial en este contexto.
+
+- La clínica y la xantocromía ya indican la realización de una neuroimagen en lugar de esperar más tiempo para la realización de una nueva punción lumbar. El nimodipino se usa para prevenir el vasoespasmo, una complicación de la hemorragia subaracnoidea. Su administración es secundaria a la confirmación y tratamiento del aneurisma causal.
+- La venografía cerebral por resonancia magnética no está indicada porque no hay sospechas de trombosis del seno dural, como un estado hipercoagulable o el uso de anticonceptivos orales; la HSA es el diagnóstico inicial posible de mayor riesgo. Si se descarta la HSA, debe considerarse la obtención de imágenes venosas, especialmente si los hallazgos de la TC sugieren trombosis (hiperdensidad en la TC sin contraste de la cabeza).
+- No debe administrarse sumatriptán oral porque el paciente tiene una presentación atípica para la migraña, y el sumatriptán puede empeorar los resultados en pacientes con HSA aneurismática o RCVS.
+
+Lectura recomendada:
+•	Greenberg SM, et al. American Heart Association/American Stroke Association. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage: A Guideline From the AHA/American Stroke Association. Stroke. 2022 Jul;53(7):e282-e361.
+
+
+#Lucas, 30 años, padece lupus eritematoso sistémico diagnosticado desde hace 5 años, toma hidroxicloroquina y prednisona. Consulta por disnea de esfuerzo progresiva de 3 días de evolución, tos seca y fiebre (38,5°C). Niega hemoptisis. Se auscultan crépitos bilaterales. Paraclínicos: HB 9 g/dL (Hb mes pasado: 11 g/dL), WBC 3.500/mm³, Plq 150.000/mm³, ANA (+), anti-DNA ↑ , PCR ↑. TAC de tórax: opacidades bilaterales en vidrio esmerilado. ¿Cuál es el diagnóstico más probable?
+#A.	Neumonía bacteriana bilateral complicada
+#B.	Edema pulmonar cardiogénico
+#C.	Hemorragia alveolar difusa
+#D.	Tromboembolismo pulmonar
+#Respuesta correcta: C
+#Tema e ítem: Emergencias en lupus – Reconociendo la hemorragia alveolar difusa como complicación devastadora del LES
+
+Argumento: Las características clínicas de Lucas sugieren una hemorragia alveolar difusa (HAD), una de las complicaciones más devastadoras del lupus eritematoso sistémico (LES) (mortalidad entre 50-92%). En muchas ocasiones no se logra identificar estos casos o que quizá muchos cursan como una manifestación subclínica. Es importante recordar que la hemoptisis puede estar ausente en más de un tercio de los pacientes y el descenso en la hemoglobina apoya bastante el diagnóstico. Este caso ilustra la importancia de considerar la hemorragia alveolar difusa como una complicación grave en pacientes con LES, la combinación de disnea, fiebre, hallazgos radiológicos y disminución de la hemoglobina en un paciente con LES activo sugiere fuertemente HAD. Las terapias más utilizadas son la metilprednisolona ( primeros 3 días) en dosis de pulsos, la ciclofosfamida y recambios plasmáticos. La HAD en LES puede también deberse a infecciones, por lo que se recomienda la terapia antibiótica en aquellos con alta sospecha de infección.
+
+- Neumonía bacteriana: Aunque la fiebre y la tos podrían sugerir neumonía, la ausencia de un foco infeccioso claro, los hallazgos radiológicos y los antecedentes de lupus hacen menos probable esta opción.
+- Edema pulmonar cardiogénico: Aunque puede haber opacidades en vidrio deslustrado en la TAC, la historia clínica no sugiere insuficiencia cardiaca. Además, la leucopenia y la elevada actividad del LES apuntan hacia una causa relacionada con el lupus.
+- Embolia pulmonar: Aunque puede presentarse con disnea y alteraciones en la tomografía, la embolia pulmonar no explicaría la fiebre ni los hallazgos hematológicos, sobre todo en el contexto de un lupus activo.
+
+Lectura recomendada:
+•	Andrés Felipe Ramírez. Emergencias en lupus ¿Cuándo actuar con rapidez?. Medellín: XXI Curso de actualización en medicina interna. Facultad de Medicina, Universidad de Antioquia. 2021
+
+
+#Pedro, 61 años. Tiene DM2 no insulinorequiriente. Lleva 3 días hospitalizado por un EPOC exacerbado y comienza a presentar hiperglucemias. Tiene buena tolerancia oral. Pesa 60 Kg (IMC 24). Glicemia al ingreso: 170 mg/dL. Glicemias pre y postprandiales, entre 225 y 250 mg/dL, HBA1c 8.5% de hace 2 meses. ¿Cuál es la mejor conducta?
+#A.	Iniciar insulina Glargina 12U + Glulisina correctiva de 4U
+#B.	Iniciar insulina Glargina 6U + Glulisina prandial 4U + Glulisina correctiva de 6U
+#C.	Iniciar insulina Glargina 12U + Glulisina prandial 4U
+#D.	Iniciar insulina Glargina 15U + Glulisina prandial 5U + Glulisina correctiva de 10U
+#Respuesta correcta: C
+#Tema e ítem: Manejo del paciente diabético hospitalizado – ¿Cuál es el esquema de insulinización ideal para mi paciente?
+
+Argumento: La medición de la glucosa en el punto de atención es importante para identificar la hiperglucemia en pacientes hospitalizados. Siendo estrictos con las guías de práctica clínica, el tratamiento más adecuado de la hiperglucemia de este paciente es el inicio de insulina basal, prandial y correctiva. La Asociación Americana de Diabetes (ADA) recomienda el inicio de la insulinoterapia para el tratamiento de la hiperglucemia persistente a partir de un umbral de 180 mg/dL. Una vez iniciada la insulinoterapia, se recomienda un intervalo de glucosa objetivo de 140 a 180 mg/dL para la mayoría de los pacientes críticos y no críticos.
+
+La ADA 2023 recomienda iniciar un régimen de insulina con componentes basales, prandiales y de corrección para la mayoría de los pacientes hospitalizados que no están en estado crítico y con una buena tolerancia a la vía oral. Este enfoque conduce a mejores resultados y evita grandes fluctuaciones en los valores de glucosa a lo largo del día. Muchos pacientes logran metas con esquemas basal-bolo sin necesidad de añadir esquemas de correción, por lo que se puede optar por iniciar con este y según respuesta, definir esquemas suplementarios. Pedro pertenece al grupo de “sensibilidad usual” (buena tolerancia a la vía oral, sin sobrepeso, son glicemia al ingreso de 170 mg/dL). Por lo que su dosis total diaria (DTD) sería de de 0,4 U/kg/día (24U), la mitad de este se aplica basal (12U de glargina) y la otra mitad se divide en las 3 comidas principales del día (4U de glulisina).
+
+- Se pueden usar esquemas sin bolos (basal + correctiva) en pacientes con alto riesgo de hipoglucemia. Sin embargo, este no es el caso de Pedro, a parte de que la dosis correctiva sugerida (4U) sería insuficiente por sus niveles de glucometrías.
+- En la opción B, se puede observar que tanto la dosis basal como la correctiva son insuficientes por el peso y DTD
+- En la opción D, al sumar las prandiales y la basal (30U) se puede observar que se eligió una DTD (0,5 U/kg/día) para pacientes resistente a la insulina (Glicemia al ingreso 201 – 400 mg/dL, Sobrepeso u obesidad, Uso de esteroides, DTD de insulina ambulatoria >80 U/día), algo inapropiado en el contexto de Pedro.
+
+Lectura recomendada:
+•	Elisa Bernal. Manejo del paciente diabético hospitalizado. Medellín: XX Curso de actualización en medicina interna. Facultad de Medicina, Universidad de Antioquia. 2020
+
+
+#Carlos, 47 años, desde hace unos meses comenzó a presentar dolor urente en epigastrio asociado a anemia ferropénica. Se confirmó el diagnóstico de una úlcera duodenal asociada a Helicobacter pylori. Carlos ya completó un ciclo de amoxicilina, claritromicina y omeprazol hace 6 semanas. ¿Cuál es la conducta más apropiada?
+#A.	Realizar una prueba de antígeno fecal de Helicobacter pylori
+#B.	Repetir esquema de manejo y realizar una prueba serológica de Helicobacter pylori
+#C.	Repetir endoscopia digestiva alta con prueba rápida de ureasa
+#D.	Suspender el omeprazol por 1 mes y repetir la endoscopia digestiva alta con biopsia para histología
+#Respuesta correcta: A
+#Tema e ítem: Seguimiento del H. pylori.
+
+Argumento: Una vez finalizado el tratamiento de las úlceras asociadas a Helicobacter pylori, debe confirmarse la erradicación de la bacteria mediante una prueba de antígenos en heces o una prueba de aliento con urea.
+
+El Colegio Americano de Gastroenterología recomienda que se confirme la erradicación de Helicobacter pylori en cualquier paciente que tenga una úlcera asociada a H. pylori con complicaciones como hemorragia. La prueba del antígeno fecal de H. pylori es un método sencillo para confirmar la erradicación. No debe realizarse hasta al menos 4 semanas después de la finalización de la terapia para evitar resultados erróneos. También puede utilizarse una prueba de aliento con urea para confirmar la erradicación. El tratamiento con un inhibidor de la bomba de protones debe interrumpirse 2 semanas antes de la prueba.
+
+- Aunque tanto las pruebas histológicas como las de ureasa rápida pueden utilizarse en el momento de la endoscopia para el diagnóstico de la infección por H. pylori, sólo deben realizarse si está clínicamente indicada una endoscopia digestiva alta.
+- Se recomienda repetir la endoscopia digestiva alta en pacientes con úlceras gástricas, para evaluar una posible malignidad, pero no se recomienda en pacientes con úlceras duodenales.
+- Las pruebas serológicas no son útiles para el seguimiento, dado que los anticuerpos pueden permanecer positivos durante años tras la finalización de un tratamiento exitoso.
+
+Lectura recomendada:
+•	Jhon Carvajal. Helicobacter pylori, ¿cómo tratar en el 2022?. Medellín: XXI Curso de actualización en medicina interna. Facultad de Medicina, Universidad de Antioquia. 2022
+
+
+#Lactante masculino de 3 meses, traído a consulta por sus padres debido una ‘’masa’’ a nivel de escroto derecho que han notado desde el nacimiento y que ha aumentado su tamaño en las últimas semanas. Niegan alzas térmicas, irritabilidad, rechazo a los alimentos u otra sintomatología asociada. La madre no refiere antecedentes perinatales relevantes, realizó todos los controles, recién nacido a término, alta temprana. Al examen físico se palpa una masa escrotal derecha no dolorosa, sin lesiones focales, retinente, translúcida, y que no reduce a la presión manual. La ecografía escrotal reporta marcado hidrocele derecho sin alteraciones eco estructurales.
+¿Cuál de las siguientes conductas es la adecuada?
+#A. Realizar para corrección quirúrgica urgente
+#B. Realizar corrección quirúrgica una vez cumplido el primer año de vida
+#C. Realizar punción y aspiración con aguja fina
+#D. Manejo expectante con seguimiento periódico hasta el año de vida
+#Respuesta correcta: D
+#Tema e ítem: Hidrocele en el primer año de vida - ¿Siempre se debe operar?
+Argumento: La hidrocele hace referencia a la acumulación de líquido entre las capas parietal y visceral de la túnica vaginal, alrededor del testículo, secundario al cierre incompleto del conducto peritoneo vaginal. Cuando existe comunicación con la cavidad abdominal se conoce como hidrocele comunicante, es el más frecuente en los niños. Cuando no hay conexión se denomina hidrocele no comunicante o simple.
+
+La clínica se manifiesta como un agrandamiento en el testículo posterior a la actividad, durante el día o con la bipedestación y desaparece en las mañanas. Es indoloro y no se acompaña de signos inflamatorios. Al examen físico se puede evidenciar una masa en el escroto, retinente y translucida. Las hidroceles no comunicantes NO cambian de tamaño con maniobras ni durante el examen físico. El diagnóstico es clínico, pero cuando no es clara la etiología de la lesión escrotal puede solicitarse una ecografía testicular con una sensibilidad aproximada del 100 %.
+
+El manejo es expectante hasta el año de vida, ya que con frecuencia la mayoría resuelven solos (Respuesta correcta D). Cuando se trata de hidroceles comunicantes está indicada la corrección quirúrgica.
+
+- La cirugía urgente no es el tratamiento de primera línea para una hidrocele no comunicante en un lactante de 3 meses, especialmente si es asintomático. Como se había mencionado, la mayoría de las hidroceles en lactantes tienden a resolverse espontáneamente durante el primer año de vida.
+- La punción y aspiración del líquido de la hidrocele no es un tratamiento recomendado debido a que aumenta el riesgo de infección y recurrencia. Además, no resuelve la causa subyacente de la patología.
+
+Lectura recomendada:
+
+1. Chams Anturi, A. Valencia Valencia, L. Patología quirúrgica ambulatoria. Medellín: Facultad de Medicina, Universidad de Antioquia, XXXIX Memorias Curso de Actualización en Pediatría; 2023.
