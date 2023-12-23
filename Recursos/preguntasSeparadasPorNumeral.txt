@@ -13287,3 +13287,1063 @@ Lectura recomendada:
 
 1. Turner AR, Collier SA, Turner SD. Boerhaave Syndrome. [Updated 2023 Dec 4]. In: StatPearls [Internet]. Treasure Island (FL):
 2. Edwin J. Ariza Parra. Enfoque diagnóstico de dolor torácico agudo. XVII Memorias Curso de Actualización en Medicina Interna (2017). Medellín: Universidad de Antioquia
+
+#Varón de 41 años, es remitido de la consulta externa por aparición de lesión ocupante espacio (LOE) en región cervical anterior. Niega historial de dolor, disfagia, cambios en la voz u otra sintomatología asociada. A la exploración se evidencia una LOE en lóbulo tiroideo derecho de bordes irregulares, consistencia dura, no doloroso a la palpación o movilización, de aproximadamente 17 x 20 mm. Paraclínicos: TSH 4.2 mUI/L (VRN: 0.4- 5). Trae reporte de ecografía de tiroides, la cual evidencia un nódulo tiroideo sólido hipoecoico de 17.5 mm, más ancho que alto, bordes mal definidos, sin evidencia de calificaciones, categoría EU-TIRADS 4.
+¿Cuál sería la conducta adecuada a seguir en este paciente?
+#A. Realizar aspiración con aguja fina (ACAF)
+#B. Realizar seguimiento ecográfico del nódulo en 6 meses
+#C. Realizar TAC de cuello como estudio de extensión
+#D. Realizar seguimiento ecográfico en 12 meses y según resultados definir si la lesión requiere ACAF como estudio de extensión
+#Respuesta correcta: A
+#Tema e ítem: Nódulo tiroideo (NT) – Repasando las recomendaciones de la guía europea 2023
+
+Argumento: La prevalencia de malignidad en los nódulos tiroideos es del 7-15 % aproximadamente y es independiente del tamaño del nódulo. El principal reto en el abordaje del paciente con NT es definir si es benigno o maligno.
+
+Todo paciente con NT palpable debe tener inicialmente una TSH. Si la TSH está suprimida va a gammagrafía de tiroides y con TSH normal o alta va a ecografía (como es el caso de este paciente). Los hallazgos ecográficos deben ser evaluados mediante la clasificación EU-TIRADS si nos basamos en las directrices de la guía europea, la cual permite con base a las características definir si amerita aspirado con aguja fina (ACAF). Para fines prácticos de examen de residencia, la guía recomienza realizar ACAF como estudio de extensión de un NT cuando el tamaño es:
+• >10 mm (> 1 cm) cuando la clasificación es EU-TIRADS 5
+• >15 mm (> 1.5 cm) cuando la clasificación es EU-TIRADS 4 (Respuesta correcta A)
+• >20 mm (> 2 cm) cuando la clasificación es EU-TIRADS 3
+
+Recuerda, los NT menores de 1 cm NO son candidatos para realizar ACAF, y la conducta adecuada a seguir siempre será realizar ecografía de seguimiento en 6 a 12 meses.
+
+Lectura recomendada:
+
+1 . Durante C, Hegedus L, Czarniecka A, Paschke R, Russ G, Schmitt F, Soares P, Solymosi T, Papini E. 2023 European Thyroid Association clinical practice guidelines for thyroid nodule management. Eur Thyroid J. 2023 Jun 1:ETJ-23-0067.
+
+
+#Usted atiende el parto de un recién nacido masculino de 3485 g, con una edad gestacional de 37 semanas. El paciente hace muecas y tiene un llanto débil, tiene algunos movimientos de flexión, el tronco es rosado con cianosis distal, con respiración irregular y una FC de 93 lpm. Usted pinza el cordón, seca al recién nacido, posiciona la vía aérea y estimula al paciente. Lo revalora y tiene una FC de 95 lpm. ¿Cuál de los siguientes es el siguiente paso más apropiado?
+#A. Iniciar contacto piel a piel con la madre y reevaluar
+#B. Pasar a lámpara de calor radiante y aspirar secreciones
+#C. Ventilación con presión positiva por 30 segundos
+#D. Iniciar compresiones
+#Respuesta correcta: C
+#Tema-Ítem: Reanimación neonatal – Algoritmo: ¿Cuándo iniciar ventilación con presión positiva (VPP)?
+
+Argumento: Este recién nacido, tiene un peso adecuado y nació a término. Al nacer, con un APGAR de CINCO, al parecer hipotónico (algunos movimientos de flexión) y con respiración irregular. Posterior a las maniobras iniciales de reanimación, con frecuencia cardíaca menor de 100 lpm, por lo cual requiere inicio de ventilación con presión positiva.
+
+Es importante tener en cuenta que la mayoría de los recién nacidos no van a requerir maniobras de resucitación ni pinzamiento inmediato del cordón umbilical al nacer: Solo 10% necesitan ayuda para empezar a respirar y 1% requerirán medidas de reanimación complejas.
+
+Cuando estamos frente a un recién nacido debemos hacernos 3 preguntas básicas:
+
+1. ¿Es una gestación a término?
+2. ¿Tiene buen tono?
+3. ¿Está respirando o llorando?
+
+Si todas las respuestas son afirmativas, el bebé pasa al contacto piel a piel con su madre, donde se realizan los cuidados de rutina: Calentar y mantener la temperatura normal, posicionar vía aérea, aspirar secreciones si es necesario y secar.
+
+Si alguna de las respuestas es NO, el bebé debe moverse a una fuente de calor radiante para realizar las maniobras iniciales:
+•	Mantener la temperatura normal, posicionar la vía aérea, limpiar secreciones (aspirar solo si son copiosas u obstruyen la vía aérea), secar y estimular.
+
+Después de estas maniobras iniciales, debemos revalorar al paciente, haciéndonos estas dos preguntas:
+
+1. ¿Tiene apnea o gasping?
+2. ¿Tiene FC menor de 100 lpm?
+
+Si alguna de estas respuestas es SI, debemos iniciar ventilación con presión positiva (VPP) e iniciar la monitorización electrocardiográfica y de SatO2.
+
+Estas intervenciones, desde el nacimiento hasta el inicio de la VPP, deben demorar 60 segundos, este tiempo se denomina el minuto de oro. Es un período crítico, donde se deben realizar los primeros pasos de la intervención, reevaluar y definir si el paciente requiere maniobras más complejas de reanimación.
+
+Bibliografía recomendada:
+Aziz Khalid; et al. Part 5: Neonatal Resuscitation. 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2020.
+
+
+#Recién nacido masculino de 12 horas de vida, con edad gestacional de 38 semanas, sin complicaciones durante la gestación, con adaptación neonatal espontánea. La madre niega algún antecedente relevante, es su primer embarazo y tuvo 15 controles prenatales. El paciente ya presentó diuresis y meconio. Se realiza tamizaje de cardiopatías congénitas, obteniendo una SpO2 de 92% en la mano derecha y de 93% en pie izquierdo. ¿Cuál considera que es el paso a seguir?
+#A. Se debe repetir después de las 24 horas de vida
+#B. Pasa el tamizaje, no requiere otras intervenciones
+#C. Repetir la medición en una hora
+#D. Hacer ecocardiografía
+#Respuesta correcta: A
+#Tema – Ítem: Examen físico del recién nacido – Tamizaje de cardiopatías congénitas
+
+Argumento: Recién nacido de 12 horas de vida, a término, sin complicaciones en gestación o en el parto. Se realizó el tamizaje de cardiopatías congénitas antes de las 24 horas de vida, por lo que es importante repetirlo después de las 24 horas, cuando se haya completado la transición de la vida fetal a la vida extrauterina.
+
+La cardiopatía congénita es el trastorno congénito más común en los recién nacidos.
+Las lesiones de enfermedad coronaria a las que se dirige el cribado con oximetría de pulso incluye defectos que normalmente requieren intervención en el primer año de vida y se presentan con hipoxemia en parte o la mayor parte del tiempo. Esto puede mejorar la identificación temprana de los pacientes con estos defectos PERO algunos recién nacidos afectados (particularmente los pacientes con coartación de aorta), pueden pasar el tamizaje.
+Algunos de los defectos que se busca encontrar son:
+•	Síndrome del corazón izquierdo hipoplásico
+•	Atresia pulmonar con tabique ventricular intacto
+•	Atresia pulmonar con comunicación interventricular
+•	Tetralogía de Fallot
+•	Conexión venosa pulmonar anómala total
+•	Transposición de las grandes arterias
+•	Atresia tricúspide
+•	Tronco arterioso
+•	Coartación de aorta
+•	Arco aórtico interrumpido
+•	Estenosis aórtica crítica
+•	Estenosis pulmonar crítica
+•	Ventrículo derecho de doble salida
+•	Anomalía de Ebstein
+•	Otros defectos de ventrículo único
+
+La detección debe realizarse después de las 24 horas de vida o lo más tarde posible si se planea el alta temprana. La detección dentro de las primeras 24 horas de vida no es tan específica como la detección posterior, porque la hipoxemia ocurre comúnmente durante la transición de condiciones de vida intrauterinas a extrauterinas.
+
+Se considera tamizaje positivo, si se encuentra cualquiera de las siguientes mediciones:
+
+●Medición de saturación de oxígeno <90% en cualquiera de las extremidades
+●Medición de SatO2 del 90-94% tanto en la mano derecha como en una extremidad inferior en dos o tres mediciones, cada una separada por una hora.
+●Diferencia de SatO2 ≥4 por ciento entre las extremidades superiores e inferiores en dos o tres mediciones, cada una separada por una hora.
+
+Bibliografía recomendada:
+Diller CL; et al. A Modified Algorithm for Critical Congenital Heart Disease Screening Using Pulse Oximetry. Pediatrics. 2018;141(5).
+
+
+#Samuel tiene 7 años. Es llevado por sus padres a su consulta porque en los últimos dos años, el paciente presenta episodios donde suspende abruptamente sus actividades y mira al vacío. En ocasiones también se relamía los labios. Los episodios suelen durar de 1 a 2 minutos y ocurren de 2 a 3 veces por semana. Inicialmente, el niño sólo experimentó estos episodios en la escuela, pero la semana pasada tuvo un episodio mientras jugaba con su padre, quien intentó hablarle pero él no pareció escucharlo. Después del episodio, estuvo confundido durante 10 minutos y demasiado cansado para jugar. El paciente no tiene antecedentes patológicos y su madre refiere que hace un año tuvo un episodio de otitis media aguda y se le administró amoxicilina. El examen físico es completamente normal. ¿Cuál de los siguientes hallazgos es más probable que presente este paciente?
+#A. ECG ictal con complejos punta-onda lentos
+#B. Neurodesarrollo normal
+#C. ECG ictal con picos en lóbulo temporal
+#D. Dificultad para mantener atención durante las tareas
+#Respuesta correcta: C
+#Tema – Ítem: Epilepsia del lóbulo temporal – Características de las crisis y en el ECG
+
+Argumento: Este paciente presenta episodios de alteración de la consciencia que se asocian con automatismos alimentarios (relamerse los labios), ocurren varias veces a la semana durante el reposo así como durante la actividad física, y son seguidos por una fase postictal (confusión, cansancio). Estos episodios son más consistentes con un diagnóstico de convulsiones focales con alteración de la conciencia.
+
+Samuel, presenta antecedentes de convulsiones focales con alteración de la conciencia, que es una característica principal de la epilepsia del lóbulo temporal. Las convulsiones focales se originan en el lóbulo temporal y son causadas por cambios estructurales o daños cerebrales (p. ej., encefalitis, trastornos del desarrollo). La actividad convulsiva se evidencia en el ECG como picos en el lóbulo temporal durante un episodio convulsivo; el ECG interictal suele ser normal. Este paciente debe someterse a una RMN cerebral para determinar las posibles causas subyacentes. El tratamiento consiste en medicamentos como lamotrigina o levetiracetam; la cirugía puede ser necesaria para la enfermedad refractaria. El pronóstico es desfavorable, ya que sólo el 40% de los pacientes permanecen asintomáticos bajo tratamiento farmacológico.
+
+Si bien los episodios de ensoñación pueden ocurrir como parte del desarrollo normal en los niños, los ensoñaciones sin significado patológico a menudo son provocados por el aburrimiento, no ocurren durante la actividad física, pueden interrumpirse y no están asociados con amnesia retrógrada o automatismos (p. ej., relamerse los labios). Los síntomas de este niño son consistentes con convulsiones focales con alteración de la consciencia, que a menudo son causadas por patologías estructurales o metabólicas (p. ej., esclerosis del hipocampo, trastornos del desarrollo y neurodegenerativos, infecciones del SNC, traumatismo craneoencefálico ). Es probable que estas condiciones también se manifiesten con un deterioro del desarrollo neurológico. Además, los pacientes con el trastorno convulsivo focal de este paciente rara vez permanecen asintomáticos a pesar del tratamiento médico.
+
+En niños con diagnóstico de ausencia, se observan complejos generalizados de picos y ondas lentas de 3 Hz en el EEG. Si bien las crisis de ausencia se manifiestan con una breve falta de respuesta y automatismos como relamerse los labios, los episodios suelen ser más cortos (5 a 10 segundos). Las crisis de ausencia atípicas pueden durar > 30 segundos, tener un inicio más gradual y los pacientes pueden responder mejor. Sin embargo, al igual que las típicas crisis de ausencia, los episodios ocurren varias veces al día y no van seguidos de una fase posictal.
+
+La dificultad para mantener la atención es una característica diagnóstica del trastorno por déficit de atención con hiperactividad (TDAH). Un niño puede interrumpir repetidamente una actividad, parecer estar soñando despierto y no prestar atención a las instrucciones o cuando se le habla directamente. Sin embargo, dado que la consciencia no se ve afectada, la atención del niño puede recuperarse fácilmente. La ausencia de hiperactividad e impulsividad en este niño descarta además el TDAH.
+
+Bibliografía recomendada:
+-Benbadis S. Focal epilepsy: Causes and clinical features. Nov 2023. UpToDate 2023.
+
+
+#Recién nacida femenina de 25 horas de vida, a término, con peso adecuado para la edad gestacional. Sin complicaciones durante el embarazo ni el parto vaginal. Madre sin antecedentes patológicos, hemoclasificación O+, al igual que su hija. Antes del alta, usted la observa ictérica, se le mide la bilirrubina transcutánea encontrando un valor de 16 mg/dl. ¿Cuál sería la conducta más adecuada?
+#A. Iniciar fototerapia y medir bilirrubina sérica
+#B. Iniciar fototerapia y tomar nueva bilirrubina en 24 horas
+#C. Tomar exámenes adicionales por sospecha de hemólisis
+#D. Seguimiento de bilirrubina sérica en 24 horas
+#Respuesta correcta: A.
+#Tema – Ítem: Ictericia neonatal – Medición de bilirrubinas e inicio de fototerapia
+
+Argumento: Esta paciente, presenta muy probablemente una hiperbilirrubinemia neonatal benigna (ictericia fisiológica) debido al inicio >24 horas y la ausencia de factores de riesgo de hemólisis (no hay incompatibilidad de grupo o Rh). Tiene la bilirrubina transcutánea (BTc) >15 mg/dl, por lo cual requiere medición de bilirrubina sérica total (BST) para confirmar el valor, y sale el resultado, requiere además inicio de fototerapia (FT).
+
+La hiperbilirrubinemia es la condición que más requiere evaluación y tratamiento en el neonato. 60% de los recién nacidos a término (RNAT) y 80% de los recién nacidos pretérmino (RNPT) desarrollan ictericia en la primera semana de vida.
+
+En todos los recién nacidos, es importante realizar un tamizaje de bilirrubina y se prefiere la medición transcutánea, debido a que tiene un menor costo y no requiere la extracción de sangre. Si el resultado es ≥15 mg/dl, este valor se debe confirmar con la bilirrubina sérica total (en sangre) y, las guías recomiendan, iniciar la fototerapia mientras sale el resultado. Si el valor es <15 mg/dl, se hace el cálculo del umbral de fototerapia con una calculadora (bilitool es una herramienta ampliamente disponible y se encuentra en internet). Si el valor está en/por encima del umbral de fototerapia, debemos confirmar con bilirrubina sérica total (en este caso podemos esperar el resultado sin iniciar fototerapia). Si la BST está en el umbral de FT o por encima, debemos iniciar fototerapia.
+
+Durante la fototerapia no es confiable hacer el seguimiento con bilirrubina transcutánea, debido a que puede subestimar los valores.
+
+Una vez iniciada la FT, el seguimiento de BST se hace a las 12 horas o, idealmente, a las 24 horas. Sin embargo, si el paciente requirió FT en las primeras 48 horas de vida (como nuestro paciente), tiene un coombs directo positivo o sospecha/confirmación de enfermedad hemolítica, la medición debería realizarse entre las 6-12 horas después del inicio de la FT y repetirla un día después de su inicio.
+
+Bibliografía recomendada:
+Kemper A; et al. Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. American Academy of Pediatrics. 2022.
+
+
+#Javier, 14 años, sin antecedentes patológicos. Llega a su consulta refiriendo mialgias y odinofagia hace 5 días. Vive con sus padres y un gato adoptado. Refiere que es sexualmente activo con una pareja femenina, dice que siempre usa condones. Al examen físico, febril, resto de signos vitales normales. Se palpa una linfadenopatía cervical posterior bilateral. Se observa la orofaringe con eritema y edema. En los paraclínicos, con: Hb 14, GB 12.000, neutrófilos 45%, linfocitos 50%, bandas 3%, con anticuerpos heterófilos positivos. ¿Cuál sería el tratamiento más apropiado?
+#A. Iniciar penicilina
+#B. Manejo sintomático y reposo
+#C. Analgésicos
+#D. Esteroides
+#Respuesta correcta: B
+#Tema-Ítem: Mononucleosis infecciosa – Diagnóstico y tratamiento
+
+Argumento: Javier presenta síntomas sistémicos (mialgias, fiebre) y odinofagia, con linfadenopatía cervical posterior y linfocitosis. Quizás esto pueda confundirse con alguna otra infección viral, sin embargo, la prueba de heterófilos positiva, nos confirma el diagnóstico de una mononucleosis infecciosa.
+
+La mononucleosis infecciosa (MI), también llamada "mono" o "enfermedad del beso", es una afección aguda causada por el virus de Epstein-Barr (VEB). La enfermedad es muy contagiosa y se transmite a través de secreciones corporales, especialmente la saliva. La infección suele pasar desapercibida en los niños; principalmente adolescentes y adultos jóvenes presentan síntomas. Los individuos sintomáticos suelen experimentar primero fiebre, malestar y fatiga, que luego se acompañan de faringitis aguda, amigdalitis, linfadenopatía y/o esplenomegalia que dura hasta un mes. La MI también se asocia a veces con un exantema similar al sarampión, especialmente en personas a quienes se les diagnostica falsamente amigdalitis bacteriana y se les administra ampicilina o amoxicilina. Una prueba de anticuerpos heterófilos (prueba monospot) o una serología positiva, confirma el diagnóstico. Los pacientes presentan linfocitosis, a menudo con linfocitos T atípicos en un frotis periférico.
+
+La MI se trata sintomáticamente, ya que suele ser autolimitada, sin embargo es fundamental explicarle al paciente que debe reposar, pues hay un riesgo aumentado de rotura esplénica. Los pacientes deben evitar actividades físicas extenuantes durante al menos 21 días después de que se desarrollen los síntomas iniciales y deben evitar los deportes de alto contacto por lo menos durante un mes.
+
+Los esteroides no se recomiendan para uso rutinario, pero pueden considerarse en casos complicados.
+
+Bibliografía recomendada:
+Aronson M; et al. Infectious mononucleosis. Oct, 2023. UpToDate.
+
+
+#Sara, 15 años, consulta por 2 sem de flujo vaginal. Tiene DM1. Ciclos: 28/5, FUM hace 3 sem. No quiere compartir información sobre su actividad sexual. Se encuentra en el percentil 60 de altura y peso. Los signos vitales son normales. Desarrollo mamario en estadio II de Tanner. Especuloscopia: flujo vaginal blanco, fino, sin olor. Un montaje húmedo del flujo no muestra anomalías. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Cuerpo extraño vaginal
+#B. Tricomoniasis
+#C. Leucorrea fisiológica
+#D. Candidiasis vaginal
+#Respuesta correcta: C
+#Tema e ítem: Leucorrea fisiológica - ¿Cómo diferenciarla de la patológica?
+
+Argumento: La leucorrea fisiológica no es purulenta y no tiene un olor fuerte. No es irritante y, por lo tanto, no causa prurito. La leucorrea fisiológica suele aparecer al inicio de la pubertad (debido a un aumento de los niveles de estrógenos), alrededor del momento de la ovulación (debido a un pico en los niveles de estrógenos), antes de la menstruación (debido a la congestión pélvica) y durante el embarazo. Ocasionalmente, puede producirse leucorrea fisiológica durante el periodo neonatal temprano (debido a la influencia de las hormonas maternas).
+
+- Un cuerpo extraño vaginal habría sido evidente en el examen pélvico. Además, suele producir grandes cantidades de flujo maloliente y purulento, a menudo teñido de sangre.
+- La tricomoniasis da lugar a un flujo vaginal fino pero profuso, maloliente, espumoso, amarillo verdoso, que suele ir asociado a prurito y síntomas urinarios como disuria o aumento de la frecuencia urinaria. El examen pélvico mostraría inflamación de la vulva, la vagina y/o la portio vaginalis del cuello uterino con múltiples puntos hemorrágicos que le dan un aspecto de "fresa". Un montaje húmedo mostraría tricomonas uniflageladas activamente móviles.
+- La glucosuria debida a la diabetes mellitus es un factor de riesgo para la candidiasis vaginal, que puede presentarse con flujo vaginal. Sin embargo, el flujo en la candidiasis vaginal es espeso, blanco, cuajado, escamoso y a menudo se observa adherido a la pared de la vagina en el examen pélvico. Las pacientes suelen presentar prurito intenso. Un montaje húmedo puede mostrar hifas.
+
+Lectura recomendada:
+• Frank M Biro, MDYee-Ming Chan. Normal puberty. Available on UpToDate Advanced 2023.
+
+
+#Camila, 27 años, asiste a una cita médica rutinaria. Una citología realizada hace 4 años fue normal. Fue tratada de una infección por clamidia a los 22 años. Recibe anticonceptivo oral combinado. Es fumadora (IPA 6). Es sexualmente activa con 3 parejas masculinas. Una citología nueva muestra células escamosas atípicas de significado indeterminado. ¿Cuál de las siguientes opciones es la más adecuada?
+#A. Realizar colposcopia + biopsia endometrial
+#B. Realizar un procedimiento de escisión electroquirúrgica con asa
+#C. Realizar la prueba del VPH
+#D. Repetir la citología en 3 años
+#Respuesta correcta: C
+#Tema e ítem: Tamizaje de cáncer de cuello de útero - Manejo de acuerdo a los resultados de la citología
+
+Argumento: En pacientes con citología positiva, se requiere un paso adicional para evaluar el riesgo inmediato de NIC3+. Si la prueba primaria inicial del VPH o la prueba de citología sola es positiva, se deben realizar pruebas de triaje reflejas (es decir, citología si la prueba del VPH es positiva y prueba del VPH si la citología es positiva) para la estratificación del riesgo. En pacientes con cribado citología sola positivo, está indicado el genotipado de VPH de alto riesgo reflejo para evaluar la infección por VPH 16 o VPH 18. Las recomendaciones para el seguimiento posterior se basan en el riesgo estimado de NIC3+. Si se detectan células glandulares atípicas en la citología inicial, no es necesario realizar una prueba del VPH refleja, ya que el tratamiento es independiente del estado del VPH.
+
+- Se recomienda realizar una biopsia endometrial a todas las mujeres no embarazadas ≥ 35 años con células glandulares atípicas (CGA) o adenocarcinoma in situ (AIS) para descartar un cáncer de endometrio. La biopsia endometrial también se recomienda en individuos no embarazados < 35 años de edad con AGCs o AIS y sangrado uterino anormal o factores de riesgo de cáncer de endometrio. Esta paciente presenta células escamosas atípicas de significado indeterminado, por lo que la biopsia endometrial no está indicada.
+- El tratamiento escisional acelerado (por ejemplo, con un procedimiento de escisión electroquirúrgica con asa) está indicado para las mujeres con un riesgo inmediato elevado de NIC3+. No se ha evaluado el riesgo inmediato de NIC3+ de esta paciente y, por lo tanto, se requiere un paso diferente en el tratamiento. Además, como esta paciente tiene una citología cervical de bajo grado, es poco probable que se requiera un tratamiento escisional.
+- Realizar la citología en 3 años es el intervalo de cribado estándar para el cribado del cáncer de cuello uterino mediante citología sola. Esto sería apropiado si los resultados de la citología de esta paciente fueran normales. Sin embargo, esta paciente tiene citología positiva y debe determinarse el riesgo inmediato de NIC3+ antes de decidir si es apropiado reanudar el cribado rutinario.
+
+Lectura recomendada:
+• Sarah Feldman, Annekathryn Goodman, Jeffrey F Peipert. Screening for cervical cancer in resource-rich settings. Available on UpToDate Advanced 2023.
+
+
+#Sandra, 27 años, tuvo un mortinato a las 30 sem de gestación. No recibió controles prenatales. El feto mortinato tiene piel pálida y edema generalizado. No hay malformaciones visibles. En la autopsia se observa ascitis, hepatoesplenomegalia y derrames pericárdico y pleural; placenta agrandada. Paraclínicos: Hb 10,2 g/dL, VCM 69, HCM 19, ADE 13,4% (N= 13%-15%), WCB 9300/mm3, plq 240.000/mm3, Ferritina 54 ng/mL, Hemoclasificación A (+). ¿Cuál es la causa de la muerte fetal?
+#A. Infección materna
+#B. Aloinmunización materna
+#C. Hemorragia fetomaterna
+#D. Hipoxia fetal
+#Respuesta correcta: D
+#Tema e ítem: Hipoxia fetal - ¿Cuando sospecharla en el caso de un mortinato?
+
+Argumento: En la alfa talasemia mayor, faltan los cuatro alelos que codifican las cadenas de α-globina, lo que provoca anemia fetal. En la anemia, sólo se produce hemoglobina Bart (Hb Bart), que consta de cuatro cadenas γ. La Hb Bart suministra pocas cantidades de oxígeno a los tejidos periféricos porque las cadenas γ tienen una gran afinidad por el oxígeno. Esta afección causa hipoxia fetal grave, insuficiencia cardiaca e hidropesía fetal no inmune. La alfa talasemia mayor provoca la muerte en el útero o poco después del nacimiento. Se da con mayor frecuencia en personas asiáticas o africanas, es autosómica recesiva. La madre (y el padre) de esta paciente tienen alfa talasemia menor, que causa anemia microcítica e hipocrómica con ferritina normal o alta, una ADE normal y un índice de Mentzer < 13.
+
+- Ciertas infecciones congénitas, como el parvovirus B19, el citomegalovirus, la toxoplasmosis y la sífilis, pueden causar hidropesía fetal no inmune. Esta paciente no recibió atención prenatal y la infección por parvovirus B19 puede causar anemia materna como resultado de la aplasia pura de eritrocitos (PRCA). Sin embargo, la PRCA causa una anemia normocítica y normocrómica con un recuento de eritrocitos disminuido, y la hidropesía fetal no inmune debida a una infección congénita suele asociarse también a otros hallazgos fetales como calcificaciones intracraneales, hepáticas y/o pericárdicas, microcefalia/macrocefalia, coriorretinitis y evidencia de eritropoyesis extramedular (erupción en forma de magdalena de arándanos).
+- La aloinmunización materna suele producirse en el primer embarazo con una incompatibilidad (Rh) entre la madre y el feto y causa hidropesía fetal inmune en embarazos posteriores. Sólo se produce cuando la madre es Rh negativo, y provoca anemia fetal (enfermedad hemolítica del feto y del recién nacido) en lugar de anemia materna.
+- La hemorragia fetomaterna es la pérdida de sangre fetal en la circulación materna; una hemorragia fetomaterna masiva puede causar hidropesía fetal no inmunitaria en un embarazo sin complicaciones. Sin embargo, la hemorragia fetomaterna no provocaría anemia en la madre.
+
+Lectura recomendada:
+• Maslovich MM, Burke LM. Intrauterine Fetal Demise. [Updated 2022 Oct 31]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from: [https://www.ncbi.nlm.nih.gov/books/NBK557533/](https://www.ncbi.nlm.nih.gov/books/NBK557533/)
+
+
+#Luisa, 24 años, 15 sem de gestación. Consulta por dolor tipo contracción y hemorragia vaginal con coágulos por 2h. Los signos vitales son normales. Especuloscopia: orificio cervical abierto y coágulos de sangre en la cúpula vaginal. Paraclínicos: β-HCG 13.000 mUI/mL, Hemoclasificación: A (-). ECO transvaginal: saco gestacional intrauterino con ausencia de tonos cardíacos fetales. Es sometida a dilatación y evacuación. Además de la profilaxis antibiótica, ¿qué más debería ordenar?
+#A. No es necesario ningún otro tratamiento
+#B. Administración de inmunoglobulina anti-D
+#C. Autopsia del feto
+#D. Derivación a psicoterapia
+#Respuesta correcta: B
+#Tema e ítem: Aborto espontaneo - ¿Como manjarlo?
+
+Argumento: El sangrado vaginal con coágulos de sangre, el orificio cervical dilatado y el saco gestacional intrauterino sin tonos cardíacos fetales en la ecografía transvaginal son compatibles con un aborto incompleto y la paciente corre el riesgo de exponerse a sangre fetal. La administración de inmunoglobulina anti-D está indicada en todas las mujeres Rh negativas después de un aborto espontáneo, especialmente después del tratamiento quirúrgico. Debido al riesgo potencial de exposición materna a la sangre fetal, con la consecuente aloinmunización y posible desarrollo de enfermedad hemolítica RhD del recién nacido en futuros embarazos, estas pacientes deben recibir profilaxis anti-D dentro de las 72 horas del evento incitante, a menos que se confirme que el padre del niño es Rh negativo. Otras afecciones que aumentan el riesgo de sensibilización materna y justifican la profilaxis anti-D son el embarazo ectópico, la mola hidatiforme, los procedimientos invasivos (amniocentesis, muestreo de vellosidades coriónicas), la hemorragia preparto, la versión cefálica externa y el traumatismo abdominal.
+
+- Las pacientes que se someten a tratamiento quirúrgico por aborto incompleto requieren un manejo adicional para prevenir una complicación particular que puede desarrollarse con futuros embarazos.
+- Suele recomendarse la autopsia del feto para determinar la causa de la muerte fetal que se desarrolla en > 20 semanas de gestación. Esta paciente con 15 semanas de gestación presenta un aborto incompleto, para el que generalmente no se recomienda la autopsia fetal.
+- Una remisión a psicoterapia puede ser requerida para una paciente con angustia severa, que comúnmente se desarrolla como resultado de la pérdida del embarazo. Aunque esta paciente esta en riesgo de desarrollar secuelas psicologicas debido a su aborto involuntario, una evaluacion deberia tener lugar primero para determinar si la remision es necesaria.
+
+Lectura recomendada:
+• Ana Flórez, Juan Londoño. Manejo médico del aborto. Medellín: XXVIII Curso de Actualización en ginecología y obstetricia. Facultad de Medicina, Universidad de Antioquia. 2020.
+
+
+#Luz, 26 años, G2P1, 20 sem de gestación. Asiste a control prenatal. Su primera hija es RhD (+). Hace 4 años tuvo una fractura de fémur que requirió transfusiones. Examen físico: T 37,2°C, FC 92/min, PA 138/82 mmHg. ECO: FC, movimientos y anatomía fetal normal. Paraclínicos: Hemoclasificación A (-), Hb 12,5 g/dL, WBC 11.000/mm3, Plq 345.000/mm3, Anticuerpos anti-D (-), Rubéola IgM (-), Rubéola IgG (-), Varicela IgM (-), Varicela IgG (+), Panel de ITS (-). ¿Cuál es la mejor conducta?
+#A. Administrar inmunoglobulina anti-D ahora y repetir el cribado de anticuerpos anti-D poco antes del parto.
+#B. Repetir el cribado de anticuerpos anti-D a las 28 semanas de gestación, administrar inmunoglobulina anti-D a las 28 semanas de gestación y después del parto si el recién nacido es Rh(D) positivo.
+#C. No es necesario repetir el cribado de anticuerpos anti-D. Administrar inmunoglobulina anti-D poco después del parto.
+#D. Realizar un Coombs directo ahora, no es necesario administrar inmunoglobulina anti-D a menos que la paciente se someta a un parto por cesárea.
+#Respuesta correcta: B
+#Tema e ítem: Grupo sanguíneo - Manejo
+
+Argumento: Luz, Rh negativo, corre el riesgo de sensibilizarse al antígeno Rh(D). Debe someterse a más pruebas y, si está indicado, a profilaxis con inmunoglobulina anti-D (Anti-D). Dado que la inmunoglobulina sólo funciona en madres no sensibilizadas, los títulos de anticuerpos anti-D deben comprobarse (Coombs indirecto) antes de la administración del medicamento. Las madres Rh negativas que puedan ser portadoras de un feto Rh positivo se someten a un cribado de anticuerpos anti-D en la primera visita prenatal. Si la primera prueba anti-D muestra que la madre no está sensibilizada, se repite entre las sem 24 y 28. Si el cribado anti-D sigue siendo negativo, debe administrarse inmunoglobulina a las 28 sem de gestación y, si el recién nacido es Rh positivo, de nuevo en las 72 horas siguientes al parto.
+
+- Lo ideal es administrar la primera dosis de Anti-D al inicio del 3er trimestre (el riesgo de exposición a antígenos Rh(D) fetales es mayor) y repetir el cribado de anticuerpos anti-D antes de administrar Anti-D. Si se administra Anti-D, que tiene una vida media de 6 sem, en esta visita (20 sem), se producirá un falso positivo de sensibilización en el cribado a las 24-28 sem.
+- Aunque la primera prueba de anticuerpos anti-D fue negativa, los títulos deben comprobarse antes de la administración de Anti-D, ya que la terapia no funcionará en madres sensibilizadas.
+- El Coombs directo no se utiliza para detectar anticuerpos anti-D en la madre. En su lugar, se realiza un Coombs indirecto. Anti-D se recomienda para la profilaxis contra la sensibilización en cualquier situación en la que la madre Rh negativa esté expuesta a hematíes fetales Rh(D) positivos. Estas situaciones incluyen, entre otras, las cesáreas.
+
+Lectura recomendada:
+• ACOG Practice Bulletin No. 192: Management of Alloimmunization During Pregnancy. Obstet Gynecol. 2018 Mar;131(3):e82-e90. doi: 10.1097/AOG.0000000000002528. PMID: 29470342.
+
+
+#Ernesto de 52 años, con antecedente de obesidad grado I, ingresó a urgencias posterior a un accidente automovilístico de alto impacto hace 30 minutos. Signos vitales: FC: 112 lpm, FR: 10 rpm, PA de 95/60 mm/Hg, SO2 de 91% al ambiente. Al examen físico, paciente con Glasgow de 7/15, pupilas isocóricas, con reflejo fotomotor disminuido en velocidad, con múltiples hematomas en rostro y tórax. Tiene patrón respiratorio irregular con uso de musculatura accesoria, ruidos respiratorios disminuidos en base pulmonar izquierda. Se canalizan dos venas para reanimación hídrica, se realiza secuencia de inducción rápida para intubación, con intubación no exitosa, por lo que se continúa con ventilación con “AMBU”. La saturación de oxígeno desciende a 84%. El paciente no tiene directivas anticipadas y sus familiares no han llegado.  ¿Cuál es la conducta adecuada a seguir?
+#A. Realizar videolaringoscopia para proceder con intubación
+#B. Limitar esfuerzos terapéuticos
+#C. Indicar una Traqueotomía
+#D. Proceder con cricotirotomía
+#Respuesta correcta:  D
+#Tema e ítem: ¿Qué hacer para asegurar vía aérea posterior a intubación no exitosa?
+
+Argumento: Ante un paciente con politrauma secundario a un accidente de alta energía que cursa con signos de dificultad respiratoria, compromiso neurológico y compromiso de vías respiratorias se debe establecer una vía aérea segura como primer paso en el algoritmo ABCDE de manejo del trauma. En el caso de Ernesto una cricotirotomía (Respuesta correcta D). Recordemos que se debe establecer una vía aérea quirúrgica con cricotirotomía en pacientes que no pueden ser intubados ni oxigenados (Como el caso de Ernesto). La cricotirotomía puede provocar complicaciones como perforación traqueal, laceración de los cartílagos tiroides o cricoides y estenosis traqueal; sin embargo, el riesgo de muerte debido a la pérdida de una vía aérea permeable supera los riesgos asociados con este procedimiento.
+
+●	Por otra parte, la videolaringoscopia se usa comúnmente para facilitar la intubación orotraqueal en pacientes con vía aérea difícil; no obstante, los intentos de intubación asistida solo deben realizarse si la oxigenación se ha mantenido adecuadamente (saturación de oxígeno > 90% o estable en los 80 grados) y en el caso de Ernesto él se está descompensado agudamente (caída de la SO2 de 91% al 84%) a pesar de los intentos de ventilación con bolsa, válvula y máscara. Por lo que puede cursar con hipoxia cerebral si el intento de establecer una vía aérea alternativa mediante videolaringoscopia no tiene éxito.
+
+●	En cuanto a limitar esfuerzos terapéuticos, se debe tener en cuenta que este paciente acaba de sufrir un traumatismo importante y se desconoce sobre sus voluntades anticipadas, por lo que es inapropiado cambiar el estatus de su atención a cuidados paliativos o de confort. Se deben agotar todas las medidas de tratamiento en pro de la salud del paciente hasta que exista evidencia de una directriz de voluntad anticipada.
+
+●	Finalmente, traqueostomía es un procedimiento que se utiliza en pacientes que han estado intubados durante 1 a semanas y aún requieren ventilación mecánica prolongada, ya que mejora la comodidad del paciente, disminuye el trabajo respiratorio, reduce el riesgo de infección respiratoria en comparación con la intubación endotraqueal; no obstante, la traqueotomía sería una técnica inapropiada en un paciente cuya función respiratoria está descompensada de manera aguda.
+
+Lectura recomendada:
+●	Morales J, Espinal Y. Vía aérea difícil en urgencias. Puntos clave. VIII Simposio Medicina de Urgencias. 2020
+
+
+#Helena de 55 años, con antecedente de hipertensión arterial y dislipidemia en manejo con atorvastatina, furosemida y enalapril, consultó por dolor abdominal tipo cólico en epigastrio de 8 horas de evolución que se refiere a espalda y se acompaña de náuseas. Signos vitales T° 37,5 °C, FC 115 lpm, FR 16 rpm, PA 84/58 mm/Hg. Al examen físico murmullo vesicular conservado sin agregados, abdomen blando con distensión abdominal y dolor a la palpación en epigastrio, peristaltismo disminuido. Las extremidades inferiores se palpan calientes sin edema. Paraclínicos que reportan: Hto: 48%, Leucocitos de 13.800 mm³, calcio 8,0 mg/dL, BUN 32 mg/dL y amilasa 400 U/L. ¿Cuál de las siguientes es la causa subyacente más probable de las anomalías de los signos vitales de este paciente?
+#A. Fuga capilar
+#B. Pérdida de volumen por hemorragia
+#C. Disminución de la concentración de albúmina
+#D. Aumento de la excreción de agua.
+#Respuesta correcta: A
+#Tema e ítem: Pancreatitis aguda con signos de gravedad: Una mirada fisiopatológica
+
+Argumento: Ante la presencia de epigastralgia, irradiación hacia espalda, síntomas vagales (náuseas) y amilasa elevada, se debe sospechar de una pancreatitis aguda, probablemente relacionada con el uso de medicamentos (atorvastatina, furosemida y enalapril). Además, los signos vitales de Helena son indicativos de un shock distributivo (taquicardia, hipotensión, extremidades calientes) causado por fuga capilar (Respuesta correcta A). Recordemos futuro R1 que si bien la mayoría de pacientes con pancreatitis aguda tendrán un curso de la enfermedad leve, en casos moderados a graves la liberación de citocinas y mediadores inflamatorios provocará fuga capilar, vasodilatación e hipotensión; y en casos graves la fuga capilar secundaria al proceso inflamatorio puede provocar un shock hipovolémico así como se ve en Helena.
+
+●	Por otra parte, el shock hipovolémico secundario a una hemorragia potencialmente mortal es una complicación importante de la pancreatitis aguda (pancreatitis hemorrágica aguda); no obstante, el shock hipovolémico provocaría vasoconstricción periférica, lo que daría lugar a extremidades frías en lugar de calientes.
+
+●	En cuanto a la hipoalbuminemia grave, esta puede presentarse con hipotensión y taquicardia por falta de presión oncótica, pérdida de líquido del “tercer espacio” y posterior depleción del volumen intravascular. La hipoalbuminemia suele ser un proceso crónico y puede observarse en pacientes con síndrome nefrótico, cirrosis hepática y desnutrición grave; sin embargo, Helena no tiene hallazgos clínicos o paraclínicos que sugieran alguna de estas entidades, y su cuadro clínico es agudo, no crónico.
+
+●	Finalmente, puede ocurrir una diuresis de grandes volúmenes que lleve a hipotensión y taquicardia por depleción del volumen intravascular en pacientes que toman diuréticos con el objetivo de controlar cuadros de congestión de algunas afecciones, incluidas la insuficiencia cardíaca congestiva y la cirrosis; no obstante, es poco probable que el uso de diuréticos per se sea suficiente para causar anormalidades en los signos vitales tan graves, y tampoco explicaría la causa de sus otros síntomas de pancreatitis aguda.
+
+Lectura recomendada:
+●	Serna J.C, Mejía D.E. Opciones terapéuticas en pancreatitis grave. Medellín. Actualización en cirugía general. Universidad de Antioquia 2021.
+
+
+#Socorro de 72 años, con antecedente de alcoholismo hasta la embriaguez, consultó por una hora de dolor tipo cólico de 7/10 en la EAD en epigastrio, acompañado de náuseas y emesis, sin referir hematemesis. Signos vitales Tº de 37,1 °C, FC de 110 lpm y PA de 138/86 mm/Hg. Al examen físico, dolor intenso a la palpación en epigastrio, sin signos de irritación peritoneal, con ruidos peristálticos normales. Se realizó una ecografía del abdomen que reportó un agrandamiento difuso del páncreas; no se visualizan cálculos biliares. Se realizó manejo analgésico con ketorolaco; no obstante, una hora más tarde el paciente sigue con emesis de forma intermitente y califica el dolor como 9/10 en la EAD. Al examen físico abdominal no hay cambios respecto a los hallazgos ya descritos. ¿Cuál es la conducta más adecuada a seguir?
+#A. Ketamina intravenosa continua
+#B. Acetaminofén oral cada 6 horas
+#C. Hidromorfona intravenosa
+#D. Fentanilo transdérmico cada 72 horas
+#Respuesta correcta: C
+#Tema e ítem: Opciones analgésicas para pacientes con pancreatitis aguda
+
+Argumento: Ante la presencia de epigastralgia con irradiación a espalda, distensión abdominal, múltiples eventos eméticos, antecedente de alcoholismo y el hallazgo ecográfico que reportó un agrandamiento difuso del páncreas, se debe sospechar de una pancreatitis, que en el caso de Socorro ha tenido mala modulación del dolor con el manejo analgésico con Ketorolaco, por lo que la indicación en este escenario es escalar el manejo analgésico a opioides por vía intravenosos como lo es la Hidromorfona (Respuesta correcta C). Recordemos que los opioides intravenosos se indican en pacientes con dolor agudo intenso (Dolor postoperatorio, dolor oncológico, dolor resultante de pancreatitis aguda, crisis falciforme o lesiones por quemaduras), lo ideal es el uso de una dosis por horario de hidromorfona y una formulación de rescate junto con el manejo estandarizado de la etiología. Como dato adicional, aunque se sabe que los opioides causan disfunción del esfínter de Oddi, no hay evidencia que demuestre que los opioides agraven la pancreatitis.
+
+●	Por otra parte, la ketamina desempeña un papel clave en urgencias y en anestesiología debido a sus fuertes efectos disociativos, simpaticomiméticos y analgésicos. Aunque este fármaco proporciona un potente alivio transitorio del dolor, la infusión intravenosa continua de ketamina provoca una sedación profunda que requiere vigilancia continua en una unidad de cuidados intensivos, por lo que no sería el plan de tratamiento más adecuado para Socorro.
+
+●	En cuanto al uso de acetaminofén oral, no está indicado en Socorro que cursa con emesis de forma activa y recurrente, además el acetaminofén es un analgésico que no va a generar una modulación adecuada del dolor intenso que refiere la paciente.
+
+●	Finalmente, el fentanilo transdérmico es un complemento eficaz para el control del dolor en pacientes con dolor crónico que requieren opioides; sin embargo, el fentanilo transdérmico no se utiliza en el tratamiento inicial del dolor agudo intenso porque tiene un inicio de acción relativamente lento y administra una dosis fija de opioide. Socorro actualmente requiere un manejo analgésico potente con una vía de administración que permita ajustar la dosis.
+
+Lectura recomendada:
+●	 Serna J.C, Mejía D.E. Opciones terapéuticas en pancreatitis grave. Medellín. Actualización en cirugía general. Universidad de Antioquia 2021.
+
+
+#Don Camilo de 65 años, sin antecedentes de interés, consultó por 1 día de disnea acompañado de oliguria durante los últimos dos días. Refiere que hace tres semanas cursó con cuadro de disfagia y odinofagia para los cuales no recibió tratamiento y autoresuelve a los 4 días. Signos vitales Tº 37,2 °C y  PA de 155/95 mm/Hg. Al examen físico, crépitos bilaterales difusos y edema en miembro inferior grado 2 con fóvea. Paraclínicos que reportan creatinina de 2,6 mg/dL, BUN de 32 mg/dL y títulos de anticuerpos antiestreptolisina O positivos. Uroanálisis con proteínas 1+ (VR es < o = 1+), leucocitos >10 campo, Hematies >30 campo y cilindros eritrocitarios. ¿Cuál de los siguientes es la causa más probable de su cuadro clínico?
+#A. Enfermedad de cambios mínimos
+#B. Necrosis tubular aguda
+#C. Nefritis intersticial aguda alérgica
+#D. Glomerulonefritis posestreptocócica
+#Respuesta correcta: D
+#Tema e ítem: Enfoque del paciente con Glomerulonefritis posestreptocócica
+
+Argumento: La presencia de oliguria, hipertensión arterial, relación BUN:Creatinina <15 y características clínicas de congestión/sobrecarga sugieren una lesión renal aguda, muy probablemente debido a glomerulonefritis post-infecciosa  (GNPE) (Dados los títulos positivos de anticuerpos antiestreptolisina O y cuadro de infección respiratoria hace 3 semanas). (Respuesta correcta D). Recordemos que en la GNPE se observa piuria estéril (leucocituria) refleja por inflamación renal y hematuria grave con cilindros eritrocitarios que indican daño glomerular. La proteinuria en el síndrome nefrítico suele ser leve (es decir, 1+ o 2+ en una prueba con tira reactiva de proteínas en orina), pero en el síndrome nefrítico grave se puede observar proteinuria en rango nefrótico (es decir, ≥ 3+ en una tira reactiva de proteínas en orina). Además, la GNPE es más común en niños de 3 a 12 años y en pacientes de edad avanzada.
+
+●	Por otra parte, en el caso de la enfermedad de cambios mínimos (ECM), que hace parte del espectro de síndrome nefrótico, es poco probable sea la causa del cuadro clínico de Don Camilo, dado que esta entidad cursará con valores de proteinuria mucho más elevada (≥ 3+). Además, la ECM suele ocurrir en niños, no en personas mayores; la hipertensión y el aumento de la creatinina también son poco comunes en la ECM.
+
+●	En cuanto a la necrosis tubular aguda (NTA), esta es causada por depleción de volumen (hemorragia, deshidratación) o por toxinas (nefropatía por contraste, nefropatía pigmentaria en la hemólisis intravascular o rabdomiólisis, ciertos medicamentos como aminoglucósidos y anfotericina B), y en el caso de Don Camilo, no se reportó ninguna condición que predisponga a la NTA.
+
+●	Finalmente, la nefritis intersticial alérgica, que es la forma más común de nefritis intersticial aguda, puede manifestarse con características de insuficiencia renal aguda intrínseca; sin embargo, la nefritis intersticial alérgica suele ocurrir días o semanas después de iniciar el tratamiento con AINE, ciertos antibióticos (penicilinas, cefalosporinas, rifampicina) y diuréticos. Aunque la penicilina y los AINE se usan para tratar la faringitis estreptocócica, Don Camilo no usó estos medicamentos recientemente
+
+Lectura recomendada:
+●	Rawla P, Padala SA, Ludhwani D.Poststreptococcal Glomerulonephritis. Available in StatPearls 2023.
+
+
+#Manuela de 32 años, con antecedente hace 7 meses de trastorno de ansiedad social en manejo con sertralina y propranolol, consultó por cuadro de 5 meses de evolución consistente en cambios ungueales, refiere que varias uñas son quebradizas y que tienen una textura áspera. Sus signos vitales están dentro de los límites normales. Al examen fÍsico, se encuentran pequeñas depresiones redondas en múltiples uñas, acompañados de manchas aceitosas de color amarillo-marrón, y la placa ungueal está separada de su lecho en los dedos numero 3 de forma bilateral. ¿Cuál de los siguientes hallazgos adicionales es más probable en este paciente?
+#A. Palidez de la mucosa conjuntival
+#B. Placas con escamas plateadas en las superficies extensoras.
+#C. Erosiones del esmalte dental
+#D. Nódulos de Osler
+#Respuesta correcta: B
+#Tema e ítem: Psoriasis: Más allá de la piel.
+
+Argumento: Los hallazgos descritos de queratinización ungueal, manifestada por la presencia de uñas quebradizas con depresiones redondeadas, manchas aceitosas de colores oscuros y procesos de onicolisis, los cuales son hallazgos característicos de pacientes que cursan con psoriasis, la cual es una entidad que se caracteriza por la presencia de placas con escamas plateadas en las superficies extensoras (Respuesta correcta B). Recordemos futuro R1 que varios medicamentos pueden desencadenar o exacerbar la psoriasis, incluidos los betabloqueantes (como el propranolol, que toma esta paciente), el litio y los medicamentos antipalúdicos (cloroquina).
+
+●	Por otra parte, la palidez de la mucosa conjuntival es un hallazgo común en pacientes con anemia por deficiencia de hierro, que puede provocar uñas quebradizas; sin embargo, esta condición no está asociada con picaduras en las uñas ni con onicolisis. Además, Manuela no presenta otras manifestaciones de anemia ferropénica, como coiloniquia, fatiga, taquicardia, queilitis angular o glositis atrófica.
+
+●	Por otro lado, en pacientes con bulimia se pueden observar erosiones del esmalte dental que pueden manifestarse con uñas quebradizas; sin embargo, las depresiones ungueales y la onicolisis no están asociadas con esta afección. Además, Manuela no tiene otras manifestaciones de bulimia como callos dorsales de la mano (signo de Russell), gastritis, caries dental e inflamación bilateral de la glándula parótida, así como tampoco el caso clínico de la pregunta cuenta con IMC que nos deba hacer pensar en bulimia.
+
+●	Finalmente se pueden observar nódulos subcutáneos dolorosos en las palmas y las plantas (nódulos de Osler) en pacientes con endocarditis infecciosa (EI) que pueden manifestarse con hemorragias en astilla debajo de la placa ungueal; no obstante, la EI no se asocia con uñas quebradizas, ni onicolisis. Además, los pacientes con EI suelen tener un aspecto enfermo (fiebre, escalofríos, taquicardia) con un inicio agudo de los síntomas.
+
+Lectura recomendada:
+●	Nair PA, Badri T. Psoriasis. Available in StatPearls. 2023.
+
+
+#Paciente femenina de 60 años en su primer día de posoperatorio de hemicolectomía derecha por cáncer de colon presenta dorsalgia y dificultad motora de miembros inferiores. Recibió anestesia neuroaxial durante el procedimiento. Actualmente recibe heparina subcutánea profiláctica. Sus signos vitales son normales. Al examen físico hay debilidad en las extremidades inferiores, disminución del tono anal y los reflejos tendinosos profundos de los miembros inferiores están ausentes. Refiere que no siente cuando la pinchan por debajo del ombligo. Una resonancia magnética ponderada en T2 de columna evidencia una lesión epidural hiperintensa que ocupa el espacio a nivel de T11-L1. ¿Cuál es el manejo adecuado para esta paciente?
+#A.	Continuar con manejo médico y observar.
+#B.	Realizar descompresión quirúrgica.
+#C.	Administrar vancomicina y cefepima.
+#D.	Realización aspiración guiada por tomografía.
+#Respuesta correcta: B
+#Tema e ítem: Complicaciones de la punción lumbar.
+
+Argumento: Este paciente con dolor lumbar agudo, signos de compresión de médula espinal y una lesión epidural hiperintensa a nivel de las vértebras descritas es compatible con un hematoma epidural espinal, muy probablemente debido a la inserción de catéter epidural. Los hematomas epidurales espinales pueden ocurrir como una complicación de la anestesia epidural, especialmente en pacientes con factores de riesgo adicionales para sangrado (Ej. Que reciben terapia de anticoagulación). Ante la sospecha se debe realizar una resonancia magnética para confirmar el diagnóstico. Si hay signos de compresión de medula espinal, el tratamiento consiste en la descompresión quirúrgica inmediata del canal espinal mediante laminectomia, seguida de la evacuación del hematoma. Algunas coagulopatías deben tratarse como la reversión de la anticoagulación.
+
+- Los hematomas epidurales espinales pequeños, asintomáticos o levemente sintomáticos suelen resolverse espontáneamente y, por lo tanto, pueden tratarse de forma conservadora. Este paciente presenta signos de compresión aguda de médula espinal por lo que la observación no es el manejo adecuado.
+- La administración de antibióticos y la aspiración para toma de cultivo está indicada en abscesos epidurales que se manifiestan con dorsalgia, signos de compresión medular y una lesión epidural hiperintensa en la resonancia magnética ponderada en T2. A diferencia de este paciente las personas con absceso epidural presentan fiebre, leucocitosis, VSG elevada y dolor en un punto en específico. Además, los síntomas suelen aparecen más de 5 días después de la anestesia.
+
+Lecturas recomendadas:
+
+- Volk T. Spinalanästhesie - Typische Komplikationen und wie man sie vermeiden kann [Complications of spinal anesthesia and how to avoid them]. Anasthesiol Intensivmed Notfallmed Schmerzther. 2010 Mar;45(3):188-95. German. doi: 10.1055/s-0030-1249402. Epub 2010 Mar 15. PMID: 20232276.
+
+#Paciente femenina de 23 años es llevada a un parto vaginal espontaneo en donde se le aplicó analgesia epidural. Dos días despues refiere cefalea occipital persistente y punzante. El dolor se irradia a cuello y hombros asociado a náuseas y un episodio emetico. Los sintomas se exacerban cuando se levanta de la cama y no ha mejorado a pesar de manejo analgesico y reposo en cama. Sus signos vitales, examen fisico y neurologico son normales. ¿Cuál es el manejo adecuado para esta paciente?
+#A.	Iniciar sulfato de magnesio.
+#B.	Realizar angiografía por tomografía computarizada de cabeza.
+#C.	Reposo continuo en cama y manejo analgesico.
+#D.	Realizar parche hematico epidural.
+#Respuesta correcta: D
+#Tema e ítem: Manejo de la cefalea pospunción.
+
+Argumento: El cuadro clínico de esta paciente posterior a la punción lumbar es consistete en un cuadro de cefalea pospunción. La aplicación de un parche epidural de sangre está indicado para dolores posteriores a la punción lumbar graves o refractarios que resultan de la pérdida de líquido cefalorraquídeo. La sangre autóloga inyectada en el sitio de la punción lumbar sella el orificio en la duramadre y resuelve la fuga de liquido cefalorraquideo que está causando el dolor de cabeza postural. El manejo inicial con analgesicos vía oral y reposo en cama no ha mejorado los sintomas de esta paciente, por lo que un parche hemático epidural es el paso apropiado para el manejo de esta paciente (Respuesta D incorrecta). El manejo adicional incluye una ingesta suficiente de líquidos.
+
+- El sulfato de magnesio se puede usar como profilaxis para la eclamsia en pacientes con preeclampsia. La cefalea es una de las caracteristicas de la preeclampsia que rara vez ocurre despues del parto. Sin embargo, un diagnóstico de preeclampsia requiere de hipertensión arterial. Este paciente tiene presión arterial normal.
+- La angiografía por TC de cabeza puede ayudar a identificar el origen de una hemorragia intracraneal o una trombosis venosa cerebral, para lo cual el embarazo es un factor de riesgo. Esta paciente no tiene otros hallazgos típicos, como papiledema y déficits neurológicos focales que sugieran este diagnostico.
+
+Lecturas recomendadas:
+
+- Kwak KH. Postdural puncture headache. Korean J Anesthesiol. 2017 Apr;70(2):136-143. doi: 10.4097/kjae.2017.70.2.136. Epub 2017 Feb 3. PMID: 28367283; PMCID: PMC5370299.
+
+#Masculino de 75 años se acaba de someter a una cirugía abdominal abierta bajo anestesia general y ya se encuentra extubado. Sus signos vitales eran normales y se encontraba alerta, pero hace 5 minutos deja de responder. Tiene antecedente de IAM hace 3 años. Sus signos vitales son: temperatura de 37°C, FC de 102 lpm, FR de 20 rpm y PA de 130/80 mmHg. Satura a 73% con oxígeno ambiente. Se coloca una máscara de no reinhalación y se administra oxígeno, pero sigue sin respuesta. Los gases arteriales evidencian: pH: 7.32, PCO2 de 33 mmHg, PO2 de 41 mmHg, HCO3 de 22 mEq/L y saturación de O2 de 73%. ¿Cuál es el manejo adecuado para este paciente?
+#A.	Realizar traqueotomía.
+#B.	Continuar usando máscara de no reinhalación.
+#C.	Reintubar al paciente.
+#D.	Iniciar ventilación con presión positiva de dos niveles (BiPAP).
+#Respuesta correcta: C
+#Tema e ítem: Indicaciones de intubación endotraqueal.
+
+Argumento: En un paciente que no responde se corre el riesgo de que la lengua caiga hacia atrás y los músculos faríngeos puede colapsar causando obstrucción de las vías respiratorias. Este paciente tiene acidosis metabólica, factores de riesgo cardiovasculares y una cirugía reciente por lo que probablemente tuvo un infarto de miocardio en el posoperatorio. Este paciente también puede presentar un desajuste entre ventilación y perfusión como resultado del desarrollo de atelectasias y/o edema pulmonar después del infarto. Ambas condiciones resultan en hipoxemia que no mejora solo con una FiO2 alta como se ve aquí. La intubación endotraqueal es necesaria para asegurar las vías respiratorias del paciente e iniciar ventilación mecánica invasiva.
+
+- En este paciente no se debe intentar la realización de ventilación quirúrgica porque no tiene obstrucción conocida, traumatismo, cuerpos extraño o infección de las vías respiratorias altas. Esta medida se podría considera en caso de que el paciente requiera ventilación invasiva durante más de 10 a 14 días.
+- Este paciente no responde al suministro de oxígeno mediante máscara de no reinhalación. Por tanto, se requiere de otras medidas para asegurar la vía aérea y mejorar su oxigenación.
+- El BiPAP es un método de ventilación no invasiva. Este método no es adecuado para este paciente porque es posible que no pueda mantener su vía aérea permeable: Caída de la legua, colapso de músculos faríngeos puede obstruir la vía aérea.
+
+Lecturas recomendadas:
+
+- The basics of respiratory mechanics: ventilator-derived parameters. Ann Transl Med. 2018 Oct;6(19):376. doi: 10.21037/atm.2018.06.06.
+
+#Masculino de 55 años consulta a urgencias por dolor torácico agudo y diaforesis desde hace una hora. Mientras usted lo valora el paciente pierde el conocimiento. Sus pulsos no son palpables por lo que se inician compresiones torácicas. Se monitoriza al paciente encontrándose un ritmo sinusal. ¿Cuál es el paso a seguir en la evaluación de este paciente?
+#A.	Desfibrilar.
+#B.	Realizar angiografía coronaria.
+#C.	Administrar epinefrina intravenosa.
+#D.	Administrar amiodarona intravenosa.
+#Respuesta correcta: C
+#Tema e ítem: Reanimación cardiopulmonar avanzada.
+
+Argumento: Este paciente presenta un paro cardiaco y la presencia un ritmo sinusal en el monitor cardiaco sugiere actividad eléctrica sin pulso. El paso a seguir en este paciente es la administración de epinefrina: 1 mg IV y repetir a los 3 a 5 minutos sin se continúa con reanimación cardiopulmonar. La actividad eléctrica sin pulso se caracteriza porque la actividad eléctrica continua dentro del sistema de conducción cardiaco pero el gasto cardiaco es inadecuado para soportar la perfusión tisular. La actividad eléctrica sin pulso es un ritmo no desfibrilable, por tanto, las compresiones torácicas y la administración de epinefrina IV son aspectos fundamentales en el manejo del paciente.
+
+- La desfibrilación está indicada para pacientes en casos de paro cardíaco secundario a ritmos defibrilables: Taquicardia ventricular o fibrilación ventricular.
+- El infarto agudo de miocardio es una causa importante de parada cardíaca y se debe podría considerar la realización de la angiografía coronaria una vez que se reanima al paciente. En este momento el paciente se encuentra demasiado inestable como para realizar esta prueba.
+- La amiodarona es un agente de segunda línea en pacientes con paro cardiaco con ritmo desfibrilable que no han respondido a las estrategias de primera línea: Epinefrina y la desfibrilación. No está indicada en pacientes con actividad eléctrica sin pulso.
+
+Lecturas recomendadas:
+
+- Adult Basic and Advanced Life Support: 2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care
+
+#Masculino de 30 años es llevado a urgencias luego de haber sufrido una caída desde un segundo piso. Al momento de la evaluación no responde a las preguntas que se le hacen, pero es capaz de señalar su cabeza cuando se le pregunta sobre dolor. Signos vitales: FC: 131 lpm, FR de 22 rpm y PA de 105/70 mmHg. Satura a 91% con oxígeno ambiente. Al examen físico se evidencia una laceración en cabeza de 1 cm y una fractura de tibia izquierda. Los ruidos respiratorios están disminuidos en el campo pulmonar derecho y el hemitórax superior derecho es hiperresonante. El resto de examen físico es normal. ¿Cuál de los siguientes es el primer paso en el abordaje de este paciente?
+#A.	Realizar toracostomía con aguja.
+#B.	Realizar intubación endotraqueal.
+#C.	Colocar collarín cervical.
+#D.	Colocar catéteres intravenosos 16G e iniciar reanimación con líquidos.
+#Respuesta correcta: C
+#Tema e ítem: Enfoque inicial del paciente con trauma.
+
+Argumento: Cuando se le realicen preguntas sobre el abordaje inicial de pacientes con trauma usted debe enfocarse en el ABCDE para el manejo de trauma. En pacientes con trauma cerrado de cabeza y cuello se debe suponer lesión de columna cervical hasta que se demuestre lo contrario. El hecho de que este paciente no responda verbalmente a las preguntas que se le realizan a pesar de estar consiente debe hacerlo pensar en compromiso de la vía aérea. Este paciente amerita la colocación de un collarín cervical, asegurando las vías respiratorias contra daños mayores. Este paso se incluye en la parte “A” del abordaje de pacientes con trauma: Airway and cervical protection.
+
+- Es probable que este paciente tenga un neumotórax a tensión y que puede necesitar descompresión mediante toracostomía con aguja. Sin embargo, actualmente no tiene signos de dificultad respiratoria grave por lo que la protección de las vías respiratorias debe llevarse a cabo antes de manejar un posible neumotórax.
+- La intubación endotraqueal está indicada en pacientes con puntuación de 8 o menos en la escala de Glasgow. Sin embargo, en este caso no nos refieren características clínicas que hagan pensar en que este paciente tenga una puntuación igual o menor a la descrita. Aunque no necesita intubación por el momento, todavía corre riesgo de sufrir lesiones que comprometan la vía aérea por lo que el collarín cervical debe colocarse de inmediato.
+- La administración de líquidos intravenosos para la prevención del shock hipovolémico hace parte del abordaje C del enfoque ABCDE para el manejo de paciente con trauma. Antes de la administración de líquidos se necesita protección de las vías respiratorias.
+Lecturas recomendadas:
+- ATLS – Advanced Trauma Life Support
+
+#Femenina de 26 años, acude a consulta refiriendo sentirse ‘’emocionalmente inestable’’. Comenta que presenta episodios frecuentes de intensa ira y tristeza, los cuales suelen duras pocas horas y raramente más de un día. Admite haber tenido múltiples episodios de autolesiones sin intención de suicidarse tras tener discusiones con su pareja o madre, expresando miedo constante al abandono, incluso frente a separaciones breves o situaciones imaginarias.
+¿Cuál sería el diagnóstico más probable?
+#A. Trastorno bipolar tipo II
+#B. Trastorno depresivo mayor
+#C. Trastorno limite de la personalidad
+#D. Trastorno paranoide de la personalidad
+#Respuesta correcta:  C
+#Tema e ítem: Trastornos de la personalidad – Limite o Bordeline
+
+Argumento: El diagnóstico más apropiado para esta paciente es el Trastorno de la Personalidad Límite o Bordiline, ya que cumple con rasgos característicos como lo es el patrón general de inestabilidad en las relaciones interpersonales, la autoimagen y la efectividad, y una notable impulsividad, y, además, un comportamiento automutilante en respuesta a la percepción de abandono. Aunque históricamente se consideraba que este trastorno era más común en las mujeres, estudios más recientes basados en la comunidad han mostrado una prevalencia similar entre hombres y mujeres. También suelen tener una autoimagen o un sentido de sí mismos inestable o inseguro; por lo tanto, temen el abandono y a menudo se sienten solos o vacíos.
+
+El tratamiento se fundamenta en la psicoterapia (terapia cognitiva comportamental y entrenamiento en habilidades sociales) y el manejo de los síntomas psicóticos y depresivos a necesidad.
+
+- La paciente no relata episodios de hipomanía o manía, que son fundamentales para el diagnóstico de trastorno afectivo bipolar. Aunque muestra labilidad emocional, no cumple con los criterios temporales ni de severidad del trastorno bipolar.
+- Aunque la paciente presenta episodios de tristeza, la falta de otros criterios claves como lo son anhedonia persistente, cambios significativos en el peso, alteraciones del sueño y pensamientos de inutilidad o culpa excesiva, hacen que este diagnóstico sea menos probable.
+- El trastorno paranoide de la personalidad se caracteriza por una desconfianza y suspicacia general desde el inicio de la edad adulta, de forma que las intenciones de los demás son interpretadas como maliciosas, lo cual no es el caso de esta paciente.
+
+Lectura recomendada:
+
+1. Psiquiatria / [editores] Carlos Alberto Palacio Acosta, Antonio Carlos Toro Obando. – 6a. ed. -- Medellín : CIB ; Bogotá : Ecoe Ediciones, 2018.
+
+#Don Javier de 55 años, sin antecedentes levantes, ingresa al servicio de Urgencias con disconfort torácico, diaforesis intensa y palpitaciones persistentes de dos horas de evolución. Al ingreso se encuentra pálido, FC 165 lpm, FR 24 rpm, SatO2 89% a aire ambiente, sin hallazgos relevantes a la exploración física. Se toma EKG de 12 derivaciones.
+¿Cuál sería la conducta terapéutica adecuada a seguir?
+
+![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2010.png)
+
+#A. Maniobras vágales
+#B. Maniobras vágales seguido de bisoprolol 2.5 mg VO
+#C. Cardioversión sincronizada
+#D. Cardioversión eléctrica seguida de adenosina 12 mg IV
+#Respuesta correcta: C
+#Tema e ítem: Manejo de las taquicardias supraventriculares – Taquicardia por reentrada nodal en pacientes con criterios de inestabilidad hemodinámica
+
+Argumento: Cuando tenga una taquicardia rítmica de complejos estrechos sin onda P que preceda el complejo, debe sospechar una taquicardia por reentrada nodal, como se evidencia en el EKG de este paciente. Recordemos que, en taquiarritmias, las indicaciones para establecer que un paciente presenta compromiso hemodinámico son:
+•	Hipotensión
+•	Signos de hipoperfusión sistémica
+•	Alteración del estado mental
+•	Esfuerzo respiratorio
+•	Disconfort toracico
+•	SatO2 menor de 90%
+•	FC mayor de 200 lpm (Se debe tener presente que este parámetro debe ser evaluado con los anteriores ítems ya que no siempre estas frecuencias cardiacas producen inestabilidad)
+
+La suma de todos estos criterios hace más probable la inestabilidad y es la cardioversión sincronizada el tratamiento de elección (Respuesta correcta C).  Aunque el bisoprolol puede reducir la frecuencia ventricular en un paciente sin repercusión hemodinámica, no es la mejor opción para este paciente, ya que puede exacerbar dicho compromiso. Por otro lado, recordemos que la adenosina está indicada para pacientes sin compromiso hemodinámico luego de haber realizado maniobras vágales sin éxito.
+
+Lectura recomendada:
+
+1. Jaramillo Gómez, CJ. Patrones electrocardiográficos. Medellín: Facultad de Medicina, Universidad de Antioquia, XXI Memorias Curso de Actualización en Medicina Interna; 2022.
+2. Page RL et al. 2015 ACC / AHA / HRS guideline for the management of adult patients with supraventricular tachycardia : executive summary : a report of the American College of Cardiology / American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation 2016 Apr 5; 133: 8471
+
+#Doña Ana de 57 años, quien consulta al servicio de Urgencias del HSVF con un día de evolución de palpitaciones y disnea progresiva de medianos esfuerzos. Entre sus antecedentes personales destaca un historial de hipertensión arterial primaria y dislipidemia mixta en manejo actual con losartán + amlodipino y atorvastatina. Trae reporte de un ecocardiograma TE reciente realizado de manera ambulatoria el cual concluye como hallazgos una valvulopatía mitral moderada y dilatación auricular izquierda de 6.5 cm. Al examen físico se evidencia un primer ruido hiperfonético en área mitral con chasquido de apertura después del segundo ruido. Se le realiza el siguiente electrocardiograma.
+¿Cuál de las siguientes afirmaciones es cierta?
+
+![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2011.png)
+
+#A. Requiere inicio de anticoagulación con Warfarina y un INR objetivo entre 3.5-4
+#B. No requiere iniciar anticoagulación
+#C. Requiere inicio de anticoagulación con Warfarina y un INR objetivo entre 2-3
+#D. Requiere inicio de anticoagulación con Rivaroxaban o Apixaban
+#Respuesta correcta: C
+#Tema e ítem: Fibrilación auricular - ¿Qué pacientes son elegibles para anticoagulación y cuál es el anticoagulante ideal?
+
+Argumento: Recordemos que la guía europea nos recomienda el manejo de la fibrilación auricular (FA) en un sistema ABC donde la “A” es de anticoagulación, “B” de better symtoms o control de síntomas y C de control de comorbilidades. Para finés prácticos de examen de residencia, nos centraremos en la A, en 3 pasos simples:
+
+- Paso 1: Diagnóstico de fibrilación auricular (para el que solo es necesario un EKG de 12 derivadas con criterios compatibles R-R variable ausencia de onda P) más paciente elegible, es decir, tener en cuenta la funcionalidad y el estado de fragilidad, el perfil riesgo-beneficio del inicio de la anticoagulación (puede ser útil la escala de FRAIL o Barthel en algunos casos).
+•	Paso 2: ¿Tiene mi paciente fibrilación auricular valvular?
+•	Paso 3: ¿Alto riesgo de embolismo (puntaje CHA2DS2- VASc=1 en hombres, 2 en mujeres)?
+
+La FA incrementa significativamente el riesgo de embolismo, especialmente en presencia de estenosis mitral (EM) moderada o severa. La EM, en particular, conlleva un riesgo aún mayor debido al flujo sanguíneo turbulento y la estasis aurícular izquierda, lo cual genera un ambiente protrombótico. Se habla de que el 50% de los pacientes con estenosis mitral cursan con fibrilación auricular, y de no iniciarse la anticoagulación, estos pacientes tienen un riesgo de desarrollar eventos tromboembólicos en 20-25%.
+
+La nueva actualización de la AHA ‘’2023 Guideline for the Diagnosis and Management of Atrial Fibrillation’’ continua manteniendo la recomendación de iniciar de Warfarina como anticoagulante de ELECCION a largo plazo en pacientes con estenosis mitral reumática o EM moderada o severa y antecedentes de fibrilación auricular (FA) (en lugar de los anticoagulantes orales directos), independientemente del puntaje CHA2DS2-VASc, para prevención de eventos cardiovasculares y con un INR objetivo de 2-3 (Nivel de evidencia 1).
+
+Los DOACs como apixaban o rivaroxabán se recomiendan como anticoagulantes de primera línea (por encima de la Warfarina) en pacientes con FA y enfermedad valvular diferente a la estenosis mitral moderada/severa o portador de válvula mecánica (Nivel de evidencia 1).
+
+Lectura recomendada:
+
+1. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/ American Heart Association Joint Committee on Clinical Practice Guidelines.
+2. Restrepo, A. Herrera, R. Arango Hernandez, A. Escenarios clínicos en anticoagulación: ¿Cuándo y cómo?. Medellín: Facultad de Medicina, Universidad de Antioquia, XIX Memorias Curso de Actualización en Medicina Interna; 2022.
+
+#Varón de 31 años, previamente sano, quien acude a consulta por presentar lesiones pruriginosas en ambas palmas asociada a cefalea global y alzas térmicas no cuantificadas desde hace 1 semana. Al examen físico se evidencian adenopatías palpables cervicales no dolorosas y lesiones maculopapulares eritrodescamativas distribuidas en palmas, tronco y plantas de ambos pies. No recuerda lesiones cutáneo-mucosas en ninguna localización los meses anteriores a la aparición del cuadro actual. Trae RPR no reactivo.
+¿Cuál de las siguientes pruebas diagnósticas iniciales es la más adecuada para este paciente?
+#A. Solicitar prueba de aglutinación de partículas para T. pallidum (TT-PA)
+#B. Hemocultivar y realizar ecocardiograma TE
+#C. Solicitar anticuerpos heterofilos
+#D. Solicitar anticuerpos antinucleares (ANAs)
+#Respuesta correcta: A
+#Tema e ítem: Sífilis secundaria - ¿Qué prueba solicitar para confirmar el diagnóstico?
+
+Argumento: Se trata de un paciente joven con fiebre/febrícula, adenopatías cervicales no dolorosas y sobre todo rash con afectación palmo-plantar. Lo primero a plantear es una sífilis secundaria, que se diagnostica mediante serología.
+
+La presencia de un exantema maculopapular eritroderscamativo de distribución palmoplantar es altamente sugestivo de sífilis secundaria. En el pasado, se realizaban pruebas no treponémicas, como la prueba de reagina plasmática rápida (RPR), para detectar la sífilis. Más recientemente, muchos laboratorios han comenzado a realizar pruebas de detección de la sífilis mediante un inmunoensayo enzimático para detectar anticuerpos del Treponema pallidum, lo cual se conoce como TT-PA con una sensibilidad del 100% en esta fase de la infección. Esta estrategia puede identificar a pacientes con una infección por T. pallidum muy temprana y también puede detectar casos de sífilis tardía o latente en pacientes cuyos títulos de RPR se han vuelto no reactivos.
+
+Lectura recomendada:
+
+1. N Engl J Med 2020; 382:845-854
+2. Badri Tand Ben Jennet S. Images in clinical medicine. Rash associated with secondary syphilis. N Eng J Med 2011 Jan 6; 364:71.
+
+#Mujer de 61 años, con antecedente de enfermedad renal crónica estadio V, es traída al servicio de urgencias por presentar debilidad muscular progresiva de tres días de evolución. Refiere el acompañante que no sido adherente a su dieta baja en potasio y no asistió a la última sesión de diálisis hace tres días. Al examen físico presenta signos vitales estables, fuerza muscular II/V en ambos miembros inferiores. Analítica: Na+ 137 mEq/L, K+ 7.1 mEq/L, glicemia plásmatica 100 mg/dL. EKG: ondas T picudas y altas.
+¿Cuál sería la conducta terapéutica adecuada a seguir?
+#A. Administrar insulina + DAD 5% IV, gluconato de calcio y programar para hemodiálisis urgente
+#B. Administrar insulina + DAD 5% IV, gluconato de calcio, furosemida y programar para hemodiálisis urgente
+#C. Administrar insulina + DAD 5% IV, gluconato de calcio, bicarbonato y programar para hemodiálisis urgente
+#D. Administrar insulina + DAD 5% IV, gluconato de calcio, furosemida, bicarbonato y programar para hemodiálisis urgente
+#Respuesta correcta: A
+#Tema e ítem: Hipercaliemia severa – Manejo médico
+
+Argumento: Ante el panorama de una hipercaliemia severa como el de esta paciente, el tratamiento médico más adecuado es el inicio de insulina + DAD 5% IV para facilitar el movimiento del potasio extracelular al intracelular y gluconato de calcio IV para estabilizar la membrana de los miocardiocitos. Posterior a esto, la hemodiálisis debe realizarse lo más pronto posible.
+
+Esta paciente tiene una historial de una insuficiencia renal terminal (IRT) y presenta debilidad muscular, hiperpotasemia y ondas T picudas en el ECG. Los signos y síntomas de esta paciente están relacionados con los efectos adversos del potasio sérico sobre las membranas celulares del músculo esquelético y cardíaco. El gluconato cálcico IV estabiliza el miocardio al disminuir el potencial umbral y suele administrarse de forma aguda para disminuir el riesgo de arritmias; sin embargo, el calcio no tiene ningún efecto sobre los niveles séricos de potasio. El tratamiento apropiado para reducir rápidamente el potasio sérico en esta paciente es la administración intravenosa de insulina y glucosa para desplazar rápidamente el potasio intracelularmente. La insulina conduce eficazmente el potasio al interior de las células al aumentar la actividad de la bomba Na+/K+ ATPasa en el músculo esquelético. La glucosa se administra para contrarrestar la hipoglucemia potencial asociada al tratamiento con insulina.
+
+- Si bien es cierto que la furosemida puede aumentar la pérdida renal de potasio, esto ocurre en pacientes con función renal conservada o insuficiencia renal leve a moderada. Sin embargo, este efecto no es inmediato, y la furosemida sería ineficaz en este paciente con ERC terminal.
+- El bicarbonato sódico intravenoso eleva el pH sérico y produce un desplazamiento de potasio hacia las células como parte del proceso de amortiguación. Sin embargo, no se ha demostrado que sea un método eficaz o predecible para producir una respuesta hipocaliemica, especialmente en pacientes con ERC terminal.
+
+Lectura recocomendada:
+
+1. Liu M, Rafique Z. Acute management of hyperkalemia. Curr Heart Fail Rep. 2019;16:67-74.
+
+#Masculino de 52 años consulta cefalea generalizada de inicio repentino desde hace 5 horas, de intensidad 10/10 que alcanzó su máximo nivel en pocos minutos, asociado a náuseas y vómitos. Refiere, hace 6 días, un cuadro de cefalea con irradiación a cuello, el cual autoresuelve sin manejo. Tiene antecedente de hipertensión e hiperlipidemia. Signos vitales de T° de 38,1°C, FC de 82 lpm, FR de 16 rpm y P.A de 162/98 mm/Hg. Al examen físico, pupilas isocóricas, normorreactivas a la luz, fondo de ojo con evidencia inflamación de los discos ópticos. Los nervios craneales II-XII están intactos. No tiene déficits focales, motores o sensoriales. El TAC de cráneo simple es normal. ¿Cuál es el manejo adecuado de este paciente?
+#A.	Repetir la TAC en 24 horas.
+#B.	Realizar una punción lumbar.
+#C.	Administrar oxígeno al 100% y sumatriptán intranasal.
+#D.	Administrar nitroprusiato de sodio intravenoso.
+#Respuesta correcta: B
+#Tema e ítem: Hemorragia subaracnoidea
+
+Argumento: En este paciente, la cefalea generalizada intensa, de inicio súbito, que alcanza su punto máximo al instante, con náuseas, vómitos, fiebre y antecedentes de una posible hemorragia centinela (Cefalea intensa 6 días antes) sugiere fuertemente una hemorragia subaracnoidea (HSA). Si la TAC de cráneo simple no es concluyente, pero la sospecha clínica sigue siendo alta, se debe realizar una punción lumbar (PL) para descartar HSA. La tomografía computarizada de cráneo tiene una alta sensibilidad para este diagnóstico (> 90 %), principalmente en las 6 horas posteriores al inicio de los síntomas, pero es posible que no se detecten hemorragias pequeñas. A pesar de que la tomografía se evidencia normal, su cuadro clínico sugiere una HSA y justifica un estudio de diagnóstico adicional como la PL. Los hallazgos esperados en la PL en HSA incluyen niveles elevados glóbulos rojos, niveles altos de proteínas, xantocromía (después de 6 a 12 horas) y posiblemente presión de apertura elevada.
+
+- Se puede considerar una tomografía computarizada de control ante sospecha de una patología en evolución. Sin embargo, esperar 24 horas no es apropiado, cuando el diagnóstico probable podría conducir a déficits neurológicos permanentes y muerte dentro de este período de tiempo.
+- El oxígeno y el sumatriptán intranasal son el tratamiento preferido para la cefalea en racimos. Si bien la cefalea en racimos puede permanecer en el diferencial, la cefalea intensa de inicio repentino con náuseas y vómitos de este paciente debe generar preocupación por un diagnóstico más peligroso, como la hemorragia subaracnoidea.}
+- El manejo de la HSA debe incluir un control cuidadoso de la presión arterial para alcanzar una presión sistólica por debajo de 160 mm Hg; sin embargo, los fármacos iniciales de elección son los bloqueadores beta (labetalol) y los bloqueadores de los canales de calcio (nimodipina, que también tiene efectos neuroprotectores). Los nitratos como el nitroprusiato de sodio están indicados para las crisis hipertensivas, pero son una mala elección en la HSA porque pueden elevar la presión intracraneal.
+
+Lectura recomendada:
+
+- Óscar Eduardo Moreno Duque, Juan Felipe Peláez Pérez, Francisco Javier Londoño Ocampo. Hemorragia subaracnoidea. V actualización emergencias neuroquirúrgicas. Universidad de Antioquia 2020.
+
+#Don José de 65 años, es evaluado en el servicio de Urgencias tras presentar hace 5 horas un episodio de afasia y paresia facio-braquial derecha con 20 minutos de duración. Tiene antecedente de tabaquismo activo desde hace 35 años, hipertensión arterial y dislipidemia. Se encuentra en manejo actual con enalapril + amlodipino y atorvastatina. Al examen físico presenta PA 130/70 mh, FC 92 lpm, SatO2 96% a aire ambiente, ruidos cardiacos rítmicos, alerta, orientado en las tres esferas, con lenguaje evaluable, velocidad y contenido de pensamiento evaluable, sin déficit neurológico actual. La TAC simple de cráneo es normal, EKG en ritmo sinusal, ecocardiograma TT con hipertrofia concéntrica leve del VI y FEVI del 62%, ecodoppler de vaso de cuello evidencia estenosis de arteria carótida interna izquierda del 82%, hallazgo verificado posteriormente por angioTAC. Pendiente reporte de holter de ritmo de 24 horas. Se inició doble antiagregación con ASA + clopidogrel.
+¿Cuál es la conducta terapéutica más adecuada a seguir para prevenir un futuro ACV en don José?
+#A. Iniciar anticoagulación con apixaban
+#B. Programar para colocación de stent carotideo
+#C. Iniciar anticoagulación con Warfarina, objetivo INR 2.5-3.5
+#D. Programar para endarterctomia carotidea
+#Respuesta correcta: D
+#Tema e ítem: Enfermedad arterial carotidea sintomática - ¿Cuál es el manejo ideal?
+
+Argumento: Don José sin duda alguna es candidato ideal para una endarterectomía carotidea. El ataque isquémico transitorio (AIT) descrito en don José muy probablemente se debe a su estenosis carotidea de alto grado, lo cual otorga un riesgo del 1% diario de desarrollar un ACV isquémico durante las dos primeras semanas y del 26% en los próximos 2 años. La endarterectomía carotídea es muy eficaz para reducir el riesgo de ictus recurrente en el periodo inmediatamente posterior al AIT, por lo tanto, el mayor beneficio se obtiene cuando la intervención se realiza de forma temprana.
+
+- *¿Por qué la colocación del stent no es una opción ideal para Don José?*🤔👇🏻
+La colocación de un stent carotídeo sería inadecuada para este paciente. Los ensayos clínicos han demostrado que, en cuanto a los resultados de prevención de ACVi y muerte, la colocación de un stent y la endarterectomía no son significativamente diferentes. Al contrario, la colocación de un stent plantea un mayor riesgo de ictus perioperatorio que la endarterectomía. Por lo tanto, no se recomienda como intervención primaria para la estenosis sintomática de la arteria carótida (La cual suele producirse cuando la obstrucción es > 70%).
+
+🔴 La anticoagulación con apixaban o warfarina en el contexto de un AIT no asociado a fibrilación ariclar se ha asociado a mayores tasas de mortalidad y peores resultados neurológicos. La anticoagulación a largo plazo sólo es beneficiosa en pacientes cuyo evento cerebrovascular isquémico está causado por fibrilación auricular u otra fuente de embolia cardiogénica. Dado que el ictus de este paciente probablemente se debió a su estenosis carotídea de alto grado, la opción A y C quedan descartadas.
+
+Lectura recomendada:
+
+1. Amarenco P. Transient ischemic attack. N Engl J Med. 2020;382:1933-1941
+
+#Paciente masculino de 65 años de edad se encuentra en UCI ventilado desde hace 3 días luego de verse involucrado en un accidente de tránsito. En las últimas 12 horas se aumentó la presión positiva al final de la espiración para asegurar una adecuada oxigenación. Sin embargo, desarrolla dificultad respiratoria. Sus signos vitales son: temperatura de 39°c, FC de 114 lpm, FR de 24 rpm y PA de 140/90 mmHg. Una radiografía de tórax evidencia la aparición de nuevos infiltrados alveolares y broncograma aéreo en el lóbulo inferior derecho. ¿Cuál de las siguientes medidas es más probable que hubiera prevenido esta condición?
+#A.	No realizar aspiraciones orofaríngeas diarias.
+#B.	Cambio diario del circuito del ventilador.
+#C.	Minimizar la sedación del paciente.
+#D.	Evitar el exceso de inflado del manguito del tubo endotraqueal.
+#Respuesta correcta: C
+#Tema e ítem: Neumonía asociada al ventilador.
+
+Argumento: La taquicardia, taquipnea, fiebre y la aparición de nuevos infiltrados en la radiografía de tórax después de estar intubado durante más de 48 horas indican neumonía asociada al ventilador, que con mayor frecuencia es causada por microaspiración de la flora bacteriana de la cavidad oral o del estómago. Los sedantes que se utilizan en pacientes ventilados mecánicamente para aliviar el malestar y ansiedad, y si no se dispone de un modo de ventilación espontánea para prevenir complicaciones derivadas de la asincronía paciente-ventilador. Sin embargo, la sedación excesiva altera los reflejos protectores de las vías respiratorias del paciente y permite que las secreciones orofaríngeas o el reflujo gástrico pasen más allá de la glotis. En pacientes intubados, estas secreciones pueden acumularse en la región subglótica y drenar alrededor del manguito del tubo endotraqueal hacia el tracto respiratorio inferior. Usando las herramientas de evaluación de sedación y titulación diaria de la profundidad de la sedación del paciente hasta el nivel mínimo necesario se puede prevenir la acumulación de secreciones y la neumonía asociada al ventilador.
+
+- La aspiración rutinaria de secreciones orofaríngea y subglótica evita la acumulación de secreciones por encima del manguito del tubo endotraqueal. Evitar la aspiración orofaríngea de rutina aumentaría en lugar de disminuir el riesgo de neumonía asociado al ventilador.
+- Las biopelículas de bacterias pueden adherirse al circuito del ventilador y provocar neumonía asociada. Sin embargo, se recomienda cambiar el circuito del ventilador cuando se encuentre sucio, funciona mal o si se ventila nuevamente al paciente. Sin embargo, los cambios frecuentes del circuito del ventilador aumentan en lugar de disminuir el riesgo de neumonía asociada al ventilador.
+- Se requiere un inflado adecuado del manguito del tubo endotraqueal (a una presión de 20 a 30 mm H2O para minimizar el riesgo de neumonía asociada a la ventilación. Si bien evitar el inflado excesivo del manguito del tubo previene lesión de las vías respiratorias, no previene la neumonía.
+
+Lecturas recomendadas:
+
+- Timsit JF, Esaied W, Neuville M, Bouadma L, Mourvllier B. Update on ventilator-associated pneumonia. F1000Res. 2017 Nov 29;6:2061. doi: 10.12688/f1000research.12222.1. PMID: 29225790; PMCID: PMC5710313.
+
+#Femenina de 54 años consulta por dolor y edema de su pierna derecha desde hace 6 meses. Refiere que el dolor empeora al final del día y se alivia caminando o elevando los pies. Tiene antecedente de trombosis venosa profunda hace 2 años en esa misma extremidad. Al examen físico se evidencia edema con fóvea en la extremidad inferior derecha. La piel alrededor del tobillo derecho muestra decoloración marrón rojiza y múltiples telangectasias. Tiene venas varicosas dilatadas en ese mismo miembro. ¿Cuál es la prueba diagnóstica indicada en este caso?
+#A.	Tomografía computarizada con contraste de miembros inferiores.
+#B.	Medición de dímero D.
+#C.	Medición de índice tobillo-brazo.
+#D.	Ecografía doppler de miembros inferiores.
+#Respuesta correcta: D
+#Tema e ítem: Insuficiencia venosa crónica.
+
+Argumento: El dolor sordo crónico unilateral de este paciente, el edema, las venas dilatadas en la extremidad inferior asociado al antecedente de trombosis venosa profunda sugiere una insuficiencia venosa crónica. En este caso la ecografía doppler de compresión es la prueba diagnóstica de primera línea en pacientes con características sugestivas de esta enfermedad. La evidencia de reflujo venoso en la ecografía confirmaría el diagnostico. Esta prueba también puede ayudar a determinar el curso del tratamiento identificando que válvulas son incompetentes y evaluando la permeabilidad de las venas profundas.
+
+- La tomografía computarizada con contraste de extremidades inferiores se usa para evaluar a pacientes en busca de infecciones profundas, malignidad o lesiones en extremidades inferiores. No tiene indicación y no se usa para evaluar la insuficiencia venosa.
+- La medición de dímero D es una prueba no específica que está indicada en pacientes con baja probabilidad de trombosis venosa profunda aguda. No tiene indicación en la evaluación de la insuficiencia venosa crónica.
+- El índice tobillo-brazo se usa para detectar enfermedad arterial periférica en pacientes que presentan claudicación. El dolor de esta paciente mejora al caminar, lo que hace que la enfermedad arterial periférica sea poco probable de sus síntomas.
+
+Lecturas recomendadas:
+
+- Spiridon M, Corduneanu D. Chronic Venous Insufficiency: a Frequently Underdiagnosed and Undertreated Pathology. Maedica (Bucur). 2017 Jan;12(1):59-61. PMID: 28878840; PMCID: PMC5574075.
+
+#Masculino de 68 años consultó por fatiga y dificultad para iniciar la micción, junto a nicturia. No tiene antecedentes de importancia. Trae a la consulta un monitoreo ambulatorio de la presión arterial (MAPA) que reportó un promedio día/noche de 150/100 mmHg. Al examen físico tacto rectal con una próstata firme, no dolorosa y agrandada de forma uniforme. ¿Cuál de los siguientes es el manejo más adecuado?
+#A.	Iniciar tamsulosina.
+#B.	Iniciar terazosina.
+#C.	Iniciar clonidina.
+#D.	Iniciar Alfa-metil dopa
+#Respuesta correcta: B
+#Tema e ítem: Hiperplasia prostática benigna – tratamiento.
+
+Este paciente presenta síntomas urinarios, junto con hallazgos al examen físico que sugieren hiperplasia prostática benigna (HPB). Que adicionalmente tienen diagnóstico de hipertensión arterial por la curva de presión arterial del MAPA, y que, por ende, se beneficia del tratamiento con terazosina. Recordemos que la terazosina es un antagonista de los receptores adrenérgicos α- 1 que se usó inicialmente para tratar la hipertensión (Disminuye la vasoconstricción y disminuye la presión arterial) y luego se descubrió que también era útil para tratar la HPB (relajación de los músculos del cuello de la vejiga lo que lleva a que disminuya la obstrucción de la salida de la vejiga y facilitación de la micción).
+
+- Por otra parte, la tamsulosina se administra comúnmente en el tratamiento de la hiperplasia prostática benigna. Aunque la tamsulosina es un antagonista de los receptores adrenérgicos, su efecto es selectivo para los receptores adrenérgicos α- 1A prostáticos y los receptores adrenérgicos α- 1D, mientras que tiene un bajo efecto sobre los receptores adrenérgicos α- 1B vasculares; y por ende, no sería el tratamiento óptimo para la hipertensión.
+- La clonidina es un fármaco con efectos simpaticolíticos y se utiliza para tratar la hipertensión, principalmente la urgencia hipertensiva. Recordemos que la clonidina estimula los receptores adrenérgicos α- 2 en el sistema nervioso central y previene la liberación adicional de neurotransmisores simpáticos; sin embargo, la clonidina no tiene efecto sobre los receptores adrenérgicos α- 1 de la uretra prostática y el cuello de la vejiga.
+- Finalmente, la α-metildopa estimula los receptores adrenérgicos α- 2 en el sistema nervioso central y previene la liberación adicional de neurotransmisores simpáticos. Si bien podría usarse para tratar la hipertensión de este paciente, no se consideraría un antihipertensivo de primera línea. Además, la α- metildopa no tiene efecto sobre los receptores adrenérgicos α- 1 de la uretra prostática y el cuello de la vejiga.
+
+Lectura recomendada:
+
+- White WB, Moon T. Treatment of benign prostatic hyperplasia in hypertensive men. J Clin Hypertens. 2005 April.
+
+#Camila, 44 años, consulta tras despertar y notar edema facial, disartria y disfagia. Niega alergias y picaduras. Tiene HTA, está controlada. Examen físico: FC 110/min, FR 20/min, PA 140/90 mmHg, SatO2 97% al ambiente. Está incómoda, con notable edema de labios y lengua. Los niveles séricos de C4 están dentro de los límites normales. ¿Cuál de los siguientes es el mecanismo subyacente más probable de los síntomas de esta paciente?
+#A.	Alteración del metabolismo de la bradicinina
+#B.	Liberación de histamina mediado por IgE
+#C.	Reacción anafilactoide
+#D.	Defecto genético autosómico dominante
+#Respuesta correcta: A
+#Tema e ítem: Angioedema asociado a antihipertensivo - ¿Cómo identificarlo?
+
+Argumento: La ECA es una de las enzimas responsables de la degradación de la bradicinina. Por lo tanto, la terapia con inhibidores de la ECA puede aumentar los niveles séricos de bradicinina, lo que a su vez puede causar angioedema debido a la vasodilatación y al aumento de la permeabilidad vascular. El edema grave de la lengua y/o la laringe puede obstruir las vías respiratorias superiores, provocando disnea y/o estridor. El aumento de la bradicinina también puede causar tos seca. Aunque estos efectos adversos suelen producirse poco después del inicio del tratamiento, pueden aparecer en cualquier momento. El angioedema suele resolverse a las 2-3 semanas de suspender los inhibidores de la ECA. A diferencia del angioedema causado por la degranulación de los mastocitos, el angioedema causado por un aumento de la bradicinina no se asocia a prurito o urticaria. Los IECA son la causa más frecuente de angioedema, en Camila, con HTA controlada es posible que esté tomando alguno.
+
+- La liberación de histamina mediada por IgE (reacción de hipersensibilidad de tipo 1) puede causar angioedema y disnea. Suelen presentar prurito y/o urticaria y antecedentes de exposición a un antígeno anafiláctico (insecto, alimentos, inyección de penicilina) minutos u horas antes. Aunque los medicamentos antihipertensivos y antidiabéticos pueden causar raramente reacciones de hipersensibilidad de tipo 1, éstas ocurren generalmente poco después de comenzar el tratamiento con las primeras dosis, más que con el uso a largo plazo.
+- Las reacciones anafilactoides pueden causar angioedema y disnea. Sin embargo, los pacientes con una reacción anafilactoide también presentan prurito y/o urticaria, así como antecedentes de exposición a un antígeno anafilactoide (radiocontraste intravenoso, aspirina, vancomicina, opiáceos) minutos u horas antes de la aparición de los síntomas.
+- Un defecto autosómico dominante en el gen que codifica el inhibidor de la esterasa C1 es responsable del angioedema hereditario (AEH). El uso de inhibidores de la ECA también puede actuar como desencadenante del angioedema en pacientes con AEH. Sin embargo, la aparición de los síntomas en el AEH suele producirse durante la infancia o la adolescencia y los niveles de C4 suelen estar disminuidos.
+
+Lectura recomendada:
+
+- Bruce Zuraw. An overview of angioedema: Pathogenesis and causes. Available on UpToDate Advanced 2023.
+
+#Carlos, 63 años, consulta por un aumento de la fatiga desde hace 3 meses. Tiene más dificultades para sus actividades cotidianas, ha perdido 2,5 kg en un mes. Tiene HTA y dislipidemia, toma lisinopril, hidroclorotiazida y atorvastatina. Examen físico: T 37,1°C, FC 85/min, FR 15/min, PA 125/73 mmHg. Tiene las conjuntivas pálidas. Paraclínicos: Hto 27%, WBC 4500/mm3, Plq 102.000/mm3, ESP: numerosos blastos con tinción positiva para mieloperoxidasa, CD33 y CD34. ¿Cuál es el diagnóstico más probable?
+#A.	Linfoma no Hodgkin
+#B.	Leucemia linfocítica crónica
+#C.	Leucemia mieloide aguda
+#D.	Leucemia linfoblástica aguda
+#Respuesta correcta: C
+#Tema e ítem: paciente con neoplasia hematológica - ¿Cuál es la prevalencia según la edad?
+
+Argumento:  Como su nombre indica, la leucemia mieloide aguda (LMA) está causada por mutaciones en las células madre de la médula ósea que proliferan rápidamente. La mejor forma de diferenciar los distintos tipos de neoplasias hematológicas es fijarse en la edad del paciente (la leucemia linfoblástica aguda es frecuente en niños, la LMA en adultos), el número de blastos (la leucemia aguda suele provocar un aumento más rápido y grave de los blastos en comparación con la leucemia crónica) y el patrón de tinción de los blastos. Los blastos de la LMA (mieloblastos) se tiñen positivamente para la mieloperoxidasa y tienen ciertos marcadores de superficie celular como CD13, CD33, CD34 y CD117.
+
+- El linfoma no Hodgkin (LNH) puede manifestarse con síntomas constitucionales y, en fases avanzadas de la enfermedad, con alteración de la hematopoyesis (debido a la infiltración de la médula ósea), pero el paciente carece del hallazgo clave del LNH: linfadenopatía indolora. Además, las células malignas en el LNH tendrían marcadores de superficie de linaje de células B (por ejemplo, CD20) o de linaje de células T (por ejemplo, CD3) en lugar de CD33 y CD34.
+- Este paciente presenta algunas características típicas de la LLC, como fatiga, pérdida de peso, edad avanzada (los pacientes con LLC suelen ser incluso mayores) y supresión de la médula ósea. Sin embargo, las células de la LLC se teñirían positivamente para CD19, CD20 y CD23 en lugar de CD33 y CD34. Además, el frotis de sangre probablemente mostraría células manchadas.
+- Este paciente sí tiene leucemia aguda, como indica la presencia de blastos y la alteración de la hematopoyesis. En el caso de la leucemia linfoblástica aguda (LLA), sin embargo, los blastos se teñirían negativamente para mieloperoxidasa y positivamente para desoxinucleotidil transferasa terminal y gránulos de ácido periódico-Schiff. Además, los blastos tendrían marcadores de superficie de linaje de células B (por ejemplo, CD10, CD19, CD20) o linaje de células T (por ejemplo, CD3) en lugar de CD33 y CD34.
+
+Lectura recomendada:
+
+- Julián Zea, Andrés Cardona. Enfoque general de la leucemia aguda. Medellín: XVIII Curso de actualización de medicina interna. Facultad de Medicina, Universidad de Antioquia. 2018.
+
+#Helena de 28 años, G3P2 en semana 36 de gestación de feto en cefálico con diagnóstico de polihidramnios y PFE de 2500gr, ingresa a urgencias por inicio de contracciones uterinas hace 2 horas. Al tacto vaginal se encontró dilatación de 5 cm, 100% de borramiento cervical y un estadio De Lee de -1. Se realizó una monitorización fetal que reportó (frecuencia cardiaca fetal) FCF de 145 lpm con desaceleraciones variables. Cinco minutos más tarde, tras la rotura espontánea de membranas, la frecuencia cardíaca fetal es de 60/min y el tacto vaginal evidenció un cordón grueso y pulsante, por lo que se inician medidas de reanimación in Útero, con posterior FCF de 80 lpm. ¿Cuál es la conducta a seguir?
+#A. Parto vaginal Instrumentalizado
+#B. Parto por cesárea
+#C. Reposición manual del cordón umbilical
+#D. Reevaluación de la frecuencia cardíaca fetal en 5 minutos
+#Respuesta correcta: B
+#Tema e ítem: Prolapso de cordón umbilical
+
+Argumento: Ante la presencia de un cordón pulsátil palpable posterior a una ruptura de membranas espontáneas, se configura el diagnóstico de un prolapso de cordón, que junto a una bradicardia fetal severa que no responde a maniobras de reanimación, hace necesario proceder con una cesárea de emergencia (Respuesta correcta B). Recordemos que el prolapso del cordón umbilical ocurre cuando el cordón umbilical sale por el orificio cervical antes que la presentación fetal. La compresión del cordón produce vasoconstricción y la consiguiente hipoxia fetal, que puede provocar la muerte o discapacidad del feto si no se diagnostica y trata rápidamente; por ende, el método de nacimiento más seguro es la cesárea si la salud materna y/o fetal puede verse comprometida por el parto vaginal.
+
+- Por otra parte, un parto vaginal instrumentalizado se puede considerar si Helena se encontrará en una segunda etapa del parto (Si el cuello uterino está completamente dilatado)prolongado; sin embargo, Helena tiene un cuello uterino dilatado 5 cm y un prolapso evidente del cordón umbilical; por lo que un parto vaginal asistido en este momento pondría en riesgo la vida del feto.
+- En cuanto a la reposición manual del cordón umbilical, no se recomienda por falta de evidencia científica a favor de que la intervención sea conveniente. Además, la manipulación del cordón podría provocar vasoespasmo, comprometiendo así la oxigenación fetal.
+- Finalmente, la reevaluación de la frecuencia cardíaca fetal en 5 minutos se puede considerar en pacientes con prolapso umbilical oculto si las medidas de reanimación intrauterina tienen éxito, como lo demuestra la normalización de la frecuencia cardíaca fetal; no obstante, Helena tiene un prolapso evidente del cordón umbilical y las medidas de reanimación intrauterina no han producido ninguna mejoría
+
+Lectura recomendada:
+
+- Boushra M, Stone A, Rathbun KM. Umbilical Cord Prolapse. Available in: Stat Pearl.2023.
+
+#Sofía de 42 años, G2P1 con 32 semanas de gestación con diagnóstico de DM2 hace 5 años en manejo con insulina, consultó por aumento de peso de 15.5 kg respecto a su valor de peso previo. Signos vitales FC 101 lpm, PA 132/81 mm/Hg y FCF de 130 lpm. Su IMC antes de la gestación era de 31 kg/m2. Al examen físico sin hallazgos anormales. La ecografía muestra la circunferencia de la cabeza fetal, la circunferencia abdominal y el peso fetal estimado por encima del percentil 95. ¿El niño tiene mayor riesgo de sufrir cuál de las siguientes complicaciones?
+#A. Distocia de hombros
+#B. Hiperglucemia neonatal
+#C. Síndrome de muerte súbita del lactante
+#D. Anemia fetal
+#Respuesta correcta: A
+#Tema e ítem: ¿Cuándo se debe sospechar que puede ocurrir una distocia de hombros?
+
+Argumento: Ante la presencia de factores de riesgo como macrosomía fetal, obesidad materna y diabetes mellitus materna, se debe sospechar la complicación más probable es la distocia de hombros (Respuesta correcta A). Recordemos que la distocia de hombros es una complicación intraparto común en pacientes macrosómicos. En los recién nacidos representa una emergencia obstétrica, ya que puede provocar partos difíciles y lesiones graves tanto para el feto como para la madre. La distocia de hombros pone al recién nacido en riesgo de sufrir fracturas de clavícula o húmero, lesiones transitorias o permanentes del plexo braquial como la parálisis de Erb (o menos frecuente la parálisis de Klumpke) y la encefalopatía hipóxica-isquémica debida a la compresión del cordón umbilical. La hemorragia debida a atonía/rotura uterina y laceraciones perineales son las complicaciones maternas más comunes asociadas con la distocia de hombros.
+
+- Por otra parte, los recién nacidos macrosómicos nacidos de madres diabéticas tienen un mayor riesgo de hipoglucemia después del parto, no de hiperglucemia. La hiperglucemia materna provoca un aumento del suministro placentario de glucosa y la consiguiente hiperinsulinemia fetal e hiperplasia de las células de los islotes. Después del parto, cesa el suministro de glucosa a la placenta y la secreción excesiva de insulina conduce a hipoglucemia fetal.
+- En cuanto al síndrome de muerte súbita del lactante, este es más común en recién nacidos con bajo peso al nacer. Además, que la macrosomía no se asocia con un mayor riesgo de desarrollar este síndrome. Otros factores de riesgo prenatal para esta afección incluyen el tabaquismo materno durante el embarazo, el escaso aumento de peso gestacional y la ausencia de atención prenatal, ninguno de los cuales tiene Sofía
+- Finalmente, los recién nacidos macrosómicos nacidos de madres diabéticas tienen un mayor riesgo de policitemia, no de anemia. Estos recién nacidos tienen mayores demandas de oxígeno, lo que provoca un aumento reactivo en la producción de eritropoyetina y, en consecuencia, un aumento de la eritropoyesis.
+
+Lectura recomendada:
+
+- Davis DD, Roshan A, Canela CD, et al. Shoulder Dystocia. Available In StatPearls 2023.
+
+#Adriana de 32 años, G1P1 con 35 semanas de gestación por ecografía, sin complicaciones hasta el momento relacionadas con la gestación, consultó a urgencias por salida de forma repentina de líquido hialino-amarillento de la vagina. Signos vitales Tº 37,0 °C, FC 75 lpm, FR 17 rpm y PA de 125/80 mm/Hg. Al examen físico útero blando y no doloroso, de tamaño consistente. La monitorización fetal no muestra contracciones y muestra una frecuencia cardíaca tranquilizadora. ¿Cuál es la conducta a seguir?
+#A. Prueba de líquido amniótico para determinar la madurez pulmonar fetal
+#B. Realizar especuloscopia
+#C. Administración de ampicilina, azitromicina y betametasona
+#D. Amniocentesis para estudios de líquido amniótico
+#Respuesta correcta: B
+#Tema e ítem: Ruptura prematura de membranas: evidencias en el diagnóstico
+
+Argumento: Ante una gestación menor de 37 semanas, sin presencia de actividad uterina y cuadro clínico de salida de líquido hialino-amarillento, es indicativo realizar una especuloscopia  (Respuesta correcta B) para poder diagnosticar una ruptura prematura de membranas (RPM). Recordemos futuro R1 que la valoración con espéculo estéril es el primer paso en el diagnóstico de pacientes con sospecha de RPM. El diagnóstico se apoya en los hallazgos de líquido amniótico que se escapa del cuello uterino y se acumula en la cúpula vaginal y se confirma además mediante una prueba de nitrazina positiva, una prueba de helecho o una prueba de detección rápida del factor de crecimiento similar a la insulina 1 o alfa microglobulina-1 placentaria. Los casos de RPM deben ser monitoreados para detectar posibles cambios en los volúmenes de líquido amniótico o la frecuencia cardíaca fetal y para detectar signos de infección intraamniótica.
+
+- Por otra parte, la prueba de líquido amniótico para determinar la madurez pulmonar fetal se puede considerar para determinar la madurez pulmonar fetal en pacientes con una edad gestacional desconocida, que tienen un alto riesgo de parto prematuro, que puede desarrollarse como resultado de una RPM; no obstante, la edad gestacional de Adriana fue confirmada por ecografía y no muestra signos de parto prematuro, lo que hace que esta intervención no esté indicada. Además, si se confirma la RPM la paciente recibiría corticosteroides prenatales independientemente de los resultados de las pruebas de líquido amniótico.
+- En cuanto a la profilaxis antibiótica con ampicilina y azitromicina (para reducir el riesgo de corioamnionitis), así como corticosteroides prenatales (para inducir la madurez pulmonar fetal), están indicadas en pacientes con RPM que tienen <34 semanas de gestación; sin embargo, en pacientes con RPM con ≥ 34 semanas de gestación, el Colegio Americano de Obstetras y Ginecólogos no recomienda la profilaxis con antibióticos. En este momento, esta paciente sólo necesitaría un único ciclo de corticosteroides prenatales.
+- Finalmente, el cultivo de líquido amniótico es el estándar de oro en el diagnóstico de corioamnionitis, que es una complicación común de la RPM; sin embargo, esta paciente no muestra signos de infección intraamniótica (p. ej., fiebre, taquicardia, flujo vaginal purulento), por lo que la corioamnionitis es poco probable. En este momento es más apropiado dar un paso diferente.
+
+Lectura recomendada:
+
+- Cortés H, Ruptura prematura de membranas: evidencias en el tratamiento.Medellín. XXIX Actualización en ginecología y obstetricia. Universidad de Antioquia 2021.
+
+#Maria José de 27 años, primigestante con gestación de 42+1 semanas sin complicaciones hasta el momento con resultado reciente de estreptococos del grupo B negativo, asiste a valoración prenatal.  Signos vitales Tº 37.2 ºC, FC 90 lpm, FR 16 rpm y PA 127/86 mm/Hg. Al examen físico útero blando y no doloroso, sin evidencia de contracciones. Se realizó una monitoria fetal que no evidencia actividad uterina y reporta una frecuencia cardíaca tranquilizadora sin evidencia de desaceleraciones. La ecografía transabdominal muestra al feto en presentación cefálica, movimientos fetales normales, un índice de líquido amniótico de 4 cm y calcificaciones de la placenta. ¿Cuál es la conducta a seguir?
+#A. Cesárea de urgencia
+#B. Inducir el parto
+#C. Realizar una amnioinfusión transabdominal
+#D. Manejo expectante y seguimiento con monitoreos fetales
+#Respuesta correcta: B
+#Tema ítem: ¿Qué hacer ante un oligoligohidramnios en gestación postérmino?
+
+Argumento: Ante la presencia de una gestación de 42 +1 semana y un índice de líquido amniótico ≤5 que es compatible con oligohidramnios en el contexto de un feto en cefálico con una monitoria fetal que no evidencia actividad uterina ni signos de sufrimiento fetal se debe proceder con una inducción del parto (Respuesta correcta B). Recordemos que el parto inmediato está indicado en embarazos tardíos ≥41 semanas de gestación con evidencia de complicaciones (oligohidramnios, insuficiencia placentaria) y en todos los embarazos postérmino entre las 42+6 semanas de gestación. Los requisitos previos para inducir el parto incluyen una presentación cefálica en un embarazo único que no ha tenido complicaciones hasta ahora. Los embarazos postérmino se asocian con un mayor riesgo de complicaciones fetales/neonatales y maternas.
+
+- Por otra parte, la cesárea de emergencia está indicada en embarazos tardíos con oligohidramnios y evidencia de sufrimiento fetal (por insuficiencia de peso uteroplacentario, compresión del cordón umbilical); sin embargo, el oligohidramnios aislado sin signos de sufrimiento fetal (frecuencia cardíaca fetal anormal, desaceleraciones) no es una indicación para un parto por cesárea de emergencia.
+- En cuanto a la amnioinfusión transabdominal está indicada en pacientes con oligohidramnios para aumentar el volumen de líquido para las evaluaciones ecográficas y facilitar la versión cefálica externa. A su vez, la amnioinfusión también se utiliza como medida de reanimación intrauterina de segunda línea en pacientes con desaceleraciones fetales variables persistentes durante el trabajo de parto; sin embargo, la amnioinfusión no se realiza de forma rutinaria para el tratamiento del oligohidramnios en ausencia de sufrimiento fetal. Además, esta paciente es postérmino, lo que requiere otro manejo.
+- Finalmente, en embarazos tardíos sin complicaciones se puede considerar un manejo expectante con monitorización fetal dos veces por semana; sin embargo, Maria José ya tiene 42+1 semanas de gestación y, por tanto, es postérmino. Además, la ecografía muestra oligohidramnios, lo que hace necesario otro abordaje.
+
+Lectura recomendada:
+
+- Keilman C, Shanks AL. Oligohydramnios. Available. In: Stat Pearls.2023
+
+#Ana de 30 años, primigestante con 40 semanas de gestación con PFE en percentil 75% y antecedente de anemia ferropénica tratada con suplementación durante el embarazo, consultó por trabajo de parto activo. Ana refiere que al comienzo las contracciones ocurrían cada 10 minutos y eran rítmicas, regulares, coordinadas y de alta intensidad, posteriormente a las 4 horas de la estancia hospitalaria el tacto vaginal con borramiento cervical del 100%, dilatación de 10 cm y estadio De lee -1. Durante las siguientes 2 horas sin cambios en el descenso fetal, por lo que persiste en estadio De lee -1. La frecuencia cardíaca fetal es de 145/min y es reactiva sin desaceleraciones. Las contracciones ocurren aproximadamente cada 2 minutos con la presión adecuada. La paciente sobrelleva adecuadamente el dolor y no se le ha administrado anestesia epidural. ¿Cuál es la conducta a seguir?
+#A. Parto por cesárea
+#B. Parto instrumentalizado con ventosa
+#C. Observación por una hora más
+#D. Administrar anestesia epidural
+#Respuesta correcta: C
+#Tema e ítem: No todo es cesárea: indicaciones de cesárea
+
+Argumento: En paciente nulípara en promedio, el trabajo de parto avanza más lentamente en comparación con las mujeres multíparas y la segunda etapa puede durar hasta tres horas (hasta cuatro horas con anestesia epidural). Esta paciente entró en la segunda etapa del parto hace dos horas, tiene contracciones adecuadas y tolera bien el dolor; la frecuencia cardíaca fetal es tranquilizadora. Dado que tanto la madre como el feto se encuentran estables, la mejor opción de manejo en este momento es la observación durante una hora más (Respuesta correcta D). Se debe considerar la oxitocina para la segunda etapa del parto prolongada si el descenso fetal es mínimo y las contracciones uterinas maternas son inadecuadas (que ocurren > 2 a 3 minutos y/o con presiones < 200 unidades Montevideo).
+
+- Por otra parte, el parto por cesárea está indicado para pacientes con una segunda etapa del parto prolongada (> 3 horas para mujeres nulíparas sin anestesia epidural) si la cabeza fetal no está comprometida. Ana está a solo dos horas de la segunda etapa del parto y, por lo tanto, todavía está dentro de los límites de tiempo normales para una mujer primípara.
+- Por otro lado, se puede considerar el parto asistido por ventosa en una segunda etapa del trabajo de parto prolongada (> 3 horas para mujeres nulíparas sin anestesia epidural) si el feto ha descendido a una estación en la que el parto vaginal instrumentalizado sea factible. Ana está a solo dos horas de la segunda etapa del parto; por lo tanto, todavía se encuentra dentro de los límites de tiempo normales para una mujer primípara. Otras indicaciones para el parto asistido por vacío incluyen compromiso fetal (frecuencia cardíaca fetal insuficiente) o pacientes que necesitan evitar el esfuerzo (inestabilidad o fatiga cardiovascular materna)
+- Finalmente, la anestesia epidural puede reducir el dolor asociado con el parto; sin embargo, Ana tolera bien el dolor, por lo que la anestesia epidural es innecesaria.
+
+Lectura recomendada:
+
+- Zuleta JJ. ¿Cómo disminuir la cesárea en Colombia?. Medellín. XXIX Actualización en ginecología y obstetricia. Universidad de Antioquia 2021
+
+#Un recién nacido de 5 días llega a urgencias por hiporexia, diaforesis, palidez y dificultad respiratoria. Los síntomas se exacerban con la alimentación. Niega cianosis, apneas, afectación del tono o pérdida del conocimiento durante estos episodios. Nació a las 38 semanas de gestación por parto vaginal sin complicaciones. Al examen físico, con T 36.7 °C, FC 165/min, FR 75/min, SatO2 preductal 97% y posductal 95%. Tiene aleteo nasal y retracciones. Se auscultan crépitos bilaterales. Se palpa el hígado a 3 cm por debajo del reborde costal. El borde del hígado es palpable 3 cm por debajo del margen costal derecho. Las extremidades están pálidas y frías. Los pulsos braquiales son fuertes y los pulsos femorales son débiles. ¿Cuál es la causa más probable de sus síntomas?
+#A. Aumento del flujo de la arteria pulmonar
+#B. Shunt derecha-izquierda
+#C. Shunt izquierda-derecha
+#D. Aumento de la poscarga del ventrículo izquierdo
+#Respuesta correcta: D
+#Tema-Ítem:
+
+Argumento: Este paciente de 5 días de vida tiene una mala perfusión (p. ej., extremidades frías y pálidas) y manifestaciones de insuficiencia cardíaca congestiva (p. ej., hiporexia, crépitos, hepatomegalia) que se desarrollaron alrededor del momento en que se esperaba el cierre del ductus arterioso (primera pocos días de vida). Los pulsos diferenciales y la leve brecha en la saturación de oxígeno entre las extremidades superiores e inferiores sugieren coartación aórtica, una lesión cardíaca congénita dependiente del ductus arterioso.
+
+El estrechamiento del arco aórtico (debido al engrosamiento de la túnica media) conduce a una disminución del flujo sanguíneo a la aorta descendente. Con un estrechamiento leve, los pacientes pueden presentar hipertensión asintomática o claudicación de las extremidades inferiores en la infancia o en la edad adulta. Sin embargo, los recién nacidos con estrechamiento severo dependen del ductus arterioso, que conecta la arteria pulmonar con la aorta descendente (generalmente distal al sitio de la coartación), para proporcionar flujo sanguíneo sistémico al nacer a través de una derivación de derecha a izquierda (de la arteria pulmonar a la aorta descendente). Tras el cierre del ductus arterioso, el flujo sanguíneo distal disminuye drásticamente.
+Esto da como resultado una perfusión distal deficiente (p. ej., extremidades frías y pálidas) que afecta principalmente a las extremidades inferiores (p. ej., pulsos femorales débiles) en lugar de a las extremidades superiores (es decir, pulsos diferenciales entre brazos y piernas y saturación de oxígeno). La obstrucción aórtica también aumenta la poscarga del ventrículo izquierdo. Esto crea una sobrecarga de presión en el ventrículo izquierdo, lo que provoca insuficiencia cardíaca y shock cardiogénico. Los síntomas clásicos incluyen sudoración, palidez y dificultad respiratoria, en particular durante períodos de esfuerzo (p. ej., alimentación en recién nacidos), debido a edema pulmonar e incapacidad para mantener el gasto cardíaco. A menudo se presentan crépitos bilaterales y un galope. En forma secundaria puede ocurrir insuficiencia cardíaca derecha, lo que causa hepatomegalia y edema periférico.
+
+Bibliografía recomendada:
+Doshi AR, Chikkabyrappa S. Coarctation of Aorta in Children. Cureus. 2018 Dec 5;10(12):e3690. doi: 10.7759/cureus.3690. PMID: 30761242; PMCID: PMC6368362.
+
+
+#Luis, 5 años. Es llevado a su consulta porque hace un año ha presentado hipoacusia. Fue un recién nacido pretérmino de 36 semanas de gestación, pequeño para la edad gestacional. No tiene otros antecedentes. Tiene un perímetro cefálico, peso y talla adecuados para su edad. En la prueba de Weber con lateralización al oído izquierdo, con Rinné positivo bilateral. ¿Cuál de las siguientes es la etiología más probable de la pérdida auditiva de este paciente?
+#A. Infección congénita
+#B. Otoesclerosis
+#C. Cuerpo extraño
+#D. Otitis media crónica
+#Respuesta correcta: A
+#Tema-Ítem: Sordera neurosensorial-Causas
+
+Argumento: Luis tiene una prueba de Weber que se lateraliza al oído izquierdo (no afectado) y tiene una mejor conducción aérea que la conducción ósea, de forma bilateral. Estos hallazgos son consistentes con una pérdida auditiva neurosensorial del lado derecho. La sordera neurosensorial (SNS) se produce debido a un daño al oído interno o al nervio auditivo. La causa más común de SNS no hereditaria en niños es la infección congénita por citomegalovirus (CMV).
+
+El CMV congénito se transmite por vía transplacentaria de la madre al feto en el útero. Aunque algunos bebés nacen con características típicas (p. ej., pequeños para la edad gestacional, microcefalia, ictericia, hepatoesplenomegalia) pero la mayoría de los bebés infectados son asintomáticos. La pérdida de audición ocurre hasta en el 50% de los pacientes sintomáticos y en el 15% de los asintomáticos; puede estar presente en el nacimiento y en el progreso, o su aparición puede retrasarse hasta etapas más avanzadas de la niñez. Uno o ambos oídos pueden verse afectados.
+El diagnóstico generalmente implica pruebas de PCR para CMV en orina o saliva. Los bebés sintomáticos reciben tratamiento con antivirales para prevenir la pérdida auditiva progresiva.
+
+El resto de opciones de respuesta, son patologías consistentes con hipoacusia de conducción (localizadas en el oído medio).
+Bibliografía recomendada:
+Smith R. Hearing loss in children: Screening and evaluation. Nov 2023. UpToDate 2023.
+
+
+#Recién nacido a término por parto vaginal espontáneo de una primigrávida de 28 años, sin alteraciones en la gestación. Las puntuaciones de Apgar del paciente fueron 9 y 9 al minuto 1 y 5, respectivamente. Usted va a revisarlo a la hora de vida y lo encuentra dormido, tranquilo, con signos vitales normales, con suturas coronales superpuestas, soplo sistólico I/VI en el borde esternal superior izquierdo que se irradia a la axila, con hígado palpable 2 cm por debajo del margen costal. El examen genitourinario muestra la curvatura de un pene poco desarrollado, con un meato uretral en la superficie ventral de la base y flanqueado por el saco escrotal circundante. Las gónadas no son palpables. Se evidencia un hoyuelo sacro con piel intacta. El resto del examen físico es normal. ¿Qué haría a continuación con este paciente?
+#A. Ecografía transfontanelar
+#B. Ecocardiograma
+#C. Alfa feto proteína sérica
+#D. Cariotipo
+#Respuesta correcta: C.
+#Tema-Ítem: Osteogénesis imperfecta-Manifestaciones clínicas
+
+Argumento: Este paciente tiene osteogénesis imperfecta (OI), un trastorno autosómico dominante del tejido conectivo causado comúnmente por una mutación del colágeno tipo I. El colágeno tipo I es un componente estructural importante de los tejidos de los huesos, la esclerótica, la piel y los dientes. La OI tiene un espectro variable de gravedad, desde una enfermedad leve (tipo I) hasta letal (tipo II).
+
+Debido al colágeno defectuoso en el osteoide (matriz ósea extracelular), los pacientes a menudo comienzan a sufrir fracturas frecuentes por traumatismos menores una vez que adquieren movilidad (alrededor del año de edad). Muchos pacientes con OI también tienen dentinogénesis imperfecta, una decoloración opalescente de los dientes de color gris azulado o marrón amarillento causada por la dentina descolorida que brilla a través del esmalte translúcido y débil. Las articulaciones suelen ser hipermóviles debido a la laxitud de los ligamentos. El adelgazamiento escleral puede provocar la aparición de escleróticas azules; otras manifestaciones dependen de la gravedad del trastorno y pueden incluir pérdida de audición y baja estatura.
+
+Se debe considerar una IO cuando tenemos un paciente con fracturas por traumatismo leve y/o baja estatura. Es importante recordar que la OI es un trastorno multisistémico que afecta a otros sistemas de órganos además del esqueleto.
+
+El síndrome de Ehlers-Danlos afecta principalmente el tejido conectivo (piel, articulaciones y vasos sanguíneos), no afecta el sistema óseo.
+
+Bibliografía recomendada:
+Bou Torrent R. Osteogénesis imperfecta. Protoc diagn ter pediatr. 2020;2:349-359.
+
+
+#Juan, 7 años. Es llevado a urgencias por dolor en el muslo derecho, asociado a caída desde su propia altura mientras se encontraba corriendo en su casa. Niega TEC o pérdida del conocimiento. Como antecedentes, con 3 fracturas en distintas localizaciones después de lesiones menores. Al examen físico taquicárdico, con buen aspecto general pero con llanto profuso, se observan dientes translúcidos y grises, con hiperlaxitud de las articulaciones de las manos; muslo derecho notablemente doloroso a la palpación con una deformidad evidente. La radiografía demuestra una fractura del fémur proximal, sin afectación de la placa de crecimiento. ¿Cuál de los siguientes es el diagnóstico más probable en este paciente?
+#A. Enfermedad ósea de Paget
+#B. Síndrome de Ehlers-Danlos
+#C. Osteogénesis imperfecta
+#D. Maltrato físico
+#Respuesta correcta: D
+#Tema-Ítem: Malformaciones genéticas-Evaluación adicional
+
+Argumento: Este paciente tiene un meato uretral ectópico compatible con hipospadias. Durante el desarrollo embriológico, los andrógenos estimulan la fusión de los pliegues uretrales y cuando es incompleta o parcial produce hipospadias.
+El grado de fusión determina la ubicación del meato uretral y, en casos graves, la abertura uretral se ubica en el perineo o el escroto. Los pacientes con hipospadias severo también pueden tener un pene subdesarrollado con un glande pequeño y/o una curvatura severa del pene (cordada).
+En algunos casos, una hipospadias grave puede ser indicativo de un trastorno del desarrollo sexual (p. ej., mutación del receptor de andrógenos). Alrededor del 10% de los casos de hipospadias se asocian con criptorquidia (testículo no descendido) y la afección puede representar virilización de una mujer genotípica (XX) o subvirilización de un hombre genotípico (XY). Por tanto, el primer paso en la evaluación es el análisis del cariotipo. Incluso si hay testículos (lo que indica la presencia de al menos algún cromosoma Y funcional), se necesita un cariotipo en una hipospadias grave para evaluar el mosaicismo. La ecografía pélvica también puede estar indicada para evaluar los genitales internos (p. ej., el útero).
+
+Bibliografía recomendada:
+Baskin L. Hypospadias: Pathogenesis, diagnosis, and evaluation. Nov 2023. UpToDate 2023.
+
+
+#Ángel tiene 6 años, PAI completo, sin antecedentes patológicos. Es llevado a urgencias porque presenta hace 3 días síntomas respiratorios superiores consistentes en rinorrea y tos que empeoran en la noche. Hoy, inició con dolor alrededor de la parte superior de las mejillas, particularmente al inclinarse hacia adelante. Tuvo fiebre el primer día de inicio de síntomas, pero ha estado afebril en las últimas 48 horas. Está hiporéxico, con diuresis conservada. Al examen físico, estable hemodinámicamente, con buen aspecto general, con rinorrea purulenta, orofaringe posterior eritematosa, dolor leve a la palpación en región superior de las mejillas. ¿Cuál es el mejor tratamiento para este paciente?
+#A. Antibióticos orales
+#B. Manejo sintomático
+#C. Antihistamínicos
+#D. Rx de tórax
+#Respuesta correcta: B
+#Tema-Ítem:
+
+Argumento: Ángel lleva 3 días con secreción nasal purulenta y dolor leve a la palpación de los senos maxilares, se encuentra afebril. Muy probablemente esté cursando con una rinosinusitis viral aguda, una infección común del tracto respiratorio superior caracterizada por la inflamación de las fosas nasales y los senos paranasales. Los síntomas de presentación incluyen congestión nasal y/o secreción purulenta, además de presión/dolor facial que se exacerba al inclinarse hacia adelante (como en el paciente del caso). Es común el dolor a la palpación o percusión de los senos nasales. Los síntomas adicionales pueden incluir fiebre, tos, cefalea, otalgia e hiposmia.
+
+La rinosinusitis viral se puede diferenciar de la rinosinusitis bacteriana por la duración y gravedad de los síntomas. Los antecedentes que sugieren una etiología viral incluyen síntomas leves (p. ej., ausencia de fiebre o resolución temprana de la fiebre, dolor leve) y mejoría entre los días 5 y 10. Por el contrario, el curso clínico de la rinosinusitis bacteriana es uno de los siguientes: de inicio grave (es decir, fiebre alta durante ≥3 días), persistente (es decir, síntomas que duran ≥10 días sin mejoría) o bifásico (es decir, fiebre recurrente después de mejora inicial).
+El tratamiento de la rinosinusitis viral es sintomático, con lavados nasales con solución salina, antipiréticos y/o analgésicos.
+
+La sinusitis bacteriana aguda es una inflamación del revestimiento de la mucosa del conducto nasal y senos paranasales e infección bacteriana con duración <4 semanas. Usualmente, secundaria a una infección viral o alergia respiratoria. Las etiologías bacteriana más comunes son: Streptococcus pneumoniae 30 %, Haemophilus influenzae no tipificable 20 %, Moraxella catarrhalis 20 % y polimicrobiana 33-56 %. El diagnóstico es clínico y deriva en tratamiento antibiótico.
+De acuerdo a los criterios clínicos de la AAP y la IDSA, la sinusitis bacteriana incluye las siguientes características:
+
+1. Signos o síntomas que incluye secreción nasal o tos diurna ≥10 días sin mejoría clínica. 2. Empeoramiento o nuevo inicio de los signos o síntomas (fiebre, secreción nasal o tos diurna) después de la mejoría inicial ("doble enfermedad"). }
+2. Síntomas graves: fiebre persistente ≥39 °C, secreción nasal purulenta o dolor facial durante ≥3 días consecutivos.
+*Criterios mayores: congestión nasal, dolor facial, secreción nasal anterior y posterior purulenta, hiposmia o anosmia y fiebre.
+*Criterios menores: cefalea, otalgia, presión o plenitud facial, halitosis, dolor dental, tos y fatiga.
+La sinusitis bacteriana aguda se sospecha si se cumplen 2 criterios mayores o 1 mayor + 2 menores (lo cual no se cumple en este paciente).
+
+Bibliografía recomendada:
+Londoño L. Infección respiratoria alta ¿Cuándo dar antibióticos?. XXXVI Actualización en Pediatría “saberes y argumentos compartidos”. UdeA 2020.
+
+
+#Carlos, 65 años, consulta por 2 días de letargia progresiva y confusión. Lleva 5 días con náuseas, tos y aumento miccional. Tiene HTA desde hace 10 años, toma amlodipino. No va al médico hace 8 años. Está somnoliento, únicamente orientado en persona. Examen físico: T 38,5°C, FC 114/min, FR 15/min, PA 108/75 mmHg, SatO2 98% al ambiente. Tiene signos de deshidratación. Se auscultan crepitaciones en base pulmonar izquierda. ¿Qué ordenaría en primer lugar?
+#A.	Glucometría
+#B.	Radiografía de tórax
+#C.	Terapia antibiótica de amplio espectro
+#D.	Hemocultivos
+#Respuesta correcta: A
+#Tema e ítem: Evaluación inicial de paciente con alteración del estado mental - ¿Qué hacer?
+
+Argumento: La glucometría en el punto de atención para descartar anomalías en la glucosa sérica debe ser siempre un paso inicial en el tratamiento de los pacientes con alteración del estado mental. Tanto la hipoglucemia como las crisis hiperglucémicas causan alteración del estado mental y son urgencias médicas. La alteración del estado mental debido a anomalías de la glucosa es reversible si se trata precozmente, pero un retraso en el tratamiento puede causar daños neurológicos irreversibles. Una concentración de glucosa > 600 mg/dL indica un estado hiperglucémico hiperosmolar (HHS), un tipo de crisis hiperglucémica que puede ser la manifestación inicial de una DM2 no tratada. El letargo progresivo, las náuseas, la poliuria y la deshidratación grave de esta paciente concuerdan con el HHS. Los pacientes con DM2 tienen una capacidad de secreción de insulina reducida, lo que puede provocar hiperglucemia aguda en momentos de estrés. En este caso, lo más probable es que la neumonía precipitara la HHS.
+
+- Una radiografía de tórax está justificada en el estudio de la neumonía, pero la alteración del estado mental y la deshidratación severa, junto con su historia de casi una semana de poliuria y náuseas, debe hacer sospechar de una emergencia médica que requiere evaluación y tratamiento inmediato.
+- La terapia antibiótica es necesaria para tratar la neumonía de este paciente, pero su letargo progresivo y deshidratación severa, combinados con un historial de poliuria y náuseas, son sugestivos de una emergencia médica que requiere evaluación y tratamiento inmediatos en primer lugar.
+- Los hemocultivos estarían justificados en el estudio de la neumonía de este paciente. Sin embargo, su letargo progresivo y deshidratación severa, combinados con una historia de poliuria y náuseas, son sugestivos de una emergencia médica que requiere evaluación y corrección inmediata en primer lugar.
+
+Lectura recomendada:
+•	P. de Castro. Patients with alteration of consciousness in the emergency department. An. Sist. Sanit. Navar. 2008; 31 (Supl. 1): 87-97.
+
+
+#Sara, 52 años, asiste a control de seguimiento. Hace 6 meses se sometió a una lobectomía superior derecha y a quimioterapia adyuvante por un adenocarcinoma de pulmón localmente avanzado. Su habla ha cambiado. Hace pausas incómodas en sus frases y descompone las palabras en sílabas separadas. Sus movimientos son descoordinados y se inclina hacia el lado derecho al ponerse de pie. TAC cerebral: tumor bien delimitado en el hemisferio cerebeloso derecho. ¿Qué otro hallazgo podría presentar Sara?
+#A.	Nistagmo ascendente
+#B.	Ataxia
+#C.	Prueba dedo-nariz anormal
+#D.	Test de Romberg positivo
+#Respuesta correcta:  C
+#Tema e ítem: Alteraciones cerebelosas - ¿Cuáles son las manifestaciones clínicas?
+
+Argumento: El cerebelo medial se encarga principalmente de la coordinación de las estructuras centrales. El cerebelo lateral es responsable de la coordinación periférica. La prueba dedo-nariz evalúa la coordinación apendicular; un resultado anormal indica dismetría.
+
+La dismetría es una de las diversas manifestaciones de la ataxia de las extremidades debida a una lesión del hemisferio cerebeloso. Otras manifestaciones son la disartria, la disdiadococinesia, la hipotonía y el temblor intencional. Típicamente, las lesiones afectan al lado ipsilateral, lo que explica por qué este paciente se inclina hacia el lado derecho al ponerse de pie.
+
+- Nistagmo ascendente: Es una forma de movimiento involuntario y rítmico de los ojos. Se asocia a lesiones del lóbulo floculonodular, una de las estructuras mediales del cerebelo. Otras manifestaciones de la lesión medial del cerebelo son el balanceo de la cabeza, la marcha ancha y la incapacidad para mantenerse de pie o sentarse erguido. Una lesión en el hemisferio cerebeloso se manifiesta más comúnmente con nistagmo horizontal, no con nistagmo ascendente.
+- La ataxia se manifiesta con una marcha de base ancha y dificultad para sentarse erguido debido a la debilidad y descoordinación de los músculos troncales. La ataxia troncal se asocia con lesiones en el cerebelo medio (por ejemplo, vermis, lóbulo floculonodular y núcleos profundos correspondientes). La metástasis en el hemisferio derecho no se manifestaría con ataxia.
+- El test de Romberg evalúa la ataxia sensorial. Un test positivo (los pacientes pierden el equilibrio mientras están de pie con los ojos cerrados) se asocia con daño en las columnas dorsales de la columna vertebral. No se asocia con daños en el hemisferio cerebeloso lateral.
+
+Lectura recomendada:
+•	Arnaldo Marín, Alex Renner, Laura Itriago, Manuel Álvare. CEREBRAL METASTASIS: A BIOLOGICAL AND CLINICAL LOOK. Revista Médica Clínica Las Condes. Vol. 28. Núm. 3. páginas 437-449 (Mayo - Junio 2017)
+
+
+#Andrea, 28 años, G1P0, 32 sem de gestación. Consulta por sangrado vaginal. Hace 5 días comenzó tratamiento de una trombosis venosa profunda en la pierna derecha. Examen físico: FC 125/min y PA 95/67 mmHg. Tiene grandes hematomas en las extremidades superiores y edema en la pantorrilla derecha. Se observa sangre rutilante en la cúpula vaginal. Paraclínicos: Hb 8,9 mg/dL, Plq 185.000/mm3 y TTP 160 seg. ¿Qué haría para revertir la coagulopatía de Andrea?
+#A.	Concentrado de complejo de protrombina 0.12 mL/kg/min
+#B.	Plasma fresco congelado 10-20 ml/Kg
+#C.	Vitamina K 2 a 4 mg vía oral hasta reducción del INR
+#D.	Sulfato de protamina 0,25-0,375mg por 100 UI H. IV en 10 min
+#Respuesta correcta: D
+#Tema e ítem: Exceso en la dosis de anticoagulantes - ¿Cómo hacer la reversión?
+
+Argumento: Cinco días después de iniciar el tratamiento para la trombosis venosa profunda, Andrea desarrolló inestabilidad hemodinámica y anemia secundaria a hemorragia, que probablemente fue causada por sobredosis de heparina, como sugiere el TTP prolongado. El sulfato de protamina es el antídoto para la sobredosis de heparina. La protamina es un péptido catiónico que se une a la heparina, formando un compuesto estable que no tiene actividad anticoagulante. El sulfato de protamina es más eficaz para revertir los efectos de la heparina no fraccionada que la heparina de bajo peso molecular (HBPM) porque la protamina no contrarresta totalmente el efecto antifactor X de la HBPM. Recuerde que el sulfato de protamina se administra en infusión lenta debido a que puede producir hipotensión, su dosis cambia de acuerdo al tiempo que haya pasado de la administración de la heparina.
+
+- El concentrado de complejo de protrombina (CCP), formado por los factores de coagulación II, VII, IX y X dependientes de la vitamina K, revertiría rápidamente el efecto de la warfarina. Aunque el tratamiento con warfarina suele iniciarse en pacientes con trombosis venosa profunda, no se administra a mujeres embarazadas porque atraviesa la placenta y es teratogénico. La CCP no se utiliza para revertir la toxicidad de la heparina porque los productos de CCP contienen una pequeña cantidad de heparina para prevenir la activación in vivo de la coagulación.
+- La vitamina K es un cofactor importante para la gamma-carboxilación de residuos de ácido glutámico en los factores de coagulación II, VII, IX y X. La vitamina K es, por tanto, capaz de revertir el efecto de los antagonistas de la vitamina K como la warfarina aumentando la síntesis de estos factores. La vitamina K no revierte los efectos de la heparina.
+- El plasma fresco congelado (PFC), que contiene todos los factores de coagulación, puede utilizarse en el tratamiento de hemorragias graves asociadas al uso de warfarina. Aunque el tratamiento con warfarina suele iniciarse en pacientes con trombosis venosa profunda. El PFC no se utiliza para revertir la toxicidad de la heparina porque también contiene antitrombina, que se activaría en presencia de heparina e inhibiría la actividad de otros factores de coagulación. De hecho, el PFC puede utilizarse para tratar la resistencia a la heparina por la misma razón.
+
+Lectura recomendada:
+•	Bernardo Gutiérrez. Reversión de la anticoagulación en cirugía de urgencia. Rev Mex Antesio. Vol. 40. Supl. 2 Julio-Septiembre 2017 pp S411-S415
+
+
+#Camila, 34 años, G4P0A3, 13 sem de gestación. Asiste a control prenatal. Tuvo abortos espontáneos entre la 8ª y la 10ª semana de gestación. Examen físico: T 36,5°C, FC 85/min, PA 125/85 mmHg. Se observa una erupción violácea reticular en las extremidades inferiores. Paraclínicos: Hb 10.5 g/gL, WBC 5200/mm3, Plq 120.000/mm3, TP 13 seg, TTP 49 seg, Na 140 mEq/L, K 4.4 mEq/L, Cl 101 mEq/L, BUN 12 mg/gL, Cr 0.7 mg/gL, AST 20 U/L, ALT 15 U/L, anticuerpo anti β2-glicoproteína (+). ¿Cuál es la mejor conducta?
+#A.	Iniciar Enoxaparina y Aspirina
+#B.	Administrar glucocorticoides y plasmaféresis
+#C.	Iniciar Enoxaparina
+#D.	Heparina puenteada a Warfarina
+#Respuesta correcta: A
+#Tema e ítem: Síndrome antifosfolípidos - ¿Cómo se maneja en el embarazo?
+
+Argumento: Se recomienda un régimen de heparina de bajo peso molecular como la enoxaparina y dosis bajas de aspirina para la prevención de la trombosis y la preeclampsia, respectivamente, en todas las pacientes embarazadas con Síndrome antifosfolípidos (SAF). La heparina no atraviesa la placenta y es inocua para el feto en desarrollo. La aspirina sí atraviesa la placenta, pero en dosis bajas los riesgos asociados (por ejemplo, cierre prematuro del conducto arterioso o alteraciones vasculares) son insignificantes.
+
+- La heparina puenteada con warfarina es una buena opción de tratamiento a largo plazo para pacientes de alto riesgo con SAF, pero sólo si la paciente no desea concebir. Dado que la warfarina es teratogénica y atraviesa la placenta, estaría absolutamente contraindicada en esta paciente.
+- Los glucocorticoides y la plasmaféresis son el tratamiento preferido para el tromboembolismo agudo y grave. Aunque esta paciente tiene un riesgo significativamente mayor de complicaciones tromboembólicas, no presenta signos de tromboembolismo agudo y grave (por ejemplo, dificultad respiratoria, signos neurológicos focales y dolor torácico). En este momento, sería más apropiado un tratamiento profiláctico.
+- La enoxaparina forma parte del tratamiento recomendado para prevenir la trombosis y las complicaciones relacionadas con el embarazo en mujeres embarazadas con SAF. Sin embargo, la enoxaparina por sí sola no es suficiente para prevenir el aumento de la unión de las plaquetas.
+
+Lectura recomendada:
+•	Bustamante JG, Goyal A, Singhal M. Antiphospholipid Syndrome. [Updated 2023 Feb 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. Available from: [https://www.ncbi.nlm.nih.gov/books/NBK430980/](https://www.ncbi.nlm.nih.gov/books/NBK430980/)
+
+
+#Pedro, 58 años, consulta por 10 días de distensión abdominal y diarrea sin sangre. Niega emesis. Tiene ca de colon metastásico, empezó quimioterapia hace 2 sem. Tiene síndrome de Wolff-Parkinson-White, toma procainamida. Examen físico: T 37,3°C, FC 114/min, FR 22/min y PA 105/68 mmHg. Llenado capilar mayor a 2 seg. El abdomen está distendido, sensible a la palpación, con ruidos intestinales hiperactivos. Paraclínicos: Hto 55%, WBC 18000/mm3, Na 149 mEq/L, K 3.3 mEq/L, Cl 117 mEq/L, Mg 1.8 mg/dL, Cr 1 mg/gL, Glicemia 78 mg/dL, hemocultivos, coprocultivos y toxinas de C. difficile (-). ¿Qué ordenaría?
+#A.	Rifaximina 400 mg/día 3 veces al día VO
+#B.	Loperamida 4 mg, después 2 mg por cada deposición
+#C.	Vancomicina 125 mg 4 veces al día
+#D.	Octreotida 5-25 µg/kg/día con dosis máxima diaria de 35 µg/kg/día
+#Respuesta correcta: B
+#Tema e ítem: Diarrea en paciente oncológico - ¿Cómo hacer el abordaje?
+
+Argumento: El manejo de primera línea para la diarrea inducida por antineoplásicos (CTID) no complicada es la loperamida, que actúa a través de receptores μ para bajar la frecuencia de las deposiciones. La CTID es una complicación frecuente de la quimioterapia (más frecuente con fluoropirimidinas o irinotecán): los antineoplásicos se dirigen a las células que se dividen rápidamente, incluidas las que recubren el tracto gastrointestinal, causando mucositis y diarrea. Para descartar otras causas de diarrea (colitis por C. difficile, enterocolitis neutropénica) y CTID complicada, debe realizarse una evaluación inicial con hemograma, ionograma (incluido mg), toxina de C. difficile, hemocultivos y coprocultivos. Además de la loperamida y la rehidratación oral, el tratamiento de la CTID no complicada incluye la interrupción o la reducción de los antineoplásicos y modificación de la dieta. La CTID complicada presenta diarrea grave, vómitos, hematoquecia, fiebre, sepsis, lesión renal aguda y neutropenia, se maneja con líquidos endovenosos, loperamida, octreotida y monitorización continua.
+
+- La rifaximina es un antibiótico utilizado para el tratamiento de la diarrea del viajero y la diarrea causada por el síndrome del intestino irritable o el sobrecrecimiento bacteriano del intestino delgado. Sin embargo, no está indicada en el tratamiento de la CTID.
+- La vancomicina oral se utiliza para el tratamiento de la colitis por C. difficile. Esta afección puede manifestarse con diarrea acuosa no sanguinolenta que provoca distensión abdominal y leucocitosis. Aunque la quimioterapia es un factor de riesgo para la colitis por C. difficile, no se encontraron toxinas en las heces de este paciente.
+- Aunque la octreotida intravenosa se utiliza para el tratamiento inicial de la CTID complicada, sólo está indicada en la CTID no complicada si el tratamiento de primera línea no ha tenido éxito.
+
+Lectura recomendada:
+•	Maroun JA, Anthony LB, Blais N. Prevention and management of chemotherapy-induced diarrhea in patients with colorectal cancer: a consensus statement by the Canadian Working Group on Chemotherapy-Induced Diarrhea. Curr Oncol. 2007 Feb;14(1):13-20. doi: 10.3747/co.2007.96. PMID: 17576459; PMCID: PMC1891194.
+
+
+#Doña Ana de 65 años, quien consulta al programa de control luego de haber sido intervenida quirúrgicamente hace 3 meses por una fractura de cadera derecha. Durante el posoperatorio desarrolló una enfermedad tromboembólica venosa (ETEV) tipo tromboembolismo pulmonar sin criterios de inestabilidad, pese a recibir tromboprofilaxis con enoxaparina. Primer episodio de ETEV. Al alta médica fue enviada a casa con rivaroxabán 15 mg q/12h por 21 días, luego continua 20 mg/día. Refiere que ha sido adherente al manejo, cumpliendo exactamente 90 días de tratamiento, sin presentar complicaciones.
+¿Cuál sería la conducta adecuada a seguir?
+#A. Realizar angioTAC de control una cumplido los 6 meses de anticoagulación oral con rivaroxabán
+#B. Continuar con dosis actual de rixavaroxaban hasta cumplir 6 meses
+#C. Suspender rivaroxabán e iniciar Warfarina por 6 meses más
+#D. Suspender rivaroxabán sin realizar más estudios de seguimiento
+#Respuesta correcta: D
+#Tema e ítem: ¿Cuánto debe durar la anticoagulación en mi paciente con ETEV?
+
+Argumento: La duración recomendada de la anticoagulación para pacientes con ETEV no provocada es por 3 meses. Esta paciente desarrolló un TEP hace 3 meses en el postoperatorio. La duración actual recomendada de la anticoagulación sistémica para un tromboembolismo venoso (TEV) provocado por cirugía o por factores de riesgo transitorios no quirúrgicos (trauma en miembro inferior, embarazo, terapia estrogénica) es de 3 meses. La conducta adecuada a seguir en doña Ana es suspender el rivaroxabán sin realizar más estudios.
+
+- No es necesario demostrar la resolución de la embolia mediante angioTAC.
+• No están indicados los 3 meses adicionales de tratamiento con rivaroxabán, dado que este paciente ya ha completado los 3 meses de anticoagulación recomendados.
+• La warfarina es una opción razonable para la anticoagulación ambulatoria durante los 3 primeros meses tras una TEV provocada. Sin embargo, este paciente ya ha completado 3 meses de anticoagulación con rivaroxabán, lo cual es suficiente.
+Lectra recomendada:
+1. Stevens SM et al. Antithrombotic therapy for VTE disease: second update of the CHEST guideline and expert panel report. Chest 2021 Dec; 160: e545.
+
+#Don Ana de 65 años, sin antecedentes de interés, quien 30 días atrás tuvo una cirugía por fractura de cadera derecha, la cual evolucionó sin complicaciones durante el posoperatorio. Acude a urgencias hoy por tumefacción de la pantorrilla derecha de dos días de evolución. Niega disnea u otra sintomatología asociada. Al examen físico se encentran signos vitales estables, con signos clínicos compatibles con TVP a la exploración física. Eco-Doppler venoso de miembros inferiores: ocupación de vena poplítea femoral superficial y femoral profunda del miembro inferior derecho por material ecogénico con mala compresibilidad de dichos vasos. Tiene función renal conservada.
+¿Cuál sería la conducta adecuada a seguir?
+#A. Programar para colocación de filtro de vena cava inferior
+#B. Fibrinolisis con alteplase 100 mg IV
+#C. Iniciar anticogulación parenteral con enoxaparina 5 días y luego rotar a rivaroxabán 15 mg q/12 h VO por 3 meses
+#D. Iniciar rivaroxabán 15 mg VO cada 12 horas por 21 días y luego continar 20 mg/día hasta completar 3 meses
+#Respuesta correcta: D
+#Tema e ítem: Tromboembolismo pulmonar en pacientes con estabilidad hemodinamica - ¿Trombolisis o anticoagulación?
+
+Argumento: En pacientes con enfermedad tromboembolica venosa (ETEV) sin compromiso hemodinámico, el tratamiento consiste en la anticoagulación con los nuevos anticoagulantes orales.
+
+Las recomendaciones de las guías mundiales para pacientes con ETEV provada sin compromiso hemodinámico es iniciar anticoagulación con apixaban o rivaroxabán de forma ambulatorio, sin necesidad de manejo parenteral. Dabigatrán es un DOACs alternativo que tambié pueden utilizarse en este contexto, pero sólo después de que el paciente haya completado al menos 5 días de tratamiento con un anticoagulante parenteral, como fondaparinux, o una heparina de bajo peso molecular. El rivaroxabán se inicia con 15 mg VO cada 12 horas por 21 días y luego continar 20 mg/día hasta completar 3 meses por ser una ETEV provocada.
+
+Lectura recomendada:
+
+1. Stevens SM et al. Antithrombotic therapy for VTE disease: second update of the CHEST guideline and expert panel report. Chest 2021 Aug 2.
+2. ⁠Ortel TL et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism. Blood Adv 2020 Oct 13; 4: 4693.
+
+#Don Juan de 61 años, quien se encuentra en su segundo día de estancia hospitalaria tras haber desarrollado un episodio de hemorragia digestiva alta secundaria a presencia de varices esofágicas con repercusión hemodinámica. Tiene antecedente de cirrosis hepática alcohólica con Child-Pugh B-8. Se estabilizó al ingreso con reposición enérgica de la volemia, ocreotide y transfusión de 1 unidad de GRE con respuesta adecuada. Posterior a la estabilización se realizó endoscopia digestiva alta con ligadura de varices.
+¿Cuál de los siguientes tratamientos profilácticos debe ser iniciado en don Juan?
+#A. Iniciar carveridol y nueva endoscopia de vías digestivas altas con ligadura de varices con basa en 15 días
+#B. Programar para derivación portosistémica intrahepática transyugular
+#C. Programar para derivación portosistémica intrahepática transyugular e iniciar bisoprolol
+#D. Iniciar solo carveridol
+#Respesta correcta: B
+#Tema e ítem: Medidas profilácticas para hemorragia digestiva alta variceal - ¿Cuáles recomienda la evidencia actual?
+
+Argumento: En un paciente con cirrosis y una hemorragia por varices esofágicas, la prevención de un nuevo evento tras la ligadura endoscópica con bandas implica tanto el tratamiento con betabloqueantes como una nueva endoscopia digestia alta con ligadura de varices hasta lograr la obliteración.
+
+Para prevenir una nueva hemorragia en un paciente con cirrosis y várices, la endoscopia digestiva alta con ligadura seriada de las várices debe repetirse cada 2 semanas hasta que las várices queden obliteradas. El paciente también debe recibir un tratamiento con betabloqueadores orales hasta alcanzar una frecuencia cardíaca de 55 a 60 latidos por minuto, según lo permita la presión arterial. El tratamiento combinado de ligadura de bandas en serie y tratamiento con betabloqueadores es superior a cualquiera de los dos tratamientos por separado.
+
+La derivación portosistémica intrahepática transyugular no es el tratamiento de primera línea para la profilaxis secundaria de hemorragia por varices; se utiliza principalmente en pacientes con hemorragia por varices recurrente si han fracasado el tratamiento endoscópico y el tratamiento farmacológico.
+
+
+#Don Javier de 76 años hospitalizado por accidente cerebrovascular hemorrágico secundario a ruptura de aneurisma, en quien se realiza manejo quirúrgico con adecuada evolución. Al cuarto día de hospitalización inicia con tumefacción en pierna izquierda, por lo cual se ordena Doppler venoso, el cual evidencia ocupación de vena femoral profunda por material ecogénico con mala compresibilidad de dichos vasos.
+¿Cuál sería la conducta?
+#A. Programar para colocación de filtro de vena cava inferior
+#B. Fibrinolisis con alteplase 100 mg IV DU
+#C. Iniciar anticogulación parenteral con enoxaparina 60 mg s.c q/12h
+#D. Iniciar apixaban 10 mg q/12 horas por los primeros 7 días, luego continuar a 5 mg q/12 horas indefinidamente
+#Respuesta correcta: A
+#Tema e ítem: Contraindicaciones de la anticoagulación en enfermedad tromboembólica venosa - ¿Qué hacer en estos casos?
+
+Argumento: La trombosis venosa profunda es una patología prevalente en nuestro medio y requiere una adecuada detección para impactar en la morbi-mortalidad. Una vez se realiza el diagnóstico es indispensable determinar el riesgo vs. beneficio de la anticoagulación y para esto se sugiere recordar las contraindicaciones ABSOLUTAS de la anticoagulación:
+• Sangrado activo
+• Diátesis hemorrágica o conteo plaquetario<20.000/mm3
+• Neurocirugía, cirugía ocular, sangrado intracraneano en los últimos 10 días
+
+En estos casos se recomienda el filtro de vena cava, únicamente en pacientes con trombosis venosa profunda proximal aguda o que hayan presentado episodio de tromboembolismo pulmonar y tengan una contraindicación absoluta de anticoagulación. Además, se debe tener encuentra que únicamente aplica para el paciente en donde el evento trombótico se haya presentado en las últimas 4 semanas.
+
+Lectura recomendada:
+
+1. Kearon C, Akl EA, Ornelas J, Blaivas A, Jimenez D, Bounameaux H, et al. Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report. Chest [Internet]. 2016 Feb;149(2):315– 52.
+
+#Andrea de 27 años, quien consulta al servicio de Urgencias por presentar una lesión ocupante de espacio en región retroauricular derecha. Refiere que ha presentado pérdida de 2 kg en las última semana, tabaquismo activo y alzas térmicas cuantificadas hasta en 38.5C con respuesta adecuada a antipiréticos de venta libre. También comenta que recientemente ha adquirido un loro y gato, el cual la araño recientemente. Niega nexos epidemiológicos con tuberculosis. Al examen físico se evidencia una adenopatía retroauricular derecha, dolorosa la palpación, no cauchosas, de 2 cm de diámetro, sin otros hallazgos a la exploración.
+¿Cuál sería la conducta?
+#A. Realizar incisión y drenaje del ganglio linfático y tomar muestra para cultivo
+#B. Solicitar IFA IgM e IgG para B. henselae
+IFA: ensayo de fluorescencia indirecta
+#C. Realizar biopsia excisional del ganglio linfático
+#D. Realizar Rx de tórax, baciloscopia e incisión y drenaje del ganglio linfático con toma de muestra para cultivo
+#Respuesta correcta: B
+#Tema e ítem: Infección por B. henselae - ¿Cómo confirmar el diagnóstico?
+
+Argumento: La linfadenitis con un arañazo reciente de su gato sugiere el diagnóstico de enfermedad por arañazo de gato debida a Bartonella henselae.
+
+Esta infección suele comenzar con una pápula o pústula cutánea primaria aproximadamente entre 3 y 10 días después del contacto con el animal. Lo más habitual es que se desarrolle una linfadenopatía regional ipsilateral al lugar de inoculación, principalmente; cabeza, cuello o extremidades superiores. Puede haber eritema suprayacente y, en un 10-15% de los casos, los ganglios linfáticos pueden supurar. Casi la mitad de los pacientes con enfermedad por arañazo de gato presentan afectación de un solo ganglio linfático, el 20% presentan afectación de varios ganglios en un solo sitio y el tercio restante presentan afectación de varios ganglios en varios sitios.
+
+El diagnóstico se confirma con pruebas serológicas. varios laboratorios de referencia realizan pruebas serológicas para Bartonella. Se han evaluado dos métodos serológicos, el ensayo de fluorescencia indirecta (IFA) y el ensayo inmunoabsorbente enzimático (EIA), para el diagnóstico, pero los ensayos disponibles comercialmente utilizan la prueba IFA. En general:
+
+● Los títulos de IFA IgG <1:64 sugieren que el paciente no tiene una infección actual por Bartonella;
+● Los títulos de 1:64 o 1:128 representan una posible infección por Bartonella y se deben repetir las pruebas en 10 a 14 días. Los títulos ≥1:256 sugieren fuertemente una infección activa o reciente.
+●Una prueba de IgM positiva sugiere fuertemente una enfermedad aguda (o una infección muy reciente), pero la producción de IgM suele ser breve.
+
+Por los tres anteriores puntos, el diagnóstico serológico de la infección aguda por B. henselae puede resultar difícil en la práctica clínica diaria.
+
+Lectura recomendada:
+
+1. David H Spach, Sheldon L Kaplan. Microbiology, epidemiology, clinical manifestations, and diagnosis of cat scratch disease. Available on Uptodate Advanced 2023.
