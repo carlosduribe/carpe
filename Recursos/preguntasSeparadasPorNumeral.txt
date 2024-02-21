@@ -16918,3 +16918,508 @@ A Ernesto se le decide iniciar manejo con líquidos endovenosos, suspender la v�
     
     - Diagnosis and Management of Transient Ischemic Attack and Acute Ischemic Stroke: A Review. JAMA. 2021 Mar 16;325(11):1088-1098.
     - Escenarios clínicos en anticoagulación ¿Cuándo y cómo? – XXI Curso de Actualización en Medicina Interna – Universidad de Antioquia – 2022
+
+    #Paciente masculino de 39 años presenta dolor abdominal en flanco derecho irradiado a testículo ipsilateral. Signos vitales: T° de 36.8°C, FC de 82 lpm, FR de 12 rpm y PA de 130/78 mmHg. Al examen físico no hay signos de irritación peritoneal. Se realiza una ecografía abdominal que revela un cálculo ureteral derecho de 3 mm y un único calculo biliar de aprox. 5 cm. Se inicia manejo médico y al cabo de 2 horas el paciente expulsa el cálculo por la orina con resolución del cuadro clínico. ¿Cuál es el paso a seguir en el manejo de este paciente?
+#A.	Realizar una colangiorresonancia.
+#B.	Realizar una colecistectomía laparoscópica programada.
+#C.	Seguimiento ecográfico en 6 meses.
+#D.	El paciente no amerita manejo adicional
+#Respuesta correcta: B
+#Tema e ítem: Colelitiasis – Indicaciones de colecistectomía profiláctica.
+    
+    Argumento: Como se menciona en la justificación de la pregunta anterior, la mayoría de pacientes con diagnóstico de colelitiasis son asintomáticos y por lo tanto se recomienda el abordaje conservador para este tipo de pacientes. Sin embargo, hay algunas áreas de discusión, en la cual la colecistectomía se encuentra indicada ante la presencia de un alto riesgo de desarrollar cáncer de vesícula biliar u otro tipo de indicaciones, siempre y cuando estos sean buenos candidatos quirúrgicos.  Algunas de estas indicaciones son:
+    
+    - Un drenaje anómalo del conducto pancreático en el que este drena en el colédoco. Varios estudios han demostrado, el aumento de la incidencia de colangiocarcinoma limitado a este grupo de pacientes debido a la presencia de mutaciones del K-ras y p53 en la mucosa biliar de estos.
+    - La presencia de pólipos en la vesícula biliar: Se recomienda la colecistectomía profiláctica en todo paciente con pólipos vesiculares de ≥10 mm de tamaño. Además, en pacientes con otros factores de riesgo para cáncer de vesícula biliar (Edad >60 años y/o la presencia de un pólipo sésil con pared de vesícula biliar >4mm) se recomienda la colecistectomía ante pólipos de >5 mm. Si el paciente no cuenta con estas características, se realizará seguimiento ecográfico.
+    - Presencia de vesícula biliar de porcelana.
+    - Cálculos biliares grandes: particularmente si miden más de 3 cm (Como este paciente).
+    
+    Actualmente se encuentran en discusión otras indicaciones como la realización de colecistectomía profiláctica durante la cirugía bariátrica, ya que la obesidad y la rápida perdida de peso son factores de riesgo para los cálculos biliares. Además, la migración de los cálculos biliares hacia el colédoco en pacientes con antecedente de cirugía bariátrica (Debido a las alteraciones en la anatomía) el manejo estándar con colangiopancreatografía retrógrada endoscópica (CPRE) y extracción de cálculos biliares sería complicado. Sin embargo, la colecistectomía concomitante durante la cirugía bariátrica agrega tiempo y aumenta el riesgo de complicaciones perioperatorias.
+    
+    Lecturas recomendadas:
+    
+    - Mark P. Lamberts. Indications of cholecystectomy in gallstone disease. Current Opinion in Gastroenterology 34(2):p 97-102, March 2018
+    - Salam F Zakko. Approach to the management of gallstones. Available on Uptodate Advanced 2023.
+
+#Masculino de 70 años ha presentado 4 episodios separados de hematoquecia desde hace 2 meses. Niega dolor al defecar y refiere que realiza deposiciones 1 a 2 veces por semana desde hace más de 1 año. Se realizó una colonoscopia hace 2 años sin hallazgos significativos. Signos vitales: T° de 36.8°C, FC de 85 lpm y PA de 140/80 mmHg. Su IMC es de 32 kg/m2. El examen físico incluido el tacto rectal es normal. El hemograma concluye una anemia microcítica. ¿Cuál de los siguientes es el diagnostico más probable?
+#A.	Carcinoma colorrectal.
+#B.	Enfermedad diverticular.
+#C.	Colitis isquémica.
+#D.	Fisura anal.
+#Respuesta correcta: B
+#Tema e ítem: Hemorragia de vías digestivas bajas: Diagnostico etiológico.
+    
+    Argumento: Como abordaje inicial usted debe conocer la diferencia entre dos conceptos importantes. 1. La diverticulosis que se define como la presencia de divertículos en la mucosa colónica, la cual puede ser sintomática o asintomática. 2. La enfermedad diverticular que se trata de una condición clínicamente significativa y sintomática de la diverticulosis: diverticulitis y sus complicaciones, hemorragia diverticular, etc. Entienda que la diverticulosis es una afección en la que se desarrollan evaginaciones anormales de la mucosa y la submucosa del colon (Divertículos falsos) la cual es resultado de un debilitamiento del tejido conectivo (como por la edad avanzada de este paciente) y un aumento de la presión intraluminal (Este paciente presenta estreñimiento desde aprox. 1 año) asociado a otros factores de riesgo como la obesidad (IMC de 32 kg/m2). La principal causa de hemorragia del tracto digestivo inferior es la enfermedad diverticular correspondiente a aproximadamente al 30 a 50% de los casos. El sangrado se limite en un 80% de los casos, por lo que se recomienda la realización de colonoscopia temprana para encontrar a esta enfermedad como la fuente de sangrado, teniendo una tasa de recurrencia de hasta un 40%. El sangrado diverticular se manifiesta clínicamente con hematoquecia indolora intermitente, la cual, si es recurrente se asocia a anemia microcítica o normocítica. El método diagnóstico de elección para la diverticulosis es la colonoscopia, sin embargo, ante la sospecha de complicaciones graves (Como la diverticulitis) la colonoscopia se encuentra contraindicada por el riesgo de perforación. En su caso, se indica la realización de una tomografía computarizada.
+    
+    - La edad avanzada de este paciente, el cuadro clínico de estreñimiento y hematoquecia indolora podría indicar la presencia de un carcinoma colorrectal y es un diagnóstico diferencial que debe excluirse en este paciente. Sin embargo, el antecedente de una colonoscopia normal y estreñimiento que NO se asocia a pérdida de peso o síntomas metastásicos hacen que sea un diagnostico poco probable.
+    - La colitis isquémica se manifiesta con hematoquecia, siendo la edad avanzada y el tabaquismo (No nos refieren que este paciente sea fumador) son factores de riesgo importantes. Sin embargo, esta condición se asocia a otros síntomas como dolor abdominal y sensación de urgencia fecal. No se asocia a estreñimiento.
+    - Aunque el estreñimiento de larga evolución que presenta este paciente predispone al desarrollo de fisuras anales, esta condición causa hematoquecia dolorosa. Por lo que la ausencia de dolor anorrectal durante la defecación y la ausencia de hallazgos al tacto rectal descartan este diagnóstico.
+    
+    Lecturas recomendadas:
+    
+    - Méndez G, Vásquez M. Hemorragia del Tracto Digestivo. XVIII Curso de Actualización para Médicos Generales, La visión del residente. 2018
+
+#Masculino de 50 años presenta deposiciones melénicas desde hace 5 días asociado a mareo. Presenta cefaleas ocasionales por lo que consume frecuentemente naproxeno. Signos vitales: Temp. de 37°C, FC de 100 lpm y PA de 100/70 mmHg. El examen físico es completamente normal y presenta un nivel de hemoglobina de 10g/dL. Se inicia manejo con líquidos IV. La endoscopia de vías digestivas altas no muestra fuente del sangrado. ¿Cuál es el manejo a seguir en el abordaje de este paciente?
+#A.	Realizar una enteroscopia de doble balón.
+#B.	Realizar una cápsula endoscópica.
+#C.	Realizar una laparotomía exploratoria.
+#D.	Realizar una colonoscopia.
+#Respuesta correcta: D
+#Tema e ítem: Hemorragia de vías digestivas – Enfoque diagnóstico.
+    
+    Argumento: Los pacientes con hemorragia de vías digestivas altas comúnmente presentan hematemesis y/o melenas. La evaluación inicial de estos pacientes implica la estadificación de la estabilidad hemodinámica, la reanimación con líquidos y administración de inhibidores de la bomba de protones. Además, se deben realizar estudios diagnósticos como la endoscopia de vías digestivas altas (Esofagogastroduodenoscopia) con los objetivos de establecer un diagnóstico y, cuando sea necesario, el tratamiento del trastorno específico. Aunque las melenas (Heces negras) generalmente se presentan en el contexto de hemorragia de vías digestivas altas, también puede deberse a lesiones en el intestino delgado o colon. Por lo tanto, debido a que la esofagogastroduodenoscopia de este paciente no encontró una causa de hemorragia de vías digestivas altas, el paso a seguir en el manejo de este paciente es la realización de una colonoscopia para evaluar el tracto grastrointestinal inferior. En caso de que la colonocopia sea normal, es necesario entonces, examinar el intestino delgado mediante una enteroscopia o una capsula endoscópica (Respuestas A y B incorrectas).
+    
+    - En caso de hemorragia de vías digestivas la laparotomía solo se encuentra indicada en pacientes con hemorragia gastrointestinal persistente o recurrente que no responde a manejo endoscópico y que causa inestabilidad hemodinámica a pesar de la realización de transfusiones repetidas.
+    
+    Lecturas recomendadas:
+    
+    - Rojas D, Escobar P, Hemorragia de vía digestiva superior agudo no variceal. Medellín: II Curso de Actualización en Cirugía General, Universidad de Antioquia. 2019
+    - Hawks, MD, AND Svarverud, DO. Acute Lower Gastrointestinal Bleeding: Evaluation and Management. Am Fam Physician. 2020.
+
+#Sara, 49 años, consulta por cefalea intensa y súbita desde ayer, la cual alcanzó su máxima intensidad en 1 minuto. Sus signos vitales son normales. Presenta rigidez nucal. No alteración de conciencia ni focalización neurológica. Se realiza una TAC de cráneo simple que es normal. Citoquímico de LCR: aspecto amarillento posterior al centrifugado. ¿Cuál es la mejor conducta?
+#A.	Realizar panangiografía cerebral
+#B.	Repetir nueva punción lumbar dentro de 12 horas + Nimodipino 60 mg cada 4 horas
+#C.	Realizar venografía cerebral por resonancia magnética
+#D.	Administrar sumatriptán vía oral 100 mg
+#Respuesta correcta: A
+#Tema e ítem: Hemorragia subaracnoidea confirmada - ¿Cuál es la conducta a seguir?
+    
+    Argumento: Sara es atendida 24h después de la aparición de una cefalea en trueno. Aunque en ocasiones es de origen primario, la cefalea en trueno es una urgencia médica que requiere una evaluación diagnóstica inmediata. El diagnóstico diferencial de la cefalea en trueno es amplio; el más grave es la hemorragia subaracnoidea aneurismática (HSA). Una pequeña proporción (menos del 5%) de los pacientes con HSA aneurismática tendrán un TAC craneal negativo para hemorragia y requerirán una punción lumbar para descartar esta afección. En los pacientes con HSA, los resultados de la punción lumbar realizada entre 12 y 24 horas después del inicio de los síntomas revelarán recuentos eritrocitarios elevados y xantocromía (color amarillo causado por la descomposición de los glóbulos rojos). La arteriografía cerebral de 4 vasos (panangiografía cerebral) es el estándar de oro para la identificación y caracterización de aneurismas cerebrales. Permite una visualización detallada de la vasculatura cerebral y es fundamental para planificar el tratamiento endovascular o quirúrgico. Su alta resolución y capacidad para guiar intervenciones terapéuticas la hacen esencial en este contexto.
+    
+    - La clínica y la xantocromía ya indican la realización de una neuroimagen en lugar de esperar más tiempo para la realización de una nueva punción lumbar. El nimodipino se usa para prevenir el vasoespasmo, una complicación de la hemorragia subaracnoidea. Su administración es secundaria a la confirmación y tratamiento del aneurisma causal.
+    - La venografía cerebral por resonancia magnética no está indicada porque no hay sospechas de trombosis del seno dural, como un estado hipercoagulable o el uso de anticonceptivos orales; la HSA es el diagnóstico inicial posible de mayor riesgo. Si se descarta la HSA, debe considerarse la obtención de imágenes venosas, especialmente si los hallazgos de la TC sugieren trombosis (hiperdensidad en la TC sin contraste de la cabeza).
+    - No debe administrarse sumatriptán oral porque el paciente tiene una presentación atípica para la migraña, y el sumatriptán puede empeorar los resultados en pacientes con HSA aneurismática o RCVS.
+    
+    Lectura recomendada:
+    
+    - Greenberg SM, et al. American Heart Association/American Stroke Association. 2022 Guideline for the Management of Patients With Spontaneous Intracerebral Hemorrhage: A Guideline From the AHA/American Stroke Association. Stroke. 2022 Jul;53(7):e282-e361.
+
+#Carlos, 47 años, desde hace unos meses comenzó a presentar dolor urente en epigastrio asociado a anemia ferropénica. Se confirmó el diagnóstico de una úlcera duodenal asociada a Helicobacter pylori. Carlos ya completó un ciclo de amoxicilina, claritromicina y omeprazol hace 6 semanas. ¿Cuál es la conducta más apropiada?
+#A.	Realizar una prueba de antígeno fecal de Helicobacter pylori
+#B.	Repetir esquema de manejo y realizar una prueba serológica de Helicobacter pylori
+#C.	Repetir endoscopia digestiva alta con prueba rápida de ureasa
+#D.	Suspender el omeprazol por 1 mes y repetir la endoscopia digestiva alta con biopsia para histología
+#Respuesta correcta: A
+#Tema e ítem: Seguimiento del H. pylori.
+    
+    Argumento: Una vez finalizado el tratamiento de las úlceras asociadas a Helicobacter pylori, debe confirmarse la erradicación de la bacteria mediante una prueba de antígenos en heces o una prueba de aliento con urea.
+    El Colegio Americano de Gastroenterología recomienda que se confirme la erradicación de Helicobacter pylori en cualquier paciente que tenga una úlcera asociada a H. pylori con complicaciones como hemorragia. La prueba del antígeno fecal de H. pylori es un método sencillo para confirmar la erradicación. No debe realizarse hasta al menos 4 semanas después de la finalización de la terapia para evitar resultados erróneos. También puede utilizarse una prueba de aliento con urea para confirmar la erradicación. El tratamiento con un inhibidor de la bomba de protones debe interrumpirse 2 semanas antes de la prueba.
+    
+    - Aunque tanto las pruebas histológicas como las de ureasa rápida pueden utilizarse en el momento de la endoscopia para el diagnóstico de la infección por H. pylori, sólo deben realizarse si está clínicamente indicada una endoscopia digestiva alta.
+    - Se recomienda repetir la endoscopia digestiva alta en pacientes con úlceras gástricas, para evaluar una posible malignidad, pero no se recomienda en pacientes con úlceras duodenales.
+    - Las pruebas serológicas no son útiles para el seguimiento, dado que los anticuerpos pueden permanecer positivos durante años tras la finalización de un tratamiento exitoso.
+    
+    Lectura recomendada:
+    
+    - Jhon Carvajal. Helicobacter pylori, ¿cómo tratar en el 2022?. Medellín: XXI Curso de actualización en medicina interna. Facultad de Medicina, Universidad de Antioquia. 2022
+
+#Varón de 31 años, fumador activo con antecedente de tabaquismo de 10 paq/año, sin otros antecedentes de interés. Consulta al servicio de Urgencias por disnea de inicio súbito, progresiva y asociada a dolor en hemitórax izquierdo de características pleuríticas. Al examen físico los signos vitales: PA 140/5 mh, FC 120 lpm, FR 31 rpm, SatO2 91% a aire ambiente. A la exploración se objetiva murmullo vesicular disminuido en hemitórax izquierdo con reducción de la expansión torácica, además de hiperresonancia a la percusión. La rx de tórax evidencia inversión del hemidiafragma y ensanchamiento de los espacios intercostales en hemitórax izquierdo.
+¿Cuál sería el tratamiento inicial correcto para este paciente?
+#A. Oxígeno de alto flujo + descompresión con aguja insertada en el 2do espacio intercostal LMC
+#B. Toracostomía con catéter seguida de pleurodesis
+#C. Oxígeno de alto flujo y dejar en observación por 6 horas
+#D. Oxígeno de alto flujo + toracostomía con catéter seguida de pleurodesis
+#Respuesta correcta: A
+#Tema e ítem: Neumotorax a tensión no traumático – ¿Cuál es el manejo inicial?
+    
+    Argumento: Se trata de un paciente joven con disnea de inicio súbito, dolor pleurítico en hemitórax izquierdo y que al examen fisico se evidencia compromiso ventilatorio (murmullo vesicular disminuido en hemitórax izquierdo con reducción de la expansión torácica, además de hiperresonancia a la percusión). Este cuadro clínico es altamente sugerente de un neumotórax a tensión no traumático (confirmado por los hallazgos reportados en la Rx de tórax).
+    
+    El autor no nos refiere ningun antecedente o dato clave que sugiera enfermedad pulmonar subyacente conocida, por lo cual se clasificaría como neumotórax espontáneo primario (NEP). El neumotórax espontáneo se divide en dos tipos: primario, que ocurre en ausencia de una enfermedad pulmonar conocida, y secundario, que ocurre en pacientes con enfermedad pulmonar subyacente (EPOC es la causa más común). Hasta ahora no se ha identificado la causa del NEP se describen factores de riesgo como el tabaquismo, sexo masculino y antecedentes familiares de neumotórax
+    
+    El tratamiento para un primer episodio de NEP incluye oxígeno de alto flujo y descompresión con aguja insertada en el segundo espacio intercostal en la línea medio clavicular. Luego se inserta un drenaje intercostal después de la descompresión.
+    
+    - El tratamiento definitivo con pleurodesis para prevenir la recurrencia no suele proporcionarse hasta que se ha producido un segundo episodio ipsilateral, a menos que la ocupación del paciente se considere de alto riesgo (como por ejemplo buceadores y pilotos aeronáuticos).
+    
+    Lectura recomendada:
+    
+    1. Ramírez Osorio, JF. Gallego Aristizábal, PA. Dolor torácico potencialmente letal. Medellín: Facultad de Medicina, Universidad de Antioquia, XXI Memorias Curso de Actualización en Medicina Interna; 2021.
+
+#Femenina de 41 años, con diagnóstico de síndrome de intestino irritable (SII) desde hace 2 años subtipo SII-D. Acude a consulta refiriendo dolor abdominal y deposiciones blandas tipo 6 según escala de Bristol. Su evaluación inicial incluye pruebas para giardiasis y enfermedad celiaca negativas, además de test de calprotectina negativa y TSH normal. Inicialmente tratada con dieta baja en FODMAP con mejoría parcial alivio de sus síntomas. Se implementaron múltiples modalidades farmacológicas, incluyendo eluxadoline, alosetrón y loperamida, sin lograr una mejoría clínica significativa.
+¿Cuál de los siguientes es el tratamiento más adecuado a iniciar?
+#A. Rifaximina
+#B. Dieta baja en gluten
+#C. Amitriptilina
+#D. Trasplante de microbiota fecal
+#Respuesta correcta: C
+#Tema e ítem: Síndrome de intestino irritable (SII) subtipo SII-D (predominio de diarrea) – Manejos escalados
+    
+    Argumento: Luego de implementar la dieta baja en FODMAP (oligosacáridos, disacáridos, monosacáridos y polioles fermentables) y modalidades farmacológicas, como eluxadoline, alosetrón y loperamida, el siguiente paso es iniciar un antidepresivo tricíclico (ATC) como la amitriptilina).
+    
+    Ciertas clases de antidepresivos tienen propiedades analgésicas independientes de sus efectos para mejorar el estado de ánimo, lo cual ofrece un alivio moderado el dolor abdominal en el SII. Los ATC, a través de sus propiedades anticolinérgicas, también retardan el tiempo de tránsito intestinal, lo que puede proporcionar beneficios en el SII con predominio de diarrea. La dosis inicial debe ajustarse según la tolerancia y la respuesta. Debido al retraso en el inicio de acción de los antidepresivos, se deben intentar de tres a cuatro semanas de tratamiento antes de aumentar la dosis. La amitriptilina y nortriptilina se pueden iniciar con una dosis de 10-25 mg antes de acostarse.
+    
+    - Si bien no se deben recomendar antibióticos de forma rutinaria en todos los pacientes con SII, en pacientes con cuadro moderado a grave sin estreñimiento, particularmente aquellos con distensión, que no han respondido a otras terapias como la dieta baja en FODMAP, antiespasmódicos y ATC, se sugiere iniciar una prueba de dos semanas con rifaximina. El paso siguiente en este paciente, en caso de no obtener respuesta con los ATC, es iniciar la rifamixina.
+    • Una revisión sistemática y un metaanálisis concluyeron que el trasplante microbiota fecal no es más eficaz que el placebo en el tratamiento del SII. Se necesitan estudios adicionales para determinar si hay subgrupos de pacientes que pueden beneficiarse de esta intervención
+    • La dieta baja en gluten se recomendaría para pacientes con enfermedad celiaca, la cual ha sido descartada en este paciente.
+    
+    Lectura recomendada:
+    
+    1. Arnold Wald. Treatment of irritable bowel syndrome in adults. Available On Uptodate Advanced 2024.
+
+#Mujer de 45 años, previamente sedentaria y en sobrepeso, con historial de cifras tensionales elevadas en rango de 140-150 mmHg para la presión arterial sistólica (PAS) y 85-90 mmHg para la presión arterial diastólica (PAD) en dos consultas médicas en el último mes. Durante el mismo periodo de tiempo, cuenta con tres mediciones de obtenidas ambulatoriamente con PAS 110-120 mmHg y PAD 70-80 mmHg.
+¿Cuál sería la conducta adecuada a seguir?
+#A. Iniciar amlodipino + enalapril
+#B. Iniciar monoterapia con amlodipino
+#C. Ordenar monitoreo ambulatorio de la presión arterial (MAPA).
+#D. Recomendar cambios en el estilo de vida y valorar con cita de control en 1 mes
+#Respuesta correcta: C
+#Tema e ítem: Monitoreo ambulatorio de la presión arterial (MAPA) - ¿Cuándo está indicado?
+    
+    Argumento: Esta paciente cumple con la definición de hipertensión de bata blanca. Se define como la presencia de presiones alteradas durante la medición clínica en el consultorio, pero presiones arteriales normales fuera del consultorio.
+    
+    La hipertensión de bata blanca se considera significativa cuando hay una diferencia en relación a la medición en el consultorio con la medición ambulatoria >20/10 mmHg en las presiones sistólicas y diastólicas, respectivamente. En esta paciente, sería razonable indicar un cribado utilizando mediciones de MAPA. El MAPA se realiza mediante dispositivos de monitoreo intermitente de 24 horas de la presión arterial, con mediciones útiles durante el transcurso del día cada 15 a 30 minutos y cada hora durante la noche, dando información de la presión arterial durante diversas situaciones y condiciones de la cotidianidad del paciente, comportamiento diurno y nocturno, durante la actividad física diaria, entre otras.  Para una correcta lectura del MAPA, se requiere que por lo menos el 70% de las mediciones de la presión arterial (PA) durante 24 horas sean técnicamente aceptables.
+    
+    En países de pocos recursos como el nuestro, en el sistema de salud, las medidas de tamización para la hipertensión arterial con MAPA suelen ser dificultosas hasta el día de hoy, por lo anterior, se opta por el uso automonitoreo en casa de la presión arterial (ACPA). En los pacientes con hipertensión de bata blanca, debe considerarse la posibilidad de realizar un seguimiento anual con mediciones de la PA fuera de la consulta para determinar si se ha producido una conversión a hipertensión sostenida.
+    
+    - El manejo con fármacos antihipertensivos no está indicado en esta paciente a menos que se confirme la hipertensión mediante MAPA o automonitoreo en casa de la presión arterial (ACPA).
+    • Recomendar cambios en el estilo de vida y revalorar en 1 mes no sería una conducta adecuada, ya que la presión elevada elevada en la consulta debe confirmarse mediante mediciones fuera de la misma.
+    
+    Lectura recomendada:
+    
+    1. López Urbano, F. Monitoreo ambulatorio de la presión arterial: una herramienta subutilizada con gran impacto clínico. Medellín: Facultad de Medicina, Universidad de Antioquia, XIX Memorias Curso de Actualización en Medicina Interna; 2019.
+
+#Varón de 62 años con un historial significativo de tabaquismo, acumulando ≥30 paquetes/año (Fumador desde hace 45 años), quien ingresa al servicio de Urgencia con un historial de 4 semanas de esputo teñido de sangre, particularmente exacerbado por las mañanas, sin otros síntomas respiratorios o sistémicos relevantes asociados. Al examen físico, lo signos vitales son estables y la auscultación cardipulmonar normal. La Rx de tórax es normal. Los paraclínico básicos se encuentran dentro de los rangos de normalidad.
+¿Cuál sería la conducta adecuada a seguir?
+#A. Programar para broncoscopia flexible
+#B. Tranquilizar al paciente y solicitar rx de control en 3 meses
+#C. Realizar TAC de tórax con contraste
+#D. Iniciar antibioticoterapia biconjugada ceftriaxona + claritromicina posterior a toma de muestra de esputo para cultivo
+#Respuesta correcta: C
+#Tema e ítem: Hemoptisis – ¿Cuándo solicitar imágenes?
+    
+    Argumento: Para este paciente con hemoptisis asociada a un factor de riesgo fuerte como lo es el historial significativo de tabaquismo (≥30 paquetes/año) y una rx de tórax normal, la conducta adecuada a seguir es solicitar una TAC de tórax con contraste.
+    
+    Cuando la hemoptisis es no masiva (como en este caso), se procede con calma en busca de la etiología, siendo la piedra angular una exhaustiva anamnesis y examen físico completo. Se inicia con la identificación de factores de riesgo y la semiología característica de ciertas entidades: los pacientes >40 o 50 años con antecedente de tabaquismo, cáncer o síndrome de anorexia-caquexia tienen mayor probabilidad de que la hemoptisis sea explicada por neoplasia, la principal causa de la etología maligna es el cáncer broncogénico y el metastásico. Las causas más frecuentes de hemoptisis en pacientes ambulatorios son las infecciones como la bronquitis o neumonía y las neoplasias. Debe realizarse una radiografía de tórax en todos los pacientes con hemoptisis como estudio inicial. Los pacientes con mayor riesgo de neoplasia pulmonar que presentan hemoptisis deben programarse para realizar TAC de tórax con contraste como estudio de extensión, aunque la radiografía de tórax sea normal (el 10% de estos pacientes pueden tener una rx normal).
+    
+    La broncoscopia puede ser flexible o rígida. Las ventajas de la primera son: técnica más sencilla, cuenta con más experiencia en el medio, no requiere anestesia general y permite visualizar lesiones más distales; por otra parte, la rígida requiere quirófano con aplicación de anestesia general. La broncoscopia flexible no es la prueba inicial para pacientes con hemoptisis. Esta se debe realizar si la TAC no es concluyente o si revela una anomalía que requiere visualización o biopsia endobronquial. La broncoscopia flexible es particularmente útil en pacientes de alto riesgo que tienen estudios de imagen negativos, permitiendo a menudo la localización del sitio de la hemoptisis y la visualización de la patología endobronquial causante de la hemorragia.
+    
+    Lectura recomendada:
+    
+    1. Peinado Acevedo, JS. Gómez Rosero, JA. Hemoptisis: ¿qué es lo urgente y qué da espera?. Medellín: Facultad de Medicina, Universidad de Antioquia, XIX Memorias Curso de Actualización en Medicina Interna; 2019.
+    2. Gagnon S, Quigley N, Dutau H, Delage A, Fortin M. Approach to Hemoptysis in the Modern Era. Can Respir J. 2017;2017:1565030. doi: 10.1155/2017/1565030.
+
+#Viviana de 31 años. Vive en zona rural de Tierra Alta (Córdoba). Consultó por 48 horas de fiebre objetiva asociada a mialgias generalizadas y deterioro de la cognición. Toman gota gruesa en la que reportan P. vivax y P. falciparum. Al examen físico se evidencia PA 85/60 mh, FC 128 lpm, FR 24 rpm, sin hallazgos relevante a la exploración física. Paraclínicos: Hb 7.1 g/dL, PLT 90.000/m3, bilirrubina total 3.8 mg/dL, bilirrubina directa 2.2 mg/dL, Cr 1.9 mg/dL, BUN 105 mg/dL.
+¿Cuál de los siguientes es el tratamiento correcto?
+#A. Artemeter/lumefantrina + primaquina + cloroquina
+#B. Cloroquina + primaquina
+#C. Artesunato
+#D. Artesunato + primaquina
+#Respuesta correcta: D
+#Tema e ítem: Malaria con criterios de gravedad - ¿Cuál es el manejo de elección y de qué depende?
+    
+    Argumento: La malaria es una enfermedad parasitaria tropical encontrada en 91 países a nivel mundial. Existen más de 120 especies de Plasmodium, sin embargo, la malaria es producida solo por 5 especies que infectan al hombre: P. vivax, P. ovale, P. malarie, P. knowlesi y P. falciparum. En el caso específico de Colombia, las especies de P. vivax y falciparum son las más comunes, con una prevalencia aproximada de 70 y 30%, respectivamente. Los principales focos de transmisión de malaria en el país se encuentran situados en la Región Pacifica (Departamentos del Chocó, Cauca, Nariño y el distrito de Buenaventura) 50-60%, seguida por la región Urabá – Bajo Cauca –Alto Sinú (Antioquia y Córdoba) en un 20-30%.
+    
+    El autor de la pregunta nos trae un caso clínico de Malaria en el que nos dan varios datos/criterios de malaria grave o complicada: Alteración del estado de conciencia, lesión renal aguda e inestabilidad hemodinámica. Recuerde siempre que TODOS los pacientes diagnosticados con malaria grave deben recibir artesunato parenteral sin demora a dosis de 2,4 mg/kg/dosis a las 0, 12 y 24 horas; luego cada 24 horas. Lo anterior seguramente lo orientaría a marcar la respuesta C como correcta, sin embargo, nótese que la gota gruesa también ha reportado como agente etiológico a P. vivax, el cual ya se encontrará cubierto en su forma sanguínea por el artesunato parenteral, pero NO debemos olvidar las formas hipnozoíticas que permanecen en el hígado, las cuales son tratadas con esquizonticida tisular como la primaquina, lo cual evitará las recaídas (Respuesta correcta D).
+    
+    Lectura recomendada:
+    
+    1. Crespo Habib, G. Manejo de la malaria. Medellín: Facultad de Medicina, Universidad de Antioquia, XIX Memorias Curso de Actualización en Medicina Interna; 2019.
+
+#Juana de 37 años, sin antecedentes médicos de interés, llega al servicio de urgencias 15 minutos después de caer por un tramo de escaleras. A su llegada presenta dificultad para respirar, dolor en hemitórax derecho, hombro derecho e hipocondrio derecho. Signos vitales T de 37 °, FC de 115 lpm, FR de 20 rpm, PA de 85/45 mm/Hg. Al examen físico, múltiples equimosis en hemitórax derecho. Hay dolor a la palpación sobre la pared torácica derecha y el cuadrante superior derecho del abdomen. Peristaltismo normal. El examen cardiopulmonar no muestra anomalías. Las venas del cuello son planas. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Laceración esplénica.
+#B. Neumotórax a tensión.
+#C. Hematoma hepático.
+#D. Hematoma duodenal.
+#Respuesta correcta: C
+#Tema e ítem: ¿Cuándo sospechar de un hematoma hepático?
+    
+    Argumento: En el caso de un traumatismo abdominal cerrado posterior a una caída en un paciente que cursa con equimosis en hemitórax derecho, con dolor referido al hombro (debido a irritación diafragmática) y compromiso de hipocondrio derecho, la lesión hepática debe ser la primera sospecha, en este caso un hematoma (Respuesta correcta C). Recordemos futuro R1 que se puede sospechar un diagnóstico de lesión hepática en un paciente hemodinámicamente estable según el mecanismo de la lesión, el examen físico o los hallazgos de laboratorio; sin embargo, las imágenes mediante tomografía computarizada (TC) del abdomen con contraste intravenoso confirman definitivamente la lesión y definen el grado de la misma; no obstante, en pacientes inestables como el de este caso posterior a la estabilización se debe realizar una evaluación enfocada con ecografía en trauma (FAST) para evaluar la presencia de líquido libre en el abdomen.
+    
+    - Por otra parte, el bazo es uno de los órganos que se lesionan con mayor frecuencia durante un traumatismo abdominal cerrado. La hemorragia grave asociada con la laceración esplénica a menudo produce taquicardia e hipotensión; sin embargo, en lugar de dolor en el lado derecho , los pacientes con lesión esplénica suelen experimentar dolor abdominal en el lado izquierdo y dolor en el hombro izquierdo (Signo de Kehr).
+    - Por otro lado, el neumotórax puede ocurrir como consecuencia de un traumatismo torácico cerrado, como una caída. Se manifiesta con disnea y dolor torácico ipsilateral, así como inestabilidad hemodinámica en el caso de neumotórax a tensión (por compresión mediastínica y disminución del retorno venoso); sin embargo, el examen físico en pacientes con neumotórax generalmente muestra ruidos respiratorios reducidos o ausentes en el pulmón afectado. El neumotórax a tensión también se manifestaría con distensión venosa yugular en lugar de las venas planas del cuello que tiene Juana.
+    - Finalmente, el hematoma duodenal es una lesión común en niños que sufren un traumatismo abdominal cerrado. Los síntomas típicos, como dolor epigástrico, vómito bilioso y una masa abdominal superior, son el resultado de la obstrucción del intestino delgado asociada. La ausencia de estos síntomas en combinación con la edad de Juana hace que este diagnóstico sea menos probable.
+    
+    Lectura recomendada:
+    
+    - Coccolini, F et all. Liver trauma: WSES position paper. Avaible in the World journal of emergency surgery. 2015.
+
+#Hernán de 31 años, jardinero desde hace 8 años con antecedente de diabetes tipo 2 en manejo con metformina. Consulta ahora por 3 meses de dolor, parestesia y dificultad para la aprehensión en mano del miembro superior derecho. Hernán refiere que los síntomas empeoran por la noche y lo despiertan con frecuencia. Además, menciona que los síntomas pueden aliviarse al saludar de mano, pero que reaparecen casi de inmediato. Signos vitales dentro de rangos normales. Al examen físico, se evidenció reproducción de sus síntomas cuando se le solicitó al paciente mantener su mano derecha elevada sobre el nivel de la cabeza durante 2 minutos.
+¿Cuál es la conducta adecuada a seguir para confirmar la sospecha diagnóstica?
+#A. Realizar tomografía computarizada de la columna cervical.
+#B. Solicitar electromiografía y estudios de conducción nerviosa.
+#C. Pedir una ecografía Doppler de extremidad superior derecha.
+#D. Indica una resonancia magnética cerebral.
+#Respuesta correcta: B
+#Tema e ítem: ¿Cómo confirmar el diagnóstico de un síndrome de túnel del carpo?
+    
+    Argumento: La presentación clínica de parestesia en la mano y dolor exacerbado por la noche (debido a la reducción de la circulación y los movimientos musculares durante el sueño REM) y al agarrar objetos, junto con un factor de riesgo de trabajos manuales a repetición (Jardinero) y un test de elevación positivo, nos debe hacer sospechar de un síndrome del túnel del carpo (STC); por ende, se deben solicitar estudios de conducción nerviosa y electromiografía para confirmar el diagnóstico (Respuesta correcta B). Recordemos que el STC se asocia con trabajos que conducen a flexión y extensión repetitiva y contundente de la muñeca. Las pruebas de provocación utilizadas en el diagnóstico del STC incluyen Phalen, Tinel y pruebas de elevación de la mano.
+    
+    - Por otra parte, una tomografía computarizada de la columna cervical estaría indicada si se sospecha radiculopatía cervical. La radiculopatía cervical también puede manifestarse con dolor, hormigueo y entumecimiento de las manos, pero generalmente también causa dolor de cuello y hombros, del cual este paciente carece. Además, la exacerbación durante la noche o durante actividades que involucran las manos no es consistente con radiculopatía cervical, sino que más bien se esperaría una exacerbación con la extensión del cuello.
+    - Por otro lado, la ecografía Doppler es un procedimiento importante para evaluar la enfermedad arterial periférica (EAP). Esta condición puede manifestarse con claudicación, debilidad y parestesias, estas últimas presentes en Hernán. Además, Hernán con antecedentes de diabetes mellitus, lo predispone a EAP; sin embargo, la afección afecta más comúnmente a las piernas y muy raramente a las manos. Además, la historia de este paciente (es decir, trabajador manual con síntomas que se exacerban durante la noche y al agarrar objetos) sugiere más un diagnóstico diferente.
+    - Finalmente La resonancia magnética (RNM) podría estar indicada en caso de sospecha de varios trastornos del SNC, incluida la esclerosis múltiple (EM). Aunque la EM puede manifestarse con parestesia periférica, generalmente se asocia con otras manifestaciones como pérdida de visión o ataxia. Además, como el defecto se localiza en el sistema nervioso central (no en la periferia), los síntomas no empeorarán cuando el paciente levante la mano.
+    
+    Lectura recomendada:
+    
+    - Pinto A. et all. Lesión de nervio periférico. XIX Curso de Actualización para Médicos Generales. Disponible en la visión del Residente 2019.
+
+#Julieta de 56 años, con antecedente de una endoscopia digestiva alta hace 10 días por pirosis. Consultó por 1 semana de fiebre, disnea y tos húmeda expectorante con flema maloliente y verdosa. Refiere que recibió hace 5 días manejo con azitromicina para un cuadro clínico similar; sin embargo, no ha presentado mejoría a pesar de tomar el medicamento. Signos vitales: Tº 38.8 °C, PA de 130//80 mm Hg, FC de 108 lpm y FR 22 rpm. Al examen físico, crépitos en ápex pulmonar derecho, sin otro hallazgo anormal. El hemoleucograma con leucocitos en 14.500/mm3, y una radiografía de tórax evidenció un infiltrado en el lóbulo superior derecho.
+¿Cuál de los siguientes antibióticos es el indicado para esta paciente?
+#A. Amoxicilina-Clavulanato.
+#B. Ciprofloxacina.
+#C. Doxiciclina.
+#D. Metronidazol.
+#Respuesta correcta: A
+#Tema e ítem: Neumonía bacteriana aspirativa (endoscopia) tratamiento
+    
+    Argumento:Esta paciente que presenta fiebre, síntomas respiratorios, esputo maloliente, leucocitosis, crépitos en ápex pulmonar derecho, que junto a una radiografía que reporta infiltrado en el lóbulo superior derecho, nos debe hacer sospechar de un cuadro de neumonía adquirida en la comunidad. Además, esta paciente se sometió a una endoscopia gastrointestinal superior y posteriormente desarrolló neumonía, probablemente debido a aspiración bacteriana durante el procedimiento. Recordemos, la endoscopia superior aumenta el riesgo de aspiración, porque la sonda del endoscopio deteriora el cierre de la glotis y del esfínter esofágico inferior, lo que puede provocar neumonitis química a las pocas horas debido a aspiración de ácido gástrico o neumonía varios días después por la aspiración de microbios gástricos. Aunque durante mucho tiempo se consideró que los anaerobios (Peptostreptococcus, Fusobacterium) eran los organismos dominantes involucrados en la neumonía por aspiración bacteriana, según indica la evidencia más reciente, los patógenos aeróbicos comunes (bacilos gramnegativos, Streptococcus pneumoniae, Staphylococcus aureus) están presentes en la mayoría de las infecciones. Por lo tanto, la terapia antibiótica empírica ahora está diseñado para cubrir patógenos aeróbicos y anaeróbicos, de la siguiente manera:
+    
+    - Ámbito ambulatorio: amoxicilina-clavulánico (Respuesta correcta A)
+    *Hospitalizado, pero no grave: ampicilina-sulbactam
+    *Hospitalizado y en estado crítico: carbapenem o piperacilina-tazobactam
+    - En cuanto a la ciprofloxacina, proporciona cobertura contra gram negativos, pero no es efectiva para anaerobios o la mayoría de los organismos grampositivos.
+    - Por otra parte, la doxiciclina cubre organismos atípicos en pacientes con neumonía adquirida en la comunidad, pero no tiene buena actividad contra los anaerobios.
+    - Finalmente, el metronidazol proporciona cobertura contra anaerobios gramnegativos, pero tiene eficacia limitada contra muchos anaerobios grampositivos y no cubre adecuadamente los aerobios.
+    
+    Lectura recomendada:
+    
+    - Sanivarapu RR, Gibson J. Aspiration Pneumonia. Available In: StatPearls 2024.
+
+#Francisco de 56 años, ingresó a urgencias posterior a una caída de 5 metros de altura desde una escalera. Signos vitales FC de 120 lpm (es débil), FR de 26 rpm y PA de 80/50 mm/Hg. Al examen físico, pesa 70 kg, está pálido y diaforético. Abre los ojos y los retrae en respuesta a estímulos dolorosos y emite sonidos incomprensibles. El abdomen es blando y no doloroso. Todas las extremidades están frías, con 1+ en pulsos distales. Paraclínicos reportan: pH 7.29, PCO2 de 33 mmHg, PO2 de 65 mmHg, HCO3- de 15 mEq/L. Una tomografía evidenció fracturas de ambas tibias. Se ingresa el paciente a UCI e inicia reanimación hídrica.
+¿Cuál opción indica una reanimación hídrica inadecuada en Francisco?
+#A. Diuresis de 25 ml en 3 horas
+#B. Lactato de 1.6 mmol/L
+#C. Déficit de base de 1 mmol/L
+#D. Presión de pulso elevada
+#Respuesta correcta: A
+#Tema e ítem: Reanimación hídrica - Metas
+    
+    Argumento: El objetivo de la reanimación con líquidos es mantener una perfusión adecuada del órgano terminal y restaurar el volumen intravascular. Dado que el flujo sanguíneo renal (por lo tanto, la TFG) es muy sensible a los cambios en la presión arterial y el volumen intravascular, la producción de orina puede servir como una medida sustituta para determinar si la reanimación con líquidos es adecuada. Lo ideal es una producción de orina en adultos superior a 0,5 ml/kg/h; por ende, un hombre de 70 kg debería tener una producción de orina de 35 a 70 ml/h. Una producción de orina de 25 ml en 3 horas sugiere que sus riñones no reciben un flujo sanguíneo adecuado y; por lo tanto, que no ha recibido una reanimación hídrica adecuada (Respuesta correcta A)
+    
+    - En cuanto a un aumento del lactato sérico (>4 mmol/L), puede indicar hipoxia tisular debido a una perfusión tisular inadecuada; sin embargo, los niveles de lactato sérico no se utilizan para determinar si la reanimación hídrica es inadecuada, porque incluso después de una reanimación con líquidos adecuada y la corrección de la hipoperfusión tisular, los niveles de lactato pueden no alcanzar niveles normales (<2 mmol/L) durante algunas horas. La eliminación del lactato puede tardar incluso más en pacientes críticamente enfermos como resultado de una vida media prolongada del lactato; por lo cual, en pacientes traumatizados, los niveles elevados de lactato se utilizan para evaluar el pronóstico.
+    - Por otra parte, este paciente tiene un déficit de base aumentado (> 2 mmol/L), lo que indica acidosis metabólica (probablemente debido a acidosis láctica por perfusión y reanimación con líquidos inadecuadas). La normalización del déficit de bases (<2 mmol/L) después de la reanimación con líquidos sugeriría una mejora en la perfusión tisular y un pronóstico más favorable, no una reanimación hídrica inadecuada.
+    - Finalmente, la presión del pulso elevada, es causada por un aumento en el volumen sistólico (ejercicio normal, insuficiencia aórtica) o una disminución en la distensibilidad arterial (aterosclerosis); y probablemente aumentaría después de la reanimación con líquidos; sin embargo, la presión del pulso es un indicador del volumen sistólico y no un indicador directo de la perfusión del órgano terminal, por lo que un cambio en la presión del pulso no es el mejor indicador para evaluar la reanimación.
+    
+    Lectura recomendada:
+    
+    - Santa Cruz JR, Salgado L. Estrategias de reanimación intravenosa en paciente con trauma. VI Simposio medicina de urgencias.2018.
+
+#Ligia de 58 años, con antecedente de artritis reumatoide desde hace 1 año, en manejo con: ibuprofeno, prednisona, hidroxicloroquina y metotrexato, este último desde hace 4 meses, consulta ahora por una semana de astenia y adinamia. Signos vitales dentro de rangos normales. Al examen físico con palidez conjuntival y en extremidad superior con deformidad de boutonniere. ParaclÍnicos reportan hemoglobina de 10,1 g/dl, leucocitos de 3.400/mm3 y plaquetas de 101.000/mm 3. Los niveles de ácido metilmalónico son normales. ¿Cuál de las siguientes opciones podría haber prevenido los hallazgos anormales de los paraclÍnicos de Ligia?
+#A. Uso de vitamina B6.
+#B. Uso de vitamina B12.
+#C. Administración de ácido folínico (Folinato de calcio).
+#D. Administración de Mesna.
+#Respuesta correcta: C
+#Tema e ítem: Importancia de uso de metotrexato concomitante con Folinato de calcio.
+    
+    Argumento: En Ligia que dado su diagnóstico de artritis reumatoide, ha iniciado a consumir metotrexato (MTX), y también ha empezado a cursar recientemente con efectos secundarios típicos del MTXA como lo es la mielosupresión, que causa anemia (macrocítica), leucocitopenia y trombocitopenia, así como síntomas constitucionales. Estos efectos secundarios se pueden reducir administrando una terapia de rescate en forma de ácido folínico, el cual debió administrarse como terapia profiláctica dentro de las 24 a 48 horas posteriores al inicio del tratamiento con dosis altas de MTX (Respuesta correcta C).
+    
+    - Por otra parte, se debe agregar vitamina B6 a los regímenes de tratamiento que incluyan isoniazida (INH), un medicamento más comúnmente utilizado para tratar la tuberculosis. Si bien la deficiencia sintomática de vitamina B6 es poco común en la población general, se observa comúnmente en asociación con INH, ya que la INH compite con la piridoxina en la síntesis de neurotransmisores. En casos avanzados, los pacientes con deficiencia crónica de piridoxina pueden presentar neuropatía periférica sensorial, estomatitis, glositis y convulsiones, ninguna de las cuales está presente en esta paciente. Además, Ligia no toma esta medicación ni cursa con clínica que haga sospechar de tuberculosis.
+    - Por otro lado, se debe administrar vitamina B12 a personas con deficiencia de vitamina B12. Ligia si bien tiene algunas características de deficiencia de vitamina B12, incluyendo anemia, trombocitopenia y leucocitopenia, carece de otros hallazgos típicos como glositis y déficits neurológicos (neuropatía periférica, pérdida de la sensación vibratoria). Además, sus niveles de ácido metilmalónico están normales, y en caso de deficiencia de vitamina B12 se esperaría que estuvieran elevados.
+    - Finalmente, el 2- mercaptoetano sulfonato (mesna) desactiva la acroleína y aumenta la excreción urinaria de cisteína. Debe agregarse a regímenes de tratamiento que incluyen ciclofosfamida para prevenir la cistitis hemorrágica. Algunos casos de artritis reumatoide se pueden tratar con ciclofosfamida, sin embargo, Ligia no presenta signos típicos de cistitis hemorrágica, como hematuria, ni síntomas de irritación vesical (aumento de la frecuencia y urgencia urinaria).
+    
+    Lectura recomendada:
+    
+    - Shea B, Et all. Ácido fólico y ácido folínico para reducir los efectos secundarios del metotrexato para personas con artritis reumatoide. Available in Cochrane. 2023
+
+#Santiago tiene seis años y es llevado al médico por una erupción no pruriginosa en la cara que comenzó hace 5 días. Inició como una picadura de insecto en el mentón y luego se convirtió en pequeñas pústulas con eritema circundante. Su madre niega antecedentes y dice que tiene el PAI incompleto. Al examen físico se evidencian lesiones pequeñas y agrupadas con costras doradas a lo largo del labio inferior y el mentón, acompañadas de una linfadenopatía submandibular. Dos semanas después, vuelve a una cita de seguimiento con paraclínicos, entre ellos con un anti-DNasa B elevado. ¿Cuál de las siguientes complicaciones tiene más riesgo de sufrir el paciente?
+#A. Fiebre reumática
+#B. Síndrome de shock tóxico
+#C. Glomerulonefritis
+#D. Artritis reactiva
+#Respuesta correcta: C.
+#Tema-Ítem: Impétigo – Complicaciones
+    
+    Argumento: Las lesiones faciales con costras doradas de este paciente son consistentes con impétigo, una infección cutánea que puede ser causada por Staphylococcus aureus, Streptococcus pyogenes o coinfección con ambos patógenos. El título elevado de anticuerpos anti-desoxirribonucleasa B (anti-DNasa B) indica que el patógeno causal fue S. pyogenes.
+    
+    La glomerulonefritis post-estreptocócica aguda (GNPE) es una complicación común del impétigo y puede ocurrir en respuesta a una infección con cepas nefritogénicas de estreptococos del grupo A. Es causada por el depósito de complejos inmunes dentro de la membrana basal glomerular, lo que desencadena la activación del complemento y la posterior destrucción de los glomérulos (reacción de hipersensibilidad tipo III). La GNPE típicamente surge 10 a 30 días después de la infección, con características propias de un síndrome nefrítico como hematuria, edema e hipertensión.
+    
+    La fiebre reumática es una secuela inflamatoria no infecciosa de una faringoamigdalitis aguda no tratada causada por estreptococos del grupo A. Se cree que se debe a una reacción cruzada de anticuerpos (mimetismo molecular). La reacción de hipersensibilidad tipo 2 resultante causa lesiones en el corazón, la piel, las articulaciones y los nervios. No se ha demostrado que las infecciones cutáneas estreptocócicas, incluido el impétigo, provoquen fiebre reumática.
+    
+    Otras complicaciones de las infecciones por estreptococos del grupo A incluyen fiebre reumática y escarlatina. Aunque la escarlatina ocurre en casos muy raros después de infecciones cutáneas estreptocócicas como el impétigo, ambas afecciones generalmente solo se asocian con faringoamigdalitis estreptocócica.
+    
+    El síndrome de shock tóxico (SST) es una reacción inflamatoria sistémica grave a exotoxinas bacterianas que actúan como superantígenos. S. aureus es el agente causal más común, aunque el SST estreptocócico puede ocurrir en el contexto de una infección con estreptococos β-hemolíticos del grupo A. Aunque ambos patógenos pueden causar impétigo, el SST es una complicación extremadamente rara. El síndrome de shock tóxico estafilocócico se asocia más comúnmente con el uso prolongado de tampones (durante varios días) y, en menor medida, con infecciones posquirúrgicas o de heridas.
+    
+    La artritis reactiva es una afección rara mediada por el sistema inmunológico que se manifiesta con una tríada de artritis, conjuntivitis y uretritis entre 1 y 4 semanas después de una infección bacteriana entérica o genitourinaria. Por lo general, ocurre en adultos jóvenes genéticamente predispuestos y es causada más comúnmente por Chlamydia trachomatis. No se sabe que las infecciones por estreptococos del grupo A, como el impétigo, desencadenen artritis reactiva.
+    
+    Bibliografía recomendada:
+    Fernández Maseda MA, Romero Sala FJ. Glomerulonefritis aguda posinfecciosa. Protoc diagn ter pediatr. 2022;1:339-53.
+    
+
+#Jerónimo tiene 1 año y no tiene antecedentes de importancia. Lo llevan a urgencias porque hace dos días inicia con irritabilidad e hiporexia. La madre refiere que al cambiarle el pañal esta mañana, notó que la orina tenía un olor fuerte y de color rosado; desde entonces no ha vuelto a orinar. Al examen físico, adinámico, sin apariencia tóxica, irritable, afebril, taquicárdico y normotenso. Llora a la palpación de la región suprapúbica. ¿Cuál de los siguientes es el paso a seguir?
+#A. Tomar muestra de orina espontánea
+#B. Tomar muestra de orina por sonda
+#C. Realizar ecografía renal
+#D. Realizar cistouretrografía miccional
+#Respuesta correcta: B.
+#Tema-Ítem: Infección de vías urinarias - ¿Cómo hacer un diagnóstico apropiado?
+    
+    Argumento: Jerónimo presenta irritabilidad, hiporexia, signos de hematuria (orina de color rosado referida por la madre) y dolor abdominal bajo, todo lo cual sugiere una infección del tracto urinario (ITU).
+    La pregunta es cuál es el paso a seguir, es decir, cuál es el paso inicial. Si bien, este paciente requiere también una ECO renal debido a su primer episodio de ITU, el primer paso a seguir es realizar una toma de muestra de orina por cateterismo vesical o por sonda, debido a que NO es continente.
+    El cateterismo transuretral es el método preferido para recolectar una muestra de orina para uroanálisis y cultivo en niños que aún no controlan esfínteres (generalmente <2 años). El método se asocia con un menor riesgo de contaminación con células epiteliales y microorganismos comensales de la piel que otros métodos comúnmente utilizados, como muestras de orina por bolsa recolectora o una muestra de orina limpia, y generalmente es bien tolerado tanto por los niños como por los padres. Es importante conocer que la punción suprapúbica es considerado el Gold Standard debido a una tasa de contaminación mucho menor, sin embargo es MUY invasivo, por lo que se prefiere usarlo en casos muy seleccionados.
+    
+    Una cistouretrografía miccional (CUGM) es un método de imagen utilizado para evaluar el reflujo vesicoureteral que puede predisponer a los niños a las infecciones urinarias. Dado que la CUGM es un método invasivo e implica exposición a radiación, esta modalidad de imagen solo está indicada en niños con ITU recurrentes, anomalías genitourinarias, patógenos atípicos y ciertas comorbilidades.
+    
+    Bibliografía recomendada:
+    Pérez D. Infección de tracto urinario ¿Cuándo estudiar?. XXXIX Curso de actualización en Pediatría. Saberes y argumentos compartidos. “El mundo desde la perspectiva del niño”. 2023, Medellín. UdeA.
+    
+
+#Milán 3 años y dos meses. Es llevado a su consulta para una valoración de rutina. La madre le cuenta que ha tenido varias caídas en los últimos 4 meses mientras camina y corre. Solía ser capaz de subir escaleras de forma independiente, pero ahora necesita ayuda. Comenzó a hablar en oraciones de dos palabras a los 2 años de edad. Al examen físico, con medidas antropométricas apropiadas para la edad. Se observa marcha de pato y agrandamiento de las pantorrillas de forma bilateral, con fuerza muscular disminuida en ambas extremidades inferiores y reflejos rotulianos y aquilianos 1+. Para levantarse desde una posición de sedestación, utiliza sus manos para sostenerse hasta alcanzar una posición erguida. ¿Cuál es el diagnóstico más probable de este paciente?
+#A. Distrofia muscular de Duchenne
+#B. Distrofia muscular de Becker
+#C. Atrofia muscular espinal
+#D. Enfermedad de Gower
+#Respuesta correcta: A
+#Tema-Ítem: Distrofia muscular de Duchenne – Diagnóstico diferencial
+    
+    Argumento: Las distrofias musculares son un grupo de enfermedades progresivas que afectan al sistema musculoesquelético. La distrofia muscular de Duchenne (DMD) y la distrofia muscular de Becker (DMB) son enfermedades recesivas ligadas al cromosoma X, mientras que la distrofia muscular de cinturas puede ser autosómica dominante o recesiva, y la distrofia facioescapulohumeral suele ser autosómica dominante. Las distrofias musculares comúnmente se deben a mutaciones que involucran genes musculares (p. ej., gen codificante de la proteína de la distrofina). Los pacientes suelen presentar molestias musculares que afectan a grupos de músculos específicos, en particular la musculatura de la cintura pélvica. La DMD es la forma más grave de distrofia muscular y suele aparecer entre los 2-3 años de edad. La DMO generalmente no se hace evidente antes de los 15 años. La DMD progresa rápidamente y generalmente conduce a incapacidad hacia los 12 años. El diagnóstico de DMD y DMO se establece basándose en un aumento de la CPK.
+    La enfermedad de Gower no existe, pero sí existe el signo de Gower, clásico de la DMD, aunque también puede ocurrir en miopatías inflamatorias (dermatomiositis, polimiositis, etc.) y otras distrofias musculares (DMO). Consiste que el paciente llega a la posición de pie apoyándose en los muslos y luego usando las manos para “subir” el cuerpo hasta quedar erguido (como se describió en el caso clínico).
+    
+    Bibliografía recomendada:
+    Costa Comellas L, Fernández-García MA, Álvarez Molinero M, Gómez Andrés D, Munell F. Hiperckemias y distrofias musculares. Protoc diagn ter pediatr. 2022;1:227-241.
+    
+
+#Una recién nacida de 2800 g, nace a las 38 semanas de una mujer de 40 años, G3P2A1, con un apgar de 6 y 7 al minuto 1 y 5, respectivamente. Al examen físico se evidencia micrognatia, occipucio prominente, puente nasal aplanado y orejas puntiagudas y de implantación baja. Los puños están cerrados, con los dedos fuertemente flexionados. El dedo índice se superpone al tercer dedo y el quinto dedo se superpone al cuarto. Se escucha un soplo holosistólico de 3/6 en el borde esternal inferior izquierdo. Los pezones están muy espaciados y se observan talones prominentes y plantas convexas y redondeadas. ¿Cuál de las siguientes es la causa más probable de estos hallazgos?
+#A. Trisomía del cromosoma 21
+#B. Trisomía del cromosoma 13
+#C. Trisomía del cromosoma 18
+#D. Síndrome de alcoholismo fetal
+#Respuesta correcta: C
+#Tema-Ítem: Anomalías cromosómicas
+    
+    Argumento: Las características de este paciente son consistentes con la trisomía 18 (síndrome de Edwards). Los rasgos clásicos incluyen una morfología craneofacial característica (micrognatia, occipucio prominente y orejas puntiagudas y de implantación baja), puños cerrados con contracturas en flexión de los dedos y pies en mecedora (deformidad del pie convexo con talón prominente). El bebé también presenta otras características que se asocian comúnmente con el síndrome, como un defecto cardíaco congénito (soplo holosistólico que sugiere comunicación interventricular) y bajo peso al nacer (que sugiere retraso del crecimiento intrauterino). El pronóstico de la trisomía 18 es malo: sólo hasta el 10% de los bebés sobreviven más allá de los 12 meses de edad.
+    La trisomía 13 (síndrome de Patau) es un síndrome genético caracterizado por ciertas anomalías congénitas que también están presentes en este paciente, incluidas orejas de implantación bajo, dedos flexionados y signos de un defecto cardíaco congénito (soplo holosistólico que sugiere un defecto del tabique ventricular). Sin embargo, también se esperarían otras características claves de la trisomía 13, como labio leporino y paladar hendido, microftalmia y polidactilia.
+    La trisomía 21 (síndrome de Down) es el trastorno cromosómico más común observado en los nacidos vivos. Los bebés con trisomía 21 generalmente se diagnostican basándose en una combinación de características clínicas clásicas que incluyen braquicefalia, rasgos faciales dismórficos (p. ej., epicanto, lengua protuberante, puente nasal aplanado, hipertelorismo), un pliegue palmar transversal único y deformidad en sandalia . Este niño presenta algunas características del síndrome de Down , por ejemplo, puente nasal aplanado y ojos inclinados hacia arriba con pequeñas fisuras palpebrales , pero la ausencia de todas las demás características típicas hace que este diagnóstico sea muy improbable.
+    La ingesta materna de alcohol durante el embarazo es la causa más común de daño teratogénico en los niños. Se manifiesta en un espectro de características, que se denominan colectivamente síndrome de alcoholismo fetal (SAF). Este niño presenta algunas características comunes del SAF, como fisuras palpebrales estrechas, micrognatia y evidencia de una anomalía cardíaca congénita. Sin embargo, carece de la mayoría de las otras características típicas, como un surco hipoplásico, fisuras palpebrales inclinadas hacia abajo y muy espaciadas y una frente estrecha. Además, los pies en mecedora, las orejas de implantación baja, los puños cerrados y el occipucio prominente de este paciente no se verían en el SAF.
+    
+    Bibliografía recomendada:
+    Pérez A. Síndrome de Edwards (Trisomía 18). AEPED.
+    
+
+#Un recién nacido masculino de 3 semanas de vida es llevado a consulta externa. Nació de 39 semanas de gestación y pesó 3450 g. Ahora pesa 4300 g. Al examen físico, con un soplo holosistólico grado 3/6 en el borde esternal inferior izquierdo y un soplo mesodiastólico suave sobre el ápice. ¿Cuál de las siguientes es la explicación más probable para los hallazgos clínicos de este paciente?
+#A. Shunt izquierda a derecha a través del tabique auricular
+#B. Shunt derecha a izquierda a través del tabique ventricular
+#C. Shunt derecha a izquierda a través del tabique auricular
+#D. Shunt izquierda a derecha a través del tabique ventricular
+#Respuesta correcta: D
+#Tema-Ítem: Comunicación interventricular – Alteración fisiopatológica y hallazgos clínicos clave
+    
+    Argumento: Este paciente presenta una cardiopatía congénita no cianosante: una comunicación interventricular (CIV), el defecto cardíaco congénito más común.
+    
+    Una CIV provoca una derivación o shunt de izquierda a derecha a través del tabique ventricular. La mayoría de las CIV se manifiestan en la infancia como un soplo holosistólico en el borde esternal inferior izquierdo. El tamaño del defecto es inversamente proporcional a la intensidad del soplo (es decir, los defectos pequeños se asocian con soplos más fuertes , mientras que los defectos grandes pueden no tener un soplo asociado). A veces también se puede escuchar un soplo mesodiastólico en CIV moderadas o grandes debido al aumento del flujo a través de la válvula mitral secundario a la derivación de izquierda a derecha. Después de unos años, una CIV puede provocar hipertensión pulmonar y una inversión de la derivación (síndrome de Eisenmenger), lo que resulta en insuficiencia cardíaca con cianosis. Con la inversión de la derivación, el soplo de la CIV puede desaparecer.
+    El shunt de derecha a izquierda puede verse en una tetralogía de Fallot con obstrucción grave del tracto de salida del ventrículo derecho.
+    
+    Se puede observar una derivación de izquierda a derecha a través del tabique interauricular en pacientes con comunicación interauricular (CIA). Estos pacientes estar asintomáticos durante años y se les diagnostica cuando se escucha un soplo sistólico incidental. Sin embargo, una CIA generalmente causa un soplo de eyección sistólico que se escucha mejor en el borde esternal superior izquierdo (debido al aumento del flujo pulmonar) y un segundo ruido cardíaco fijo y doble.
+    Se puede observar una derivación de derecha a izquierda a través del tabique auricular en pacientes con atresia de la válvula tricúspide y drenaje venoso pulmonar anómalo total.
+    
+    Bibliografía recomendada:
+    Fulton D. Isolated ventricular septal defects (VSDs) in infants and children: Anatomy, clinical features, and diagnosis. Jan 2024. UpToDate.
+    
+
+#Manuela de 21 años, con antecedente de menarca a los 13 años, inicio de vida sexual a los 14 años, que ha tenido más de 3 parejas sexuales en los últimos 12 meses, con uso de condón de forma inconsistente, consulta ahora porque hace 12 meses se realizó una citología que reportaba “ASCUS” y ahora que se realizó una segunda citología el reporte vuelve a reportar “ASCUS”. Signos vitales dentro de rangos normales, al examen físico ginecológico sin hallazgos anormales. ¿Cuál es la conducta adecuada a seguir?
+#A. Remite para realizar colposcopia.
+#B. Realizar prueba de ADN para virus papiloma humano inmediatamente.
+#C. Indica repetir la citología nuevamente en 12 meses.
+#D. Realizar prueba de ADN para virus papiloma humano en 18 meses.
+#Respuesta correcta: C
+#Tema e ítem: ¿Cómo enfocar a una paciente menor de 25 años con resultado ASCUS?
+    
+    Argumento: En este caso, nos encontramos en el escenario de una paciente menor de 25 años a quien en Colombia no se recomienda la realización de citología en este grupo etario, pero en caso de que se realice, la guía ASCCP recomienda en este grupo vigilancia con citología en 12 meses para ASCUS o LIE de bajo grado. Si la de los 12 meses vuelve nuevamente a reportar ASCUS o LIE de bajo grado, la indicación es realizar una tercera citología de control en 12 meses (Respuesta correcta C). Si el tercer control de nuevo reportara ASCUS o LIE de bajo grado, ahí sí se remite a colposcopia. Es importante futuro R1 no olvidar que cualquier alteración mayor que ASCUS o LIE de bajo grado (células glandulares atípicas [AGC], células escamosas atípicas [ASC-H], LIE de alto grado) debe ser remitida a colposcopia de inmediato.
+    
+    - Por otra parte, la realización de colposcopia en pacientes de menos de 25 años se indica en presencia de cualquier alteración mayor que ASCUS o LIE de bajo grado, o en caso de que una paciente ya cuente con tres citologías realizadas cada 12 meses donde se reporte ASCUS o LIE de bajo grado.
+    - Por otro lado, la realización de la prueba de ADN en mujeres menores de 25 años se indica luego de una primera citología con resultado ASCUS para definir si hay necesidad de una segunda citología en 12 meses o si se continúa con el control de rutina; no obstante, en el caso de Manuela ella ya tiene dos citologías que reportan ASCUS; por ende, el paso a seguir ya no es la realización de un test de ADN, sino volver a realizar una tercera citología en 12 meses.
+    - Finalmente, la opción de realizar prueba de ADN para virus papiloma humano en 18 meses se indica para pacientes mayores de 30 años con un resultado de ADN positivo para VPH que la citología reporta cualquier cambio histológico.
+    
+    Lectura recomendada: - Toro C. Tamización del cáncer de cuello uterino en Colombia: entendiendo la transición. Medellín. XXVII Curso de actualización en Ginecología. Universidad de Antioquia, 2019.
+    
+
+#Braulio de 32 años, con antecedente actividad sexual con múltiples parejas masculinas y uso de condón de forma inconsistente, consulta ahora por cuadro febril de 6 días de evolución, acompañado de sensación de masa dolorosa en región inguinal derecha, la cual el paciente refiere secreta material “verdoso” desde hace 24 horas. Además, refiere que cursó con una lesión ulcerada superficial en el cuerpo del pene de 5 mm de tamaño, sobre una base eritematosa, dolorosa y escasamente indurada, sin secreción superficial, la cual autorresolvió de forma espontánea. Finalmente, no refiere síntomas anorrectales ni sistémicos. Signos vitales con Tº 38,0 °C. Al examen físico inguinal se evidencian múltiples masas con secreción purulenta en región inguinal derecha. El resto del examen no muestra anomalías. ¿Cuál de los siguientes es el organismo causal más probable del cuadro clínico?
+#A. Treponema pallidum.
+#B. Chlamydia trachomatis.
+#C. Virus del herpes simple 2.
+#D. Klebsiella granulomatis.
+#Respuesta correcta: B
+#Tema e ítem: ¿Cómo realizar el enfoque del síndrome ulceroso?
+    
+    Argumento: La historia de una lesión peneana dolorosa, ulcerada que autoresolvio seguida de linfadenopatía dolorosa y supurativa 2-4 semanas después de la curación de la lesión inicial, concuerda con un linfogranuloma venéreo (LGV). Los serotipos L1, L2 y L3 de Chlamydia trachomatis (Respuesta correcta B) son responsables del LGV, que es una enfermedad de transmisión sexual con una incidencia cada vez mayor entre hombres que tienen relaciones sexuales con hombres. Además de los síntomas locales en la región genital, pueden aparecer síntomas sistémicos como fiebre, malestar general, escalofríos y/o mialgias.
+    
+    - Por otra parte, el chancro primario de la sífilis se caracteriza por ser una úlcera única, indurada, indolora (pasa desapercibida), de bordes definidos y sobreelevados, con centro limpio causada por T. pallidum. En el caso de Braulio la lesión inicial fue dolorosa y escasamente indurada, dado que autorresolvió para posteriormente cursar con un cuadro de linfadenopatía dolorosa y supurativa, que se debe sospechar en otro cuadro clínico.
+    - Por otro lado, el herpes virus simple 2 se asocia con el herpes genital, el cual se caracteriza por observarse al examen físico úlceras múltiples, dolorosas, de diferentes tamaños y formas, con halo eritematoso alrededor y bordes regulares, por lo que este cuadro es poco probable dado que Braulio curso inicialmente con una lesión única que autoresolvio.
+    - Finalmente, la úlcera inguinal causada por la bacteria Klebsiella granulomatis. Se caracteriza por lesiones en genitales y periné, que progresivamente se ulceran, sin adenopatías. Los granulomas subcutáneos (pseudobubones) pueden aparecer. Las lesiones son altamente vascularizadas y friables.
+    
+    Lectura recomendada:- Hernández M.I. Síndrome ulceroso genital. Medellín. XXIX Actualización en ginecología y obstetricia. Universidad de Antioquia. 2021
+    
+
+#Braulio de 32 años, con antecedente actividad sexual con múltiples parejas masculinas y uso de condón de forma inconsistente, consulta ahora por cuadro febril de 6 días de evolución, acompañado de sensación de masa dolorosa en región inguinal derecha, la cual el paciente refiere secreta material “verdoso” desde hace 24 horas. Además, refiere que cursó con una lesión ulcerada superficial en el cuerpo del pene de 5 mm de tamaño, sobre una base eritematosa, dolorosa y escasamente indurada, sin secreción superficial, la cual autorresolvió de forma espontánea. Finalmente, no refiere síntomas anorrectales ni sistémicos. Signos vitales con Tº 38,0 °C. Al examen físico inguinal se evidencian múltiples masas con secreción purulenta en región inguinal derecha. El resto del examen no muestra anomalías. 
+Según el caso anterior, ¿cuál sería el tratamiento ideal para Braulio y para su pareja?
+#A. Doxiciclina 100 mg vía oral cada 12 horas por 21 días para Braulio y azitromicina 1 gramo vía oral dosis única para su pareja sexual
+#B. Doxiciclina 100 mg vía oral cada 12 horas por 21 días para su pareja sexual y azitromicina 1 gramo vía oral dosis única para Braulio
+#C. Doxiciclina 100 mg vía oral cada 12 horas por 10 días para Braulio y azitromicina 1 gramo vía oral dosis única para su pareja sexual
+#D. Doxiciclina 100 mg vía oral cada 12 horas por 10 días para su pareja sexual y azitromicina 1 gramo vía oral dosis única para Braulio
+#Respuesta correcta: A
+#Tema e ítem: Tratamiento del linfogranuloma venéreo.
+    
+    Argumento: Todos los pacientes con linfogranuloma venéreo (LGV) deben recibir tratamiento. Esto incluye pacientes con infección rectal asintomática si se identifica LGV. Para pacientes no embarazadas, la doxiciclina (100 mg por vía oral dos veces al día durante 21 días) es el tratamiento preferido para el LGV. Este enfoque está respaldado por directrices de varios países, incluidos los Estados Unidos. Mientras que para los compañeros sexuales de los 60 días previos al inicio de los síntomas se pueden tratar con azitromicina 1 gramo vía oral dosis única o doxiciclina 100 mg vía oral cada 12 horas por 7 días (Respuesta correcta A). Recordemos finalmente que el LGV no tratado puede provocar linfedema genital crónico, estenosis en el tracto anogenital e infertilidad. Finalmente, se ha descrito un tratamiento exitoso del LGV con menos de 21 días de doxiciclina, pero no hay datos suficientes para recomendar el uso de este enfoque.
+    
+    Lectura recomendada:  Hernández M.I. Síndrome ulceroso genital. Medellín. XXIX Actualización en ginecología y obstetricia. Universidad de Antioquia. 2021
+    
+
+#Isabela de 20 años, que inició vida sexual hace 1 año con su novio, consultó por retraso en su menstruación, con última menstruación hace 7 semanas, refiere que ha tenido menstruaciones regulares desde la menarquia a los 11 años. Signos vitales dentro de los límites de normalidad. Al examen físico sin hallazgos anormales. Se realizó prueba de embarazo en orina positiva y ecografía de pelvis que evidenció un embarazo intrauterino viable con una edad gestacional estimada de 6 semanas + 5 días, por lo que la paciente desea una interrupción voluntaria del embarazo ¿Cuál es el manejo farmacológico más efectivo a usar en esta paciente?
+#A. Misoprostol
+#B. Metrotrexate
+#C.Mifepristona + Misoprostol
+#D. Oxitocina
+#Respuesta correcta: C
+#Tema e ítem: Interrupción farmacológica voluntaria del embarazo
+    
+    Argumento: La mifepristona, combinada con el misoprostol, es el medicamento de elección recomendado por la OMS para la interrupción voluntaria del embarazo (IVE) antes de la semana 10 (Respuesta correcta C). La mifepristona es un antagonista de los receptores de la progesterona que actúa inhibiendo la acción de la progesterona y sensibilizando el útero a la acción de las prostaglandinas. Mientras que el misoprostol es un análogo sintético de la prostaglandina E1, que estimula las contracciones uterinas y produce ablandamiento y dilatación del cuello del cérvix.  La tasa de efectividad del tratamiento con mifepristona y misoprostol está alrededor del 94% y la del misoprostol solo entre el 85% y 90% (dependiendo de la dosis y la vía de administración) por lo que la recomendación es el uso de ambos.
+    
+    - Por otra parte, el uso solo de Misoprostol es una buena opción para IVE en la paciente; sin embargo, la pregunta indaga por “farmacológico más efectivo”, por lo que se debe tener en cuenta que la tasa de efectividad con el uso en solitario del misoprostol es del 85% y 90%.
+    - En cuanto al metotrexato (MTX) es un inhibidor competitivo de la dihidrofolato reductasa, por lo que inhibe indirectamente la duplicación celular en el embrión y puede utilizarse en la interrupción del embarazo; sin embargo, sus numerosos efectos secundarios, incluida la hepatotoxicidad y la mielosupresión, así como la duración prolongada del tratamiento, hacen del MTX un agente de segunda línea, por lo que se prefiere la administración combinada de mifepristona y misoprostol para inducir abortos médicamente. En el caso de embarazo ectópico, el MTX sigue siendo el tratamiento médico de elección.
+    - Finalmente, la oxitocina provoca contracciones uterinas, por lo que se utiliza para la inducción del parto en embarazos normales, así como en abortos con medicamentos en edades gestacionales tardías. Otra indicación común de oxitocina es la hemorragia posparto (debido a atonía uterina); no obstante, la oxitocina muestra una eficacia limitada en gestación < de 20 semanas de gestación porque el útero tiene menos receptores de oxitocina durante los dos primeros trimestres.
+    
+    Lectura recomendada: - Flórez A.M, Londoño J.G, Manejo médico del aborto. Medellín. XXVIII Curso de actualización en ginecología y obstetricia. Universidad de Antioquia. 2020
+    
+
+#Piedad de  38 años, G3P1C1  con primer parto asistido por fórceps y el segundo nace por cesárea por presentación transversa, con 38 semanas de gestación, con 8 controles prenatales con perfil infeccioso negativo y sin alteración metabólica, consulta ahora a urgencias de 4 nivel por sangrado vaginal indoloro que comenzó hace 30 minutos.  Signos vitales Tº37,0°C, FC de 92 lpm, PA de 115/63 mm/Hg. Al examen físico útero no doloroso de tamaño consistente con una gestación de 38 semanas. Hay sangrado vaginal de color rojo brillante. Una monitoria fetal sin estrés muestra una línea base de 150 lpm con presencia de desaceleraciones tardías, y 2 contracciones en 10 minutos. ¿Cuál es la conducta adecuada a seguir?
+#A. Parto por cesárea.
+#B. Reevaluación de la monitoria fetal en 10 minutos.
+#C. Administrar nifedipino como tocolítico.
+#D. Administrar progesterona.
+#Respuesta correcta: A
+#Tema e ítem: Placenta previa: Tratamiento dirigido en contexto de situación crítica.
+    
+    Argumento: El sangrado vaginal indoloro de aparición repentina en el tercer trimestre de esta paciente, junto con su edad materna avanzada, multiparidad y antecedentes de cesárea son factores de riesgo de placenta previa, normalmente la placenta previa no se asocia con sufrimiento fetal porque el sangrado proviene de la circulación materna; sin embargo, en este caso donde hay un monitoreo fetal tipo III dada la presencia de desaceleraciones tardías se indica el parto por cesárea (Respuesta correcta A). Recordemos que el parto por cesárea urgente o entre la semana 34-36, se reserva para pacientes con sangrado, placenta previa y trabajo de parto activo, hemorragia grave y persistente, inestabilidad hemodinámica que no mejora y para aquellas con monitoreo fetal categoría III.
+    
+    - Por otra parte, no se debe demorar la toma de una decisión urgente como la realización de la cesárea en esta paciente que cursa con un cuadro clínico de placenta previa en contexto de sufrimiento fetal dado por la presencia de desaceleraciones tardías; por ende, no está indicado Reevaluación de la monitoria fetal en 10 minutos cuando ya se encontró una monitoria fetal categoría III.
+    - Por otro lado, no se recomienda el uso de tocolíticos como el nifedipino en este escenario de placenta previa con alteración del monitoreo fetal, puesto que, el nifedipino puede disminuir aún más la presión arterial y no se debe dilatar la atención materna por suministrar maduración fetal o alcanzar viabilidad en cuadros críticos.
+    - Finalmente el uso de progesterona con el único fin de evitar parto prematuro por placenta previa, no se recomienda por ausencia de evidencia de calidad. Además, la paciente ya cursa con una gestación de 38 semanas, por lo que ya no se trataría de un parto prematuro.
+    
+    Lectura recomendada: - Castaño L.A. Hemorragia obstétrica del segundo y tercer trimestre: enfoque etiológico. Medellín. XXXI Curso de actualización en ginecología y obstetricia. Universidad de Antioquia. 2023
+    
+
+#Varón de 25 años, campesino, sin antecedente de interés, quien consulta al hospital San Vicente Fundación porque se siente ‘’acelerado’’. Presenta cuadro clínico de cinco meses de evolución consistente en palpitaciones, cansancio, fatiga, pérdida de peso (7kg) y temblor generalizado. Refiere que su padre tova levotiroxina. Al examen físico presenta T 36,5 °C, FC 110x PA 120/80, FR 14x. No se evidencia bocio difuso, no se palpan adenomegalias. Ruidos cardiacos aumentados de intensidad, taquicárdicos, concordantes con el pulso. La piel está caliente y húmeda, reflejos OT aumentados, sin evidencia de exoftalmos, temblor distal fino con las manos extendidas. EKG: ritmo sinusal. Paraclínicos: TSH <0.01 microU/mL, T4L ↑, Ac anti-receptor de TSH positivos. La gammagrafía con Tc99 muestra un atrapamiento difuso de la glándula tiroides del 49% (VRN: 2-4)
+¿Cuál de los siguientes tratamientos es el más adecuado para este paciente?
+#A. Metimazol VO 10 mg/día
+#B. Metimazol VO 10 mg/día + metoprolol VO 50 mg q12h
+#C. Propiltiouracilo VO 50 mg/día
+#D. Propiltiouracilo VO 50 mg/día + propranolol VO 40 mg q8h
+#Respuesta correcta: B
+#Tema e ítem: Enfermedad de Graves - ¿Cuál es el tratamiento antitiroideo de elección?
+    
+    Argumento: Un cuadro clínico superior a tres meses como el de este paciente limita el diagnóstico a hipertiroidismo (tirotoxicosis hipertiroidea) y la presencia de Ac anti-receptor de TSH positivos + gammagrafía con Tc99 que evidencia un atrapamiento difuso del 49% hacen el diagnóstico de enfermedad de Graves (EG).
+    
+    La EG es la causa más común de hipertiroidismo primario. Es una enfermedad de origen autoinmune, donde auto–anticuerpos estimulan el receptor de TSH y generan una hiperactividad de la glándula tiroidea. Las otras dos formas comunes de hipertiroidismo son el bocio multinodular tóxico que se presenta usualmente en ancianos y el nódulo tiroideo autónomo que se presenta en edades similares a la enfermedad de Graves. Los anticuerpos contra el receptor de TSH son específicos de la enfermedad con una S y E para el diagnóstico del 99%. La gammagrafía muestra a menudo una captación difusa, no suprimida y homogénea de > 10%.
+    
+    La primera línea de tratamiento en la mayoría de los países son los medicamentos antitiroideos como el metimazol y el propiltiouracilo, los cuales bloquean la síntesis de la hormona tiroidea y pueden tener efectos inmunomoduladores. En la práctica clínica, se suele preferir el metimazol ya que puede administrarse una o dos veces al día, mientras que el propitiouracilo debe tomarse al menos tres veces al día para bloquear eficazmente la síntesis hormonal, lo cual puede ser molesto para algunos pacientes. Además, el propitiouracilo tiene más efectos adversos (incluida la hepatotoxicidad). Por lo anterior, se suele preferir de primera elección el metimazol para la EG.
+    
+    Los pacientes deben usar beta bloqueadores no selectivos como propranolol 40 mg cada 8 a 12 horas. Esto disminuye los síntomas adrenérgicos como taquicardia, ansiedad, intolerancia al calor y temblor. Este tratamiento se puede iniciar incluso antes de confirmar bioquímicamente el hipertiroidismo. Se pueden usar también otra beta–bloqueadores como atenolol y el metoprolol, los cuales son igual de eficaces y pueden administrarse con menos frecuencia que el propranolol.
+    
+    Lecturas recomendadas:
+    
+    1. Román–González, Alejandro. Builes–Barrera, Carlos Alfonso. Hipertiroidismo Por Enfermedad de Graves. ¿Qué hacer?. XIX Curso de Actualización para Médicos Generales – La visión del residente; 2019.
+
+#Don Andrés de 65 años con antecedente de hipertensión arterial, diabetes mellitus y tabaquismo pesado. Actualmente en tratamiento con amlodipino 5 mg/día + losartán 100 mg/día y GalvusMet. Ingresa por cuadro de 8 horas de evolución de intenso dolor de inicio súbito en miembro inferior derecho. Al examen físico con signos vitales estables. Se observa frialdad de la extremidad, cianosis de los dedos y ausencia de pulsos poplíteo e infrapopliteo de dicha extremidad, además leve alteración de la sensibilidad y movilidad distal de la extremidad y, sin otros hallazgos a la exploración.
+¿Cuál es el manejo correcto para este paciente?
+#A. Iniciar anticoagulación con enoxaparina a dosis terapéutica y derivar urgente a cirugía vascular
+#B. Iniciar anticoagulación con rivaroxabán y derivar urgente a cirugía vascular
+#C. Iniciar rivaroxabán + ASA y derivar urgente a cirugía vascular
+#D. Iniciar ASA + clopidogrel + rivaroxabán y derivar urgente a cirugía vascular
+#Respuesta correcta: A
+#Tema e ítem: Isquemia aguda de las extremidades - ¿Qué se debe hacer y qué no?
+    
+    Argumento: Estamos frente a un cuadro clínico indudable de isquemia arterial aguda (IAA) de una extremidad inferior clasificación de IIA según la clasificación de Rutherford.
+    
+    La IAA de una extremidad se define como una rápida y súbita reducción en su flujo sanguíneo que produce signos y síntomas nuevos y que pone en riesgo su viabilidad por lo que el diagnóstico. Las causas más frecuentes son trombosis in situ de una placa aterosclerótica en el 85 % de los casos y los embolismos que representan el 15 % de los casos, principalmente cardioembolias por FA y trombos murales, pero también otras causas menos comunes como trombosis in situ por síndrome antifosfolípido, mixomas, endocarditis, trombos valvulares o embolia paradójica.
+    
+    Los casos de IAA que amenaza las extremidades requieren una consulta de cirugía vascular urgente. El abordaje quirúrgico está dirigido a la reperfusión de la extremidad afectada. Esto se puede lograr mediante derivación quirúrgica, endarterectomía o embolectomía. Los resultados son variables y, en última instancia, dependerán de la duración de la isquemia y del grado de oclusión. La trombólisis dirigida por catéter (TDC) realizada por un radiólogo intervencionista se está volviendo más común y está reservada para pacientes con una extremidad salvable (clase II, IIa y IIb de Rutherford). Se considera que los pacientes que presentan parálisis profunda y ausencia de dolor con pulsos arteriales y venosos inaudibles tienen daño irreversible y requerirán amputación.
+    
+    Mientras el paciente espera la evaluación quirúrgica o radiológica intervencionista, el tratamiento inicial debe incluir reanimación con líquidos, control del dolor y administración iniciar anticoagulación con dosis terapéuticas de heparinas, IC, esto con el concepto teórico de reducir la injuria causada por la isquemia, prevenir la extensión del coágulo y el embolismo, lo cual no está bien comprobado en estudios clínicos (Grado de recomendación IC).
