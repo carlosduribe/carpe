@@ -19850,3 +19850,513 @@ Es importante reconocer las distintas patologías que se incluirán, pues esto v
 
 Bibliografía recomendada:
 Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero 2024, Colombia.
+
+#Femenina de 17 años de edad quien consulta por presentar acné desde hace 3 años en cara y pecho. Le preocupa la posibilidad de que le queden cicatrices y acude en busca de tratamiento. No tiene antecedentes de importancia. Signos vitales normales. Al examen físico se evidencian varios comedones abiertos en cara y pecho. ¿Cuál es el tratamiento a seguir en este paciente?***
+#A.	Administrar antibióticos orales.
+#B.	Indicar peróxido de benzoilo tópico.
+#C.	Iniciar anticonceptivos orales.
+#D.	Iniciar isotretinoina oral.
+#Respuesta correcta: B
+#Tema e ítem: Acné vulgar leve no inflamatorio – manejo
+    
+    Argumento: Los comedones abiertos (también conocidos como puntos negros) en la cara y el pecho son característicos del acné vulgar leve no inflamatorio. La monoterapia con peróxido de benzoilo tópico es una opción de tratamiento de primera línea para el acné vulgar leve no inflamatorio. El peróxido de benzoilo tiene un efecto comedolítico y bactericida, que puede reducir la colonización de Cutibacterium acnes. El peróxido de benzoilo también previene la resistencia bacteriana y debe agregarse a los regímenes antibióticos tópicos o sistémicos. Otras opciones de tratamiento de primera línea para el acné vulgar leve incluyen monoterapia con retinoides tópicos, peróxido de benzoílo + antibióticos tópicos, peróxido de benzoílo + retinoide tópico y peróxido de benzoílo + antibiótico tópico + retinoide tópico. La elección del medicamento depende de la gravedad del acné vulgar, la preferencia y los tratamientos previo.
+    
+    - Se pueden usar antibióticos orales para el tratamiento del acné vulgar de moderado a severo, pero se deben usar en combinación con otro agente para prevenir la resistencia bacteriana y para obtener un efecto comedolítico o reductor de queratina adicional.
+    - Los anticonceptivos orales combinados se pueden prescribir como terapia complementaria para pacientes femeninas que no responden a la terapia de primera línea para el acné vulgar. Dado que esta paciente aún no ha probado ningún tratamiento de primera línea, los anticonceptivos orales combinados no están indicados en este momento.
+    - La isotretinoína oral se reserva para el tratamiento del acné vulgar grave (acné nodular) y del acné inflamatorio moderado que causa cicatrices debido a su perfil de efectos secundarios graves (toxicidad hepática, defectos de nacimiento). Este paciente tiene acné leve y no ha probado manejo de primera línea.
+    
+    Lecturas recomendadas:
+    
+    - Acne vulgaris: Overview of management. Avaible in UpToDate. 2024
+
+#Femenina de 18 años consulta por acné vulgar grave en cara, espalda y brazos. Venia recibiendo manejo con antibióticos orales y terapia tópica con peróxido de benzoilo y retinoides tópicos que no han resuelto los síntomas. Al examen físico hay piel grasa con múltiples comedones, pústulas y cicatrices en cara y parte superior de espalda. Se inician anticonceptivos orales combinados. El uso de este nuevo medicamento disminuye el riesgo de desarrollar:***
+#A.	Cáncer de cuello uterino.
+#B.	Cáncer endometrial.
+#C.	Trombosis venosa profunda.
+#D.	Cáncer de mama.
+#Respuesta correcta: B
+#Tema e ítem: Efectos de los anticonceptivos
+    
+    Argumento: Para las pacientes femeninas con acné vulgar grave continuo a pesar de las terapias de primera línea (antibióticos orales y terapia combinada tópica), se pueden agregar anticonceptivos orales combinados (AOC). Además de tener efectos positivos sobre el acné vulgar, la progestina contenida en los AOC se opone a la hiperplasia endometrial provocada por los estrógenos, lo que reduce el riesgo de desarrollar cáncer de endometrio tipo 1. Este riesgo disminuye con una mayor duración del uso de AOC y la protección persiste durante muchos años después de suspender el consumo de drogas. Los AOC también reducen el riesgo de desarrollar cáncer de ovario, posiblemente a través de una proliferación celular reducida dentro de los ovarios y las trompas de Falopio.
+    
+    Lecturas recomendadas:
+    
+    - Restrepo M. Anticoncepción para la adolescente. XXX Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2022
+
+#Femenina de 32 años es llevada a urgencias por una quemadura con agua hirviendo que sufrió hace 1 hora. Signos vitales son normales. Al examen físico se evidencia dos eritemas dolorosos y con llenado capilar sin ampollas en un área de 5 x 6 cm del abdomen izquierdo y un área de 3 x 2 cm de la parte anterior del muslo izquierdo. También hay un área de piel blanca, coriácea y necrosis tisular que rodea la extremidad superior derecha, justo proximal al codo, que está seca y no dolorosa. ¿Cuál de los siguientes se debería evaluar en esta paciente?***
+#A.	Realizar gases arteriales.
+#B.	Realizar ecografía de tejidos blandos.
+#C.	Iniciar manejo con ampicilina IV.
+#D.	Monitorizar pulsos periféricos y llenado capilar.
+#Respuesta correcta: D
+#Tema e ítem: Abordaje de quemaduras circunferenciales.
+    
+    Argumento: Esta paciente tiene una quemadura circunferencial de tercer grado (de espesor total) en su extremidad superior derecha, como lo indica la piel blanca y correosa que la rodea y la necrosis sin sensación. Estas quemaduras pueden provocar isquemia distal y síndrome compartimental. En esta paciente está indicada la monitorización regular de los pulsos periféricos y del llenado capilar debido al riesgo de isquemia distal. Su quemadura circunferencial puede afectar el flujo sanguíneo a la extremidad debido a una pérdida de elasticidad de la piel (debido a una escara en desarrollo) o provocar un síndrome compartimental (causado por una acumulación de líquidos) durante el proceso de curación.
+    
+    - Los análisis seriados de gases en sangre arterial están indicados en pacientes quemados si se sospecha una lesión por inhalación. Dichos pacientes incluirían aquellos que presentan disnea, tos, sibilancias, pacientes atrapados en espacios reducidos o que pierden el conocimiento en presencia de humo denso.
+    - Una ecografía de tejidos blandos está indicada para la evaluación de ganglios linfáticos y afecciones, como celulitis y abscesos, pero no es útil para el diagnóstico del síndrome compartimental.
+    - Actualmente no se recomienda la ampicilina (o cualquier otro antibiótico sistémico) para la profilaxis de infecciones en pacientes quemados debido a la falta de evidencia que lo respalde. Aunque los antibióticos sistémicos desempeñan un papel en el tratamiento de las infecciones de las heridas por quemaduras, el paciente fue llevado inmediatamente después de que ocurriera la quemadura; una posible infección aún no habría tenido tiempo de desarrollarse.
+    
+    Lecturas recomendadas:
+    
+    - Salgado F. Enfoque inicial del paciente gran quemado en urgencias. VII Simposio de Medicina de Urgencias. 2019
+
+#Masculino de 46 años consulta por dolor abdominal en cuadrante superior derecho, asociado a ictericia, náuseas, vómitos y hepatomegalia dolorosa desde hace 6 semanas. Los paraclínicos evidencian elevación significativa de transaminasas, IGM Hepatitis A (-), AgHBs (-), AcHBs (-), IgM anti core de hepatitis B (+), Anticuerpo hepatitis C (+) y ARN de hepatitis C (-).  ¿Cuál es el manejo adecuado para este paciente?
+(AgHBs: Antígeno de Superficie de hepatitis B – AcHBs: Anticuerpos contra el antígeno de superficie de hepatitis B)***
+#A.	Ribavirina e interferón.
+#B.	Tenofovir.
+#C.	Trasplante hepático de emergencia.
+#D.	Terapia de apoyo.
+#Respuesta correcta: D
+#Tema e ítem: Infección aguda por Hepatitis B.
+    
+    Argumento: El manejo de apoyo es el único manejo que se requiere en pacientes con infección aguda por hepatitis B. Un AgHBs negativo con anticuerpos IgM anti core positivo indica que la infección aguda está en resolución. Es posible que los títulos de AcHBs no aumenten sino hasta 1 o 2 semanas después de la desaparición del AgHBs lo que se conoce como período de ventana, por lo que los títulos de anticuerpos anti-core hacen parte fundamental en el diagnóstico de hepatitis aguda.
+    
+    - La ribavirina e interferón se usan para tratar la hepatitis C crónica. Un paciente con infección crónica por hepatitis C tendrá niveles de anticuerpos contra VHC, transaminasas elevadas y ARN de VHC detectable (En este paciente no es detectable).
+    - El tenofovir se usa para tratar la hepatitis B crónica. En este caso se esperaría elevación de IgG anti core (No IgM) y el AgHBs sería positivo.
+    - El trasplante de hígado está indicado solo en casos de insuficiencia hepática fulminante a cual se manifiesta como encefalopatía hepática (Ej. Estado mental alterado, asterixis), aumento del tiempo de protrombina e INR.
+    
+    Lectura recomendada:
+    
+    - Equipo académico CTO. Hepatitis víricas. Manual CTO de medicina y cirugía: Digestivo. 11ª edición.
+
+#Femenina de 37 años consulta con clínica característica de hepatitis aguda. Sus paraclínicos son los siguientes: Bilirrubina total: 3,4 mg/dL, Fosfatasa alcalina 181 U/L, ALT 723 U/L, AST 385 U/L, Anticuerpo IgM contra hepatitis A (+), Anticuerpo IgG contra hepatitis A (-), AcHBs (+), AgHBs (-), IgM anti core de hepatitis B (-), Anticuerpo de hepatitis C (-). ¿Cuál de los siguientes factores de riesgo se asocia a la infección actual de esta paciente?***
+#A.	Transfusión sanguínea.
+#B.	Consumo de mariscos mal cocinados.
+#C.	Relaciones sexuales sin protección.
+#D.	Falta de vacunación contra hepatitis B.
+#Respuesta correcta: B
+#Tema e ítem: Infección aguda por Hepatitis A.
+    
+    Argumento: Esta paciente tiene una infección aguda por el virus hepatitis A. Su principal vía de transmisión es la fecal oral, comúnmente por el consumo de alimentos poco cocidos como lo son los mariscos crudos. Los maricos tienen la capacidad de concentrar el virus del agua de mar contaminada con aguas residuales humanas. La infección por hepatitis A es autolimitada y los pacientes no se convierten en portadores o desarrollan hepatitis crónica.
+    
+    - Las transfusiones sanguíneas y las relaciones sexuales sin protección son formas de transmisión de la hepatitis B y C. Sin embargo, los resultados serológicos no indican infección por estos virus.
+    - Las pruebas serológicas de esta paciente confirman la inmunidad de esta paciente frente al virus de la hepatitis B por la vacunación (AcHBs positivo).
+    
+    Lectura recomendada:
+    
+    - Equipo académico CTO. Hepatitis víricas. Manual CTO de medicina y cirugía: Digestivo. 11ª edición.
+
+#Doña Ana de 65 años, acude a consulta por historial de 2 meses de sangrado genital moderado y persistente. Tiene antecedente de hipertensión arterial y refiere que tiene la menopausia desde hace 10 años. Se realiza citologías de forma puntual, siendo la última normal. Al examen físico presenta signos vitales estables. La especuloscopia no evidencia lesiones en cérvix. Trae reporte de ecografía TV en el cual se evidencia un endometrio engrosado de 4.2 mm, sin lesiones ocupantes de espacio en su interior.
+¿Cuál sería la conducta a seguir?***
+#A. Realizar TAC de pelvis con contraste
+#B. Tranquilizar a la paciente, educar sobre la condición y programar cita de control en 3 meses con resultados de nueva ecografía TV
+#C. Realizar nueva citología con prueba de ADN VPH
+#D. Realizar histeroscopia diagnostica + biopsia endometrial
+#Respuesta correcta: D
+#Tema e ítem: Hemorragia uterina anormal (HUA) en la mujer postmenopausica - ¿Cuál es el estudio inicial de elección?
+    
+    Argumento: Se trata de una paciente con un cuadro claro de sangrado uterino anormal en la postmenopausia. Este representa el 70% de las consultas médicas ginecológicas en la mujer tanto pre como postmenopausica.
+    
+    Debemos recordar que los sangrados anormales (irregulares, abundantes, de larga duración o ciclos prolongados) pueden ser considerados ‘’normales’’ en una mujer en etapa de la peri-menopausia. Contrariamente, en una mujer postmenopausica, como en este caso, cualquier sangrado vaginal es un indicio de patología maligna, hata demostrarse lo contrario, y, por tanto, requiere de una investigación exhaustiva. Notese que en la ecografía un endometrio engrosado mayor de 4 mm, que en la menopausia debería estar atrófico, por lo que hay que descartar la posibilidad que nos encontremos ante un carcinoma de endometrio. Por lo anterior, el diagnóstico debe confirmarse con biopsia endometrial, y aunque generalmente se inicia a ciegas (es decir, sin histeroscopia) ya que es suficiente como procedimiento de diagnóstico inicial, en la pregunta el autor asoció la toma de biopsia dirigida por histeroscopia, por lo cual de los cuatros opciones, estaría la única opción correcta (Ver CarpeFlash).
+    
+    La histeroscopia dirigida + biopsia endometrial se debería preferir de inicio en pacientes con antecedentes personales de cáncer colorrectal, pólipos endometriales y obesidad de clase II ([IMC] ≥35 kg/m 2) por ser factores de riesgo para falsos negativos cuando la muestra de biopsia es tomada a ciegas
+    
+    Lectura recomendada:
+    
+    1. Alzate Gonzáles, N. Enfoque diagnóstico de la hemorragia uterina anormal (HUA) en la mujer pre y postmenopaúsica. Medellín: XXI Curso de Actualización para Médicos generales – La Visión del residente – ANIR; 2021.
+    2. Lee-may Chen, Jonathan S Berek. Endometrial carcinoma: Clinical features, diagnosis, prognosis, and screening. Available On Uptodate Advanced 2024.
+
+#Masculino de 45 años, quien se realizó chequeo ejecutivo previo al ingreso a su trabajo como gerente de empresa. En el examen físico se evidencia una lesión nodular a nivel del lóbulo tiroideo derecho, de unos 2.5 cm. Trae reporte de ecografía en el cual concluye lesión nodular solida hiperecocica, más ancha que alta, bordes mal definidos, de 2.8 cm en lóbulo tiroideo derecho.
+¿Cuál sería la conducta adecuada a seguir?***
+#A. TAC de cuello contrastada
+#B. Realizar aspiración con aguja fina (ACAF)
+#C. Medir TSH
+#D. Ordenar levotiroxina y ecografía de control.
+#Respuesta correcta: C
+#Tema e ítem: Abordaje del nódulo tiroideo - ¿Qué hacer si hay reporte ecográfico, pero no bioquímico?
+    
+    Argumento: Todo paciente con un nódulo tiroideo debe tener medición de la hormona estimulante de tiroides (TSH), ya que en caso de estar suprimida se debe proceder con la gammagrafía y no con la ecografía, error frecuente en la práctica clínica. Si se llegara a realizar un ACAF a este nódulo (aun cuando tiene criterios para el mismo), se corre el riesgo de desencadenar una tormenta tiroidea en caso de tratarse de un adenoma toxico.
+    
+    La determinación de TSH resulta de utilidad para descartar una situación de hiperfunción tiroidea ya que, en ese caso, sería adecuado realizar antes que el ACAF una gammagrafía tiroidea que logre caracterizar dicha lesión y determinar si se trata de un nódulo frio o caliente.
+    
+    Lectura recomendada:
+    
+    1. Builes Barrera, CA. Enfoque diagnóstico del paciente. Medellín: Facultad de Medicina, Universidad de Antioquia, XXI Memorias Curso de Actualización en Medicina Interna; 2023.
+    2. Ruales Mora, K. Nódulo tiroideo. Medellín: Facultad de Medicina, Universidad de Antioquia, XIX Memorias Curso de Actualización en Medicina Interna; 2019.
+
+#Mujer de 28 años, acude a consulta demandando un método farmacologico para su obesidad grado II. Refiere que no ha logrado una pérdida de peso significativa en último semestre con plan alimentario y ejercicio. Niega antecedentes personales, pero refiere que su tío paterno de 35 años fue recientemente diagnosticado de neoplasia endocrina múltiple tipo 2 (MEN2) por debutar con un nódulo tiroideo cuyo estudio patológico fue positivo para cáncer medular de tiroides. IMC 38. El examen físico es anodino.
+¿Cuál de los siguientes medicamentos NO le iniciaría para su objetivo?***
+#A. Orlistat
+#B. Fentermina-topiramato
+#C. Semaglutide
+#D. Naltrexona-bupropión
+#Respuesta correcta: C
+#Tema e ítem: Contraindicaciones de los agonistas del receptor del GLP-1
+    
+    Argumento: Los arGLP-1 permiten lograr concentraciones farmacológicas de esta incretina en sangre con lo que se genera un control glucémico aceptable. Una ventaja importante de estos medicamentos es su efecto en el peso, de manera dosis dependiente, con una mayor efectividad que el orlistat. La liraglutide en dosis de 3,0 mg (Saxenda) ha sido aprobado para el manejo de la obesidad y también la semaglutide 2,4 mg con resultados sorprendentes. Sin embargo, existen algunas contraindicaciones ABSOLUTAS que debes recordar para el examen de residencia:
+    • Antecedente de carcinoma medular de tiroides
+    • Antecedentes familiares de neoplasia endocrina múltiple de tipo 2
+    • Antecedentes de pancreatitis y deben suspenderse en aquellos que desarrollan pancreatitis mientras toman este medicamento.
+    
+    La fentermina-topiramato es un activador del receptor noradrenérgico del ácido γ-aminobutírico e inhibidor del receptor AMPA del glutamato. Las contraindicaciones incluyen glaucoma, hipertiroidismo y nefrolitiasis. Se recomienda precaución en pacientes con hipertensión o taquicardia en reposo.
+    
+    El orlistat es un inhibidor de la lipasa intraluminal que induce la pérdida de peso al disminuir la absorción de triglicéridos. Aunque es seguro, provoca efectos secundarios gastrointestinales, como heces aceitosas, aumento de la defecación y urgencia o incontinencia fecal hasta en un 30% de los pacientes. Las contraindicaciones incluyen los síndromes de malabsorción y la colestasis.
+    
+    Naltrexona-bupropión es un antagonista opiáceo e inhibidor de la captación de norepinefrina-dopamina que suprime el apetito. Tiene una tasa de interrupción más alta en comparación con otras opciones farmacológicas. Los efectos adversos más frecuentes son náuseas, mareos, cambios en los hábitos intestinales e insomnio. Las contraindicaciones incluyen trastornos convulsivos, trastornos de la alimentación, cualquier consumo actual de opiáceos o síndrome de abstinencia, o cualquier consumo de riesgo de alcohol.
+    
+    Lectura recomendada:
+    
+    1. Khera R, Murad MH, Chandar AK, et al. Association of pharmacological treatments for obesity with weight loss and adverse events: a systematic review and meta-analysis. JAMA. 2016;315:2424-34.
+
+#Don Juan de 67 años, es traído al servicio de Urgencias por cuadro clínico de 2 días de evolución de disnea progresiva, ortopnea y edema en miembros inferiores. Tiene antecedente de hipertensión arterial, dislipidemia mixta y falla cardiaca crónica con FEV del 28% según último ECO TT realizado hace 2 meses. Actualmente en manejo con losartan, espironolactona, hidroclorotiazida y metropolol tartrato. Al examen físico presenta PA 150/65, SatO2 91%, crépitos en ambos campos pulmonares, ingurgitación yugular. La Rx de tórax muestra un derrame pleural bilateral. Se realizó toracocentesis que evidencia liquido de aspecto claro, linfocitos 45%, LDH 175 U/L (LDH plasmática 290 U/L), proteínas  4,2 g/dL (proteínas plasmáticas 7,8 g/dL).
+¿Cuál de las siguientes afirmaciones es verdadera?***
+#A. La relación proteínas LP/proteínas en suero es > 0.5, por tanto, se trata de un exudado
+#B. La relación LDH LP/LDH en suero es >0.6, por tanto, se trata de un exudado
+#C. Se debe solicitar adenosina desaminasa (ADA) porque se puede tratar de un posible derrame por M. tuberculosis
+#D. Si bien la relación proteínas LP/proteínas en suero es > 0.5, se trata de un pseudoexudado
+#Respuesta correcta: D
+#Tema e ítem: Casos especiales en la interpretación de los criterios de Light en derrame pleural
+    
+    Argumento: Un derrame pleural se define como exudado cuando cumple al menos uno de los criterios de Light:
+    • Relación proteínas LP/proteínas en suero > 0.5 Relación
+    • LDH LP/LDH en suero >0.6
+    • LDH en LP > 2/3 el límite superior en suero.
+    
+    Ojo, te están preguntando cuál de las siguientes es verdadera respecto al caso clínico, por lo cual debes manejar los siguientes conceptos claves que debes tener presente para dar con la respuesta correcta. En este caso se cumple el criterio del cociente de proteínas por lo cual podría clasificarse como exudado.  Sin embargo, dada su baja especificidad, hasta el 25 % de los pacientes con falla cardiaca congestiva son mal clasificados como exudados. Esto ocurre especialmente en pacientes que están recibiendo tratamiento con diuréticos, los cuales pueden causar incremento transitorio de proteínas en el líquido pleural debido al movimiento del líquido hacia el compartimento intravascular, y parecer como pseudoexudados. En estos casos, lo ideal sería calcular la diferencia entre las proteínas totales plasmáticas o albumina plasmática y las proteínas totales/albumina en líquido pleural. Si esa diferencia es mayor de 3, 1 gr/dL entonces se puede decir con certeza que se trata de un pseudoexudado o trasudado
+    
+    Lectura recomendada:
+    
+    1. N Engl J Med 2018; 378:740-751
+    2. Toro Rendón, LG. Derrame pleura. Medicina y Laboratorio 2009, 15: 11-26.
+
+#Un meta-analisis de diez ensayos controlados y randomizados demostró una reducción significativa en la mortalidad y eventos tromboembólicos en pacientes con fibrilación auricular al usar un nuevo anticoagulante llamado ‘’x’’, comparado con la Warfarina. Lo resultados muestran un RR de 0.56 (IC 95%: 0.30-0.7).
+¿Cuál de las siguientes afirmaciones es verdadera?***
+#A. El nuevo anticoagulante ‘X’ presenta una mortalidad y tasa de eventos tromboembólicos similares a los pacientes que son tratados con Warfarina
+#B. El nuevo anticoagulante ‘X’ aumenta la mortalidad y eventos tromboembólicos en un 56%
+#C. El nuevo anticoagulante parece asociarse a una menor mortalidad y tasa de eventos tromboembólicos
+#D. Por el intervalo de confianza, el resultado del estudio no es estadísticamente significativo y muestra una gran heterogeneidad
+#Respuesta correcta: C
+#Tema e item: Interpretación de RR
+    
+    Argumento: Nos piden interpretar los resultados de un meta-ánalisis a través de una medida de asociación, que es el riesgo relativo (RR). El punto de no significación en el RR es el 1, ya que supondría que la incidencia del evento es la misma entre el grupo expuesto y el grupo no expuesto (el factor de exposición no supondría ni riesgo ni protección alguna).  El RR estimado tiene unos valores que van de 0,3 a 0,7. Al ser todos los valores del intervalo menores a 1, por lo cual se podría establecer que el nuevo anticoagulante reduce la mortalidad y tasa de eventos tromboembólicos, es decir, se comporta como un factor protector. Si el intervalo incluyera al 1, éste sería no significativo.
+    
+
+#Sofía de 28 años, sin antecedentes médicos de interés, ingresó a urgencias 30  minutos después de accidente automotor a alta velocidad donde ella era la conductora del vehículo (tenía el cinturón puesto). Signos vitales FC 112 LPM, FR 12 rpm, PA de 128/90 mm/Hg. Al examen físico Glasgow 11/15, con signos de dificultad respiratoria y cianosis peribucal. Se evidenció  una laceración de 3 cm en la frente y múltiples abrasiones sobre el tórax y el abdomen. Hay crepitación a la palpación del tórax derecho. La auscultación del pulmón muestra disminución de los ruidos respiratorios en el lado derecho. Además, se ausculta en región precordial un “chasquido” que se sincroniza con los latidos del corazón. El resto del examen no muestra anomalías. Los gases arteriales a FiO2 ambiente reportan pH 7.31, PCO2 55 mmHg, PO2 42 mmHg, HCO3 22 mEq/L, SO2 76%. Se intuba a la paciente, se inicia la infusión de sln al 0,9%. ¿Cuál de los siguientes es el diagnóstico más probable?***
+#A. Taponamiento cardíaco.
+#B. Ruptura bronquial.
+#C. Tórax inestable.
+#D. Neumotórax a tensión.
+#Respuesta correcta: B
+#Tema e ítem: ¿Qué hallazgos nos deben hacer sospechar de una ruptura bronquial?
+    
+    Argumento: Ante la presentación de un traumatismo por alta velocidad y la presencia del signo de Hamman (es una manifestación clínica caracterizada por la presencia de sonidos crepitantes o chasquidos, audibles mediante auscultación en la región precordial o lateral izquierda del tórax, y que se sincronizan con los latidos cardíacos, y que se dan como resultado del neumomediastino), la acidosis respiratoria (debido a la hipoventilación) y la presencia de crepitaciones a la palpación en contexto de disminución del murmullo vesicular del mismo hemitórax sugieren una ruptura bronquial (Respuesta correcta B). Recordemos futuro R1 los signos de presentación más comunes en la lesión traqueobronquial incluyen enfisema subcutáneo (35% a 85%) y neumotórax (20% a 50%). De ahí que los signos clásicos que se han descrito, deberían desencadenar la sospecha de lesión traqueobronquial.
+    
+    - Por otra parte, el taponamiento cardíaco puede ocurrir después de un traumatismo torácico cerrado. Un paciente con taponamiento cardíaco experimentaría shock cardiogénico y podría presentar la tríada de Beck (La cual en verdad solo está presente en aproximadamente del 30 al 35% de los pacientes con taponamiento cardiaco); sin embargo, a pesar de esto, la presentación clínica de los síntomas de Sofía no son los típicos de un taponamiento cardiaco, del cual se esperaría aparte de la tríada de Beck; dolor torácico, palpitaciones, mareos, síncope y alteración del estado mental.
+    - Por otro lado, el tórax inestable puede ser causado por un traumatismo contuso en el tórax. El segmento inestable, que consta de múltiples costillas adyacentes rotas en múltiples lugares, sería evidente en el examen físico. Además, estaría presente la respiración paradójica (el segmento inestable se mueve opuesto a la pared torácica mientras el paciente respira). Aunque Sofía puede tener fracturas de costillas debido al traumatismo de alta velocidad, el examen no coincide con un tórax inestable.
+    - Finalmente, el neumotórax a tensión suele ser causado por un traumatismo a alta velocidad, como una colisión automovilística. Los pacientes suelen presentar hiperresonancia a la percusión y presentan compromiso hemodinámico. Debido a que a pesar de los hallazgos clínicos descritos de Sofía, está relativamente estable desde el punto de vista hemodinámico, el neumotórax a tensión es un diagnóstico poco probable. Además, el conjunto de hallazgos clínicos de Sofía es más congruente con una ruptura bronquial.
+    
+    Lectura recomendada: - AK AK, Anjum F. Tracheobronchial Tear. Available in StatPearls. 2024
+    
+
+#Carolina de 27 años, sin antecedentes médicos de interés, ingresó a urgencias por dolor intenso en el tobillo izquierdo tras caerse sobre una roca mientras caminaba hace 2 horas. Refiere automedicación con acetaminofén con alivio mínimo del dolor. Los signos vitales están dentro de los límites normales. Al examen físico con abrasiones en ambas piernas. El tobillo izquierdo está edematizado y tiene una amplitud de movimiento restringida debido al dolor; no puede soportar peso sobre el pie izquierdo. Además, hay dolor a la palpación en la punta del maléolo medial izquierdo. El pulso pedio es palpable. Sin otro hallazgo anormal en el examen físico. Se eleva el pie izquierdo, se administra analgesia adicional y se aplican medidas físicas frías en el lugar lesionado. ¿Cuál es la conducta a seguir?***
+#A. Ubicación de una tobillera semirrígida.
+#B. Realizar una radiografía del tobillo.
+#C. Completar la estrategia “RICE” con vendaje elástico.
+#D. Solicitar una resonancia magnética.
+#Respuesta correcta: B
+#Tema e ítem: ¿Qué y para qué sirven las reglas de tobillo de Ottawa?
+    
+    Argumento: El dolor sobre la punta del maléolo y la incapacidad para soportar peso después de una lesión aguda deben hacer sospechar una fractura de tobillo y se debe obtener una serie de rayos X estándar de 3 proyecciones (anteroposterior, lateral y de mortaja) (Respuesta correcta B). Recordemos que para determinar si una radiografía está indicada en lesiones de tobillo, se utilizan las reglas de tobillo de Ottawa, que son muy sensibles para excluir fracturas. Las reglas del tobillo de Ottawa establecen que ante dolor en la zona maleolar y cualquiera de las siguientes → ((Dolor a la palpación de los 6 cm distales del borde posterior o zona media del maléolo lateral; Dolor a la palpación de los 6 cm distales del borde posterior o punto medio del maléolo medial; Incapacidad para descargar peso sobre el pie afectado (Dar 4 pasos seguidos sin ayuda)) se indica la radiografía de tobillo.
+    
+    - Por otra parte, la ubicación de un soporte para el tobillo (soporte para el tobillo semirrígido, envoltura elástica con una bota neumática para caminar) está indicado para pacientes con esguinces moderados de grado II, definidos como una lesión incompleta del ligamento con rango de movimiento restringido deambulación dolorosa e inestabilidad articular de leve a moderada; no obstante, como Carolina también cumple los criterios de sospecha de fractura según las reglas de tobillo de Ottawa, primero se debe realizar una radiografía de tobillo.
+    - Por otro lado, los vendajes elásticos están indicados en lesiones de tobillo como parte de los principios “RICE” (reposo, hielo, compresión y elevación) y deben aplicarse poco después de la lesión para minimizar el edema. También se pueden usar en combinación con otra forma de soporte para el tobillo (bota neumática para caminar) para estabilizar los esguinces de tobillo moderados con lesión de ligamentos; sin embargo, los esguinces de tobillo no cumplirían los criterios establecidos en las reglas del tobillo de Ottawa.
+    - Finalmente, una resonancia magnética del tobillo está indicada después de una lesión aguda si el dolor persiste durante más de seis semanas después del tratamiento inicial convencional. Si bien la resonancia magnética se prefiere para detectar lesiones de tejidos blandos (lesión de sindesmosis), no se ha demostrado que sea mejor que la radiografía simple para detectar fracturas óseas en pacientes con lesiones agudas. Además, si se sospecha una fractura y una radiografía simple no es concluyente, la modalidad de imagen preferida es una tomografía computarizada del tobillo y no una resonancia magnética.
+    
+    Lectura recomendada:- Melanson SW, Shuman VL. Acute Ankle Sprain. Available in StatPearls. 2023.
+    
+
+#Carlos de 44 años, sin antecedentes médicos de interés, ingreso a urgencias de un tercer nivel, traído por bomberos 25 minutos después de un accidente de bicicleta mientras iba en una curva a velocidad de 45 km/h. Refiere llevaba casco y no perdió el conocimiento. Signos vitales FC 96 lpm, FR de 18 rpm, PA de 118/78 mm/Hg. Al examen físico Glasgow 15/15, paciente ubicado sobre tabla rígida con collarín cervical en cuello. Se evidenció múltiples hematomas en la frente y la mejilla derecha. Pupilas isocóricas reactivas a la luz. Hay dolor a la palpación en columna cervical posterior, así como también en 2ª y 3ª costilla del lado derecho. La auscultación cardio pulmonar sin alteraciones. El abdomen es levemente doloroso a la palpación sin signos de irritación peritoneal. El examen neurológico no muestra hallazgos focales. Se realizó un FAST el cual fue negativo. Se realizó una  radiografía de tórax que reportó  fractura de la tercera costilla del lado derecho y ninguna otra anomalía. El ECG es normal. ¿Cuál es la conducta ideal y  adecuada a seguir?***
+#A. Realizar tomografía computarizada abdominal.
+#B. Realizar radiografía del cuello.
+#C. Solicitar tomografía de columna cervical.
+#D. Indica una resonancia magnética de la cabeza.
+#Respuesta correcta: C
+#Tema e ítem: ¿Cuándo pedir imágenes en trauma cervical cerrado y qué imagen pedir?
+    
+    Argumento: En pacientes con traumatismo cerrado en el cuello, se requieren imágenes de la columna cervical para descartar una lesión si se cumple al menos uno de los criterios de la columna cervical de NEXUS: déficit neurológico focal, dolor a la palpación de la columna cervical en la línea media posterior, alteración de la conciencia, intoxicación y/o lesión que distraiga. Una tomografía computarizada de la columna cervical es la modalidad de imagen preferida para descartar una lesión de la columna cervical en pacientes adultos con traumatismos (Respuesta correcta C). Si ninguno de los criterios NEXUS está presente, el riesgo de lesión de la columna cervical es bajo, lo que significa que no están indicadas las imágenes y se puede retirar el collarín cervical.
+    
+    - Por otra parte, si bien la tomografía computarizada abdominal es una herramienta de diagnóstico importante para pacientes con traumatismo abdominal cerrado, Carlos presenta dolor abdominal a la palpación, pero no requiere tomografía computarizada en este momento porque no tiene signos de lesión abdominal, está hemodinámicamente estable y tiene una exploración FAST negativa.
+    - Por otro lado, se puede utilizar una radiografía del cuello para evaluar inicialmente una lesión de la columna cervical, que debe descartarse en este paciente, pero otra prueba tiene una mayor sensibilidad y se prefiere siempre que esté disponible (Recuerda el caso te propone un escenario de hospital de tercer nivel donde se cuenta con tomógrafo).
+    - Finalmente, las imágenes cerebrales pueden estar indicadas en pacientes con traumatismo craneoencefálico cerrado para evaluar lesiones intracraneales traumáticas (hemorragia intracraneal). Carlos no perdió el conocimiento, tiene un estado mental normal, no tiene déficits neurológicos focales y no tiene factores de riesgo de hemorragia intracraneal (trastorno hemorrágico o anticoagulación), lo que hace poco probable una lesión intracraneal traumática. Además, si este paciente necesitará imágenes cerebrales, una tomografía computarizada de la cabeza sin contraste sería la prueba inicial de elección porque está más disponible y los resultados se pueden obtener rápidamente.
+    
+    Lectura recomendada: - Torlincasi AM, Waseem M. Cervical Injury. Available in StatPearls. 2024
+    
+
+#Lidia de 46 años asistente de ventas por medio teléfono sin otro antecedente médico de interés, consultó por parestesias, y debilidad en la extremidad superior izquierda, junto con dolor subescapular en el hombro izquierdo que iniciaron hace un mes durante sus vacaciones. La paciente asoció el dolor a dormir en una cama nueva; sin embargo, durante el interrogatorio refirió que durante el trabajo está mucho tiempo contestando el teléfono y ha notado que los síntomas empeoran después de sostener el teléfono entre la cabeza y el hombro izquierdo. Los signos vitales son normales. Al examen físico, hay pérdida de la sensación de pinchazo en el pulgar y el índice izquierdos. Hay debilidad leve de la flexión del codo y el reflejo del bíceps está disminuido en el lado izquierdo. El resto del examen físico sin anormalidades. ¿Cuál es la causa más probable de los síntomas de esta paciente?***
+#A. Compresión del nervio mediano.
+#B. Desmielinización de nervios periféricos.
+#C. Compresión de la raíz nerviosa espinal.
+#D. Compresión del nervio cubital.
+#Respuesta correcta: C
+#Tema e ítem: ¿Cuándo sospechar de lesión de compresión de la raíz nerviosa espinal?
+    
+    Argumento: Esta paciente tiene déficit sensoriomotores, que afectan una porción del brazo izquierdo, junto a un reflejo bicipital disminuido, lo que sugiere una lesión del sistema nervioso periférico. Los déficits no están aislados en la distribución de un solo nervio periférico (, mediano, cubital), sino que siguen el patrón del dermatoma (es decir, dedo pulgar e índice) y miotomas (flexión del codo) de C6, consistente con un patrón de radiculopatía cervical (Respuesta correcta C). Recordemos futuro R1 que las radiculopatías cervicales, ocurren debido a la compresión de una raíz nerviosa espinal. Además de los déficits sensitivomotores que siguen el patrón de la raíz nerviosa afectada, la mayoría de los pacientes también refieren dolor de cuello o de hombro/brazo. La flexión lateral y la rotación del cuello (como ocurre cuando se sujeta un teléfono entre la cabeza y el hombro) estrecha los agujeros neurales ipsilaterales, lo que empeora la compresión de la raíz nerviosa. El empeoramiento del dolor en las extremidades y la parestesia en respuesta a la flexión lateral del cuello es relativamente específico de la radiculopatía cervical, aunque el empeoramiento del dolor en el cuello con esta maniobra no lo es. Por el contrario, la abducción del hombro reduce la tensión en la raíz nerviosa afectada, y la mejoría de los síntomas radiculares cuando se coloca la mano en la parte superior de la cabeza (es decir, la prueba de alivio de la abducción del hombro) puede ser tanto diagnóstica como terapéutica para el alivio del dolor a corto plazo.
+    
+    - En cuanto a la compresión del nervio mediano, puede provocar deficiencias sensoriales en los dedos pulgar e índice, no causaría debilidad en la flexión del codo ni disminución del bíceps, y el dolor cervical es inusual.
+    - Por otra parte, la desmielinización de los nervios periféricos (polineuropatía desmielinizante inflamatoria crónica) produce déficits sensitivomotores simétricos, en lugar de déficits confinados a una parte de una extremidad.
+    - Finalmente, la compresión del nervio cubital provocaría deficiencias sensoriales en los dedos anular y meñique con debilidad en los dedos (es decir, disminución de la fuerza de prensión). No causaría entumecimiento del pulgar o el dedo índice ni provocaría debilidad en la flexión del codo o disminución del reflejo del bíceps.
+    
+    Lectura recomendada:- Seward B. Rutkove. Overview of upper and lower extremity peripheral nerve syndromes. Available in Up to Date 2024.
+    
+
+#Cristian de 34 años, sin antecedentes médicos de interés, ingreso a urgencias posterior a accidente automovilístico frontal donde el paciente estaba en calidad de conductor de moto. Signos vitales PA de 78/40 mm/Hg y FC de 134 lpm. Al examen físico, paciente alerta y orientado, auscultación y cardio pulmonar sin hallazgos anormales, en región torácica y abdominal equimosis en distribución de cinturón de seguridad. El abdomen está distendido y con sensibilidad difusa. Un eco trauma es negativo para derrame pericárdico pero positivo para líquido intraperitoneal libre. Posterior a la infusión intravenosa rápida de 2 L de salina al 0.9% el paciente tiene PA de 80/50 mmHg y FC de 118 lpm. ¿Cuál es el manejo adecuado para este paciente?***
+#A. Realizar tomografía abdominal.
+#B. Iniciar terapia vasopresora.
+#C. Llevar al paciente a quirófano para una laparotomía exploratoria urgente.
+#D. Realizar angiografía de contraste con embolización.
+#Respuesta correcta: C
+#Tema e ítem: ¿Qué hacer ante un trauma de abdomen con paciente inestable?
+    
+    Argumento: En Cristian que está hemodinámicamente inestable en contexto de trauma cerrado torácico y abdominal; sin lesiones intratorácicas potencialmente mortales, junto a la presencia de líquido intraperitoneal libre confirmado por FAST, se justifica la laparotomía exploratoria para controlar la probable hemorragia intraabdominal (Respuesta correcta C). Recordemos que en pacientes con traumatismo abdominal cerrado (independientemente del estado hemodinámico), la presencia de abdomen en tabla debe hacer pensar en peritonitis franca y justifica la laparotomía inmediata. Por otro lado, en ausencia de peritonitis (como en este paciente), se debe realizar un examen FAST para identificar líquido libre intraperitoneal (sangre, orina, contenido entérico derramado), un  FAST positivo en paciente inestable confirma una lesión intraabdominal significativa y, por lo tanto, justifica una laparotomía de urgencia. Si FAST es negativo o no concluyente, se deben considerar investigaciones adicionales.
+    
+    - Por otra parte, la tomografía computarizada a menudo puede visualizar el sitio y la gravedad de la lesión intraabdominal, pero requiere una mejor estabilidad hemodinámica del paciente.
+    - Por otro lado, la terapia vasopresora está contraindicada en caso de shock hemorrágico aislado porque el tono vascular periférico ya está aumentado (es decir, vasoconstricción) para compensar la disminución del volumen sanguíneo. La reanimación continua con cristaloides o hemoderivados es lo adecuado.
+    - Finalmente, la angiografía de contraste (con embolización) a veces se usa para pacientes con traumatismo abdominal cerrado con hemorragia intraabdominal debido a laceración esplénica o hepática; sin embargo, esto solo es apropiado para pacientes hemodinámicamente estables con lesiones aisladas de menor grado (típicamente identificadas por TAC).
+    
+    Lecturas recomendadas:-  Juan Pablo Hoyos Burgos. Trauma de abdomen, estado del arte. Medellín. Curso de Actualización en cirugía general. Universidad de Antioquia. 2019
+    
+
+#Rosa de 30 años, G4P2C1 (la cesárea fue por presentación podálica) con 39 semanas de embarazo por FUM, sin controles prenatales, consulta porque hace 20 minutos presentó sangrado vaginal. Signos vitales T° 37.1 C, FC de 86 lpm, FR: 18 rpm, PA de 132/74 mm/Hg. Al examen físico el abdomen no está doloroso y no se sienten contracciones. El feto se encuentra en presentación cefálica. La frecuencia cardíaca fetal es de 96 lpm. La vaginoscopia con espéculo revela rotura de membranas y sangrado moderado del orificio cervical externo. ¿Cuál de los siguientes es el diagnóstico más probable?***
+#A. Desprendimiento de placenta
+#B. Placenta previa
+#C. Placenta acreta
+#D. Rotura de Vasa previa
+#Respuesta correcta: D 
+#Tema e ítem: ¿Cuándo sospechar de Rotura de Vasa Previa?
+    
+    Argumento: El antecedente de multiparidad, anomalías placentarias, ante el contexto de sangrado vaginal con rotura de membranas y sufrimiento fetal (Bradicardia fetal), sugieren rotura de vasa previa (Respuesta correcta D). Recordemos futuro R1 que la aparición de sangrado vaginal con rotura de membranas sugiere rotura de vasa previa, lo que provoca desangramiento fetal; y, por ende, lleva a sufrimiento fetal y posiblemente muerte fetal.  Los factores de riesgo de vasa previa incluyen: multiparidad, anomalías placentarias (placenta bilobada o succenturiada, inserción velamentosa del cordón umbilical), placenta previa y fertilización in vitro. El diagnóstico se confirma mediante ecografía transvaginal o transabdominal, que muestra vasos fetales que recubren el orificio interno y una disminución del flujo sanguíneo dentro de los vasos fetales.
+    
+    - Por otra parte, la rotura prematura de membranas de Rosa es un factor de riesgo de desprendimiento de placenta. Además, el desprendimiento de placenta puede manifestarse con hemorragia ante parto y sufrimiento fetal; sin embargo, también se esperaría encontrar en pacientes con desprendimiento de placenta dolor abdominal y/o la sensibilidad uterina, así como taquicardia materna (debido a la pérdida de sangre materna); por ende, se debe considerar otro diagnóstico.
+    - Por otro lado, tanto la multiparidad como una cesárea previa son factores de riesgo de placenta previa. La placenta previa puede causar sangrado vaginal indoloro en el tercer trimestre; sin embargo, la placenta previa se asocia con pérdida de sangre materna, lo que puede provocar taquicardia e hipotensión materna. El sufrimiento fetal puede eventualmente resultar de una pérdida significativa de sangre materna, pero es poco probable en esta madre hemodinámicamente estable.
+    - Finalmente, si bien una cesárea previa es un factor de riesgo de placenta accreta, la placenta accreta provocaría una hemorragia posparto, no una hemorragia ante parto.
+    
+    Lectura recomendada: - Castaño L. A. Hemorragia obstétrica del segundo y tercer trimestre: enfoque etiológico. Medellìn. XXXI Curso de actualización en ginecología y obstetricia. Universidad de Antioquia 2023.
+    
+
+#Carolina de 30 años, G2P1 de 33 semanas de gestación, con antecedente de embarazo previo con oligohidramnios, sin otro antecedente médico relevante, consultó a control prenatal. Signos vitales PA de 100/70 mm/Hg. En el examen pélvico, se encontró que el tamaño del útero es más pequeño de lo esperado para la edad gestacional. El feto se encuentra en posición longitudinal, con presentación en vértice. La frecuencia cardíaca fetal es de 144 lpm. La ecografía muestra un peso fetal estimado del percentil 9 y una disminución del volumen de líquido amniótico. ¿Cuál es la conducta adecuada a seguir?***
+#A. Se diagnostica inmediatamente una restricción del crecimiento intrauterino
+#B. Solicitar ecografía doppler fetal
+#C. Realizar amnioinfusión
+#D. Administrar sulfato de magnesio
+#Respuesta correcta: B
+#Tema e ítem: ¿Cómo confirmar un diagnóstico de restricción del crecimiento intrauterino?
+    
+    Argumento: Ante el escenario de una gestación en la que reportan un peso fetal estimado del percentil 9 y una disminución del volumen de líquido amniótico, la indicación es realizar una ecografía doppler fetal (Respuesta correcta B) para determinar el índice de pulsatilidad de la arteria umbilical, la arteria cerebral media, y de las arterias uterinas. Lo anterior con la finalidad de determinar si se trata de un feto pequeño para la edad gestacional o si se trata de una restricción del crecimiento intrauterino. Recordemos futuro R1 que la “Hospital Clínic”  (Barcelona): definen RCIU como aquel feto con PFE <p10 y ≥1 de los siguientes: Índice de pulsatilidad (IP) de arteria umbilical >p95; Índice Cerebro Placentario (IP arteria cerebral media/IP arteria umbilical) <p5; IP arteria cerebral media <p5; IP medio de arterias uterinas >p95; Si el peso es <p3 no requiere ningún otro parámetro para clasificarlo como RCIU.
+    
+    - Por otra parte, solo se realiza el diagnóstico de RCIU de forma inmediata si el peso fetal estimado es <percentil 3; por ende, este feto que está en percentil 9 requiere la realización de una ecografía doppler fetal para determinar si en verdad presenta una RCIU.
+    - Por otro lado, en este paciente con oligohidramnios, la amnioinfusión solo estaría indicada si hubiera evidencia de sufrimiento fetal debido a la compresión del cordón umbilical.
+    - Finalmente, el sulfato de magnesio se administra a pacientes con preeclampsia grave, que puede provocar RCIU y oligohidramnios. Esta paciente, sin embargo, no tiene hipertensión gestacional ni características clínicas de preeclampsia (cefalea intensa, visión borrosa, epigastralgia). En el caso de RCIU, también se administra sulfato de magnesio para la neuroprotección del feto si el parto se produce antes de las 32 a 34 semanas de gestación.
+    
+    Lectura recomendada: - Li Chi Chew; Rita P. Verma.Fetal Growth Restriction. Available in Start Pearls.2024
+    
+
+#Valentina de 16 años, con antecedente de menstruaciones irregulares (cada 4-5 meses) desde la menarquia a los 14 años y vida sexual activa con uso de condón de forma consistente, consultó por sangrado vaginal abundante desde hace 3 días. Signos vitales T° de 37,2 °C, PA 120/80 mm/Hg y FC de 80 lpm. Al examen pélvico, hay cantidad moderada de sangre en la cúpula vaginal y sangrado activo desde el orificio cervical. La ecografía pélvica revela un útero pequeño con una franja endometrial gruesa y ovarios normales sin masas anexiales. La prueba de embarazo en orina es negativa. Paraclínicos con hemoglobina en 10 g/dl, VCM de 90 fl, Plaquetas en 320.000, TP 12 seg y TTP de 26 seg. ¿Cuál es el manejo adecuado de esta paciente?***
+#A. Dilatación y legrado de emergencia
+#B. Iniciar terapia anticonceptiva oral en dosis altas
+#C. Administrar progestágeno a dosis altas
+#D. Análisis de deficiencia de factor de coagulación
+#Respuesta correcta: B
+#Tema e ítem: Sangrado anormal uterino en paciente no embarazada
+    
+    Argumento: El sangrado uterino anormal agudo (SUA) de esta paciente adolescente, se debe muy probablemente a problemas ovulatorios relacionados con la inmadurez del eje hipotalámico-pituitario-ovárico, que produce a su vez a ovulación y sangrado abundante a irregular; por ende, va a requerir una intervención clínica como lo es los anticonceptivos a altas dosis (Respuesta correcta B) para prevenir más hemorragias y generar regularidad en el ciclo menstrual. Recordemos que la menstruación es causada por una necrosis exagerada de la capa superficial del endometrio, que eventualmente queda desnudo y continúa sangrando debido a la falta de estabilidad del tejido. Por otro lado, la evaluación inicial de pacientes que presentan sangrado vaginal agudo incluye una evaluación completa, hemograma, prueba de embarazo, estudios de coagulación y definir si la paciente está estable o no hemodinámicamente. En pacientes hemodinámicamente estables (como la paciente de este caso), el sangrado uterino agudo puede tratarse médicamente con estrógeno intravenoso (estrógeno equino conjugado) o anticonceptivo oral de estrógeno/progestágeno en dosis altas. Lo anterior debido a que los estrógenos a dosis estabilizan rápidamente el endometrio desnudo y detiene el sangrado de la menstruación
+    
+    - En cuanto a realizar una dilatación y legrado de emergencia, es una medida de control del sangrado en paciente hemodinámicamente inestable, pero esta paciente tiene signos vitales dentro de rango normal, no tiene alteración del sensorio ni tampoco presenta sangrado profuso que requiera transfusión.
+    - Por otra parte, se pueden administrar progestinas en dosis altas a pacientes con contraindicaciones para el estrógeno (pacientes con antecedentes de tromboembolismo). Las progestinas también pueden estabilizar el revestimiento endometrial y previenen una mayor proliferación, pero no son tan efectivos como los estrógenos.
+    - Finalmente, esta paciente tiene los tiempos de coagulación dentro de límites normales, y tampoco refiere síntomas que nos haga sospechar de una alteración de la coagulación; por ende, no hay indicación de medir factores de la coagulación.
+    
+    Lectura recomendada: - González D. Enfoque de la hemorragia uterina anormal aguda en urgencias. Medellín XXXI curso de actualización en ginecología y obstetricia. Universidad de Antioquia 2023
+    
+
+#Flor de 29 años, G1P1, con 9 semanas de gestación, sin antecedentes médicos de interés, consultó por 3 horas de sangrado vaginal con paso de coágulos grandes y cólicos en hipogastrio. La paciente inició cuidados prenatales hace una semana, y una ecografía en ese momento reveló un feto de 8 semanas con FC fetal normal. Signos vitales actuales con T° de 37° C, PA de 90/65 mm Hg, FC de 110/min. Al examen físico, se evacuan grandes coágulos de sangre de vagina y se aprecia sangrado activo en el orificio cervical externo. Paraclínicos reportan hemoglobina en 8,0 g/dL y una ecografía transvaginal revela un feto de 9 semanas en el segmento uterino inferior sin actividad cardíaca. ¿Cuál es el manejo de esta paciente?***
+#A. Manejo expectante
+#B. Administrar misoprostol
+#C. Realizar una histerectomía
+#D. Realizar una aspiración manual endouterina
+#Respuesta correcta: D
+#Tema e ítem: Sobre el manejo del aborto inevitable
+    
+    Argumento: Esta paciente de 9 semanas de gestación tiene sangrado vaginal abundante, cólicos, cuello uterino dilatado y una ecografía que revela una gestación intrauterina no viable (sin latido fetal) en el segmento uterino inferior, lo que configura aborto inevitable o en curso. El manejo depende de la preferencia de la paciente y de la estabilidad hemodinámica. En el caso de esta paciente, que está hipotensa, taquicardia y con abundante sangrado agudo, se indica un manejo quirúrgico inmediato con un legrado o una aspiración manual endouterina (AMEU) (Respuesta correcta D). Estas medidas quirúrgicas eliminan los productos retenidos de la concepción, lo que detiene el sangrado.
+    
+    - En cuanto al manejo expectante, está indicado en pacientes hemodinámicamente estables, y lo que se realiza es una vigilancia continua (clínica y ecográfica) de la paciente; no obstante, es importar resaltar que el manejo expectante aumenta las probabilidades de presentar abortos incompletos, y requerir posteriormente manejo quirúrgico.
+    - Por otro lado, el manejo médico con misoprostol también se indica en pacientes hemodinámicamente estables. Es importante tener en cuenta que si no hay expulsión completa a los 8 días de iniciado el manejo se debe recurrir a procedimientos quirúrgicos.
+    - Finalmente, un aborto en curso o inevitable, no es un criterio para la realización de una histerectomía de entrada.
+    
+    Lectura recomendada:- Prager S. et al. Pregnancy loss (miscarriage): Description of management techniques. Available in up to date 2024.
+    
+
+#Karina de 27 años, G2P1 con 37 semanas de gestación, antecedente de alergia leve a las penicilinas y embarazo previo con colonización de estreptococos del grupo B (SGB) y posterior sepsis fetal por SGB. Ingresa ahora a urgencias por trabajo de parto en fase activa, sin nuevas pruebas de SGB de la gestación actual. Los signos vitales están dentro de los límites normales. Al examen físico, el abdomen no doloroso, presencia de contracciones cada 4 minutos. Hay líquido amniótico claro acumulándose en la vagina. El feto se encuentra en presentación cefálica. La frecuencia cardíaca fetal es de 140 lpm. ¿Cuál de las siguientes es la estrategia de manejo más apropiada?***
+#A. Administrar cefazolina 2 gr IV y posterior 1 gr IV cada 8 horas hasta el parto
+#B. Penicilina G 5 millones de U vía IV y posteriormente 2.5 millones U vida IV cada 4 horas hasta el parto.
+#C. Clindamicina 900 mg IV cada 8 horas
+#D. Realizar hisopado vagino-rectal para cultivo de SGB
+#Respuesta correcta: A
+#Tema e ítem: ¿Qué tratamiento profiláctico elegir en SGB en paciente con alergia a penicilinas?
+    
+    Argumento: Ante la presencia de una gestante con antecedente de un bebé con sepsis por SGB se indica la profilaxis antibiótica intraparto de esta nueva gestación que está en fase de trabajo de parto. Teniendo en cuenta lo anterior y el antecedente de alergia leve a las penicilinas, se indica el uso de Cefazolina (Respuesta correcta A). Recordemos futuro R1 que la colonización materna por SGB es un factor de riesgo importante de infección neonatal de aparición temprana y sepsis. La detección sistemática de colonización por SGB en todas las mujeres embarazadas mediante cultivo de hisopos vaginales y rectales está indicada entre las semanas 35 a 37 de gestación. Las mujeres con bacteriuria por SGB que se presenta en cualquier momento durante el embarazo o con antecedentes de un recién nacido con infección por SGB, como en el caso de Karina, deben recibir antibióticos profilácticos de rutina y no tienen que someterse a exámenes de detección nuevos para detectar colonización por SGB.
+    
+    - Por otra parte, la administración de clindamicina se indica en casos de pacientes con alergias graves a la penicilina; no obstante, la reacción alérgica de Karina es leve, por lo que lo ideal es recibir un manejo profiláctico para SGB diferente a la clindamicina
+    - En cuanto al uso de penicilinas, en esta paciente está contraindicado dado su antecedente, por lo que se debe buscar una estrategia profiláctica distinta a la penicilina.
+    - Finalmente, pacientes con antecedentes de un recién nacido con infección por SGB (como es el caso de Karina) no requiere más pruebas, ya que no influyen en el tratamiento. Recordemos futuro R1 que las otras indicaciones de profilaxis intraparto son: Cultivo recto vaginal positivo, bacteriuria por SGB en cualquier concentración, en caso de no conocerse el cultivo o prueba rápida negativa con algunos de los siguientes factores de riesgo: embarazo menor de 37 semanas, ruptura de membranas mayor de 18 horas, fiebre >38°C.
+    
+    Lectura recomendada: - Cortés H. Estreptococo del grupo B durante el embarazo. Medellín. XXVIII Actualización en ginecología y obstetricia. Universidad de Antioquia. 2020
+    
+
+#Salomé, 14 años, llega a urgencias por artralgias. El cuadro inició hace 3 meses, cuando decidió empezar a hacer ejercicio, presentando dolor en el tobillo derecho después de trotar, sin haber presentado trauma previo. El dolor tiende a empeorar en las mañanas, pero mejoran a lo largo del día. Se ha extendido a las rodillas, los codos y las muñecas durante el último mes, asociado a fatiga extrema. Desde hace dos meses es vegana. Su peso ha mejorado del percentil 95 al percentil 90 en los últimos 3 meses. Al examen físico, se evidencia edema leve y dolor a la palpación en tobillos, rodillas, codos y muñecas, bilateralmente. ¿Cuál de los siguientes medicamentos es el más apropiado para iniciar a esta paciente?***
+#A. Vitamina D y calcio
+#B. Doxiciclina
+#C. Naproxeno
+#D. Ceftriaxona
+#Respuesta correcta: C
+#Tema e Ítem: Artritis idiopática juvenil-Tratamiento
+    
+    Argumento: Esta paciente, adolescente, con dolor poliarticular y fatiga, nos debe hacer sospechar una artritis idiopática juvenil.
+    
+    La artritis idiopática juvenil (AIJ), una enfermedad autoinflamatoria crónica, es la causa más común de artritis en los niños. La AIJ poliarticular, como se observa en este paciente, afecta ≥5 articulaciones dentro de los 6 meses posteriores al inicio de la enfermedad y se diagnostica con mayor frecuencia en niñas pequeñas y adolescentes (es decir, distribución bimodal).
+    Los pacientes suelen tener dolor y rigidez en las articulaciones que empeora por la mañana y mejora a lo largo del día. La afectación simétrica de los codos, muñecas, rodillas y tobillos (como en esta paciente) es la más común. Además, se puede observar edema de las pequeñas articulaciones de las manos y los pies, especialmente en niños mayores. La fiebre y otros síntomas sistémicos (p. ej., erupción) no ocurren con la AIJ poliarticular.
+    El diagnóstico es clínico y el tratamiento de primera línea son los fármacos antiinflamatorios no esteroides (p. ej., naproxeno). A menudo también se requieren fármacos antirreumáticos modificadores de la enfermedad, como el metotrexato.
+    
+    La infección gonocócica diseminada (IGD) resulta de la diseminación bacteriémica del patógeno de transmisión sexual, N. gonorrhoeae, que puede provocar una variedad de síntomas y signos clínicos, como artritis o artralgias, tenosinovitis y múltiples lesiones cutáneas. Tras la presentación, se ha descrito una variedad de hallazgos clínicos asociados con la IGD, que se pueden dividir en dos grupos:
+    
+    - Una tríada de tenosinovitis, dermatitis y poliartralgia sin artritis purulenta (también llamada "síndrome de artritis-dermatitis"). Esta presentación, se caracteriza por fiebre, escalofríos y malestar que ocurren en la fase aguda de la infección. La poliartralgia puede afectar articulaciones pequeñas o grandes y pueden verse afectadas varias articulaciones, pero la afectación articular simétrica es poco común. Una característica distintiva es la naturaleza migratoria de las artralgias en comparación con otras causas de artritis séptica.
+    - Artritis purulenta con o sin hallazgos asociados: aparición abrupta de monoartritis u oligoartritis, con dolor y edema en una o más articulaciones. La artritis gonocócica generalmente afecta las articulaciones distales, siendo las rodillas, las muñecas y los tobillos las articulaciones más comúnmente afectadas. La poliartritis, cuando está presente, suele ser asimétrica. La mayoría de los pacientes están afebriles.
+    
+    Bibliografía recomendada:
+    Kimura Y; et al. Systemic juvenile idiopathic arthritis: Clinical manifestations and diagnosis. Feb, 2024.
+    
+
+#Laura, 15 años. Acude a su consulta externa para una revisión general. Se encuentra asintomática. No tiene ningún antecedente patológico. Su padre tiene una falla cardíaca crónica e hipertensión arterial. Su madre tiene diabetes mellitus tipo 2, dislipidemia y sufrió un infarto agudo de miocardio a los 52 años. Al examen físico, con peso mayor de 2DE, IMC de 32 kg/m2, TA 140/90. Trae paraclínicos: glucosa 160, creatinina 1, CT 300, HDL 28, LDL 170, TG 250. Además de la actividad física regular, ¿cuál de los siguientes es el siguiente paso más apropiado en el tratamiento?***
+#A. Asesoría nutricional
+#B. Ejercicio con pesas de alta intensidad
+#C. Atorvastatina
+#D. Metformina
+#Respuesta correcta: A
+#Tema e Ítem: Síndrome metabólico – Manejo
+    
+    Argumento: Esta paciente tiene hipertensión, hipertrigliceridemia y HDL bajo, cumpliendo los criterios diagnósticos de síndrome metabólico. También tiene obesidad, aumento del colesterol total y del LDL e hiperglucemia en una toma de muestra al azar.
+    
+    La pérdida de peso es el objetivo terapéutico más importante para los pacientes con síndrome metabólico , y las modificaciones en el estilo de vida , como una dieta sana y una mayor actividad física, son los medios más eficaces para lograrla. Las intervenciones dietéticas para niños y adolescentes con obesidad no deben consistir en regímenes dietéticos estrictos, sino más bien centrarse en la promoción a largo plazo de conductas alimentarias saludables, como aumentar el consumo de frutas y verduras y minimizar el consumo de bebidas azucaradas y grasas saturadas. La reducción del peso corporal y la grasa abdominal aumenta posteriormente la sensibilidad a la insulina y reduce la presión arterial y los lípidos, y también puede haber efectos a largo plazo, ya que la pérdida de peso puede ayudar a prevenir o retrasar la aparición de enfermedades cardiovasculares y diabetes mellitus tipo 2 . Finalmente, la implementación de cambios en el estilo de vida evita los posibles efectos secundarios de la farmacoterapia. Si la modificación del estilo de vida no logra resolver las anomalías de laboratorio en aproximadamente seis meses, está indicada la terapia farmacológica (p. ej., estatinas ).
+    
+    Un entrenamiento con pesas debidamente supervisado es seguro y beneficioso para niños mayores de aprox. 7-8 años, y la actividad física de cualquier tipo forma parte del tratamiento de primera línea para el síndrome metabólico . Sin embargo, los niños deben comenzar a entrenar con pesas a baja intensidad (p. ej., con peso muy ligero) para aprender la técnica adecuada y reducir el riesgo de lesiones. Comenzar con entrenamiento con pesas de alta intensidad pondría a esta paciente en un riesgo alto de sufrir lesiones.
+    
+    La atorvastatina se puede utilizar para tratar la hipercolesterolemia en niños. La decisión de iniciar el tratamiento médico en niños debe basarse en los niveles de colesterol LDL, los factores de riesgo tradicionales de enfermedad cardiovascular ateroesclerótica (ECA), los antecedentes familiares de ECA prematuro y la presencia de afecciones de riesgo alto o medio (p. ej., diabetes , enfermedad renal crónica). Esta paciente tiene niveles elevados de colesterol LDL y antecedentes familiares de EAC, pero primero se debe intentar con terapia no farmacológica.
+    
+    Bibliografía recomendada:
+    Murillo Valles M, Bel Comós M. Obesidad y síndrome metabólico. Protoc diagn ter pediatr. 2019;1:285-94.
+    
+
+#Sofía tiene 11 años y llega a urgencias por presentar visión borrosa desde hace dos semanas. Además, refiere cefalea y náuseas. Tiene antecedentes de DM1, diagnosticada hace dos años, que debutó como cetoacidosis diabética. que le fue diagnosticada hace 2 años después de ser hospitalizada por cetoacidosis diabética. Se aplica insulina. Hace seis meses fue al oftalmólogo, sin presentar ninguna alteración. El examen de la agudeza visual fue de 20/40 bilateralmente sin cambios después de la refracción. Las pupilas son simétricas y reactivas a la luz y los movimientos extraoculares están intactos. En la campimetría, con puntos ciegos de forma bilateral.  El resto del examen neurológico es normal. En el fondo de ojo se evidencian hemorragias en astilla y papiledema. ¿Cuál de las siguientes es la causa más probable de los síntomas de este paciente?***
+#A. Retinopatía diabética
+#B. Adenoma pituitario
+#C. Hipertensión intracraneal idiopática
+#D. Retinoblastoma
+#Respuesta correcta: C
+#Tema e Ítem: Hipertensión intracraneal idiopática-Manifestaciones clínicas más frecuentes
+    
+    Argumento: Esta paciente tiene cambios en la visión e inflamación del disco óptico, probablemente debido a hipertensión intracraneal idiopática (HII). Aunque la HII ocurre con mayor frecuencia en mujeres obesas en edad fértil, la afección también se puede observar en niños no obesos. En la población prepuberal, la cefalea puede ser menos evidente y las anomalías de la visión pueden ser el hallazgo predominante.
+    
+    El aumento de la presión intracraneal (PIC) en el disco óptico provoca edema (papiledema), lo que provoca una visión borrosa que no mejora con la refracción y escotomas. En el examen fundoscópico, el disco óptico aparece elevado con márgenes borrosos y los vasos pueden estar ingurgitados o con fugas (es decir, hemorragias en astilla). En los niños pequeños, es más probable que el aumento de la PIC afecte a los nervios craneales, en particular al nervio abducens (CN VI), debido a su largo recorrido a través del cráneo hasta el músculo recto lateral. Los pacientes con parálisis del CN VI pueden tener diplopía y alteración de la abducción ocular en el examen.
+    El primer paso en la evaluación es la neuroimagen para descartar causas anatómicas del aumento de la PIC. Si la neuroimagen es negativa, una presión de apertura elevada en la punción lumbar es diagnóstica de HII. El tratamiento consiste en aliviar la PIC (p. ej., acetazolamida) para prevenir la pérdida permanente de la visión.
+    
+    Bibliografía recomendada:
+    Felipe Rucián A, Del Toro Riera M. Hipertensión intracraneal en Pediatría. Protoc diagn ter pediatr. 2022;1:135-144.
+    
+
+#Usted atiende el parto vaginal de una paciente de 29 años de edad, el cual transcurrió sin complicaciones. Durante el embarazo, presentó diabetes gestacional en manejo con insulina. El paciente nació a las 39+5 semanas, con un peso de 3700 gramos y una talla de 48 cm. Usted evidencia una TSH tomada del talón de 15 mUI/L. ¿Cuál considera que es el paso más apropiado a seguir?***
+#A. Es un caso confirmado de hipotiroidismo congénito, se inicia suplementación con levotiroxina
+#B. Es un caso sospechoso de hipotiroidismo congénito, requiere confirmación con TSH y T4L
+#C. Es un valor normal, no se requieren conductas adicionales
+#D. Es más confiable la TSH tomada del cordón que la tomada del talón, por lo se requiere confirmación con TSH y T4L
+#Respuesta correcta: B.
+#Tema e Ítem: Neonatología-Hipotiroidismo congénito
+    
+    Argumentación: Este paciente es un caso sospechoso de hipotiroidismo congénito, que se define como TSH ≥15 mUI/L en sangre de cordón umbilical o ≥10 mUI/L si es sangre del talón. El paso a seguir, es repetir la TSH y tomar también una T4L para definir si el paciente es un caso confirmado y así iniciar el tratamiento de forma precoz. En la opción D, encontramos un paso adecuado a seguir que es la confirmación con TSH y T4L, sin embargo la TSH tomada del cordón tiene una alta tasa de falsos positivos y la TSH tomada del talón es la universalmente aceptada para permitir la realización del tamizaje neonatal básico (apoyado por la Ley 1980 de 2019).
+    
+    El hipotiroidismo congénito ocurre en 1 de cada 2000-3000 recién nacidos, siendo una de las causas de retraso mental prevenible más frecuentes. Puede tener como etiología formas transitorias por el paso de anticuerpos maternos a través de la placenta, déficit o exceso de yodo e hipotiroidismo materno o formas permanentes por causas primarias (alteraciones tiroideas, siendo la más frecuente la disgenesia tiroidea) o causas hipotálamo-hipofisiarias (raras).
+    
+    Al nacer, los pacientes son asintomáticos por el paso transplacentario de T4L materna, pero los síntomas aparecen de forma progresiva, entre estos están: la ictericia fisiológica, las dificultades de alimentación (letargia, pérdida de interés, apneas durante la lactancia), el estreñimiento o la persistencia de fontanela posterior abierta al nacer. En cuanto a datos morfométricos, encontramos: distensión abdominal (hernia umbilical), mixedema palpebral y genital, facies típica (ojos separados, puente nasal deprimido y ancho, macroglosia, cuello corto y grueso), piel seca y cetrina, pelo frágil, entre otros.
+    
+    Cabe destacar que inicialmente en Colombia se propuso utilizar la muestra de sangre de cordón umbilical para ganar ventaja en la meta de tener coberturas del 90% en las ARS y del 95% en las EPS. Sin embargo, la muestra del talón tiene una gran utilidad porque permite la tamización de múltiples enfermedades. Se observa que al nacer los valores de TSH en sangre de cordón son hasta tres veces los valores normales en muestra de sangre del bebé, lo que supondría una alta tasa de falsos positivos. Otro problema es la mezcla con sangre materna.
+    
+    La consideración que se hace sobre los dos tipos de muestra es que se debe seguir
+    tomando la muestra de sangre de cordón umbilical para TSH con el fin de no afectar los niveles logrados de cobertura. En las situaciones donde esté programado hacer el tamizaje básico, indica la toma de muestra de sangre de talón del recién nacido, antes del alta hospitalaria, lo cual también aplica para el tamizaje ampliado.
+    
+    Bibliografía recomendada:
+    
+    - Grupo genética crónicas-Dirección de redes en salud pública. Instituto Nacional de Salud (INS). Actualización de las recomendaciones técnicas y operativas para laboratorios de tamizaje neonatal. Junio, 2022. Bogotá, Colombia.
+    - Connelly K. Clinical features and detection of congenital hypothyroidism. 2023. UpToDate Advanced.
+
+#Recién nacido de 3 horas de vida, nacido por cesárea, 38 semanas de edad gestacional. Su madre tiene DM2 controlada. Usted observa que desde hace unos minutos ha presentado cianosis peribucal, por lo que decide iniciarle O2 por cánula nasal a 2 litros/minuto, con lo cual satura 85%. A la auscultación, con soplo holosistólico II/VI a lo largo del borde esternal inferior izquierdo. La ecocardiografía muestra que las arterias pulmonares surgen de la parte posterior del ventrículo izquierdo y la aorta se eleva anteriormente desde el ventrículo derecho. ¿Cuál es el manejo inmediato que requiere el paciente?***
+#A. Administrar prostaglandina E1
+#B. Administrar indometacina
+#C. Llevar a cx urgente
+#D. Realizar una angiotomografía para confirmar diagnóstico antes de tomar decisiones
+#Respuesta correcta: A.
+#Tema e Ítem: Cardiopatías congénitas-Transposición de grandes vasos
+    
+    Argumentación: Este paciente presenta hallazgos ecocardiográficos consistentes con  una transposición de grandes arterias (TGA) o transposición de grandes vasos, donde la circulación sistémica se desconecta de la circulación pulmonar y la sangre venosa que es recibida por el ventrículo derecho es bombeada al resto del cuerpo sin ser oxigenada, por lo tanto, genera un rápido empeoramiento de la hipoxemia y cianosis poco después del nacimiento, depende de un conducto arterioso permeable. El conducto arterioso se mantiene permeable por el efecto de la baja presión parcial de oxígeno en la circulación fetal, así como por la producción endógena de prostaglandina E (PGE). Después del nacimiento, el conducto arterioso comienza a cerrarse en respuesta a un aumento en la presión parcial de oxígeno. Al administrar PGE IV, se mantiene abierto el conducto arterioso, permitiendo la mezcla de sangre entre la circulación pulmonar y sistémica. Este efecto es crucial para la supervivencia inicial de los pacientes con TGA porque es la única forma de mantener la oxigenación de la sangre arterial hasta que se pueda realizar la reparación quirúrgica. La indometacina es inhibidor no selectivo de la ciclooxigenasa que actúa cerrando el conducto arterioso al disminuir la síntesis de PG, por lo cual no es el tratamiento de elección en este paciente.
+    
+    La TGA es, por definición, la inversión anatómica de la aorta y la arteria pulmonar, saliendo la aorta del ventrículo izquierdo y la arteria pulmonar del ventrículo derecho. Es la segunda cardiopatía congénita más frecuente, después de la Tetralogía de Fallot. El factor de riesgo más estudiado es el ser nacido de una madre diabética.
+    
+    Al examen físico encontramos una cianosis posnatal que no mejora a pesar de la administración de O2 (por lo tanto, la TGA es una cardiopatía cianosante) y taquipnea. A la auscultación, podemos encontrar o soplo cardíaco. En la rx de tórax podemos observar un corazón en forma de “huevo colgado de una cuerda”, observando el corazón agrandado que se asemeja a un huevo acostado de lado y la cuerda que representa el mediastino superior que parece estrecho debido a la atrofia tímica inducida por el estrés. La ecocardiografía es la prueba confirmatoria, no requiere otros estudios adicionales. El manejo es iniciar lo más pronto posible la infusión de PGE1 IV para evitar el cierre del ductus arterioso. La reparación quirúrgica está recomendada dentro de las primeras dos semanas de vida. Sin tratamiento, el 90% de los pacientes con TGA mueren dentro del primer año de vida.
+    
+    Bibliografía recomendada:
+    
+    - Lince R; et al. Enfoque del recién nacido con sospecha de cardiopatía congénita. Tácticas y prácticas pediátricas: Un mar de posibilidades, 2021. UPB.
+    - Uricchio N. Transposition of the great arteries. Giornale Italiano Di Cardiologia, 2015 Feb;16(2):92-9. doi: 10.1714/1798.19582.
+
+#Varón de 35 años, quien acude a consulta con historial de dos meses de evolución de dolor cervical con irradiación a miembro superior derecho. Refiere que el dolor inicia en región cervical posterior e irradia por toda la cara dorsal de antebrazo hasta el tercer dedo. Refiere que ya el dolor no cede con analgésicos. Al examen físico se evidencia limitación de la movilidad cervical, reflejo tricipital derecho disminuido e hipoestesia en region dorsal de la mano y tercer dedo. Se enfoca como una cervicobraquialgia por hernia discal y se espera de los resultados de la resonancia magnética cervical.
+¿A qué nivel esperaría encontrar la hernia discal?***
+#A. C6-C7.
+#B. C7-T1.
+#C. C5-C6.
+#D. C4-C5
+#Respuesta correcta: A
+#Tema e ítem: Cervicobraquialgia por radiculopatía cervical -Identificando la raíz comprometida
+    
+    Argumento:  Recordemos que la forma más práctica de identificar la probable raíz comprometida en una radiculopatía cervical es mirando el dedo del mano afectado por el dolor:
+    •	Primer dedo → C6
+    •	Tercer dedo → C7
+    •	Quinto dedo → C8
+    
+    Recuerda que, en el espacio intervertebral lumbar, sale la raíz de la vértebra superior, y la raíz de la vértebra inferior suele ser la afectada en el caso de una hernia discal a ese nivel; sin embargo, en un espacio intervertebral cervical, sale y se afecta la raíz de la vértebra inferior. La hiporreflexia tricipital nos debe hacer pensar en la compresión de C7 (más común) y de C8. Así, estaríamos entre la opción A (C6- C7) y la opción B (C7- T1). En estos casos debemos tener presente el déficit sensitivo que produce la afectación de cada una de las raíces. En el caso de la compresión de C7, se afecta la cara dorsal del miembro superior (nos dice que se afecta la cara dorsal del antebrazo) y el tercer dedo, mientras que la compresión de C8 afecta la cara medial del antebrazo y el quinto dedo.
+    
+    Lectura recomendada:
+    
+    1. Peláez Pérez, JF. Dolor cérvico-braquial y radiculopatía cervical. Medellín: XXI Curso de Actualización para médicos generales – La visión del residente.
+
+#Mujer de 65 años, acude a consulta del programa control. Tiene antecedente de hipertensión arterial en tratamiento con losartan-amlodipino-hidroclorotiazida, dislipidemia en manejo con rosuvastatina e hipotiroidismo en manejo con levotiroxina. Refiere episodio de fractura de muñeca hace 2 años. ¿Cuál de los siguientes medicamentos de la paciente es eficaz para aumentar la masa ósea y disminuir el riesgo de fractura?***
+#A. Levotiroxina
+#B. Rosuvastatina
+#C. Losartan
+#D. Hidroclorotiazida
+#Respuesta correcta: D
+#Tema e ítem: Manejo antihipertensivo – Consideraciones especiale
+    
+    Argumento: Recordemos sobre el efecto protector de las tiazidas sobre la densidad mineral ósea. A diferencia de los diuréticos de asa los cuales aumentan la excreción de calcio de orina, las tiazidas poseen un efecto hipocalciúrico que puede ser protector frente a la aparición de la pérdida de masa ósea.
+    
+    Más allá del efecto a nivel renal, también actúan a nivel de células óseas contienen por medio de cotransportador Na+- Cl- que cuando es inhibido por las tiazidas, y que aumentan la captación ósea de calcio. Por lo tanto, las tiacidas promueven la mineralización ósea tanto por reducción de la excreción renal de calcio y por efectos directos sobre los huesos.
+    
+    Lectura recomendada:
+    
+    1. Shabaka Fernández A, Cases Corona C, Fernández Juarez G. Diuréticos.En: Lorenzo V., López Gómez JM (Eds). Nefrología al día. ISSN: 2659-2606. Disponible en: [https://www.nefrologiaaldia.org/217](https://www.nefrologiaaldia.org/217)
+
+#Masculino de 65 años consulta ya que ha notado un nódulo rosado de 7.5 mm desde hace 7 semanas que crece lentamente en la región posterior del cuello. La lesión presenta bordes elevados e hiperqueratósicos, no está asociado con dolor, prurito o secreción. El paciente refiere aplicación de esteroides tópicos de potencia baja sin mejoría. ¿Cuál es el paso a seguir en el abordaje de esta paciente?***
+#A. Biopsia excisional
+#B. Seguimiento por la consulta externa en 2 meses
+#C. Biopsia incisional
+#D. Escisión local amplia a 1-1.5 cm del borde de la lesión
+#Respuesta correcta: A
+#Tema e item: Carcinoma basocelular
+    
+    Argumento: Este paciente presenta un nódulo de gran tamaño, eritema difuso, bordes elevados e hiperqueratósicos que no genera prurito y que no presentan respuesta a los esteroides lo que debe hacerlo sospechar de un carcinoma escamocelular. Para la confirmación es necesaria la realización de biopsia escisional con remoción de toda la lesión, las cuales se extienden al menos hasta la dermis reticular media para permitir una evaluación adecuada de la enfermedad invasiva.
+    
+    ● A diferencia de una biopsia por escisión, una biopsia por incisión extrae solo una parte de la lesión. Debido a su tamaño, la lesión de este paciente se extirpa fácilmente, y el muestreo de solo una parte de la lesión podría pasar por alto áreas con una histología tumoral más agresiva.
+    
+    ● Una lesión en crecimiento sospechosa de cáncer de piel siempre debe someterse a una biopsia para un diagnóstico definitivo. La tranquilidad y el seguimiento pueden retrasar el diagnóstico y el tratamiento.
+    
+    ● La escisión quirúrgica con márgenes de 0,5 a 1 cm está indicada para extirpar el melanoma in situ. Aunque el melanoma amelanótico puede presentarse como un nódulo rosado, el paso inicial siempre debe ser una biopsia para diagnosticar la lesión y su extensión. Por el momento no es necesaria la escisión con márgenes.
+    
+    Lecturas recomendadas:
+    
+    - Kim DP, Kus KJB, Ruiz E. Basal Cell Carcinoma Review. Hematol Oncol Clin North Am. 2019 Feb;33(1):13-24. doi: 10.1016/j.hoc.2018.09.004. PMID: 30497670.
