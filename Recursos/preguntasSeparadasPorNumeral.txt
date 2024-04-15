@@ -20360,3 +20360,1347 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lecturas recomendadas:
     
     - Kim DP, Kus KJB, Ruiz E. Basal Cell Carcinoma Review. Hematol Oncol Clin North Am. 2019 Feb;33(1):13-24. doi: 10.1016/j.hoc.2018.09.004. PMID: 30497670.
+
+#Lina de 63 años de edad,  con antecedente de hipertensión arterial, diabetes tipo dos insulinodependiente, ansiedad, hipercolesterolemia, reflujo gastroesofágico, consumo de cigarrillo con IPA de 15 y cáncer medular de tiroides, para el cual se sometió hace dos días a una tiroidectomía total sin complicaciones. Ahora consulta por 1 hora de dolor de carácter urente en epigastrio,  asociado a náuseas sin emesis y diaforesis. Signos vitales FC: 64 lpm, FR: 17 rpm, PA:148/77 mm Hg. Al examen físico se evidenció incisión lineal de 3 cm sobre la parte anterior del cuello con 1 mm de eritema circundante y secreción serosa leve. La pared torácica y el abdomen no dolorosos al tacto, murmullo vesicular conservado, ruidos cardiacos rítmicos sin sobreagregados, sin hallazgos anormales. ¿Cuál es la conducta más apropiada en el manejo inicial de Lina?***
+#A. Solicitar electrocardiograma y troponinas
+#B. Se administra inhibidor de bomba de protones intravenoso
+#C. Se solicita radiografía de tórax y se inicia manejo con amoxicilina/Clavulanato
+#D. Se ordena angiografía pulmonar por TAC.
+#Respuesta correcta: A
+#Tema e ítem: ¿Cómo enfocar un dolor toracoabdominal?
+    
+    Argumento: Un paciente con antecedentes asociados a enfermedad cardiovascular que tiene un antecedente pre quirúrgico que cursa con dolor agudo en epigastrio asociado a disnea, diaforesis y náuseas, en ausencia de hallazgos anormales al examen físico, nos debe hacer sospechar de forma inicial de un infarto agudo de miocardio, antes que pensar en una causa gástrica, infecciosa o pulmonar; por ende, se debe solicitar de forma inicial y prioritaria un electrocardiograma de 12 derivadas y valor de troponinas a las 0 y 1 hora (Respuesta correcta A). Recordemos futuro R1 que Lina tiene muchos factores de riesgo de SCA perioperatorio, incluidos antecedentes de enfermedad arterial coronaria, hipertensión, diabetes mellitus y antecedentes de tabaquismo. Los antecedentes del paciente de cardiopatía isquémica y diabetes insulinodependiente implican un riesgo perioperatorio de aproximadamente 6,6% de un evento cardíaco importante.
+    
+    - Por otra parte, el uso de inhibidores de la bomba de protones se indica en escenarios como la enfermedad por reflujo gastroesofágico ( ERGE ) y para la profilaxis contra las úlceras por estrés posoperatorio. Aunque la paciente tiene antecedentes de ERGE y dolor epigástrico urente, la presencia de disnea y factores de riesgo cardiovasculares, deben hacer sospechar de otra entidad clínica más urgente, como lo es un IAM.
+    - Por otro lado, una radiografía de tórax es parte del estudio estándar de la neumonía y otras afecciones respiratorias postoperatorias, como la atelectasia; no obstante, para sospechar de un cuadro de neumonía se esperarían otros síntomas adicionales como tos, fiebre. Además, el manejo antibiótico no tiene indicación de uso en este momento, dado que el paciente cursa con un cuadro clínico donde, por el momento, no aparenta un origen infeccioso.
+    - Finalmente, la angiografía pulmonar por TC se utiliza para diagnosticar la embolia pulmonar (EP), que puede manifestarse con dolor torácico o toracoabdominal agudo y disnea. Además, una cirugía reciente y antecedentes de malignidad aumentan el riesgo de desarrollar EP; sin embargo, los pacientes con una puntuación de Wells ≤ 4 deben someterse primero a una prueba de dímero D. Aunque los niveles de dímero D de esta paciente probablemente estén elevados porque recientemente se sometió a una cirugía, aun así se deben medir los niveles de dímero D dado el valor predictivo negativo de niveles < 500 ng/ml para la EP. Además, dado que los hallazgos de Lina también pueden deberse a un infarto de miocardio, está indicado un paso diferente en el tratamiento para excluir primero este diferencial antes de someterse a pruebas de diagnóstico más invasivas.
+    
+    Lectura recomendada:
+    
+    - Gallego P. Ramírez J. Dolor torácico potencialmente mortal. Medellín. Curso de actualización medicina interna XXI. Universidad de Antioquia. 2021.
+
+#Diego de 54 años, con antecedente de diabetes tipo dos, hipertensión arterial y consumo de cigarrillo con IPA de 20, consulta ahora por una hora de dolor en hemitórax izquierdo, de carácter opresivo, sin referirse a otro segmento. El cuadro se acompaña de diaforesis y disnea. Signos vitales FC 59 lpm, FR 18 rpm, PA de 85/56 mm Hg. Al examen físico, palidez generalizada, frialdad distal, murmullo vesicular conservado y ruidos cardiacos rítmicos sin sobreagregados. Sin otro hallazgo anormal. Se realiza un electrocardiograma que muestra lo siguiente (foto al final). ¿Cuál de las siguientes conductas es la más adecuada para el manejo de este paciente?***
+    
+    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2021.png)
+    
+#A. Bolo de solución salina al 0.9%
+#B. Atropina intravenosa
+#C. Morfina intravenosa
+#D. Nitroglicerina
+#Respuesta correcta: A
+#Tema e ítem: Sobre que usar y que no en infarto agudo de miocardio derecho
+    
+    Argumento: En un paciente que cursa con dolor torácico agudo de las características del descrito en la pregunta previa, y que cursa con un electrocardiograma con elevación del segmento ST en las derivadas de cara inferior, se debe sospechar posible extensión hacia lado derecho. Además, dada la presencia de hipotensión e hipoperfusión (frialdad) se debe sospechar un gasto cardíaco bajo y un shock cardiogénico inminente, por lo que en este escenario se deben administrar líquidos intravenosos (Respuesta correcta A) para optimizar la precarga. Recordemos futuro R1 que el manejo del IAM derecho se centra en mantener un equilibrio adecuado del volumen intravascular para asegurar un llenado ventricular óptimo, dado que el ventrículo derecho es más sensible a las variaciones de volumen.
+    
+    - Por otra parte, la atropina intravenosa se puede utilizar para tratar las bradiarritmias que frecuentemente ocurren dentro de las 24 horas posteriores al infarto de miocardio inferior; sin embargo, se debe considerar otra intervención antes de administrar atropina (uso de líquidos), antes de usar esta última que puede ser ineficaz sin realizar primero oro tipo de intervenciones.
+    - Por otra lado, la morfina intravenosa se usa para tratar el dolor torácico intenso y la ansiedad en el infarto agudo de miocardio, sin embargo, está medicación reduce la precarga al inducir dilatación venosa; por tanto, está contraindicado en el infarto del ventrículo derecho (el cual recordemos es precarga dependiente).
+    - Finalmente, los nitratos se indican para el tratamiento sintomático del síndrome coronario agudo (SCA), excepto cuando se presente alguno de los siguientes síntomas: sospecha o confirmación de afectación ventricular derecha, hipotensión, bradicardia o uso reciente de inhibidores de la fosfodiesterasa. Los pacientes con disfunción ventricular derecha, dependen de la precarga para mantener una presión arterial adecuada. Por tanto, el uso de nitratos puede asociarse a problemas específicos como disminución de la precarga, riesgo de hipotensión y dificultad para la priorización del manejo volumétrico. Lo que, en resumen, es una contraindicación del uso de nitratos en el manejo del paciente con sospecha o confirmación de IAM derecho.
+    
+    Lectura recomendada:
+    
+    - Jeffers, J. L., Boyd, K. L., Parks, L. J. Right Ventricular Myocardial Infarction. Available In StatPearls. 2023
+
+#Eduardo de 59 años, con antecedente de hipertensión arterial en manejo con enalapril y amlodipino, diabetes  tipo 2 en manejo con metformina y consumo de cigarrillo con IPA de 20, consulta junto a su esposa a urgencias por 3 días de disnea progresiva, sin comentar otra sintomatología.  Su esposa informa que sólo toma sus medicamentos cada dos o tres días. Signos vitales T 37,1 °C, FC de 86 lpm, PA de 167/95 mm Hg, SO2 de 91% al ambiente. Al examen físico se auscultan crépitos gruesos en bases pulmonares, sin otro hallazgo anormal. ¿Cuál es la conducta adecuada a seguir?***
+#A. Administrar furosemida intravenosa
+#B. Indica uso de salbutamol y corticosteroide inhalado
+#C. Ordena manejo con ampicilina/sulbactam
+#D. Administran corticosteroides intravenosos
+#Respuesta correcta: A
+#Tema e ítem: Estrategia terapéutica en Edema pulmonar secundario a  insuficiencia cardíaca aguda descompensada
+    
+    Argumento: Este paciente que cursa con dificultad respiratoria (disnea aguda, hipoxemia) y crepitantes bibasales en la auscultación pulmonar, junto con su historia de hipertensión de larga data y mal controlada, deben hacer sospechar de un edema pulmonar secundario a una posible insuficiencia cardíaca aguda descompensada (ICAD). Dado que Eduardo está hemodinámicamente estable a pesar de sus hallazgos clínicos anormales, el manejo se basa en uso de diurético de asa (respuesta correcta A), elevación de la cabecera y oxígeno. Recordemos que la diuresis produce una disminución del volumen intravascular, lo que reduce la precarga cardíaca, la presión venosa central y la presión de los capilares pulmonares, lo que, a su vez, reduce el edema pulmonar. Además, en pacientes con edema pulmonar , la furosemida provoca una venodilatación transitoria, reduciendo aún más la congestión pulmonar, incluso antes del inicio de la diuresis.
+    
+    - Por otra parte, el salbutamol y los corticosteroides inhalados generalmente están indicados en pacientes con dificultad respiratoria debido a una enfermedad pulmonar obstructiva (asma, enfermedad pulmonar obstructiva crónica). Este tipo de condiciones clínicas se manifiestan usualmente con sibilancias y roncus al examen físico y no con crépitos pulmonares.
+    - Por otro lado, los antibióticos pueden estar indicados para pacientes con dificultad respiratoria debido a neumonía; sin embargo, esta afección se manifiesta típicamente con crepitantes unilaterales, fiebre, dolor torácico pleurítico y tos productiva, en lugar de los crépitos pulmonares bibasales que se auscultan en Eduardo.
+    - Finalmente, los corticosteroides intravenosos se administran en pacientes con dificultad respiratoria debido a una exacerbación aguda de la enfermedad pulmonar obstructiva crónica. Aunque este paciente tiene un historial de tabaquismo de larga data, lo que lo pone en mayor riesgo de EPOC; no obstante, en una exacerbación de EPOC se esperaría encontrar un aumento de la frecuencia o gravedad de la tos y/o un aumento del volumen o purulencia del esputo.
+    
+    Lectura recomendada:
+    
+    - Malek R, Soufi S. Pulmonary Edema. Available In: StatPearls. 2024
+
+#Arturo de 51 años de edad, con antecedente de diabetes
+tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de forma súbita refiere durante el recorrido inicia con náuseas, diaforesis, palidez y palpitaciones. Usted un médico/médica que estaba ejercitándose por el lugar se acerca a evaluar el paciente. La esposa del paciente le comentó que durante las últimas 3 semanas Arturo ha estado intentando perder peso y ha ajustado su dieta y nivel de actividad. Sigue una dieta baja en carbohidratos y nada 3 veces por semana. El paciente le pide a su esposa que traiga el botiquín de sus medicamentos del carro. Poco antes de que su esposa regrese del auto con su botiquín de medicamentos de emergencia, Arturo pierde el conocimiento. ¿Cuál es la conducta adecuada a seguir en este escenario y contexto?***
+#A. Administrar Glucagón intramuscular
+#B. Indica Dextrosa intraarterial
+#C. Dar glucosa oral por medio de carbohidratos de acción rápida
+#D. Indica uso de epinefrina subcutánea
+#Respuesta correcta: A
+#Tema e ítem: Manejo extrahospitalario de la hipoglicemia
+    
+    Argumento: El glucagón intramuscular es el tratamiento de elección en un entorno no hospitalario para pacientes con hipoglucemia grave que están inconscientes o no pueden tolerar la administración oral de carbohidratos de acción rápida (Respuesta correcta A). Si bien en nuestro medio no es usual que los pacientes con diagnóstico de diabetes cuenten con este tipo de medicación de forma extrahospitalaria, es de forma internacional y según la literatura la estrategia indicada para el manejo de hipoglicemia en el paciente sin vía oral (por ejemplo por alteración del estado de consciencia), y que a su vez, tiene disponibilidad extrahospitalaria. Recuerda futuro R1 que el glucagón eleva la producción endógena de glucosa mediante la glucogenólisis y la gluconeogénesis hepática.
+    
+    - Por otra parte, en un entorno hospitalario, la dextrosa intravenosa, en lugar de la intraarterial, es el tratamiento de elección para una persona inconsciente con hipoglucemia grave. Además, independientemente del método de aplicación, en el contexto del caso clínico planteado y las opciones de respuesta, existe un tratamiento inicial que es el del glucagón.
+    - Por otro lado, la administración de glucosa oral con carbohidratos de acción rápida (dulces o jugos) es una parte importante del tratamiento de los pacientes conscientes con hipoglucemia; sin embargo, Arturo está inconsciente; por lo tanto, la glucosa administrada por vía oral no es factible.
+    - Finalmente, la administración de epinefrina puede aumentar los niveles de glucosa en sangre; sin embargo, los estudios han demostrado que las respuestas no son confiables ni sostenidas. La epinefrina subcutánea o intramuscular generalmente se usa en el tratamiento de la anafilaxia, pero no en el contexto de hipoglicemia.
+    
+    Lectura recomendada:
+    
+    - Mathew P, Thoppil D.Hypoglycemia. Available in StatPearls. 2024
+
+#Bryan de 21 años, llevado a urgencias por la policía por alteración del estado mental. Refieren que lo encontraron tapándose los oídos, gritando en la carretera y con lenguaje incoherente. Además, comentan que de camino al hospital, Bryan tuvo 2 episodios eméticos precedidos por náuseas. Signos vitales T° 38,2 °C, FC de 100 lpm, FR de 28 rpm y PA de 110/77 mm/Hg, se realizan unos paraclínicos iniciales que reportan Na: 140, Cl: 102, y gases arteriales pH 7.47, paCO2: 24mmHg, PO2: 84 mm/Hg, HCO3: 20 mEq/L. Tres horas después del ingreso presenta convulsión tónico-clónica y se repiten gases arteriales que reportan pH 7.47, paCO2: 24mmHg, PO2: 84 mm/Hg, HCO3: 20 mEq/L y a las 3 horas pH 7.39, paCO2: 31mmHg, PO2: 82 mm/Hg, HCO3: 18 mEq/L. ¿Cuál de las siguientes es la explicación más probable de los hallazgos de laboratorio del paciente?***
+#A. Intoxicación por salicilatos
+#B. Sobredosis de opioides
+#C. Cetoacidosis diabética
+#D. Episodios eméticos
+#Respuesta correcta: A
+#Tema e ítem: Enfoque del Paciente Intoxicado
+    
+    Argumento: Bryan inicialmente tenía gases arteriales del ingreso con alcalosis respiratoria al ingreso, posteriormente a las 3 horas la disminución significativa del pH y del HCO3, junto con una brecha aniónica elevada (20 mEq/L) sugiere acidosis metabólica. Además, dado que la PaCO2 de este paciente (31 mm/Hg) es menor de lo que se esperaría de la compensación respiratoria normal de la acidosis metabólica (35 mm Hg ± 2 según la fórmula de Winter), lo más probable es que este paciente tenga un trastorno ácido-base mixto. Las características clínicas de náuseas, emesis, cambio del estado mental, taquipnea e hipertermia, junto con lo mencionado previamente, debe hacernos sospechar de una toxicidad por salicilatos (Respuesta correcta A), probablemente por sobredosis de aspirina. Recordemos que en fase de toxicidad temprana por salicilatos se estimula directamente el centro respiratorio, lo que causa taquipnea, las cual se manifiesta con alcalosis respiratoria. Posteriormente, la acumulación de ácidos orgánicos (salicilatos inhiben las deshidrogenasas ciclo del ácido cítrico) provoca una acidosis metabólica con alto desequilibrio aniónico, que conduce a un trastorno ácido-base mixto.
+    
+    - Por otra parte, la sobredosis de opioides puede manifestarse con alteración del estado mental y convulsiones; sin embargo, no se manifiesta con taquipnea y alcalosis respiratoria, sino con acidosis respiratoria secundaria a depresión respiratoria. Además, la sobredosis de opioides no causa un trastorno ácido-base mixto y se asocia con síntomas adicionales como miosis bilateral, bradicardia, hipotensión e hipotermia.
+    - En cuanto a la cetoacidosis diabética (CAD) puede manifestarse con alteración del estado mental, convulsiones, náuseas, emesis, taquipnea y acidosis metabólica con desequilibrio aniónico elevado; sin embargo, la CAD no se asocia con un trastorno ácido-base mixto; en cambio, se observaría una compensación respiratoria adecuada para la acidosis metabólica (lo que daría como resultado la respiración de Kussmaul). Además, la CAD generalmente se presenta con síntomas adicionales como poliuria, polidipsia, pérdida de peso, signos de depleción de volumen, dolor abdominal.
+    - Finalmente, los dos eventos eméticos podría llegar a causar una pérdida significativa de HCl, NaCl y KCl, lo que lleva a una alcalosis metabólica, hipocloremia e hipopotasémica; no obstante, Bryan no tiene hipocloremia y la emesis tampoco explicaría la alcalosis respiratoria inicial de este paciente ni la acidosis metabólica con brecha aniónica alta.
+    
+    Lectura recomendada:
+    
+    - Rivera J.A, Piedrahita N.H. Enfoque del Paciente Intoxicado: La visión del internista. Medellín. XXI Curso de actualización en medicina interna. Universidad de Antioquia. 2022.
+
+#Don Hebert de 60 años, con antecedente de HTA y DM2, consultó por 6 meses de evolución de aumento de la frecuencia urinaria, nicturia y polaquiuria que no le permiten realizar sus actividades de la vida diaria. No refiere sangrado, disuria, hematuria. Sus signos vitales están dentro de los límites normales. El examen abdominal no muestra anomalías. El tacto rectal muestra una próstata agrandada, simétricamente, firme y no dolorosa, sin nódulos. ¿Cuál de las siguientes opciones debe ser la primera conducta a realizar con este paciente?***
+#A. Uroanálisis
+#B. Ultrasonografía de próstata
+#C. Biopsia de próstata
+#D. Prueba de antígeno prostático específico
+#Respuesta correcta: A
+#Tema e ítem: ¿Uroanálisis o antígeno prostático, cuál escoger primero en hiperplasia prostática benigna?
+    
+    Argumento: La presencia de síntomas de las vías urinarias inferiores (LUTS por siglas en inglés) junto con una próstata agrandada simétricamente, firme y no dolorosa, sin nódulos en el tacto rectal en un paciente > 50 años de edad, nos deben hacer sospechar de una hiperplasia prostática benigna (HPB); no obstante, varias entidades aparte de la HPB como las infecciones del tracto urinario (ITU), las enfermedades malignas (cáncer de próstata, el cáncer de vejiga) y la diabetes mellitus pueden causar LUTS; por ende, el uroanálisis es el primer paso diagnóstico en todos los pacientes con LUTS (Respuesta correcta A) porque nos permite descartar ciertas etiologías. Recordemos futuro R1 que la pregunta era clara en decir "la primera conducta a realizar" por lo que el uroanálisis será el paso inicial.
+    
+    - Por otra parte, la ecografía transrectal de la próstata se puede utilizar para evaluar el tamaño de la próstata y así guiar la elección del tratamiento en pacientes con HPB; sin embargo, la ecografía de próstata no se recomienda de forma rutinaria para diagnosticar la HPB.
+    - En cuanto a realizar una biopsia de próstata, esta no se realiza de forma rutinaria para diagnosticar la HPB, pero es la prueba de confirmación para la sospecha clínica de cáncer de próstata, la cual se da por presencia de próstata nodular o dura en el tacto rectal junto con un antígeno sérico prostático (PSA por sus siglas en inglés) persistentemente elevado; no obstante, Don Hebert no cuenta con hallazgos clínicos que nos sugieran cáncer de próstata, y aunque los tuviera, sería necesario solicitar un PSA antes de la biopsia.
+    - Finalmente, se debe considerar la medición del nivel sérico del antígeno prostático específico en pacientes con sospecha de cáncer de próstata que tienen una esperanza de vida > 10 años y son candidatos a tratamiento. Las características que hacen sospechar cáncer de próstata incluyen LUTS complicados (hematuria, retención urinaria, incontinencia) y hallazgos anormales en el tacto rectal tales como nódulos duros e indoloros, asimetría lobular y obliteración del surco, ninguno de los cuales está presente en Don Hebert. Si bien también se pueden obtener los niveles de PSA para ayudar en la selección de la farmacoterapia para la HPB en ausencia de imágenes, no se recomienda de forma rutinaria en el estudio de pacientes con LUTS y sospecha de HBP.
+    
+    Lectura recomendada:
+    
+    - McVary K.Clinical manifestations and diagnostic evaluation of benign prostatic hyperplasia. Available in Up To date 2023.
+
+#Juan Camilo de 30 años, sin antecedentes médicos de interés, consultó por tres días de fiebre, escalofríos, odinofagia y disfagia. No refiere tos, dolor torácico o disnea. Signos vitales con Tº de  39,8 °C, PA de 118/76 mmHg, FC de 102 lpm y FR de 19 rpm. Al examen físico se encontró paciente disfónico, con linfadenopatía unilateral izquierda dolorosa, la úvula se desvía hacia la derecha. ¿Cuál es el manejo de este paciente?***
+#A. Realizar un frotis de garganta y antibióticos orales
+#B. Solicitar una prueba de monospot
+#C. Realizar laringoscopia de emergencia
+#D. Realizar una aspiración periamigdalina con aguja
+#Respuesta correcta: D
+#Tema e ítem:  ¿Cuál es el tratamiento del Absceso periamigdalino?
+    
+    Argumento:  La historia de tres días de fiebre, escalofríos, odinofagia y disfagia probablemente fuese secundaria a un cuadro de amigdalitis; no obstante, la disfonía y la desviación de la úvula sugieren que se desarrolló un absceso periamigdalino como una complicación de su amigdalitis. Los pacientes con un absceso periamigdalino típicamente tienen linfadenopatía unilateral prominente, como se ve en este paciente. Esta condición puede ser fatal como consecuencia de la obstrucción de las vías respiratorias o la propagación de la infección al espacio parafaríngeo, lo que puede provocar la afectación de la vaina carotídea. El tratamiento inicial consiste en la aspiración del absceso periamigdalino (Respuesta correcta D) y el inicio de antibióticos intravenosos. La intervención quirúrgica puede ser necesaria si el material purulento no se puede eliminar solo con aspiración.
+    
+    - En cuanto a la realización de frotis faringeo y antibióticos orales, hacen parte del tratamiento habitual de la faringoamigdalitis, pero la disfonía y la desviación de la úvula sugieren que se trata de una infección más complicada que requiere una intervención como la aspiración por aguja.
+    - Por otra parte, la prueba de monospot, es una prueba donde se buscan anticuerpos específicos en sangre, que aparecen durante o después de una infección por virus de Epstein-Barr; no obstante, la linfadenopatía unilateral de este paciente, la desviación de la úvula y la disfonía no son compatibles con la mononucleosis.
+    - Finalmente, la laringoscopia de emergencia se realiza en pacientes con epiglotitis para garantizar una protección adecuada de las vías respiratorias. La epiglotitis puede presentarse con disfagia y disfonía similar a la observada en este paciente, pero la linfadenopatía unilateral y la desviación de la úvula sugieren más un absceso periamigdalino. Además, la epiglotis se encuentra más distal en las vías respiratorias y no es adyacente a la úvula.
+    
+    Lecturas recomendadas:
+    
+    - Laura González Gala. Patología de la faringe. Disponible en Manual de otorrinolaringología CTO 2020.
+
+#Jose de 55 años, con antecedente de diabetes mellitus 2, consulta por lesión indolora en la planta del pie izquierdo de 2 semanas de evolución, no refiere trauma reciente. Signos vitales Tº 37,5, FC 79 lpm y PA de 124/78 mmHg. Al examen físico úlcera de 1x1 cm en la cara plantar del pie izquierdo cerca de la base del segundo dedo. La úlcera tiene márgenes bien definidos, secos, hiperqueratósicos y una base eritematosa. Los pulsos pedios son palpables. Hay disminución de la sensibilidad por tacto ligero, tacto fino y vibración en ambas extremidades inferiores. ¿Cuál es la conducta diagnóstica adecuada a seguir?***
+#A. Resonancia magnética del pie
+#B. Test del contacto óseo
+#C. Gammagrafía ósea
+#D. Hisopado superficial de la herida
+#Respuesta correcta: B
+#Tema e ítem: ¿Qué estrategias diagnósticas se utilizan para el diagnóstico de osteomielitis?
+    
+    Argumento: Este paciente ha desarrollado una úlcera de pie diabético, que puede progresar rápidamente a osteomielitis. La prueba “probing to bone” o test de contacto óseo se usa para evaluar la probabilidad de osteomielitis en pacientes con úlceras del pie diabético. La prueba es positiva (probable osteomielitis) si la sonda estéril insertada en la úlcera entra en contacto con el hueso. Se debe sospechar osteomielitis en cualquier paciente con una úlcera y una o más de las siguientes características: una prueba de sonda-hueso positiva o tejido óseo expuesto, una úlcera que recubre una prominencia ósea y tiene un tamaño > 2 cm, profundidad > 3 mm y/o signos locales de infección (pus, márgenes de herida eritematosos, base de úlcera necrótica, senos adyacentes), úlceras crónicas (≥ 4 semanas) y/o resistentes al tratamiento, una VSG marcadamente aumentada sin explicación. Si se sospecha osteomielitis, se deben realizar imágenes en la región comprometida. El diagnóstico definitivo de osteomielitis se establece mediante hallazgos histológicos característicos y un cultivo positivo en la biopsia ósea.
+    
+    - Por otra parte, se puede usar una resonancia magnética del pie para evaluar la osteomielitis , pero los hallazgos del examen son variados y poco concluyentes para este diagnóstico. Se debe realizar un paso adicional antes de considerar una resonancia magnética.
+    - Por otro lado, se puede usar una gammagrafía ósea para evaluar la osteomielitis, pero en este punto, los hallazgos del examen son variados y poco concluyen para la osteomielitis. Se debe realizar un paso adicional antes de considerar una gammagrafía ósea.
+    - Finalmente, se puede usar un hisopo de una herida de una úlcera del pie diabético para detectar una infección de tejidos blandos; sin embargo, la mayoría de las heridas están colonizadas superficialmente por una variedad de bacterias que no están relacionadas con el patógeno causante de la infección. Por lo tanto, un hisopo de tejido profundo es más confiable que un hisopo superficial para detectar el patógeno causante de la infección de tejido blando.
+    
+    Lecturas recomendadas:
+    
+    - Murphy-Lavoie HM, Ramsey A, Nguyen M, et al. Diabetic Foot Infections. Available in StatPearls 2023.
+
+#Adriana de 49 años, sin antecedentes de interés y previamente sana, consultó a urgencias por cuadro clínico de 45 minutos de duración de dolor torácico referido a espalda que inició mientras almorzaba. Refiere que durante los últimos 3 meses, ha tenido con frecuencia la sensación de que la comida, tanto líquida como sólida, se “atascaba” generando sensación opresiva en tórax. Los signos vitales del paciente están dentro de los límites normales. Un electrocardiograma evidenció un ritmo sinusal sin elevación o alteración del ST, con troponina a las 0 y 1 hora sin elevación, se realizó un esofagograma que reportó un esófago en sacacorchos y una manometría con contracciones prematuras espontáneas de gran amplitud y duración. ¿Cuál es el diagnóstico más probable?***
+#A. Espasmo esofágico distal
+#B. Enfermedad por reflujo gastroesofágico
+#C. Acalasia
+#D. Esófago en cascanueces
+#Respuesta correcta: A
+#Tema e ítem: Trastornos motores del  esófago: Un abordaje clínico e imagenológico.
+    
+    Argumento: Ante la presencia de dificultad posterior a la ingesta de alimentos tanto líquidos como sólidos, acompañado de dolor torácico no cardiogénico con un esofagograma que reportó un  esófago en sacacorchos (producido por las contracciones anómalas) y las contracciones  prematuras espontáneas en la manometría, se debe pensar en un espasmo esofágico distal (EED) (Respuesta correcta A). Recordemos futuro R1 que el espasmo esofágico distal (disfagia esofágica motora intermitente) es un trastorno episódico caracterizado por la existencia de múltiples contracciones prematuras, espontáneas o inducidas por la deglución, que generalmente son de gran amplitud y duración. Suele presentar también ondas terciarias de comienzo simultáneo no eficaces. Las contracciones repetitivas, no peristálticas y no progresivas impiden la progresión de los alimentos sólidos y líquidos hacia el esófago, lo que clásicamente conduce a disfagia y/o dolor torácico retroesternal opresivo.
+    
+    - Por otra parte, la Enfermedad por reflujo gastroesofágico (ERGE) se caracteriza por la presencia de múltiples erosiones en la mucosa durante la endoscopia; no obstante, el caso clínico no nos brinda información de un resultado de endoscopia, para lo cual es importante tener en cuenta que si bien la ERGE puede provocar dolor retroesternal agudo que se irradia a la espalda y, en algunos casos, disfagia, el esofagograma en esta entidad suele ser normal.
+    - En cuanto a la Acalasia, puede cursar con disfagia tanto a sólidos como a líquidos, así como dolor torácico retroesternal; sin embargo, un esofagograma mostraría dilatación del segmento esofágico preestenótico y una apariencia de “pico de pájaro” en el segmento estenótico. Además, la manometría reportaría presión elevada del esfínter esofágico inferior
+    - Finalmente, las contracciones hipertensivas en la manometría esofágica son consistentes con peristalsis hipertensiva (esófago en cascanueces), lo que puede causar disfagia y dolor en torácico al comer; sin embargo, un esofagograma suele ser normal en pacientes con esófago en cascanueces.
+    
+    Lectura recomendada:
+    
+    - Merino B,García J, et all. Enfermedades inflamatorias del esófago. Disponible en el Manual CTO de Medicina y Cirugía. 2019
+
+#Ofelia de 45 años, con antecedente de consumo de 5 cigarrillos al día desde los 20 años y consumo ocasional de alcohol sin llegar a la embriaguez, consultó por cuadro de 2 años de evolución refiriendo “tengo calambres en el pecho después de comer”, acompañado de dificultad progresiva para tragar sólidos y líquidos. Comentó a veces regurgita alimentos parcialmente digeridos y ahora come principalmente purés, por lo que ha perdido 4 kg de peso en los últimos 6 meses a pesar de que no ha habido cambios en el apetito. Los signos vitales están dentro de los límites normales. Al examen físico IMC de 24 kg/m2, sin hallazgos anormales al examen físico. Se realizó una prueba de deglución esofágica de bario que evidenció dilatación del esófago proximal con estenosis de la unión gastroesofágica y retraso en el vaciado de bario. Una endoscopia superior muestra mucosa esofágica y gástrica normal sin evidencia de obstrucción mecánica. La manometría esofágica muestra una presurización paneesofágica simultánea y descoordinada con una relajación incompleta del esfínter esofágico inferior. ¿Cuál es la conducta adecuada a seguir?***
+#A. Indica dilatación neumática con balón
+#B. Uso de nitratos
+#C. Administración de inyección de toxina botulínica
+#D. Ubicar un stent esofágico
+#Respuesta correcta: A
+#Tema e ítem: ¿Qué manejo seleccionar en acalasia?
+    
+    Argumento: En pacientes con acalasia que tienen un riesgo quirúrgico bajo a promedio (pacientes más jóvenes, sin comorbilidades), las opciones de tratamiento más efectivas son la dilatación neumática, la miotomía endoscópica peroral y la miotomía de Heller (Respuesta correcta A) El objetivo de estos tratamientos es alterar mecánicamente las fibras musculares del esfínter esofágico inferior (EEI) y disminuir la presión en reposo, permitiendo así el paso de los sólidos y líquidos ingeridos al estómago. Recordemos futuro R1 que ninguno de estos tratamientos es curativo, y los pacientes suelen presentar síntomas recurrentes que pueden requerir tratamiento adicional.
+    
+    - Por otra parte, el tratamiento farmacológico con nitratos es el tratamiento menos eficaz para la acalasia y generalmente se reserva para pacientes en los que todas las demás opciones de tratamiento son inviables o no tienen éxito.
+    - Por otro lado, las inyecciones de toxina botulínica en el EEI son una alternativa adecuada para pacientes que tienen un alto riesgo quirúrgico (edad avanzada, comorbilidades importantes); sin embargo, la eficacia de las inyecciones de toxina botulínica es menor que la de otras opciones de tratamiento y más del 50% de los pacientes requieren inyecciones adicionales dentro de 6 a 12 meses. Por lo tanto, en pacientes que tienen un riesgo quirúrgico bajo (pacientes más jóvenes, sin comorbilidades), se prefiere otro paso en el tratamiento.
+    - Finalmente, la colocación de un stent esofágico es un tratamiento paliativo para la obstrucción esofágica mecánica debida a una neoplasia maligna (cáncer de esófago). Este paciente no presenta signos de obstrucción mecánica o malignidad en la endoscopia superior. Por lo tanto, no se recomienda la colocación de un stent esofágico.
+    
+    Lectura recomendada:
+    
+    - Momodu II, Wallen JM. Achalasia. Available in: StatPearls. 2024
+
+#Ana María, seis años, sin ningún antecedente patológico. Es llevada a su consulta por la madre debido a talla baja, asegura que tiene la estatura más baja del salón y que eso le preocupa. Al examen físico, tiene una T/E entre -2 y -3, no tiene ningún hallazgo patológico.  ¿Cuál sería su conducta?***
+#A. Es talla baja con criterios de evaluación por endocrinología
+#B. Corresponde a una talla baja patológica, envío exámenes
+#C. Es talla baja idiopática con criterios de evaluación por endocrinología
+#D. Corresponde a una talla baja, requiero más datos
+#Respuesta correcta: D.
+#Tema e Ítem: Talla baja – Enfoque y criterios de evaluación por endocrinología
+    
+    Argumento:  Ana María, tiene una talla baja de acuerdo con las curvas colombianas de crecimiento, sin embargo, requiere más datos para poder clasificar las posibles causas.
+    
+    La talla baja es un motivo de consulta frecuente al pediatra y de derivación a endocrinología infantil, sin embargo, la mayoría de los niños que consultan por este motivo son niños sanos y su talla baja es el resultado de la variabilidad normal de la talla y del ritmo madurativo del ser humano. Antes de iniciar la exploración del paciente con talla baja es necesario garantizar dos aspectos: que la antropometría haya sido tomada de forma adecuada y que esas medidas sean graficadas en las curvas de crecimiento adecuadas para edad, sexo y raza. La GPC recomienda utilizar en menores de 5 años las curvas de la OMS y para los mayores, usar las curvas colombianas.
+    
+    Las principales causas de talla baja son muy variadas. Hay dos grandes grupos de clasificación para los hipocrecimientos: los normales o variantes normales de talla baja y los patológicos; solo el 60-80% de los hipocrecimientos corresponden a una talla baja idiopática.
+    
+    En todo paciente con talla baja es un fundamental hacer una historia clínica completa, con antecedentes familiares incluidos y hacer un análisis exhaustivo de sus curvas de crecimiento: talla de inicio, velocidad de crecimiento, desarrollo puberal y talla medio parental. Dentro del examen físico, es fundamental medir los segmentos corporales. Según la sospecha clínica, se enviarán los exámenes correspondientes.
+    Hay ciertos hallazgos que hacen sospechar un origen patológico en un niño con talla baja. Distintas sociedades, incluida la Sociedad Colombiana de Endocrinología Pediátrica, sugieren tener en cuenta las siguientes características:
+    -Talla menor o igual a -3DE
+    -Talla menor o igual a -2 DE para talla medio parental
+    -Pequeño para la edad gestacional sin reatrapaje
+    -Velocidad de crecimiento disminuida persistentemente
+    -Retraso en edad ósea mayor a 2 años
+    -Rasgos dismórficos
+    -Disarmonía corporal
+    -Patología crónica
+    
+    Bibliografía recomendada:
+    Saldarriaga S; et al. Talla baja: enfoque desde la perspectiva del pediatra, ¿Cuándo remitir al endocrinólogo? Temas clave en consulta externa pediátrica, 7. Universidad CES, marzo 2024.
+    
+
+#Simona, 6 años, sin antecedentes patológicos o familiares relevantes. Es llevada por su tía a su consulta, debido a que presenta crecimiento de los senos y del vello púbico y axilar desde hace varios meses. No ha presentado cambios en su conducta ni en su rendimiento escolar. Niega otros síntomas acompañantes. Tiene unas medidas antropométricas adecuadas para su edad. Se observa vello axilar, el vello púbico y los senos están la etapa 3 de Tanner. Lleva un carpograma, con una edad ósea consistente con una edad de 8 años. El nivel basal de LH es alto. ¿Cuál de los siguientes es el mejor paso siguiente en la evaluación de esta paciente?***
+#A. ECO pélvica
+#B. RMN cerebral
+#C. TAC de suprarrenales
+#D. Prueba de supresión con dexametasona
+#Respuesta correcta: B
+#Tema e Ítem: Pubertad precoz – Diferenciación entre central y periférica
+    
+    Argumento: La pubertad precoz (PP) central (dependiente de gonadotropinas) resulta de la activación prematura del eje hipotalámico-pituitario-gonadal (HPG) en niñas <8 años y niños <9 años. La exposición temprana a un aumento de las hormonas gonadales da como resultado el desarrollo de los senos o el agrandamiento testicular y el crecimiento del vello axilar/púbico a una edad temprana. Los niveles altos de andrógenos y estrógenos también promueven una mayor formación de hueso y crecimiento de cartílago, lo que conduce a un crecimiento puberal temprano (aumento de la velocidad de altura) y una edad ósea avanzada. Sin embargo, el estrógeno estimula el cierre de la placa de crecimiento, por lo que los pacientes a menudo tendrán una altura adulta más baja de lo esperado.
+    
+    La PP central se distingue de la periférica por un nivel elevado de LH al inicio (debido a la secreción hipotalámica de GnRH) o después de la estimulación con un agonista de GnRH. Por el contrario, las hormonas sexuales elevadas en pacientes con PP periférica suprimen los niveles de LH mediante retroalimentación negativa.
+    Aunque la PP central es típicamente idiopática, puede ser la primera manifestación de un proceso intracraneal incluso en pacientes asintomáticos, como en esta paciente. Las lesiones del sistema nervioso central (SNC) pueden causar PP a través de la producción endógena de hormonas (p. ej., hamartoma hipotalámico secretor de GnRH, adenomas hipofisarios secretores de FSH y LH) o al afectar indirectamente el eje HPG debido al efecto de masa o al aumento de la presión intracraneal (p. ej., craneofaringioma). Los pacientes con PP central requieren una RMN cerebral para evaluar si hay un tumor hipotalámico o pituitario. Una vez que se excluye un tumor del SNC, el tratamiento primario para la PP central idiopática es la terapia con agonistas de GnRH, que previene la fusión prematura de la placa epifisaria y maximiza el potencial de estatura adulta.
+    
+    - La tomografía computarizada suprarrenal o la ecografía pélvica evalúan la presencia de tumores suprarrenales o gonadales, respectivamente, que pueden causar PP periférica. Los pacientes con PP periférica tienen niveles bajos de LH y FSH.
+    - La prueba de supresión con dexametasona se utiliza para diagnosticar el síndrome de Cushing. Los pacientes pueden tener signos de sobreproducción aislada de andrógenos suprarrenales (p. ej., acné, hirsutismo); no hay desarrollo mamario prematuro asociado.
+    
+    Bibliografía recomendada:
+    Harrington J; et al. Definition, etiology, and evaluation of precocious puberty. Mar, 2024.
+    
+
+#Recién nacido a término con retraso del crecimiento intrauterino y microcefalia que en las primeras 24 horas de vida presenta ictericia, petequias y esplenomegalia.
+Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemograma se evidencia una trombocitopenia. El Coombs directo es negativo. En la TAC de cráneo simple se observan calcificaciones periventriculares. ¿Cuál es el diagnóstico más probable?***
+#A. Infección congénita por toxoplasma.
+#B. Sepsis neonatal
+#C. Infección congénita por citomegalovirus (CMV)
+#D. Infección congénita por el virus de la inmunodeficiencia humana (VIH)
+#Respuesta correcta: C
+#Tema e Ítem: STORCH – Diagnósticos diferenciales
+    
+    Argumento: Cuadro clínico típico de infección por citomegalovirus (CMV) congénito, cuya tríada clínica típica puede recordarse con la regla mnemotécnica: Coriorretinitis, Microcefalia y calcificaciones periVentriculares. Además, aparecerán el resto de hallazgos del síndrome TORCH (ictericia, petequias, trombocitopenia, esplenomegalia).
+    
+    El Coombs directo negativo nos indica que la hiperbilirrubinemia no es por causa de incompatibilidad de grupo materno-fetal. Debemos recordar que el CMV es la infección congénita más frecuente, la primera causa de trombocitopenia neonatal y que el diagnóstico de elección es detección en orina.
+    
+    - La toxoplasmosis causa coriorretinitis, hidrocefalia y calcificaciones intracraneales pero éstas suelen mostrar un realce en anillo.
+    - Debemos sospechar VIH en neonatos con alto riesgo de infección materna y en lactantes con retraso del crecimiento, linfadenopatía difusa, diarrea y aftas, especialmente si la madre es una paciente de alto riesgo.
+    
+    Referencia:
+    -Neu N, Duchon J, Zachariah P. TORCH infecciones. ClinPerinatol 2015; 42:77.
+    
+
+#Ismael tiene 11 años y es llevado a consulta por tos seca de 2 semanas de evolución que ha aumentado en los últimos días; en la actualidad es espasmódica y emetizante. No convive con personas con tos crónica ni existe ambiente tabáquico en el hogar. La madre refiere que presenta el PAI completo para su edad, no tiene antecedentes de importancia. Su crecimiento y desarrollo son normales, presenta hemorragia subconjuntival bilateral y la auscultación es normal, sin ruidos sobreagregados. Señale la respuesta correcta:***
+#A. El diagnóstico más probable es el de asma.
+#B. Al ser la auscultación normal no se requieren más estudios complementarios.
+#C. No es preciso adoptar ninguna medida en quienes conviven con él.
+#D. El tratamiento de elección es un macrólido.
+#Respuesta correcta: D
+#Tema e Ítem: Tosferina – Tratamiento
+    
+    Argumento: Un paciente con tos espasmódica y emetizante tiene tos ferina (infección Bordetella pertussis) hasta que no se demuestre lo contrario. Si bien el paciente presenta un esquema de vacunación completo, la incidencia de la tos ferina ha aumentado desde la década de 1990, con picos cada tres a cinco años. Esto probablemente se deba a la disminución de la inmunidad precisamente por la falta de contacto con el agente, al ser una enfermedad relativamente poco frecuente en países desarrollados. Otros datos típicos del caso clínico son: tos que aparece en paroxismos, con normalidad entre las crisis, gallo inspiratorio (coqueluchoide), cianosis, e incluso epistaxis, petequias en cara y cuello y hemorragias subconjuntivales. El diagnóstico se basa fundamentalmente en la serología o la PCR ya que la sensibilidad del cultivo es menor del 25%.El tratamiento de elección son los macrólidos (en <1 mes azitromicina y en mayores de un mes cualquier macrólido) aunque solo mejora la clínica si se administra en las primeras 2 semanas, luego solo impide la transmisión. Dado que es una enfermedad altamente contagiosa (tasa de ataque del 80%), debe tratarse a los contactos también con el mismo fármaco y duración. Regla nemotécnica para el tratamiento: tos ferINA-eritromicINA.
+    
+    Bibliografía recomendada:
+    -Centros de Control y Prevención de Enfermedades. Directrices generales de mejores prácticas para la inmunización. [https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/index.html](https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/index.html)
+    
+
+#Ana tiene dos horas de nacida. Nació a término, con peso de 2200 gramos, en percentil 10 de longitud, percentil 14 de peso y percentil 3 de perímetro cefálico. Al examen físico, se evidencian lesiones en el cuero cabelludo "en sacabocados", labio leporino y micrognatia. Se evidencia una deformidad convexa en las plantas de los pies. La auscultación muestra un soplo holosistólico que se escucha mejor en el borde esternal inferior izquierdo. Parte de sus intestinos sobresalen por el ombligo, cubiertos por un delgado saco membranoso. En una RMN realizada se evidencia un solo ventrículo y una fusión de los ganglios basales. ¿Cuál de los siguientes hallazgos adicionales es más probable que se observe en este paciente?***
+#A. Polidactilia
+#B. Pliegue palmar único
+#C. Filtrum hipoplásico
+#D. Cuello alado
+#Respuesta correcta: A
+#Tema e ítem:  Patrones reconocibles de malformación humana
+    
+    Argumento: La polidactilia de las manos y, a veces, de los pies (típicamente hexadactilia) es un hallazgo característico en los niños con trisomía 13. Otras características, además de las observadas en este paciente, incluyen orejas de implantación baja y malformadas, microftalmia/anoftalmia, coloboma, poliquistosis renal y hemangioma capilar . Aproximadamente el 80% de los niños afectados tienen una cardiopatía congénita, como se sospecha en este recién nacido, cuyo soplo cardíaco es compatible con una comunicación interventricular.
+    
+    El pliegue palmar único es un hallazgo característico en personas con trisomía 21 (síndrome de Down). El bajo peso al nacer y los soplos cardíacos también pueden estar presentes en los recién nacidos con trisomía 21 PERO la aplasia cutánea, el labio leporino, los pies en mecedora y la holoprosencefalia no están asociadas con este diagnóstico. Además, la trisomía 21 generalmente se presenta con otras características, como pliegues epicánticos, un puente nasal ancho y plano e hipotonía, ninguna de las cuales está descrita en este recién nacido.
+    
+    El filtrum hipoplásico es un hallazgo característico de los pacientes con síndrome de alcoholismo fetal (SAF). Aunque algunas de las características observadas en este recién nacido también pueden estar presentes en esta patología (bajo peso al nacer, microcefalia, soplo cardíaco, holoprosencefalia), los demás hallazgos no están presentes. Además, el SAF generalmente se presenta con fisuras palpebrales cortas e inclinadas hacia abajo y se observa hipertelorismo.
+    
+    Un cuello palmeado es un hallazgo característico de personas con síndrome de Turner. El bajo peso al nacer y los soplos cardíacos también pueden estar presentes en esta patología, pero no las demás características. Además, el síndrome de Turner se presenta típicamente con linfedema de manos y pies, displasia ungueal, y un paladar arqueado alto.
+    
+    Bibliografía recomendada:
+    -Jones KL, Grandal Jones M, Patrones reconocibles de malformación humana de Del Campo L. Smith, 7.ª ed., Elsevier Saunders, Filadelfia 2013.
+    
+
+#Primigesta de 27 años, 32.6 semanas de gestación, sin antecedentes obstétricos relevantes, consulta al servicio de Urgencias por la percepción de contracciones uterinas regulares (8 contracciones en 60 minutos). No ha asistido a sus dos últimos controles prentales. tiene antecedente de reacción anafiláctica severa a la penicilina. Al examen físico presenta signos vitales estables, abdomen globoso por útero grávido, AU 38 cm. Tacto vaginal: cuello corto con 4 cm de dilatación cervical y membranas integras. El registro cardiotocográfico no revela contracciones y la frecuencia cardiaca fetal es de 142 lpm.
+¿Cuál es el manejo inicial correcto para esta paciente?***
+#A. Administrar nifedipino + corticoides + sulfato de magnesio
+#B. Administrar nifedipino + corticoides
+#C. Dejar evolucionar el parto y administrar nifedipino + corticoides + sulfato de magnesio
+#D. Administrar nifedipino
+#Respuesta correcta: B
+#Tema e ítem: Parto pretérmino - ¿Cuál es el manejo inicial correcto?
+    
+    Argumento: Sin duda alguna estamos frente a un caso clínico de parto pretérmino. Esta es una de las situaciones más frecuentes vistas en los servicios de urgencias generales o de maternidad. Existen dos elementos clásicos que son irrefutables para el diagnóstico de parto pretérmino:
+    • Contracciones uterinas, regulares, 4-6 en una hora
+    • Cambios cervicales (borramiento y dilatación de 3 cm o más)
+    
+    Estas pacientes son el grupo de alto riesgo de parto pretérmino y se beneficiarán de terapia uterolítica y esteroides. Este grupo de pacientes representa el 20 % de quienes se presentan a los servicios de urgencias entre las semanas 24-34 con manifestación de dolor cíclico, sensación de peso vaginal, dolor lumbar, entre otros. El 80 % restante corresponde a las pacientes con amenaza de parto prematuro que no se beneficiarán de terapia uterolítica ni esteroides.
+    El pilar fundamental del manejo se basa en los siguiente principios rectores e inviolables:
+    
+    1. Uteroinhibición por lo menos 48 horas para permitir la acción de los esteroides. Hay que recordar que NO hay uterolítico de elección sino uterolítico indicado, aquel que se encuentre disponible y con el que se tenga experiencia en el manejo, siempre y cuando no exista ninguna contraindicación materna o fetal para su uso.
+    • El nifedipino viene en tabletas de 10 o 30 mg para administración oral. Se administra una dosis de carga de 20 mg cada 20 minutos por una hora y luego 10-20 mg cada 6-8 horas. Por ninguna razón se debe usar la vía sublingual por el riesgo de hipotensión.
+    • La indometacina viene en tabletas de 50 mg. Se administra un bolo de 100 mg y se continúa mantenimiento con 25 mg cada 4-6 horas. Actualmente descontinuada por el Invima.
+    2. Maduración pulmonar con esteroides:
+    • Betametasona 12 mg intramuscular y repetir en 24 horas.
+    • Dexametasona 6 mg intramuscular cada 12 horas por 4 dosis.
+    
+    El sulfato de magnesio no tiene ningún papel de uteroinhibición. Sin embargo, su efecto neuroprotector está claramente demostrado, ya que ha logrado disminuir tanto el número como la gravedad de la parálisis cerebral. Para tal efecto se debe administrar este fármaco ante la inminencia de parto en las próximas 6 horas o parto programado en las próximas 24 horas, solo por un periodo máximo de 24 horas y cualquier periodo mínimo, pero ojalá siempre por debajo de la semana 32.
+    
+    Lectura recomendada:
+    
+    1. Arenas Marín, EA. Parto pretérmino. Medellín: Facultad de Medicina, Universidad de Antioquia, XXX Curso de actualización en ginecología y obstetricia; 2022.
+
+#Femenina de 29 años, G5P4C0A0, 36 semanas de gestación, remitida de primer nivel por abdominal intenso y pérdida hemática escasa por genitales. Refiere que antes del inicio del sangrado percibió algunas contracciones, las cuales cesaron luego de notar el sangrado. Refiere que sus anteriores embarazos cursaron sin complicaciones y ha asistido a todos sus controles prenatales sin novedades. Al ingreso presenta FC 119 lpm, PA 80/58 mh, FR 19 rpm, palidez mucocutánea y diaforesis profusa con dolor difuso a la palpación abdominal. En el registro cardiotocográfico fetal con 3 desaceleraciones tipo DIP II recurrentes con una FC de 70-80 lpm latidos por minuto.
+¿Cuál de los siguientes es el diagnóstico más probable y la conducta terapéutica adecuada?***
+#A. Placenta previa; esperar a la normalización de la frecuencia cardiaca fetal y permitirá seguir el curso del parto
+#B. Vasa previa; realizar cesárea en las siguientes 6 horas
+#C. Rotura uterina; realizar cesárea emergente
+#D. Desprendimiento de placenta; realizar cesárea emergente
+#Respuesta correcta: C
+#Tema e ítem: Hemorragia del tercer trimestre del embarazo – Rotura Uterina
+    
+    Argumento: El dolor abdominal intenso asociada al sangrado genital, cese de las contracciones, estado fetal no tranquilizador y datos de inestabilidad hemodinámica sugieren fuertemente el diagnóstico de rotura uterina (además tiene antecedente de cesarea).
+    
+    La ruptura uterina es una complicación rara, pero potencialmente mortal tanto para la madre como para el feto, puede ocurrir antes o durante el parto y ser parcial o total, según respete o no la serosa uterina. Frecuentemente está relacionada con antecedentes quirúrgicos como cesárea, miomectomía o corrección de ruptura uterina anterior, pero también puede ocurrir sin estos factores de riesgo en mujeres con trabajo de parto distócico, trauma obstétrico, multíparas, malformaciones uterinas o con gestación múltiple. Se debe sospechar en mujeres con taquisistolia, dolor abdominal agudo que no es igual a las contracciones que venía sintiendo en el trabajo de parto, dolor que no mejora a pesar de epidural, cambio súbito del patrón de contracciones, bradicardia fetal o ascenso de la presentación.
+    
+    El tratamiento consiste en estabilizar a la paciente y llevarla a cesárea emergente, dada la premura del parto se prefiere cirugía bajo anestesia general.
+    
+    - El desprendimiento de placenta puede manifestarse con dolor abdominal, sangrado, estado fetal no tranquilizador y signos de inestabilidad hemodinamica. Sin embargo, también cabría esperar un útero rígido y sensible, además contracciones hipertónicas.
+    • La vasa previa puede manifestarse con sangrado genital y estado fetal no tranqulizador. Sin embargo, la vasa previa suele aparecer tras la rotura de membranas, que suele producirse tras la dilatación completa del cuello uterino (al final de la primera fase del parto). Además, no cabría esperar un cese repentino de las contracciones uterinas ni evidencias de pérdida de sangre materna (taquicardia, hipotensión).
+    • Las pacientes con placenta previa suelen presentar un sangrado genital indoloro y no cabe esperar un cese repentino de las contracciones uterinas.
+    
+    Lectura recomendada:
+    
+    1. Castaño Jiménez, LA. Hemorragia obstétrica del segundo y tercer trimestre: enfoque etiológico. Medellín: Facultad de Medicina, Universidad de Antioquia, XXXI Memorias Curso de Actualización en Ginecología y Obstetricia; 2023.
+
+#Femenina de 26 años, sin antecedentes de interés, FUM fue hace 12 semanas. Consulta al servicio de Urgencias por sangrado vaginal y dolor pélvico de dos horas de evolución. Refiere que desde hace tres semanas presento vómitos intermitentes de contenido biliar. También comenta que ha intentado concebir sin éxito desde hace seis meses. Al ingreso presenta PA 130/85 mmHg, FC 109 lpm, regular estado general, palidez acentuada, abdomen blando, doloroso con fondo uterino a nivel de cicatriz umbilical (AU: 14 cm). Tacto vaginal: cérvix estaba blando, sangrado vaginal de aspecto oscuro con coágulos. Paraclínicos: Hb 10.5, leucocitos 12.000, PLT 250.000, β-hCG 265.000 mUI/L. Se realiza eco TV que evidencia masa intrauterina heterogénea con patrón ecográfico en “racimo de uvas’’; sin evidencia frecuencia cardiaca fetal. La Rx de tórax es normal. Se iniciaron uterotónicos y se realizó aspiración manual endouterina con éxito sin complicaciones.
+¿Cuál de las siguientes afirmaciones es verdadera?***
+#A. Para descartar la neoplasia trofoblástica gestacional es necesario realizar medición de β-HCG a los 7, 30 y 90 días del tratamiento
+#B. Para descartar la neoplasia trofoblástica gestacional es necesario realizar medición de β-HCG una a dos semanas del tratamiento hasta tener tres mediciones negativas consecutivas, luego cada 3 meses por 6 meses
+#C. Esta paciente no cumple con criterios para inicio de quimioterapia profiláctica
+#D. Para descartar la neoplasia trofoblástica gestacional es necesario realizar medición de β-HCG a los 7 y 15 días del tratamiento hasta tener tres mediciones negativas consecutivas, luego cada 2 meses por 6 meses
+#Respuesta correcta: B
+#Tema e ítem: Enfermedad trofoblástica gestacional –Seguimiento postratamiento para descartar
+    
+    Argumento: La presencia de una masa masa intrauterina heterogénea con patrón ecográfico en “racimo de uvas’’ + ausencia de frecuencia cardiaca fetal + AU mayor a la edad gestacional + β-hCG > 100.000 mUI/L nos hace el diagnóstico de enfermedad triblástica gestacional (ETG), específicamente una mola hidatiforme completa.
+    La forma más común de ETG es la mola hidatiforme o embarazo molar (80 %), la cual se considera una enfermedad premaligna usualmente diagnosticada durante el primer trimestre. Las formas malignas, o neoplasia trofoblástica gestacional, son: la mola invasiva (15%), la coriocarcinoma, el tumor trofoblástico del sitio placentario y el tumor trofoblástico epitelioide (en conjunto 5 %). Recuerda siempre que las presentaciones malignas pueden aparecer hasta años después de un parto normal.
+    
+    Posterior al tratamiento, se recomienda hacer medición de β-HCG cada una a dos semanas hasta tener tres mediciones negativas consecutivas, luego cada tres meses por seis meses, y descartar así la neoplasia trofoblástica gestacional posmolar. Mientras se realiza este seguimiento, se recomienda también la supresión del eje gonadal, preferiblemente con la toma de anticonceptivos orales combinados.
+    
+    Lectura recomendada:
+    
+    1. Torres Pineda, M. Hemorragias en el primer trimestre. Medellín: Facultad de Medicina, Universidad de Antioquia, XXXI Memorias Curso de Actualización en Ginecología y Obstetricia; 2022.
+
+#Mujer de 36 años, G2P2A0, sin más deseos genésicos, consulta por historial de sangrado abundante durante la menstruación. Trae reporte de ecografía particular la cual concluye mioma uterino de 2.7 cm intramural submucoso. Refiere que no desea tomar medicación anticonceptivos orales combinados porque no los tolera bien.
+¿Cuál sería el tratamiento ideal para esta paciente?***
+#A. Acetato de leuprolide (3,75 mg IM cada cuatro semanas)
+#B. DIU con 52 mg de levonorgestrel
+#C. Ácido tranexámico 1300 mg cada 8 horas vía oral los primeros cinco días del ciclo o durante los días que presente sangrado más abundante
+#D. Acetato de medroxiprogesterona 150 mg IM trimestral.
+#Respuesta correcta: B
+#Tema e ítem: Miomatosis uterina - enfoque terapéutico
+    
+    Argumento: Los miomas uterinos, también denominados leiomiomas o fibromas, son los tumores más comunes del útero y la pelvis femenina, se presentan en el 50% - 60% de las mujeres. Aunque son benignos, en el 30% de los casos causan morbilidad.
+    
+    Se debe elegir el tratamiento más eficiente, de acuerdo con las necesidades y deseos de cada paciente, para esto, se deben tener en cuenta varios factores como la edad reproductiva y la proximidad a la menopausia, comorbilidades, gravedad de los síntomas, características del útero, tamaño, cantidad y localización de los miomas, así mismo, el interés obstétrico o deseos de preservar el útero por cualquier otro motivo.
+    
+    En numerosos estudios, el uso de dispositivo intrauterino liberador de levonorgestrel (DIU-LNG) se recomienda para las pacientes que no pueden usar o no quieren anticonceptivos que contienen estrógeno), ya que son el anticonceptivo de progestina sola más eficaz para el sangrado menstrual abundante (SMA) relacionado con los fibromas porque lo disminuye significativamente. La mayoría de las directrices respaldan el uso de DIU LNG como agente de primera línea en este contexto. Se utiliza el DIU con 52 mg de levonorgestrel (mirena), con una duración de 5 años.
+    
+    - La colocación de un DIU esta desaconsejada en presencia de miomas submucosos o distorsión grave de la cavidad uterina.
+    
+    Lectura recomendada:
+    
+    1. Gallego Vélez, L. Toncel Churio, M. Miomatosis uterina: enfoque terapéutico. Medellín: Facultad de Medicina, Universidad de Antioquia, XXIX Memorias Curso de Actualización en Ginecología y Obstetricia; 2021.
+
+#En varios estudios observacionales realizados por la Universidad de Antioquia, se compara la eficacia de cuatro nuevos antiagregantes (X, Y, Z, F) en prevención primaria de IAM frente al tratamiento convencional con ASA. Se han obtenido los siguientes resultados en la prevención de (IAM) a los 12 meses de tratamiento:
+• Antiagregante X: RR 3.9 (IC 95%: 2.33-6.9)
+• Antiagregante Y: RR 1.9 (IC 95%: 0.75-2.8)
+• Antiagregante Z: RR 0.6 (IC 95%: 0.34-0.84)
+• Antiagregante F: RR 3.2 (UC 95%: 2.5-8.75)
+Si se asume que todos los antiagregantes tienen la misma eficacia y similar seguridad respecto a reacciones adversas, ¿Cuál sería el de elección para prevención de IAM?***
+#A. X
+#B. Y
+#C. Z
+#D. F
+#Respuesta correcta: C
+#Tema e ítem: Interpretación del RR
+    
+    Argumento: Pregunta sencilla sobre interpretación del riesgo relativo (RR). Recordemos que el punto de no significación en el RR es el 1, ya que supondría que la incidencia del evento es la misma entre el grupo expuesto y el grupo no expuesto (el factor de exposición no supondría ni riesgo ni protección alguna). En la pregunta que nos plantean de los cuatro nuevos antiagregantes, tres de ellos tienen un RR superior a 1, lo cual nos sugiere que X-Y-F suponen más un factor de riesgo que un factor protector en prevención de infarto agudo de miocardio, por lo cual no serían de elección.
+    
+    El valor puntual del RR del antiagregante Z es de 0,6, lo que revelaría un resultado protector frente a la aparición de IAM. Además, cuando miramos el intervalo de confianza al 95% éste no incluye al 1, lo cual nos dice que los resultados son estadísticamente significativos.
+    
+
+#Femenina de 42 años quien consulta en contexto de cuadro clínico de 5 días de dolor epigástrico, fiebre, náuseas y malestar general. Tiene antecedente de pancreatitis biliar aguda hace 5 semanas manejada con CPRE y colecistectomía. Además, tiene antecedente de alcoholismo. Signos vitales Tº 38,7 °C, FR de 18 rpm, FC 120 lpm y PA 100/70 mm Hg. Al examen físico, dolor abdominal a la palpación en epigastrio, presencia de 3 cicatrices por laparoscopia bien cicatrizadas, sin otro hallazgo anormal. Paraclínicos que reportan: Hb 10 g/dl, Leucocitos en 15.800/mm3, Fosfatasa alcalina 70 U/L, AST 22 U/L, ALT 19 U/L, GGT 55 U/L, Bilirrubina 1 mg/dl, glucosa 105 mg/dl, amilasa 220 U/L y Lipasa 365 U/L. Una ecografía abdominal evidenció una colección de líquido quístico con paredes irregulares y tabiques en el páncreas. ¿Cuál es el diagnostico más probable para este paciente?***
+#A.	Absceso pancreático
+#B.	Pseudoquiste pancreático
+#C.	Colangitis
+#D.	Pancreatitis aguda
+#Respuesta correcta: A
+#Tema e ítem: Absceso pancreático - ¿Cómo identificarlo?
+    
+    Argumento: Este paciente presenta fiebre, malestar general, sensibilidad abdominal y fue previamente tratado por pancreatitis aguda hace 4 semanas. Lo anterior, sumado a la detección de un quiste complejo por estudios imagenológicos, junto a niveles elevados de amilasa y lipasa sugieren un absceso pancreático (necrosis amurallada), la cual es una complicación tardía de la pancreatitis necrotizante aguda (el quiste complejo se da por material necrótico dentro de una cápsula fibrosa). Recordemos que esta afección se manifiesta con mayor frecuencia más de 4 semanas después de un episodio de pancreatitis aguda.
+    
+    - En cuanto a un pseudoquiste pancreático, esta entidad es una complicación de la pancreatitis aguda o crónica. Si bien los pseudoquistes pancreáticos pueden manifestarse con dolor abdominal y fiebre si se infectan, por lo general son asintomáticos. Además, la ecografía suele evidenciar una masa anecoica o hipoecoica bien definida, en lugar de una masa quística compleja.
+    - Por otra parte, la colangitis es la inflamación del conducto biliar debido más comúnmente a una infección ascendente desde el duodeno. La colangitis aguda posterior a una colecistectomía, como le ocurrió a este paciente, es poco común, pero puede ocurrir debido a la retención de un cálculo en el conducto biliar. La colangitis también se presenta con fiebre, leucocitosis y dolor epigástrico; sin embargo, casi siempre causa hiperbilirrubinemia, que está ausente en este paciente. Además, en la ecografía no se describen anormalidades de los conductos biliares.
+    - Finalmente, la pancreatitis es la complicación más común de una CPRE. Se presenta con dolor abdominal y niveles elevados de amilasa y lipasa como los de este paciente; sin embargo, ocurre dentro de las 24-48 horas posteriores a la CPRE y no después de un mes de evolución.
+    
+    Lecturas recomendadas:
+    
+    - Cárdenas A, Herrera D, Vásquez Sara. Complicaciones de la pancreatitis aguda. Medellín. VI curso de actualizacion en cirugía. Universidad de Antioquia 2022.
+    - Serna Juan, Mejía D. Opciones terapéuticas en pancreatitis grave. Medellín. Actualizacion en cirugía general. Universidad de Antioquia 2021.
+
+#Femenina de 70 años de edad quien consulta 7 meses después de haberse colocado un stent coronario por un IAM. Tiene antecedente de fibrilación auricular, HTA y hemorragia digestiva. Toma aspirina, clopidogrel, rivaroxabán, metoprolol, lisinopril y rosuvastatina.  ¿Cuál es el manejo adecuado para esta paciente?***
+#A.	Suspender la aspirina.
+#B.	Suspender rivaroxabán.
+#C.	Cambiar rivaroxabán por apixabán.
+#D.	Cambiar rivaroxabán por warfarina.
+#Respuesta correcta: A
+#Tema e ítem: Manejo individualizado del paciente anticoagulado y antiagregado
+    
+    Argumento: El manejo adecuado de esta paciente es suspender la aspirina. Esta paciente se encuentra actualmente en manejo con un anticoagulante y doble antiagregación como prevención de ictus por fibrilación auricular y síndrome coronario agudo recurrente. Cada fármaco es piedra angular en el manejo preventivo de respectivos procesos patológicos; sin embargo, juntos aumentan el riesgo de sangrado. La evidencia actual demuestra que la terapia con un anticoagulante oral y un inhibidor de la P2Y12 son seguro y eficaz en estos casos, y debe ser la terapia de elección.
+    
+    - La puntuación del CHA2DS2VASC de esta paciente es de 4 (Mayor de 65 años, sexo femenino, HTA y enfermedad arterial coronaria) por lo que tiene un alto riesgo de accidente cerebrovascular y por ende la suspensión de rivaroxabán no es adecuada.
+    - El cambiar rivaroxabán por apixabán no se asocia a menor riesgo de hemorragia.
+    - Es más probable que el cambio de rivaroxabán a warfarina aumente su riesgo de sangrado, no que lo disminuya, sin una mejora significativa en el beneficio clínico en términos de prevención de accidentes cerebrovasculares.
+    
+    Lecturas recomendadas:
+    
+    - J Am Coll Cardiol. 2019;74:104-132.
+
+#Femenina de 27 años de edad cursando con embarazo de 34 semanas consulta por disnea y palpitaciones. Niega otros síntomas. Al examen físico sus signos vitales son normales. Su saturación de oxígeno es de 97%. No hay otros hallazgos significativos al examen físico. Su dimero D es de 0,88 ug/mL y una ecografía doppler de miembros inferiores es normal. ¿Cuál es el paso adecuado a seguir según los resultados de esta paciente?***
+#A.	Angio-TC pulmonar
+#B.	Resonancia magnética pulmonar con gadolinio
+#C.	Gammagrafía pulmonar de ventilación-perfusión
+#D.	No es necesario pruebas adicionales.
+#Respuesta correcta: D
+#Tema e ítem: Cambios fisiológicos durante el embarazo.
+    
+    Argumento: Según el algoritmo YEARS adaptado al embarazo, esta paciente tiene una probabilidad muy baja de tromboembolismo pulmonar (TEP). El algoritmo YEARS se basa en la presencia de alguno de estos tres ítems de la escala de Wells (signos clínicos de trombosis venosa profunda, hemoptisis o la EP es el diagnóstico más probable) y un punto de corte variable para el D dímero en base a la presencia o ausencia de dichos signos. Aunque esta paciente tiene un dímero D elevado, recordemos que a medida que avanza la gestación este producto tiende a aumentarse progresivamente lo que podría dificultar su interpretación. Esta paciente no cumplió con los criterios clínicos de YEARS y tenía una medición de dímero D inferior a 1 ug/mL lo que corresponde a un riesgo muy bajo de TEP, por lo que no se debe someter a pruebas ni tratamientos adicionales.
+    
+    - La angiografía pulmonar por TC, la resonancia magnética pulmonar con gadolinio y la gammagrafía pulmonar de ventilación-perfusión se pueden utilizar para diagnosticar la embolia pulmonar, pero expone a la paciente a una radiación innecesaria si la probabilidad es baja.
+    
+    Lecturas recomendadas:
+    
+    - Pregnancy-adapted YEARS algorithm for diagnosis of suspected pulmonary embolism. N Engl J Med. 2019;380:1139-1149.
+
+#20 minutos después de un parto por cesárea a las 38 semanas de embarazo, un recién nacido de 4630 gr presenta disnea. El Apgar fue de 7 y 8 al minuto y a los 5 minutos respectivamente. Durante el embarazo desarrolló diabetes mellitus gestacional. Signos vitales: temp. De 37°C, FC de 115 lpm y FR de 72 rpm. Satura a 89% con O2 ambiente. Al examen físico hay retracciones intercostales y subcostales leves. A la auscultación pulmonar hay crépitos bilaterales difusos. Una rx de tórax evidencia aumento del volumen pulmonar y líquido dentro de las fisuras interlobulares. ¿Cuál es el manejo adecuado para este paciente?***
+#A.	Administrar oxigeno suplementario.
+#B.	Iniciar manejo antibiótico.
+#C.	Realizar ventilación con presión positiva de la vía aérea.
+#D.	Realizar intubación endotraqueal.
+#Respuesta correcta: A
+#Tema e ítem: Taquipnea transitoria del recién nacido – Manejo.
+    
+    Argumento: El cuadro clínico de este paciente sugiere una taquipnea transitoria del recién nacido. La taquipnea transitoria del recién nacido es una condición benigna que puede ocurrir hasta 2 horas después del parto y se suele resolver sin complicaciones en aprox. 72 horas. El manejo consiste en atención de apoyo, incluido el suministro de oxígeno suplementario mediante campana o cánula nasal con un objetivo de saturación de O2 mayor a 90%, el mantenimiento de una temperatura neutral y provisión de nutrición adecuada. Deben excluirse otras causas de dificultad respiratoria del recién nacido como neumonía, sepsis neonatal y cardiopatía congénita. La taquipnea transitoria del recién nacido es causada por la reabsorción tardía de líquido pulmonar fetal y ocurre comúnmente después de un parto por cesárea el cual no permite que el líquido salga de los pulmonares del recién nacido, en comparación con el parto vaginal.
+    
+    Lecturas recomendadas:
+    
+    - Transient Tachypnea of the Newborn. [Updated 2022 Jul 5]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-.
+
+#Femenina de 11 años es llevada a urgencias por fiebre, cefalea y náuseas durante 3 días. Evita mirar luces porque agrava la cefalea. Tiene antecedente de leucemia con ultima quimioterapia hace 2 semanas. Se ve letárgica. Signos vitales: temperatura de 40°C, FC de 131 lpm y PA de 100/60 mmHg. Al examen físico hay rigidez nucal. La flexión del cuello produce flexión de rodillas y cadera. La fuera muscular está disminuida en la extremidad superior derecha. Se obtienen hemocultivos. ¿Cuál es el manejo adecuado para esta paciente?***
+#A.	Realizar una tomografía computarizada de cráneo.
+#B.	Iniciar manejo antibiótico.
+#C.	Realizar una punción lumbar.
+#D.	Iniciar manejo con aciclovir.
+#Respuesta correcta: B
+#Tema e ítem: Meningitis en pediatría
+    
+    Argumento: Esta paciente inmunocomprometida presenta fiebre, signos meníngeos y déficit neurológicos focales lo que indica la presencia de una meningitis. Debido a que la meningitis se asocia a secuelas neurológicas graves y que puede ser fatal sobre todo cuando se retrasa el tratamiento, se debe suponer una etiología bacteriana hasta que los resultados del análisis de LCR demuestren lo contrario. Si hay algún síntoma o características de alarma: inmunodeficiencia, déficits neurológicos focales, nivel anormal de conciencia, convulsiones, antecedentes de enfermedad del SNC; se encuentra indicada la realización de una tomografía computarizada de cráneo antes de la realización de la punción lumbar para mitigar el riesgo de hernia cerebral. Si la punción se retrasa por este motivo, como en esta paciente, se deben tomar hemocultivos e iniciar manejo antibiótico hasta que pueda realizarse.  El manejo empírico en pacientes inmunocomprometidos con sospecha de meningitis bacteriana es vancomicina + ampicilina + cefepima o meropenem. Además, se debe administrar dexametasona con el fin de reducir el riesgo de pérdida de la audición, especialmente si se sospecha de una infección por H. influenza tipo B.
+    
+    Lecturas recomendadas:
+    
+    - Meningitis - Pediatr Rev (2015) 36 (12): 514–526.
+
+#Femenina de 35 años consulta por dolor abdominal tipo cólico en hipocondrio derecho asociado a náuseas y episodios eméticos. Informa que ha presentado 3 episodios similares con duración del dolor de hasta 90 minutos. Antecedentes: HTA, dislipidemia, enfermedad de Chron. Al examen físico presenta IMC 30.1, PA 135/90 mmhg, T 37.2°C, FC 85 lpm, ictericia conjuntival leve, dolor leve a la palpación en cuadrante superior derecho sin signos de irritación peritoneal. Prueba de guayaco (-). Laboratorios: BT 3.9 mg/dL, FA 350, AST/ALT: 190/255 U/L. Ecografía de hígado y vías biliares: colédoco de 9 mm de dimatro (VN: < 6 mm) y múltiples solidos hiperecogénicos en vesícula biliar. ¿Cuál de las siguientes es la causa más probable de su cuadro clínico?***
+#A.	Infección aguda por VHB
+#B.	Colangitis aguda
+#C.	Colecistitis aguda leve
+#D.	Coledocolitiasis
+#Respuesta correcta. D
+#Tema e ítem: Coledocolitiasis – diagnóstico y sospecha
+    
+    Argumento: Este paciente presenta dolor tipo cólico en cuadrante superior derecho, náuseas, vómitos, ictericia conjuntival y paraclínicos que indican un patrón colestásico (bilirrubina total y FA elevadas, relación AST/ALT <1). Además, su ecografía reporta múltiples cálculos en la vesícula biliar y dilatación del conducto biliar común, lo que sugiere indudablemente una causa extrahepática de colestasis.
+    
+    La coledocolitiasis se desarrolla más comúnmente como una complicación de la colelitiasis. Un cálculo biliar que se ha alojado en el colédoco puede causar dolor tipo cólico y obstrucción biliar. La dilatación del colédoco se utiliza como indicador de alta sospecha de obstrucción (los cálculos del colédoco rara vez se ven en la ecografía). Este paciente debe someterse a una CPRE para confirmar el diagnóstico y extraer el cálculo. De lo contrario, corre el riesgo de desarrollar colangitis aguda o pancreatitis biliar (si el cálculo llega en la ampolla de Vater se puede ‘’atascar’’ y obstruir el conducto pancreático).
+    
+    Lecturas recomendadas:
+    
+    - Pineda G. Coledocolitiasis, lo aprendido y lo actual. VI Curso de Actualización en Cirugía General. Universidad de Antioquia. 2022
+
+#Masculino de 24 años es llevado a urgencias por herida por arma de fuego. Durante la valoración en sala de reanimación el paciente necesitó intubación, cristaloides y transfusión. Signos vitales: PA 86/40 mmHg, FC 130/min. Al examen físico presenta 2 heridas: una en 6° espacio intercostal izquierdo, lateral a la línea medioclavicular; y otra en 7° espacio intercostal izq posterior. Una radiografía de tórax evidencia opacidades irregulares en base pulmonar izq. Sin derrame pericárdico ni líquido libre intraperitoneal. ¿Cuál es el manejo adecuado?***
+#A.	Realizar laparotomía exploratoria.
+#B.	Realizar TAC de abdomen.
+#C.	Realizar lavado peritoneal diagnóstico.
+#D.	Realizar Exploración local de heridas.
+#Respuesta correcta: A
+#Tema e ítem: Herida por arma de fuego en región toracoabdominal - Manejo.
+    
+    Argumento: Este paciente con heridas de bala en la región toracoabdominal izquierda presenta shock a pesar de la reanimación inicial con cristaloides. Teniendo en cuenta la localización de las heridas (sexto y séptimo espacios intercostales izquierdos), deben investigarse tanto las causas intratorácicas como intraabdominales del shock, ya que el diafragma y el contenido intraabdominal pueden ascender hasta aproximadamente el cuarto dermatoma torácico durante la espiración. En este paciente, no hay evidencia de taponamiento cardiaco, hemotórax y las opacidades irregulares reveladas en la radiografía de tórax probablemente representan una contusión pulmonar que no requiere intervención inmediata. Dada la ausencia de una fuente intratorácica de shock, debe sospecharse una lesión de órganos intraabdominales debida a un traumatismo abdominal penetrante (TAP).  En los pacientes con TAP, la laparotomía exploradora inmediata está indicada en los siguientes casos: Inestabilidad hemodinámica (PAS <90 mm Hg), Peritonitis, evisceración. Dado que este paciente ya tiene una indicación de laparotomía, la parte abdominal del examen de evaluación específica con ecografía para traumatismos no es necesaria, ya que no modifica el tratamiento. Sin embargo, a veces se realiza en la práctica (inmediatamente después de la parte cardiaca) porque un resultado positivo (líquido libre intraperitoneal) confirma aún más la necesidad de laparotomía.
+    
+    - La tomografía computarizada del abdomen y el lavado peritoneal diagnóstico (de uso poco frecuente, invasivo) pueden ayudar a detectar lesiones intraabdominales y determinar la necesidad de laparotomía en pacientes hemodinámicamente estables. Las radiografías simples del abdomen pueden ayudar a determinar la trayectoria y la localización de una bala. Sin embargo, este paciente requiere una laparotomía inmediata en lugar de imágenes o pruebas adicionales debido a la inestabilidad hemodinámica.
+    - La exploración local de la herida para determinar si se ha producido violación del peritoneo es inapropiada en este paciente con indicación de laparotomía exploratoria inmediata. Además, esta técnica rara vez se realiza en pacientes con heridas de bala porque la destrucción tisular dificulta el seguimiento del tracto de la herida.
+    
+    Lecturas recomendadas:
+    
+    - Ana Castaño Cardona, Sergio Jaramillo. Abordaje diagnóstico de las heridas toracoabdominales. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
+
+#Masculino de 49 años procedente área rural dispersa quien consulta a Urgencias por cuadro clínico de fiebre alta y dolor abdominal progresivo de 2 semanas de evolución. Tiene historial de diabetes tipo 2 en manejo con metformina y antecedente de reacción anafiláctica a penicilinas. Al examen físico se encuentra lúcido, PA 120/80 mh, T 39.1 ºC, FC 100 lpm, murmullo vesicular ligeramente disminuido en base de hemitórax derecho, no agregados, dolor a la palpación en hipocondrio derecho, hepatomegalia por encima de reborde costal, sin signos de irritación peritoneal. Paraclínicos al ingreso: Hb 10.6, GB 19.000 (N: 87%), PCR 150 mg/dL, BT 0.66, FA 250, AST 260, ALT 400. Ecografía abdominal: volumen hepático aumentado de forma difusa con presencia de lesión heterogénea de contornos lobulados de 10 x 8 x 8 cm en lóbulo derecho, sin vascularización.  ¿Cuál de las siguientes es el enfoque terapéutico adecuado para este paciente?***
+#A. Piperacilina tazobactam + metronidazol + drenaje percutáneo con tubo de drenaje
+#B. Ciprofloxacino + gentamicina + metronidazol + drenaje percutáneo sin tubo de drenaje
+#C. Meropenem + metronidazol + drenaje percutáneo con tubo de drenaje
+#D. Ertapenem + metronidazol + vancomicina + drenaje quirúrgico
+#Respuesta correcta: C
+#Tema e ítem: Absceso hepático – Antibioticoterapia y drenaje percutáneo
+    
+    Argumento: Se trata indudablemente de un caso clínico de absceso hepático (AH) por el historial clínico y las características reportadas en la ecografía abdominal.
+    
+    - La diabetes mellitus es un factor de riesgo establecido en la literatura para el desarrollo de AH, reportada en estudios como comorbilidad asociada en 29-44% de los pacientes. La presencia de fiebre (93%), escalofríos (80%) y dolor en hipocondrio derecho (80%), son los síntomas más frecuentes. En un 15–20% de los casos de AH pueden debutar con sepsis grave y shock séptico. Se debe iniciar antibioticoterapia empírica parenteral de amplio espectro después de la toma de hemocultivos y en la medida de lo posible luego del drenaje. Esta debe garantizar cobertura a estreptococos, enterobacterias y anaerobios. Además, este régimen debe cubrir E. histolytica hasta que se encuentre el patógeno causante o se excluya el absceso amebiano. Las opciones terapéuticas recomendadas incluyen:
+    - Piperacilina tazobactam
+    •	Ceftriaxona + metronidazol
+    •	Ampicilina + gentamicina + metronidazol
+    •	Ciprofloxacino + metronidazol
+    •	Carbapenémicos+ metronidazol
+    - Carbapenémicos sólo para pacientes que sean alérgicos a otros regímenes o por preocupación por infecciones persistentes. Si el paciente se encuentra en shock séptico o si es un paciente con factores de riesgo para SAMR (p. ej., paciente con un catéter vascular permanente o usuario de drogas intravenosas), se recomienda añadir vancomicina.
+    - El drenaje percutáneo permite aspirar el contenido del absceso y colocar uno o más tubos de drenaje. Cuando son abscesos uniloculares menores de 5 cm se acepta el drenaje, con o sin la colocación de un dren, y esta decisión dependerá del juicio clínico de quien realiza el procedimiento. Si son mayores de 5 cm deberá siempre colocarse un tubo de drenaje ya que garantiza una disminución hasta el 50% del tamaño del absceso lo que se traduce en menores estancias hospitalarias.
+    
+    Lectura recomendada:
+    
+    - Sepúlveda Bastilla, SM. Absceso hepático. Medellín: XX Curso de Actualización para Médicos Generales, ANIR; 2020.
+    - Corrales. Enfoque del paciente con lesión hepática focal. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
+
+#Paciente masculino de 5 años es llevado a urgencias por dolor abdominal de 2 horas de evolución que inició tras la ingestión de frasco que contiene un líquido de limpieza para baño, asociado a varios episodios eméticos y odinofagia severa. Examen físico: FC 110 lpm, FR 27 rpm, SatO2 84%, sialorrea abundante, eritema en región epiglótica. Una radiografía de tórax es normal. El paciente se ingresa a UCI, en donde se realiza intubación orotraqueal + ventilación mecanica, y se retira toda la ropa contaminada.  ¿Cuál de las siguientes conductas también debe ser realizada en este paciente?***
+#A.	Lavado gástrico
+#B.	 Esofagograma
+#C.	Endoscopia de vías altas en 6-12 horas
+#D.	TAC simple de cuello
+#Respuesta correcta: C
+#Tema e ítem: Ingesta de cáusticos.
+    
+    Argumento: Este paciente pediátrico presenta dolor abdominal, vómitos, odinofagia y sialorrea que, tras la ingestión de un producto de limpieza para baños, las cuales contienen sustancias cáusticas. El tratamiento agudo de la ingestión de sustancias cáusticas incluye el manejo de las vías respiratorias, oxígeno suplementario, reanimación con líquidos y descontaminación (retirada de la ropa contaminada). En los pacientes sintomáticos debe realizarse una endoscopia digestiva alta en las 12-24 horas siguientes para evaluar la gravedad de la lesión esofágica y orientar el tratamiento posterior, como la necesidad de cirugía.  La endoscopia está contraindicada en casos de compromiso de las vías respiratorias y perforación esofágica manifiesta observada en las imágenes radiográficas iniciales. Si la vía aérea está comprometida, es necesaria la IOT primero. En caso de perforación esofágica, se requiere cirugía inmediata.
+    
+    Lecturas recomendadas:
+    
+    - Salazar P. Quemaduras esofágicas: manejo agudo y seguimiento. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
+
+#Masculino de 32 años es llevado a urgencias luego de caer desde su propia altura sobre una roca. A su llegada el paciente tiene dolor intenso y taquipnea. Su FC es de 135 lpm, FR de 30 rpm y PA de 80/40 mm Hg. Hay una herida por el impacto de la caída en el cuarto espacio intercostal izquierdo en la línea axilar media. Se evidencia desviación de la tráquea a la derecha y ausencia de ruidos respiratorios en el pulmón izquierdo con matidez a la percusión. Las venas yugulares están colapsadas. Una radiografia de torax evidencia opacidad en hemitorax izquierdo y reducción de ángulo costofrenico.  ¿Cuál es el diagnóstico más probable?***
+#A.	Taponamiento cardiaco.
+#B.	Neumotórax a tensión.
+#C.	Hemotórax.
+#D.	Tórax inestable.
+#Respuesta correcta: C
+#Tema e ítem: Trauma cerrado de tórax.
+    
+    Argumento: Este paciente presenta signos y síntomas que sugieren un hemotórax masivo: taquicardia, hipotensión, taquipnea, venas yugulares colapsadas, disminución de ruidos respiratorios y matidez a la percusión en el campo pulmonar afectado, así como desviación traqueal al lado opuesto. El manejo consiste en la inserción de un tubo a tórax en el 4 o 5 espacio intercostal en la línea axilar media para permitir que la sangre se drene y mejore la ventilación pulmonar.
+    
+    - El taponamiento cardiaco se puede manifestar como taquicardia, taquipnea e hipotensión. Sin embargo, se evidenciaría ingurgitación yugular y sonidos cardiacos velados. No hay desviación de la tráquea en el taponamiento cardiaco.
+    - El neumotórax a tensión tiene una clínica similar al hemotórax. Sin embargo, las venas del cuello estarían distendidas en lugar de colapsadas. Además, el campo pulmonar afectado seria hiperresonante.
+    - Los pacientes con tórax inestable presentan clásicamente movimientos paradójicos de una parte de la pared torácica durante la respiración. Además, el desplazamiento del mediastino, disminución de ruidos respiratorios y matidez a la percusión no son característicos de un tórax inestable.
+    
+    Lecturas recomendadas:
+    
+    - Arroyave Z. Trauma cerrado tórax y fractura costal. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
+
+#Varón de 65 años, acude a consulta del programa de control. Tiene diagnóstico de EPOC sin historial de exacerbaciones agudas. A pesar de haber cesado el hábito de fumar, seguir al pie su tratamiento médico, aplicar una técnica de inhalación adecuada (vilanterol/fluticasona y bromuro de tiotropio) y participar activamente en el programa de rehabilitación pulmonar, persiste la disnea incluso con esfuerzos mínimos, lo que cual ha disminuido su calidad de vida. También refiere to mínima ocasional. Vacunación con influenza, neumococo y COVID-19 al día. Al examen físico presenta signos vítales estables, SatO2 94% a aire ambiente, murmullo vesicular disminuido en ambo campos. La prueba de caminata de 6 minutos muestra una SatO2 90% a aire ambiente y la espirometría una FEVI del 36% del predicho y una DLCO del 40 % del previsto. La Rx de tórax muestran signos claro de enfisema en lóbulo superior de ambos campos pulmonares.
+¿Cuál sería la conducta adecuada a seguir?***
+#A. Ordenar oxigenoterapia crónica domiciliaria.
+#B. Programar para cirugía de reducción de volumen pulmonar
+#C. Iniciar antibioticoterapia profiláctica con levofloxacino por 4-8 semanas
+#D. Iniciar roflumilast
+#Respuesta correcta: B
+#Tema e ítem: Cirugía de reducción de volumen pulmonar
+    
+    Argumento: Este paciente es candidato a cirugía de reducción de volumen pulmonar. Se ha demostrado que esta cirugía mejora la calidad de vida, la tolerancia al ejercicio, la función pulmonar y la supervivencia en pacientes con enfisema. Los pacientes ideales son aquellos con enfisema con predominio del lóbulo superior, FEV1 y DLCO ≥ 20% del predicho, y baja tolerancia al ejercicio pese a asistir correctamente al programa de rehabilitación pulmonar.
+    
+    - Este paciente tuvo una SatO2 del 90% durante una prueba de marcha de 6 minutos. La oxigenoterapia suplementaria mejora la calidad de vida y disminuye la mortalidad en pacientes con EPOC y una PO2a igual o inferior a 55 mm Hg o una saturación de oxígeno igual o inferior al 88%. Para los pacientes con EPOC y comorbilidades como eritrocitosis, insuficiencia cardiaca o cor pulmonale, está indicado si la PO2 arterial es igual o inferior a 59 mm Hg o la saturación de oxígeno es igual o inferior al 89 %. Este paciente no cumple los criterios para recibir oxígeno suplementario.
+    •	El tratamiento a largo plazo con macrólidos o quinolona respiratorias puede reducir la frecuencia de las exacerbaciones cuando se prescribe a pacientes con EPOC grave y antecedentes de exacerbaciones frecuentes. La terapia antibiótica crónica no está indicada para la mayoría de los pacientes con EPOC, y este paciente no tiene indicación.
+    •	El roflumilast es un inhibidor selectivo de la fosfodiesterasa-4 que se utiliza para reducir los síntomas crónicos y la frecuencia de las exacerbaciones en pacientes con EPOC grave que presentan principalmente síntomas de bronquitis crónica o exacerbaciones frecuentes. Este paciente con síntomas y hallazgos radiográficos compatibles con enfisema y sin antecedentes de exacerbaciones frecuentes no tiene indicación para este tratamiento.
+    
+    Lectura recomendada:
+    
+    1. Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. 2023 GOLD Report.
+
+#Varón de 65 años, acude a consulta del programa control. Tiene antecedente de EPOC con FEV1/CVF posbroncodilatadora reducida y un FEV1 del 67% del previsto (diagnosticado hace 4 meses) e historial de fumador durante 40 años, cesando su uso hace 3 años. Refiere que aún continúa sintomático destacando aparición de disnea cuando camina rápido o camina calles inclinadas. No ha tenido episodios de exacerbaciones agudas. Actualmente se encuentra en manejo con indacaterol. Al examen físico presenta PA 130/70 mh, FR 19 rpm, SatO2 94% a aire ambiente, sibilancias espiratorias ocasionales, resto de examen físico normal. La Rx de tórax realizada hace cuatro meses muestra un diafragma aplanado. Analítica: hemoglobina: 12.2 g/dl; hematocrito: 36%; VCM: 81 fl; leucocitos: 8800/microl; (PMN: 63%; linfocitos: 13%; eosinófilos 1%), plaquetas: 250000/ microl.
+¿Cuál sería la conducta adecuada a seguir?***
+#A. Iniciar oxigenoterapia crónica domiciliaria.
+#B. Iniciar vilanterol/fluticasona inhalado
+#C. Iniciar prednisona 60 mg/día por 7 días
+#D. Iniciar bromuro de tiotropio inhalado
+#Respuesta correcta: D
+#Tema e ítem: Tratamiento farmacológico en EPOC
+    
+    Argumento: Los tratamientos farmacológicos de la EPOC permiten reducir los síntomas, mejorar la calidad de vida y reducir las exacerbaciones. Recuerda que independientemente de la gravedad de la EPOC, los broncodilatadores son el pilar del tratamiento. Estos incluyen inhaladores β2-agonistas y antimuscarínicos de larga acción (LAMA, LABA). El tratamiento inicial se recomienda un LAMA o LABA como monoterapia (como en este caso que iniciaron un LABA como indacaterol), pero debe añadirse un segundo inhalador, como el bromuro de tiotropio (LAMA), si los síntomas como la disnea siguen estando mal controlados.
+    
+    - Este paciente no cumple con criterios para iniciar oxigenoterapia domiciliaria.
+    •	Si el paciente presentara historial de exacerbaciones, el conteo de eosinófilos en sangre (más de 300 Eos/mL) determinaría si se debería iniciar triple terapia con LAMA + LABA + corticoides inhalados.
+    •	Las directrices no respaldan el tratamiento glucocorticoide oral crónico con agentes como la prednisona porque los ensayos clínicos no han demostrado mejorar resultados y, además, existen numerosa evidencia de que el tratamiento crónico con glucocorticoides orales puede ser perjudicial, entre otras cosas para los pacientes que debutan con hipertensión, diabetes, osteoporosis y predisposición a infecciones. Por otro lado, hay que recordar que si están recomendados para el tratamiento de corta duración de las exacerbaciones agudas de la EPOC.
+    
+    Lectura recomendada:
+    
+    1. Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. 2023 GOLD Report.
+
+#Varón de 51 años, sin antecedentes de interés, remitido por aparición reciente de ‘’bulto’’ en zona anterior del cuello. Niega disfagia, disfonía, temblor distal, pérdida de peso u otra sintomatología. Al examen físico presenta signos vitales estables, presencia de nódulo bien delimitado de:  consistencia dura, no doloroso, desplazable, localizado a nivel de lóbulo tiroideo superior derecho, de aproximadamente 1.5 x 1.2 cm. Analítica: TSH 4.5 mUI/L (VR: 0.4- 5). Ecografía de tiroides: nódulo tiroideo sólido hipereocico de 16 mm, más alto que ancho, bordes mal definidos, categoría EU-TIRADS 3.
+¿Cuál sería la conducta adecuada a seguir en este paciente basados en las directrices de la guía europea 2023?***
+#A. Realizar seguimiento ecográfico del nódulo en 3 años
+#B. Realizar gammagrafía de tiroides
+#C. Realizar aspiración con aguja fina (ACAF)
+#D. Realizar seguimiento ecográfico en 6 meses y según resultados definir si la lesión requiere ACAF
+#Respuesta correcta: A
+#Tema e ítem: Nódulo tiroideo
+    
+    Argumento: El principal reto en el abordaje del paciente con NT es definir si es benigno o maligno. La prevalencia de malignidad en los nódulos tiroideos es del 7-15 % aproximadamente y es independiente del tamaño del nódulo.
+    
+    Recordar que en en los pasados exámenes de admisión de la Universidad de Antioquia los hallazgos ecográficos se evaluaron mediante los criterios de la ATA. No obstante, recordemos que actualmente también cuenta con recomendaciones de las guías europeas del 2023, las cuales deben ser tenidas en cuenta para el examen de admisión del 19 de abril ya que pueden que realizar preguntas basados en las directrices de esta nueva guía. En forma de resumen, la guía recomienda realizar ACAF del NT acorde al tamaño y clasificación EU-TIRADS:
+    • EU-TIRADS 5: >10 mm (> 1 cm)
+    • EU-TIRADS 4: >15 mm (> 1.5 cm)
+    • EU-TIRADS 3: >20 mm (> 2 cm)
+    
+    En un paciente con un NT menor de 20 mm y clasificación EU-TIRADS 3 la conducta es realizar seguimiento ecográfico en 3 años si el valor del nódulo es >10 mm, ya que el riesgo de malignidad en este grupo es del 2-4%.
+    
+    Lectura recomendada:
+    
+    1. Durante C, Hegedus L, Czarniecka A, Paschke R, Russ G, Schmitt F, Soares P, Solymosi T, Papini E. 2023 European Thyroid Association clinical practice guidelines for thyroid nodule management. Eur Thyroid J. 2023 Jun 1:ETJ-23-0067
+
+#Varón de 31 años, con antecedente de reciente viaje al choco, quien consulta por fiebre alta y artralgias severas. Refiere que las artralgias iniciaron hace 5 días en articulaciones metacarpofalángicas, codos, topillos y metatarsofalángicas, eran leves, de predominio matutino y mejoraban con la administración de paracetamol. En las últimas horas inicia la fiebre y se intensifica el dolor articular. Al ingreso presenta T 38,9 °C, PA 120/70 mh, FC 110 lpm. Al examen físico se observa exantema de tipo maculopapular de distribución facial, tórax y miembros superiores, además de inyección conjuntival no supurativa bilateral. A nivel de las articulaciones referidas se objetiva tumefacción periarticular y dolor a la palpación. Laboratorios: Hb 13.2 g/dL Leucocitos 2.700/m3, N: 70%, L: 8%, PLT 190.000/m3, Cr 0.9 mg/dL.
+¿Cuál de las siguientes es la causa más probable de su cuadro clínico?***
+#A. Virus Chikunguya
+#B. Virus Dengue
+#C. Artritis reactiva
+#D. Virus Zika
+#Respuesta correcta: A
+#Tema e ítem: Infección aguda por virus chikungunya
+    
+    Argumento: La infección aguda por virus chikungunya se caracteriza por la aparición abrupta de artralgias poliarticulares intensas, fiebre alta, exantema de predominio toracico, miembros y facial e inyección conjuntival bilateral no purulenta.
+    
+    El chikungunya es un arbovirus transmitido por mosquitos. Los principales mosquitos vectores del virus chikungunya son el Ae. aegypti y Ae. Albopictus. Después de un período de incubación de 3 a 7 días, los signos y síntomas comienzan abruptamente con fiebre y malestar general. El dolor articular puede preceder a la fiebre, como es en este caso. La intensidad del dolor articular (característica que lo diferencia del dengue o zika), el gran número de articulaciones afectadas, la fiebre alta y la residencia en una zona endémica hacen que el diagnóstico más probable sea chikungunya. Lo paraclínicos pueden reportar leucopenia, linfopenia, trombocitopenia (más comun en dengue), ALT/AST y creatinina elevada.
+    
+    - Tanto el chikungunya como la artritis reactiva pueden presentarse con oligoartritis aguda. La artritis reactiva se refiere a la artritis asociada con una infección extraarticular coexistente o con un antecedente reciente, lo cual no es comentado por el autor de la pregunta. Las manifestaciones clínicas incluyen al menos una de las siguientes: oligoartritis asimétrica (que a menudo afecta las extremidades inferiores), entesitis (inflamación en el sitio de inserción de ligamentos y tendones en el hueso), dactilitis (inflamación de un dedo completo) y lumbalgia de características inflamatorias. El diagnóstico se establece clínicamente basándose en la presencia de signos característicos con una infección entérica o genitourinaria previa o en curso, con exclusión de otras causas de artritis.
+    • Las infecciones por virus dengue y chikungunya comparten muchas manifestaciones clínicas y áreas de distribución geográfica. Es más probable que la infección por virus chikungunya cause fiebre alta, artralgia grave, artritis, exantema y linfopenia, mientras que la infección por virus del dengue es más probable que cause neutropenia, trombocitopenia, hemorragia, shock y muerte.
+    •Los síntomas y signos de la infección por virus Zika incluyen fiebre, exantema, cefalea, artralgia (menos intensa), mialgia y conjuntivitis. El chikungunya suele presentarse con fiebre más alta y dolor articular más intensa, aunque existe una superposición considerable en las manifestaciones clínicas.
+
+#Mujer de 35 años, sin antecedentes de interés, consulta por presentar en los últimos días hematoma con facilidad en extremidades superiores e inferiores. Al examen físico presenta PA 120/70 mh, FC 90 lpm, FR 16 rpm, tres áreas de equimosis en muslo derecho y hematoma de 2 x3 cm en antebrazo izquierdo, resto de examen físico normal. Laboratorios: Hb 13.5, VCM 88, leucocito 6000, PLT 38.000, Cr 0.9. El ESP es normal.
+¿Cuáles estudios diagnósticos de extensión solicitaría en este paciente?***
+#A. Solicitar niveles de Vitamina B12
+#B. Solicitar anticuerpos antinucleares (ANA)
+#C. Solicitar test de Coomb directa
+#D. Serología para VIH y hepatitis C
+#Respuesta correcta: D
+#Tema e ítem: Paciente con PTI
+    
+    Argumento: Este paciente tiene púrpura trombocitopénica inmune aguda (PTI). Recuerda siempre que la evaluación inicial de los pacientes con PTI debe incluir serología para VIH y hepatitis C porque la trombocitopenia puede ser el signo de presentación inicial en estas infecciones. Los pacientes con infección por VIH pueden presentar PTI independientemente de la carga viral o del recuento de células CD4 y pueden ser asintomáticos. Aunque muchos pacientes con hepatitis C presentan síntomas, éstos son inespecíficos y pueden no estar directamente relacionados con la infección viral, sino más bien con afecciones comórbidas asociadas.
+    
+    - Dado que no presenta ninguna clínica y hallazgos sugerentes de LES, no es necesario realizar pruebas de anticuerpos antinucleares.
+    •	La paciente tampoco presenta signos de hemólisis concurrente (nivel de hemoglobina normal, ESP normal), por lo que no es necesaria un test de coombs.
+    •	La vitamina B12 es necesaria para una hematopoyesis normal. Sin embargo, la trombocitopenia aislada sería una manifestación inusual de esta deficiencia. El paciente tiene un recuento normal de leucocitos, y no se observan neutrófilos hipersegmentados en su frotis de sangre periférica, por lo que es poco probable que el déficit de B12 explique su trombocitopenia.
+
+#Emanuel, 6 años. Sin antecedentes patológicos. La madre refiere que el paciente ha presentado 3 episodios de amigdalitis en los últimos 3 años. Por lo demás, dice que el paciente se encuentra sano, ocasionalmente con enuresis. Niega síntomas respiratorios obstructivos nocturnos. Al examen físico, antropometría adecuada para la edad, con amígdalas no hipertróficas, sin signos inflamatorios. Neurológicamente, sin alteraciones. ¿Cuál es el paso a seguir?***
+#A. Realizar amigdalectomía
+#B. Realizar adenoamigdalectomía
+#C. Solo seguimiento
+#D. Polisomnografía
+#Respuesta correcta: A
+#Tema e Ítem: Amigdalitis a repetición – Criterios de amigdalectomía
+    
+    Argumento: Emanuel, ha presentado 3 episodios de amigdalitis en los últimos 3 años. Además, ha presentado enuresis. Por lo tanto, cumple con criterios de realización de amigdalectomía.
+    
+    En todo paciente con episodios recurrentes de amigdalitis, debemos preguntarnos cuántos episodios ha presentado y vigilar si cumple con los criterios para la realización de amigdalectomía, que son:
+    
+    - ≥7 episodios el año pasado.
+    - ≥5 episodios por año por 2 años.
+    - ≥3 episodios por año por 3 años.
+    *En cada episodio se debe haber documentado odinofagia y ≥1 de los siguientes:
+        - Fiebre >38.3°C
+        - Adenopatías cervicales
+        - Exudado amigdalino
+        - Test positivo para S. pyogenes
+    
+    Además, es importante preguntar por otros factores que también serán indicación de cirugía:
+    -Alergia/intolerancia a múltiples AB
+    -PFAPA (fiebre periódica, estomatitis aftosa, faringitis, adenitis)
+    -Historia de 1 absceso periamigdalino
+    
+    Si el paciente presenta síntomas de respiración obstructiva del sueño (ronquido, respiración oral) y tiene hipertrofia amigdalina, debemos preguntar por - condiciones comórbidas que puedan mejorar después de la amigdalectomía, tales como:
+    
+    1. Retardo del crecimiento
+    2. Mal rendimiento escolar
+    3. Enuresis
+    4. Asma
+    5. Problemas de comportamiento → hiperactividad, agresividad, depresión, somatización, ansiedad.
+    
+    Recuerda que en pacientes que tienen apnea obstructiva del sueño documentada en polisomnografía, también debemos remitir al otorrinolaringólogo para realización de cirugía.
+    
+    Bibliografía recomendada:
+    Mitchell R; et al. Clinical Practice Guideline: Tonsillectomy in Children (Update)-Executive Summary. American Academy of Otolaryngology – Head and Neck Surgery. 2019.
+    
+
+#Ángel, 8 años, es llevado por su madre al consultorio debido a dolor en los talones, de dos meses de evolución, que se ha empeorado en los últimos 3 días. Practica baloncesto en el colegio Al examen físico, se evidencia una marcha normal, se niega a realizar marcha en los talones. Se evidencia leve edema en ambos talones, con dolor a la palpación y a la dorsiflexión. ¿Cuál cree que es el diagnóstico?***
+#A. Tendinopatía del Aquiles
+#B. Apofisitis del calcáneo
+#C. Fascitis plantar
+#D. Síndrome del túnel tarsiano
+#Respuesta correcta: B
+#Tema e Ítem: Apofisitis del calcáneo (Enfermedad de Server) – Lesiones comunes en pacientes deportistas
+    
+    Argumento: El dolor en el talón en un niño activo es más comúnmente debido a una apofisitis calcánea (enfermedad de Sever), lesión por uso excesivo, causada por microtraumatismos repetitivos en la apófisis del calcáneo (placa de crecimiento del talón).
+    La afección se observa típicamente en niños atléticos de 8 a 12 años que practican deportes de carrera o salto (p. ej., baloncesto) porque la apófisis es más susceptible al estrés durante los períodos de rápido crecimiento.
+    La presentación implica dolor crónico y a menudo bilateral en el talón que empeora con la actividad, en particular cuando se usan zapatos sin soporte para el talón (p. ej., chanclas, zapatos con tacos).
+    
+    Bibliografía recomendada:
+    Achar S, Yamanaka J. Apophysitis and Osteochondrosis: Common Causes of Pain in Growing Bones. Am Fam Physician. 2019 May 15;99(10):610-618. PMID: 31083875.
+    
+
+#Recién nacido a término por parto vaginal, de 37 semanas de gestación, sin controles prenatales. Presentó un apgar de 7 al nacer, con FC 144, FR 70, SatO2 84% al aire ambiente. Se evidencia una cara aplanada, retracciones intercostales y murmullo vesicular disminuido a la auscultación. El abdomen está distendido y se palpa una masa suprapúbica blanda, en la línea media. Se observa cianosis distal y pie equino varo bilateral. ¿Cuál de las siguientes es la causa subyacente más probable de la condición clínica de este paciente?***
+#A. Valvas de uretra posterior
+#B. Taquipnea transitoria del recién nacido
+#C. Tumor de Wilms
+#D. Atresia duodenal
+#Respuesta correcta: A
+#Tema e Ítem: Secuencia Potter – Alteraciones genéticas
+    
+    Argumento: Este recién nacido con dificultad respiratoria tiene hipoxia con disminución del murmullo vesicular (lo que sugiere hipoplasia pulmonar), cara aplanada y deformidades en las extremidades. Esta constelación de hallazgos, conocida como secuencia de Potter, representa las manifestaciones fisiopatológicas de cualquier afección asociada con niveles inadecuados de líquido amniótico (p. ej., obstrucción del tracto urinario, agenesia renal, poliquistosis renal, ruptura prematura de membranas). La distensión abdominal y la masa suprapúbica de este paciente son compatibles con una distensión de la vejiga resultante de la obstrucción del tracto urinario. En los niños recién nacidos, esto se debe más comúnmente a las válvulas uretrales posteriores (VUP).
+    
+    Bibliografía recomendada:
+    Rosenblum N. Overview of congenital anomalies of the kidney and urinary tract (CAKUT). Mar, 2024. UpToDate.
+    
+
+#Joaquín, 4 meses. Llevado a consulta de crecimiento y desarrollo. Nació a las 36 semanas de gestación, sin controles prenatales. Recibe lactancia materna exclusiva. Su hermana de 6 años tiene antecedentes de osteosarcoma. Al examen físico, se evidencia una desviación hacia adentro del ojo derecho. Se evidencia un reflejo blanco en el ojo derecho y un reflejo rojo en el ojo izquierdo. ¿Cuál de los siguientes es el próximo paso a seguir?***
+#A. TAC de órbitas
+#B. Fundoscopia
+#C. Terapia oclusiva
+#D. RMN de órbitas
+#Respuesta correcta: B
+#Tema e Ítem: Leucocoria – Enfoque
+    
+    Argumento: En un paciente con leucocoria el primer paso más importante es realizar una FUNDOSCOPIA (fondo de ojo) . El retinoblastoma es la neoplasia maligna intraocular primaria más común y, si no se trata, la más letal en los niños. La afección típicamente se manifiesta con leucocoria , estrabismo y una masa blanca en la retina en la fundoscopia. Con menos frecuencia, hay disminución de la agudeza visual y/o enrojecimiento ocular debido a la inflamación.
+    Los exámenes de elección son la ECO ocular y la RMN, porque permiten evaluar el tamaño y la extensión del tumor. El tratamiento es principalmente quirúrgico, con técnicas quirúrgicas específicas (crioterapia versus enucleación) dictadas por los resultados de las imágenes. La quimioterapia se usa como adyuvante si hay enfermedad metastásica.
+    
+    El retinoblastoma es causado por mutaciones esporádicas o heredadas en el gen del retinoblastoma (Rb) y puede estar asociado con otras neoplasias malignas (osteosarcoma, pinealoma). La hermana de este paciente tiene antecedentes de osteosarcoma, lo que sugiere una mutación hereditaria. Se recomienda la realización de pruebas genéticas moleculares en todos los pacientes con retinoblastoma para identificar mutaciones de la línea germinal, ya que los miembros de la familia también pueden estar en riesgo.
+    
+    - La TAC de órbitas no es el examen de primera línea ante la sospecha de retinoblastoma.
+    - La terapia de oclusión (es decir, un parche en el ojo) suele estar indicada en pacientes con estrabismo para prevenir la ambliopía y la pérdida de la visión binocular. Sin embargo, aunque este paciente tiene estrabismo, la terapia de oclusión no está indicada en este momento porque la presencia de leucocoria es muy alarmante y el retinoblastoma requiere un diagnóstico precoz, por lo que se requiere más investigación.
+    
+    Bibliografía recomendada: Roy SR, Kaliki S. Retinoblastoma: A Major Review. Mymensingh Med J. 2021 Jul;30(3):881-895. PMID: 34226484.
+    
+
+#Sofía, 4 años. Llega a urgencias con su madre por tos y disnea leve desde hace 14 horas. Tiene antecedentes de asma y ha acudido en 4 ocasiones en los últimos seis meses a urgencias por exacerbaciones. Su hermana de 9 meses fue tratada por bronquiolitis hace una semana. Su padre tiene rinitis alérgica. Al examen físico, afebril y taquicárdica, con retracciones intercostales y subcostales leves, disminución del murmullo vesicular y sibilancias espiratorias en todo el campo pulmonar derecho. Se realiza una rx de tórax que muestra hiperlucidez del campo pulmonar derecho con disminución de las marcas pulmonares. De acuerdo a su sospecha clínica, ¿Cuál de los siguientes es el paso a seguir?***
+#A. Broncoscopia
+#B. Nebulizaciones con salbutamol
+#C. Epinefrina racémica
+#D. TAC de tórax
+#Respuesta correcta: A
+#Tema e Ítem: Cuerpo extraño – Sospecha clínica y enfoque diagnóstico
+    
+    Argumento: Este paciente presenta tos de inicio agudo y disnea, al examen físico tiene sibilancias unilaterales y entrada de aire reducida junto con hiperlucidez de los campos pulmonares, lo que indica una aspiración de cuerpo extraño con obstrucción. La mitad de todas las aspiraciones ocurren en niños entre los 2-3 años y el 80% de los casos involucran el bronquio principal derecho.
+    
+    En este paciente, con antecedentes de asma, los síntomas y hallazgos al examen físico pueden ser consistentes con una exacerbación de su patología, pero los signos clínicos y alteraciones se detectarían bilateralmente, no en un solo pulmón como en este paciente.
+    
+    La TAC de tórax ubicaría de forma precisa el cuerpo extraño, sin embargo, la radiografía revela signos que sugieren de forma precisa el diagnóstico, por lo que una imagen nueva no aportaría información adicional.
+    
+    La epinefrina inhalada se usa en el CRUP moderado-grave, en el cual la tos es típicamente “perruna” y la radiografía mostraría un estrechamiento subglótico.
+    
+    Bibliografía recomendada:
+    -Tenenbaum T, Kähler G, Janke C, et al. Manejo de la extracción de cuerpo extraño en niños mediante broncoscopia flexible. J Broncología Interv Pulmonol 2017; 24:21.
+    
+
+#Masculino de 72 años consulta para que usted le autorice la extracción de un molar. Tiene antecedente de HTA, DM-2, cardiopatía isquemia y reemplazo de válvula aórtica por estenosis aortica. Toma aspirina, warfarina, lisinopril, metformina, sitagliptina y atorvastatina. Sus signos vitales son normales. Al examen físico se ausculta soplo sistólico en foco aórtico. ¿Cuál es el manejo adecuado ante el procedimiento que se realizará este paciente?***
+#A.	Realizar un ecocardiograma antes del procedimiento.
+#B.	Suspender aspirina y warfarina 72 horas antes del procedimiento.
+#C.	Administrar amoxicilina 1 hora antes del procedimiento.
+#D.	Administrar azitromicina 1 hora antes y 2 horas después del procedimiento.
+#Respuesta correcta: C
+#Tema e ítem: Profilaxis para endocarditis infecciosa.
+    
+    Argumento: Los pacientes con válvulas cardiacas protésicas tienen un mayor riesgo de desarrollar endocarditis infecciosa, particularmente cuando se someten a procedimientos dentales. En estos casos se recomienda profilaxis antibiótica con amoxicilina oral administrada 30 a 60 minutos previos al procedimiento. Otra alternativa incluye la ampicilina IV en pacientes que no se disponga de vía oral y la azitromicina en paciente alérgicos a penicilina (Este paciente no es alérgico, además la profilaxis no se realiza después del procedimiento por lo que la opción 4 es incorrecta).
+    
+    - Un ecocardiograma no se realiza de forma rutinaria antes de procedimientos dentales en este tipo de paciente, solo está indicada antes cambios en síntomas clínicos (Este paciente está estable y no se sospecha de disfunción de la válvula).
+    - 
+    - La anticoagulación debe continuarse en pacientes con válvulas cardiacas protésicas que se someten a procedimientos en los que se espera un sangrado meno o que el sangrado se pueda controlar fácilmente, como este procedimiento dental.
+    
+    Lecturas recomendadas:
+    
+    - Guía ESC 2015 sobre el tratamiento de la endocarditis infecciosa.
+
+#Masculino de 31 años presenta cefalea y confusión progresiva desde hace 2 semanas. Tiene antecedente de infección por VIH y no tiene buena adherencia a tratamiento antirretroviral. Tampoco ha recibido manejo profiláctico. Signos vitales: temp. de 38°C, PA de 118/80 mmHg y FC de 102 lpm. Al examen físico el paciente se ve descuidado y desorientado. Hay ataxia y hemiparesia derecha. Una RM de cerebro evidencia lesiones con realce anular. ¿Cuál de los siguientes medicamentos hubiera prevenido la condición actual de este paciente?***
+#A.	Albendazol.
+#B.	Fluconazol.
+#C.	Ganciclovir.
+#D.	Trimetropin-sulfametoxazol.
+#Respuesta correcta: D
+#Tema e ítem: Toxoplasmosis en pacientes con VIH.
+    
+    Argumento: Este paciente con VIH tiene síntomas neurológicos, fiebre y evidencia de lesiones con realce anular en la neuroimagen realizada, lo que debe generar una alta sospecha de toxoplasmosis. En la mayoría de ocasiones se debe a la reactivación de T. gondii debido a deficiencias graves en la inmunidad celular como lo es el estado del SIDA con recuentos de CD4 menores a 100/mm3. La profilaxis primaria contra la toxoplasmosis es eficaz para prevenir la afección en pacientes con SIDA avanzado. Por lo tanto, todo paciente con VIH debe someterse a una evaluación de laboratorio para detectar la exposición (IgG de toxaplasma) y aquellos con serología positiva y recuento de CD4 menor a 100/mm3 requerirán profilaxis primaria con trimetropin-sulfametoxazol. Los pacientes en manejo antirretroviral generalmente pueden interrumpir la profilaxis cuando el recuente de CD4 sea mayor a 200/mm3 durante 3 meses y existe una supresión viral adecuada. Además, el trimetropin-sulfametoxazol se usa como profilaxis contra neumonía por Pneumocystis en pacientes con CD4 menores a 200/mm3.
+    
+    Lecturas recomendadas:
+    
+    - Basavaraju A. Toxoplasmosis in HIV infection: An overview. Trop Parasitol. 2016 Jul-Dec;6(2):129-135.
+
+#Masculino de 72 años consulta por dolor intenso en su pierna izquierda que inició con sensación de hormigueo hace varias horas, pero que desde entonces se ha vuelto doloroso. Tiene antecedente de HTA, DM2, FA paroxística y osteoartritis. Fue fumador de 45 paquetes-año. Signos vitales: PA de 142/80 mmHg y FC de 112 lpm e irregular. Al examen físico, la piel de la extremidad inferior izquierda aparece moteada y fría al tacto. Los pulsos distales de la pierna izquierda no son palpables. ¿Qué medicamento prevendría la condición actual de este paciente?***
+#A.	Apixaban.
+#B.	Aspirina.
+#C.	Clopidogrel.
+#D.	Metoprolol.
+#Respuesta correcta: A
+#Tema e ítem: Anticoagulación en pacientes con Fibrilación Auricular.
+    
+    Argumento: Este paciente con dolor agudo en las extremidades inferiores, parestesia y falta de pulso tiene isquemia aguda en las extremidades. Dados los antecedentes de fibrilación auricular paroxística del paciente y pulso irregular en el examen, la causa más probable es la embolia de un trombo en la aurícula izquierda, que podría haberse evitado con un tratamiento anticoagulante adecuado. Las guías actuales recomiendan el uso de la puntuación CHA2DS2-VASc para la evaluación del riesgo tromboembólico en pacientes con FA. Los pacientes masculinos con una puntuación CHA2DS2-VASc ≥2, como este paciente (puntuación = 3: hipertensión, diabetes mellitus, edad 65-74), tienen un alto riesgo de eventos tromboembólicos y deben tratarse con terapia anticoagulante. En estos pacientes, el beneficio de la reducción del riesgo de embolización supera el riesgo de hemorragia (hemorragia intracraneal). El apixabán es un anticoagulante oral no antagonista de la vitamina K (NOAC) que inhibe directamente el factor Xa, evitando que escinda la protrombina en trombina. Los NOAC (apixabán, dabigatrán, rivaroxabán, edoxabán) reducen significativamente el riesgo de embolización sistémica con una eficacia similar o superior a la de la warfarina, pero con menor riesgo de hemorragia grave (accidente cerebrovascular hemorrágico) y sin necesidad de pruebas de INR de rutina. Por el contrario, la terapia antiplaquetaria con aspirina o una combinación de aspirina y clopidogrel es significativamente menos efectiva para reducir el riesgo tromboembólico en comparación con la terapia anticoagulante con NOAC o Warfarina.
+    
+    Lecturas recomendadas:
+    
+    - Gándara R. Fibrilación auricular ¿cómo, cuándo y con qué anticoagular? Medellín: XXI Actualización en Medicina Interna. Universidad de Antioquía. 2021
+
+#Masculino de 35 años consulta a urgencias por dolor en hemitórax derecho de intensidad 8/10. El paciente se encuentra ansioso, agitado y diaforético. Signos vitales: T°: 37.1°C, PA: 165/92 mh, FC: 130 lpm, FR: 21 rpm. A la exploración física destacan pupilas midriáticas y mucosa nasal atrófica. De resto el examen físico es anodino. Un electrocardiograma evidencia depresión del segmento ST e inversión de la onda T en las derivaciones V4-V6.  Dentro de los paraclínicos las troponinas son negativas. Y la radiografía de tórax es normal.  ¿Cuál de los siguientes es el tratamiento más adecuado?***
+#A.	Iniciar terapia trombolítica.
+#B.	Dejar en observación e iniciar metoprolol IV.
+#C.	Llevar a cateterismo urgente.
+#D.	Iniciar diazepam IV.
+#Respuesta correcta: D
+#Tema e ítem: Intoxicación por cocaína.
+    
+    Argumento: Este paciente presenta un cuadro clínico alta sugerente de una intoxicación aguda por cocaína: agitación psicomotora, midriasis bilateral, mucosa nasal atrófica, HTA e isquemia miocárdica sugerida por el dolor torácico y los cambios electrocardiográficos comentados.  La cocaína potencia las acciones simpaticomiméticas al producir una inhibición de la recaptación de norepinefrina en la neurona simpática.  Esto provoca la estimulación de los receptores αβ adrenérgicos y puede producir vasoconstricción coronaria y aumento de la frecuencia cardiaca, presión arterial sistémica y demanda miocárdica de oxígeno.  También potencia un estado protrombótico al promover la activación y agregación plaquetaria. Todos los pacientes con esta intoxicación e isquemia miocárdica deben ser tratados inicialmente con oxigenoterapia y benzodiacepinas IV.  Al reducir el flujo simpático, las benzodiacepinas disminuyen la ansiedad y la agitación, mejoran la presión arterial y la frecuencia cardiaca.  La aspirina retrasa la formación de trombos; los nitratos y los bloqueadores de canales de Ca++, al ser vasodilatadores, ayudan a disminuir la vasoconstricción coronaria inducida por cocaína.
+    Recuerda que los betabloqueadores, incluidos los agentes cardioselectivos como metoprolol NO deben utilizarse en pacientes con infarto de miocardio inducido por cocaína hasta que la sustancia haya sido depurada por el organismo.  Su uso puede provocar una estimulación alfa adrenérgica sin oposición y empeorar la vasoconstricción coronaria.
+    
+    Lectura recomendada:
+    
+    - Lewis S Nelson. Oladapo Odujebe. Cocaine: Acute intoxication. Disponible en Uptodate Advanced 2024.
+
+#Masculino de 51 años, sin antecedentes de interés, consulta a urgencias por dolor torácico muy intenso de inicio abrupto hace 2 horas. Niega otros síntomas asociados.  Refiere que su padre murió de un IAM a los 55 años. El paciente se evidencia pálido y diaforético. Signos vitales: T°: 36.9°C, PA: 179/105 mmHg, FC 110 lpm, FR 18 rpm. Al examen físico los pulsos radiales se encuentran disminuidos, ruidos cardiacos rítmicos, murmullo vesicular conservado. Un electrocardiograma evidencia taquicardia sinusal, con aumento del voltaje del QRS en varias derivaciones e inversión de la onda T en las derivaciones V5 y V6. Se realiza una TAC de tórax muestra signos compatibles con disección de aorta tipo A según clasificación de Stanford. Se inicia analgesia, ¿Cuál de los siguientes tratamientos debe recibir de forma inmediata este paciente?***
+#A.	Nitroprusiato.
+#B.	Hidralazina.
+#C.	Hidroclorotiazida.
+#D.	Labetalol
+#Respuesta correcta: D
+#Tema e ítem: Síndromes aórticos – Disección aortica aguda.
+    
+    Argumento: La disección aórtica (DA) que afecta a la aorta ascendente (tipo A según la clasificación de Stanford) se considera una urgencia quirúrgica, con tasas de mortalidad de hasta el 2% por cada hora transcurrida desde el inicio, diagnóstico y tratamiento.  Los objetivos de la terapia inicial de la DA incluyen:
+    
+    - Control adecuado del dolor
+    - Reducción de la PAS a 100-120 mm Hg.
+    - Disminución de la contractilidad del ventrículo izquierdo para reducir el estrés de la pared aórtica.
+    - Disminución de la frecuencia cardiaca menor a 60 lpm.
+    
+    Los β-bloqueadores intravenosos como el labetalol son de elección como tratamiento inicial para reducir la frecuencia cardiaca, la PAS y la contractilidad del VI.  Estos efectos conducen a una disminución en la velocidad de aumento de la PAS y de la tensión de la pared aórtica.
+    
+    Lecturas recomendadas:
+    
+    - Giraldo J. Síndrome aórtico agudo. VIII Simposio Medicina de Urgencias. 2020
+
+#Femenina de 24 años consulta porque tuvo relaciones sexuales hace 2 días con su pareja sin métodos anticonceptivos. Refiere que no desea quedar embarazada en este momento ya que se encuentra a 6 meses de terminar sus estudios universitarios, pero que le gustaría concebir una vez se gradúe. No hay alteraciones en su menstruación. Refiere alergia a metales de joyería. La prueba de embarazo es negativa. ¿Cuál es el manejo inmediato adecuado para esta paciente?***
+#A.	Colocar un dispositivo intrauterino de cobre.
+#B.	Colocar un dispositivo intrauterino de progestágenos.
+#C.	Administrar acetato de ulipristal.
+#D.	Administrar acetato de medroxiprogesterona.
+#Respuesta correcta: C
+#Tema e ítem: Métodos anticonceptivos de emergencia.
+    
+    Argumento: En caso de que las pacientes soliciten métodos anticonceptivos de emergencia pero que a su vez consideren un embarazo en un futuro cercano, el acetato de ulipristal oral o el levonorgestrel oral son la opción anticonceptiva de emergencia adecuada. El acetato de ulipristal tiene una eficacia de hasta el 99% para prevenir el embarazo si se administra dentro de 5 días posteriores a la relación sexual sin protección, y el lenonorgestrel tiene una eficacia de hasta el 98% si se administra dentro de los 3 días posterior a la relación sexual. Estos anticonceptivos orales de emergencia son más afectivos durante la primera mitad del ciclo menstrual y en pacientes con peso saludable.
+    
+    - Los dispositivos intrauterinos de cobre y levonorgestrel son más efectivos que los métodos anticonceptivos orales de emergencia, sin embargo, estos métodos no son adecuados en esta paciente que se encuentra considerando un embarazo en un futuro cercano. El DIU de cobre debería evitarse en pacientes con antecedentes sugestivos de alergia de cobre.
+    - El acetato de medroxiprogesterona se usa ampliamente como método anticonceptivo a largo plazo, particularmente en pacientes que no desean tomar un anticonceptivo vía oral diario, ya que este se administra de forma IM cada 3 meses. No se usa como método anticonceptivo de emergencia.
+    
+    Lecturas recomendadas:
+    
+    - Zuleta T. Abordaje de los mitos en anticoncepción. XXXI Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
+
+#Paciente femenina de 19 años, G1P0, sin control prenatal, quien cursa con 24 sem de gestación. Tiene dolor abdominal en hemiabdomen derecho desde hace 2 días asociados a náuseas e inapetencia. Refiere contracciones no dolorosas, sin hemorragia ni flujo. Signos vitales: T 39°C, PA 116/70 mmHg y FC 120/min. Al examen físico hay dolor en flanco derecho, sin irritación peritoneal. Al tacto vaginal el cervix está cerrado y membranas íntegras. ¿Cuál es el diagnóstico más probable?***
+#A.	Torsión ovárica.
+#B.	Infección intraamniótica.
+#C.	Apendicitis aguda.
+#D.	Pielonefritis aguda.
+#Respuesta correcta: D
+#Tema e ítem: Pielonefritis aguda-Diagnóstico
+    
+    Argumento: Las mujeres embarazadas tienen un mayor riesgo de padecer pielonefritis aguda debido al aumento de la estasis urinaria, la inmunosupresión leve y la dilatación ureteral relacionada con la progesterona. Como la mayoría de los pacientes, las embarazadas con pielonefritis suelen tener náuseas, fiebre alta y dolor en el costado. La fiebre y la taquicardia maternas también provocan taquicardia fetal. En la exploración, la sensibilidad del ángulo costovertebral es frecuente por inflamación retroperitoneal, que puede extenderse a la cavidad abdominopélvica y causar síntomas obstétricos, como irritabilidad uterina (contracciones no dolorosas) que pueden progresar a parto prematuro (contracciones dolorosas con dilatación cervical). La pielonefritis grave también puede causar sepsis materna, síndrome de distrés respiratorio agudo y compromiso fetal (parto prematuro, bajo peso al nacer). Debido al alto riesgo de complicaciones graves, el tratamiento de la pielonefritis aguda en el embarazo es con hospitalización y antibióticos empíricos (ceftriaxona).
+    
+    - La apendicitis aguda en el embarazo puede presentarse con fiebre, náuseas, anorexia y dolor en el lado derecho o superior del abdomen debido al desplazamiento uterino del apéndice en sentido cefálico; pero suele causar signos peritoneales como rebote o guardia, que no se observan en esta paciente.
+    - La infección intraamniótica (IIA) es una causa frecuente de dolor abdominal en el embarazo. La IIA se define como fiebre materna (sin un foco claro) más taquicardia materna o fetal, líquido amniótico purulento o leucocitosis. Aunque esta paciente tiene fiebre y taquicardia materna, la IIA es un diagnóstico de exclusión y esta paciente tiene sensibilidad en el flanco que hace más probable una pielonefritis aguda. Además, el útero no sensible, el cuello uterino cerrado y las membranas intactas de esta paciente hacen que la IIA sea menos probable.
+    - La torsión ovárica puede cursar con dolor abdominal unilateral, anorexia y fiebre baja (peritonitis); sin embargo, suele comenzar como un dolor intermitente seguido de un dolor intenso de aparición súbita compatible con una oclusión vascular completa. No suele asociarse a sensibilidad en el flanco.
+    
+    Lecturas recomendadas:
+    
+    - Quinceno C. Abordaje inicial del abdomen agudo ginecológico. XXXI Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
+
+#Paciente femenina de 28 años, G3P2 en semana 36 de gestación de feto en cefálico con diagnóstico de polihidramnios y PFE de 2500gr, ingresa a urgencias por inicio de contracciones uterinas hace 2 horas. Al tacto vaginal se encontró dilatación de 5 cm, 100% de borramiento cervical y un estadio De Lee de -1. Se realizó una monitorización fetal que reportó FCF de 145 lpm con desaceleraciones variables. Cinco minutos más tarde, tras la rotura espontánea de membranas, la frecuencia cardíaca fetal es de 60/min y el tacto vaginal evidenció un cordón grueso y pulsante, por lo que se inician medidas de reanimación in Útero, con posterior FCF de 80 lpm. ¿Cuál es la conducta a seguir?***
+#A.	Parto vaginal Instrumentalizado.
+#B.	Parto por cesárea.
+#C.	Reposición manual del cordón umbilical.
+#D.	Reevaluación de la frecuencia cardíaca fetal en 5 minutos.
+#Respuesta correcta: B
+#Tema e ítem: Prolapso de cordón umbilical
+    
+    Argumento: Ante la presencia de un cordón pulsátil palpable posterior a una ruptura de membranas espontáneas, se configura el diagnóstico de un prolapso de cordón, que junto a una bradicardia fetal severa que no responde a maniobras de reanimación, hace necesario proceder con una cesárea de emergencia (Respuesta correcta B). Recordemos que el prolapso del cordón umbilical ocurre cuando el cordón umbilical sale por el orificio cervical antes que la presentación fetal. La compresión del cordón produce vasoconstricción y la consiguiente hipoxia fetal, que puede provocar la muerte o discapacidad del feto si no se diagnostica y trata rápidamente; por ende, el método de nacimiento más seguro es la cesárea si la salud materna y/o fetal puede verse comprometida por el parto vaginal.
+    
+    - Por otra parte, un parto vaginal instrumentalizado se puede considerar si Helena se encontrará en una segunda etapa del parto (Si el cuello uterino está completamente dilatado)prolongado; sin embargo, Helena tiene un cuello uterino dilatado 5 cm y un prolapso evidente del cordón umbilical; por lo que un parto vaginal asistido en este momento pondría en riesgo la vida del feto.
+    - En cuanto a la reposición manual del cordón umbilical, no se recomienda por falta de evidencia científica a favor de que la intervención sea conveniente. Además, la manipulación del cordón podría provocar vasoespasmo, comprometiendo así la oxigenación fetal.
+    - Finalmente, la reevaluación de la frecuencia cardíaca fetal en 5 minutos se puede considerar en pacientes con prolapso umbilical oculto si las medidas de reanimación intrauterina tienen éxito, como lo demuestra la normalización de la frecuencia cardíaca fetal; no obstante, Helena tiene un prolapso evidente del cordón umbilical y las medidas de reanimación intrauterina no han producido ninguna mejoría
+    
+    Lectura recomendada:
+    
+    - Boushra M, Stone A, Rathbun KM. Umbilical Cord Prolapse. Available in: Stat Pearl.2023.
+    - Velásquez M. Alteraciones del líquido amniótico y patología fetal del segundo y tercer trimestre: ¿cómo realizar un abordaje práctico?. XXXI Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
+
+#Femenina de 26 años, G1P0 y un aborto espontáneo e incompleto a las 12 semanas de gestación que se manejó con dilatación y legrado, consultó por amenorrea de 7 meses de evolución con previos ciclos menstruales irregulares y sangrado intermenstrual. Su menarquía fue a los 12 años. Signos vitales normales. Al examen físico IMC de 29, sin hallazgos anormales, con caracteres sexuales secundarios presentes. Paraclínicos que reportan Prolactina, FSH, TSH normales y prueba de embarazo negativa. ¿Cuál de las siguientes es la conducta adecuada?***
+#A. Terapia anticonceptiva oral
+#B. Reto con acetato de medroxiprogesterona
+#C. Terapia con gonadotropinas
+#D. Prueba de supresión con dexametasona
+#Respuesta correcta: B
+#Tema e ítem: ¿Cómo se debe enfocar una amenorrea secundaria?
+    
+    Argumento: La presencia de amenorrea durante 6 meses, presencia de ciclos menstruales irregulares y caracteres sexuales secundarios, nos debe hacer sospechar de una amenorrea secundaria, la cual ya tiene estudios previos hormonales y de embarazo negativo, por lo que el paso a seguir es realizar un reto o ciclo con progestágeno (administrar acetato de medroxiprogesterona 10 mg por 10 días y evaluar si hay o no sangrado) (Respuesta correcta B). Recordemos futuro R1 que los paraclínicos de esta paciente, descartan prolactinoma, hipotiroidismo, insuficiencia ovárica y embarazo como causas subyacentes de amenorrea, por lo que el paso a seguir es realizar el reto de progesterona durante 10 días, cuyo objetivo es evaluar el valor de estrógenos y la integridad del tracto genital de salida. En caso de sangrado, se confirma la presencia de un tracto de salida funcional y de un endometrio reactivo preparado por los estrógenos de la propia paciente, por lo que se deberá estudiar causas como síndrome de ovario poliquístico, hiperplasia adrenal congénita no clásica o síndrome de Cushing. Mientras que si no hay sangrado se pueden administrar un reto de estrógeno y progestina, en el cual si hay sangrado puede tratarse de un caso de un síndrome de Sheehan, hipofisitis linfocítica, entre otras causas tumorales e inflamatorias. Mientras que si no hay sangrado podrá tratarse de un síndrome de sinequias uterinas (Síndrome de Asherman).
+    
+    - Por otra parte, la terapia anticonceptiva oral se puede utilizar para reemplazar el estrógeno y proporcionar anticoncepción en pacientes con insuficiencia ovárica prematura (IOP), que se manifiesta con amenorrea secundaria o también en el tratamiento de anomalías menstruales en pacientes con síndrome de ovario poliquístico (SOP); sin embargo, los niveles normales de FSH de Julieta excluyen la IOP y por criterios de Rotterdam es poco probable un SOP.
+    - En cuanto a la terapia con gonadotropinas, se usa para tratar pacientes con problemas de fertilidad debido a anovulación (SOP o IOP); sin embargo, antes de iniciar cualquier tratamiento, se requieren estudios adicionales para confirmar la causa de la amenorrea.
+    - Finalmente, la prueba de supresión con dexametasona se usa para diagnosticar el síndrome de Cushing, que puede manifestarse con amenorrea, obesidad y hormonas hipotalámicas-hipofisarias normales; no obstante, la ausencia de otras características clínicas como hipertensión, estrías abdominales, depósito anormal de grasa cutánea, hirsutismo y/o labilidad emocional hace que este diagnóstico sea poco probable.
+    
+    Lectura recomendada:
+    
+    - Aristizábal J. Amenorrea. Medellín. XXXI Curso de actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
+
+#Femenina de 27 años, con antecedente de menarquía a los 14 años y FUM de hace 3 semanas y menstruaciones regulares, asiste a cita para realizarse un examen pélvico anual y una prueba de Papanicolaou; sin embargo, refiere dolor sordo en fosa iliaca derecha. Signos vitales dentro de rangos normales. Al examen físico, dolor abdominal a la palpación profunda en fosa iliaca izquierda, sin otro hallazgo anormal. Se realizó una prueba de embarazo en orina negativa y una ecografía de la pelvis evidenció un quiste unilocular lleno de líquido de 5 cm de paredes delgadas sin componentes sólidos en el ovario izquierdo. ¿Cuál de los siguientes es la causa más probable de su cuadro clínico?***
+#A. Quiste folicular
+#B. Quiste del cuerpo lúteo
+#C. Endometrioma
+#D. Quiste dermoide
+#Respuesta correcta: A
+#Tema e ítem: Masa anexial en ginecología - Un abordaje de benignidad vs malignidad
+    
+    Argumento: Dada la presencia de dolor pélvico sordo, en una paciente joven con hallazgos de masa en ovario descritos ecográficamente como quiste anecoico, unilocular, lleno de líquido, con una pared delgada, lisa y sin componentes sólidos, nos debe hacer pensar en un quiste folicular (Respuesta correcta A). Recordemos que al iniciar el enfoque de una masa anexial, existen hallazgos clínicos que permiten diferenciar entre benignidad y malignidad, por ejemplo, en el caso de Carolina está a favor de benignidad que es unilateral y quístico. Cabe resaltar que también existe el protocolo del grupo International Ovarian Tumor Analysis Group (IOTA), el cual tiene el propósito de estandarizar la caracterización del riesgo de malignidad de las masas anexiales, para lo que se definieron unas características ecográficas B, sugestivas de benignidad; y unas características M, sugestivas de malignidad, en el caso de Carolina cumple con criterios de benignidad (Ver Carpe Flash). Para concluir, si bien es importante tener en cuenta el enfoque mencionado previamente, la ecografía pélvica de Carolina es congruente con la de un quiste folicular, el cual se forma cuando un folículo de Graaf no logra ovular y continúa creciendo.
+    
+    - Por otra parte, los quistes del cuerpo lúteo suelen ser asintomáticos o asociarse con hemorragia o rotura uterina y se diagnostican incidentalmente en la ecografía pélvica durante las primeras etapas del embarazo (causa más común de masa ovárica). Además, la ecografía de un quiste de cuerpo lúteo suele mostrar paredes difusamente gruesas con vascularización.
+    - En cuanto al endometrioma, puede tener hallazgos ecográficos similares a los de Carolina; no obstante, ella no presenta ningún síntoma de endometriosis (dismenorrea, dispareunia, disquecia o dolor pélvico crónico), lo que hace que este diagnóstico sea poco probable.
+    - Una masa ovárica quística unilateral descubierta incidentalmente puede generar sospechas de un quiste dermoide (teratoma quístico maduro); sin embargo, la ecografía suele mostrar una masa quística compleja con calcificaciones y componentes sólidos, en lugar del quiste unilocular sin componentes sólidos que se observa en esta paciente.
+    
+    Lectura recomendada:
+    
+    - Córdoba C. Masas anexiales. Medellín. XXX Curso de actualización en ginecología y obstetricia. Universidad de Antioquia. 2022
+
+#Bianka de 4 años de edad, sin antecedentes médicos de importancia, es llevada a urgencias por sus padres por cuadro clínico de 3 semanas de evolución, consiste en astenia y adinamia, junto con aparición de hematomas con facilidad. Además, su madre comentó que durante la última semana ha cursado con cuadros febriles objetivos y dolor en extremidades inferiores de predominio nocturno. Signos vitales T° de  38,3 °C, FC de 120 lpm y FR de 30 rpm. Al examen físico se encontró adenopatía cervical y axilar, con ganglios indoloros, adheridos a planos profundos. El abdomen blando, no doloroso, se palpa un hígado 5 cm por debajo del margen costal derecho y el bazo 3 cm por debajo del margen costal izquierdo. Los paraclínicos reportan Hb en 10.1 g/dl, leucocitos 63.000 mm³, plaquetas 27.000. Un aspirado de médula ósea reportó predominio de células inmaduras que se tiñen positivamente para CD10, CD19 y desoxinucleotidil transferasa terminal (TdT). ¿Cuál de los siguientes es el diagnóstico más probable?***
+#A. Una reacción leucemoide
+#B. Un linfoma Hodgkin
+#C. Leucemia mieloide aguda
+#D. Leucemia linfoblástica aguda
+#Respuesta correcta: D
+#Tema e ítem: Sobre la clínica y el diagnóstico de leucemia linfoblástica aguda
+    
+    Argumento: Ante la presencia de un cuadro de dolor óseo, astenia, adinamia, hepatoesplenomegalia, fiebre, linfadenopatía en un paciente entre los 2 y 5 años de edad, se debe sospechar de una leucemia linfoblástica aguda (LLA). En esta entidad además, el  recuento de leucocitos puede ser elevado, normal o bajo y no es un marcador diagnóstico confiable; sin embargo, lo que si es confiable es que en la mayoría de las formas de LLA surgen precursores de células B y, por lo tanto, muestran un inmunofenotipo CD19 + y CD10 +, así como células positivas para TdT en la biopsia de médula ósea. Por lo que, dado lo anterior, el diagnóstico más probable de Bianka es una leucemia linfoblástica aguda (Respuesta correcta D).
+    
+    - Por otra parte, las reacciones leucemoides se caracterizan por una leucocitosis profunda, pero el examen del aspirado de médula ósea suele mostrar un aumento proporcional de todos los elementos del linaje mieloide (células CD13+, CD33+) en contraposición al predominio de células B inmaduras (CD19 +, CD10 +) observado en la médula ósea de Bianka. La trombocitopenia y la diátesis hemorrágica pueden ocurrir como una complicación del trastorno subyacente (sepsis y coagulación intravascular diseminada debido a una infección), pero no son causadas principalmente por una reacción leucemoide.
+    - Por otro lado, el linfoma de Hodgkin puede manifestarse con síntomas constitucionales, linfadenopatía, hepatoesplenomegalia y leucocitosis. También se pueden observar trombocitopenia (debido a esplenomegalia) y anemia de enfermedades crónicas; no obstante, la infiltración de la médula ósea y el dolor óseo no son típicos. Además, esta afección tiene una distribución bimodal, con incidencias máximas en la edad adulta temprana y los 60 años; es extremadamente raro en pacientes <5 años de edad. Además, las células malignas en el linfoma de Hodgkin (células de Reed-Sternberg) serían CD15+ y CD30+.
+    - Finalmente, la leucemia mieloide aguda (LMA) puede manifestarse con leucocitosis, características de insuficiencia de la médula ósea (anemia, trombocitopenia) y, ocasionalmente, hepatoesplenomegalia (en aproximadamente el 10 % de los casos); sin embargo, la LMA suele aparecer en adultos y la linfadenopatía suele estar ausente. Además, una biopsia de médula ósea mostraría células blásticas positivas para mieloperoxidasa y con marcadores de superficie de linaje mieloide (CD13, CD33, CD34, CD117) en lugar de células TdT +, CD10 + y CD19 +.
+    
+    Lectura recomendada:- Puckett Y, Chan O. Acute Lymphocytic Leukemia. Available in StatPearls.2024
+    
+
+#Angela de 33 años, con antecedente de consumo de cigarrillo con IPA de 14 y antecedente familiar de madre que falleció por un IAM a los 60 años, consultó a urgencias por 2 horas de evolución de palpitaciones de forma intermitente. Refiere que cada episodio ha tenido una duración de 10 minutos. No refiere ningún dolor torácico. Signos vitales T° de 37,0 °C, FC de 190 lpm, PA de 104/76 mm/Hg. Al examen físico murmullo vesicular conservado. Auscultación cardíaca sin soplos, ni fricciones, ni galopes. Se realiza un electrocardiograma (Anexa foto en la parte de abajo). ¿Cuál es la conducta inicial adecuada a seguir?***
+    
+    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2022.png)
+    
+#A. Realizar maniobras vagales
+#B. Administración de adenosina intravenosa
+#C. Indica angioplastia coronaria
+#D. Administración de aspirina oral
+#Respuesta correcta: A
+#Tema e ítem: ¿Qué hacer ante una taquicardia por reentrada del nódulo AV?
+    
+    Argumento: Ante un electrocardiograma donde se evidencian complejos QRS estrechos regulares sin ondas P, se debe sospechar de una taquicardia por reentrada del nódulo AV (TRNAV), un tipo de taquicardia supraventricular paroxística. En donde las maniobras vagales son el paso inicial (Respuesta correcta A) en el tratamiento de un paciente estable, porque son rápidas, pueden ser realizadas por el paciente y no tienen efectos secundarios. Recordemos futuro R1 que las maniobras habituales son la maniobra de Valsalva y el masaje carotídeo. Si las maniobras vagales fallan, otras opciones en la fase de tratamiento agudo incluyen adenosina, betabloqueantes y bloqueadores de los canales de calcio.
+    
+    - Por otra parte, la adenosina se utiliza para el tratamiento de taquicardia de reentrada nodal AV (TRNAV) y taquicardia de reentrada AV (TRAV) ortodrómica; sin embargo, la adenosina es un tratamiento de segunda línea que se utiliza si el tratamiento de primera línea fallo o si el paciente está inestable hemodinámicamente. Se debe tener cuidado para establecer el diagnóstico correcto basándose en los hallazgos del ECG, ya que los agentes bloqueadores del nódulo AV como adenosina, verapamilo, betabloqueantes, digoxina y amiodarona están contraindicados en pacientes con signos de taquicardia preexcitada en el ECG (TRAV antidrómica o la fibrilación auricular en un paciente con Wolff-Parkinson-White)
+    - Por otro lado, la revascularización inmediata con angioplastia coronaria está indicada para el tratamiento agudo del infarto de miocardio con elevación del segmento ST (STEMI). Aunque esta paciente fuma y tiene antecedentes familiares de enfermedad cardiovascular (ambos factores de riesgo de infarto de miocardio (IM)), su presentación no sugiere IM (ya que no tiene dolor en el pecho o algún equivalente anginoso). Además, el electrocardiograma carece de las elevaciones del ST en dos derivaciones contiguas que son características del STEMI. Por otro lado, tampoco cursa con alteraciones electrocardiográficas o un reporte de troponinas que hiciera pensar en un IM no ST.
+    - Finalmente, la aspirina es un fármaco importante dentro de la terapia antiagregante en los pacientes en quienes se diagnostica un infarto de miocardio; no obstante, esta paciente no cursa ni con la clínica, ni con los hallazgos electrocardiográficos que sugieren un síndrome coronario; por ende, se debe sospechar de un diagnóstico y tratamiento diferencial.
+    
+    Lectura recomendada:- Hafeez Y, Armstrong TJ. Atrioventricular Nodal Reentry Tachycardia. Available in StatPearls. 2024
+    
+
+#Ofelia de 54 años, con antecedente de  obesidad grado II por IMC de 34 kg/m². Consultó por astenia, adinamia y pérdida intencional de peso en los últimos 3 meses, comentó perder 10 kg aproximadamente. Signos vitales: T° 36,9 C°, la PA  de 120/80 mm/Hg y FC de 80 lpm. Al examen físico, abdomen blando, no doloroso, con matidez desplazable a la percusión, hay hepatomegalia y un nódulo hepático palpable. Tiene edema grado II con fóvea de forma bilateral en miembros inferiores. Paraclínicos con: Hb 11,6, Plaquetas 120.000, Leucocitos 9.000, Albúmina 2,5 g/dL, Bilirrubina total 2,3 mg/dL, FA 370, U/L, AST 154 U/L, ALT134 U/L y Alfafetoproteína sérica 12 ng/mL. ¿Cuál es el diagnóstico más probable?***
+#A. Hiperplasia nodular focal
+#B. Adenoma hepático
+#C. Carcinoma Hepatocelular
+#D. Quiste hidatídico
+#Respuesta correcta: C
+#Tema e ítem: Sobre el enfoque diagnóstico del carcinoma hepatocelular.
+    
+    Argumento: Esta paciente que se presenta con matidez desplazable (signo de ascitis), hipoalbuminemia, función hepática alterada (AST-ALT elevadas), trombocitopenia e hiperbilirrubinemia, configuran la sospecha de una cirrosis subyacente. La mayoría de las cirrosis son causadas por consumo de alcohol, hepatitis viral crónica o enfermedad del hígado graso no alcohólico (paciente obesa sin otro antecedente). Los pacientes con cirrosis a menudo desconocen el diagnóstico, hasta que desarrollan complicaciones como sangrado por várices o carcinoma hepatocelular (CHC) (Respuesta correcta C). Recordemos que el riesgo de CHC en pacientes con cirrosis es del 1% al 8% por año. En estos pacientes, el CHC suele presentarse con insuficiencia hepática descompensada (ascitis, ictericia, hipoalbuminemia), pérdida de peso, posible hepatomegalia y nódulo hepático palpable (Como esta paciente). La alfafetoproteína (AFP), una glicoproteína producida por el hígado fetal y el saco vitelino, está elevada en aproximadamente el 50% de los casos; por lo tanto, la AFP puede servir como una pista diagnóstica importante (cuando está elevada); no obstante, no debe utilizarse para descartar el diagnóstico. La tomografía computarizada con contraste arterial de triple fase del abdomen es diagnóstica en la mayoría de los casos.
+    
+    - En cuanto a la hiperplasia nodular focal, recordemos se trata de una lesión hepática benigna que generalmente surge en mujeres jóvenes. Aunque una minoría desarrolla un nódulo hepático palpable, la mayoría es asintomática. Este tipo de lesión generalmente no se rompen, no sufren de transformaciones malignas, no causan insuficiencia hepática, ni generan cambios en el peso del paciente.
+    - Por otra parte, el adenoma hepático es una lesión hepática benigna común en mujeres jóvenes que reciben tratamiento oral anticonceptivo; si bien, algunas lesiones sufren una transformación maligna (a CHC), la insuficiencia hepática descompensada es poco común (porque el resto del hígado ha conservado su función).
+    - Finalmente, el quiste hidatídico es una infección por tenia Echinococcus. La mayoría de los casos son asintomáticos, pero los quistes hidatídicos grandes, pueden causar hepatomegalia, dolor en el cuadrante superior derecho o náuseas/emesis; sin embargo, sería poco común la insuficiencia hepática descompensada y la pérdida de peso.
+    
+    Lectura recomendada: - Reig M, Forner A, et all. Diagnóstico y tratamiento del carcinoma hepatocelular. Actualización del documento de consenso de la AEEH y otros. Disponible en ElSevier 2021.
+    
+
+#Hernán de 76 años, con antecedente de hipertensión arterial, DM2, gota y consumo de cigarrillo con un IPA de 30 (dejó de fumar hace 5 años). Consultó para seguimiento postoperatorio de 6 meses, de cirugía de derivación de las arterias coronarias (no tuvo complicaciones) por enfermedad coronaria. El paciente refiere que el dolor torácico de esfuerzos se ha resuelto por completo posterior a la cirugía. No informa palpitaciones, disnea, ni síncope. Al examen físico, pulso irregular. La incisión quirúrgica del tórax está bien cicatrizada. Auscultación cardiopulmonar sin soplos. No hay edema periférico. Se realiza un electrocardiograma de control que evidencia lo siguiente (se anexa foto en la parte de abajo). ¿Cuál es la conducta de manejo adecuada para este paciente?***
+    
+    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2023.png)
+    
+#A. Realizar una ablación de la vía lenta del nódulo auriculoventricular
+#B. Inicio de acetato de flecainida
+#C. Indica terapia anticoagulante oral
+#D. Seguimiento de rutina en 6 meses
+#Respuesta correcta: C
+#Tema e ítem: ¿Cuál es el manejo de un aleteo auricular?
+    
+    Argumento: El EKG de este paciente muestra ondas de aleteo en dientes de sierra compatibles con aleteo auricular. La frecuencia auricular suele ser de aproximadamente 300/min y la respuesta ventricular puede ser constante o variable. Este paciente tiene una frecuencia de respuesta ventricular variable que crea un ritmo irregular. El aleteo auricular suele deberse a un gran circuito de reentrada que afecta al istmo cavotricuspídeo de la aurícula derecha. Los factores de riesgo son similares a los de la fibrilación auricular, e incluyen enfermedad de las arterias coronarias, hipertensión e insuficiencia cardíaca. La arritmia también se observa con frecuencia después de una cirugía cardíaca. El aleteo auricular conlleva un riesgo de tromboembolismo arterial similar al de la fibrilación auricular; por lo tanto, este paciente con múltiples factores de riesgo CHA2DS2-VASc debe iniciar tratamiento anticoagulante crónico (rivaroxaban, apixaban) (Respuesta correcta C).
+    
+    - En cuanto a la ablación de la vía lenta del nódulo auriculoventricular (AV), es una estrategia que se utiliza para tratar la taquicardia por reentrada del nódulo AV, un tipo de taquicardia supraventricular, en caso de que se tratara de esta entidad, el EKG mostraría un ritmo regular con una frecuencia rápida y sin ondas P.
+    - Por otra parte, la flecainida es un antiarrítmico de clase IC que a veces se usa para tratar la fibrilación auricular. Estos agentes de control del ritmo generalmente no se utilizan para el aleteo auricular debido a su escasa eficacia y al riesgo de precipitar una respuesta ventricular rápida. Además, que en nuestro medio este fármaco no es de tan fácil acceso ni disponibilidad.
+    - Finalmente, el seguimiento de rutina en 6 meses no es apropiado porque el aleteo auricular aumenta significativamente el riesgo de accidente cerebrovascular embólico en este paciente con múltiples factores de riesgo CHA2DS2-VASC.
+    
+    Lectura recomendada:- Gándara J.Patrones electrocardiográficos de alto riesgo. Medellín: VII Simposio de medicina de urgencias. Asociación nacional de internos y residentes regional Antioquia (ANIR) 2019
+    
+
+#Luis David de 68 años con antecedente de hipercolesterolemia en manejo con atorvastatina de 40 mg y diabetes mellitus tipo 2 no insulino requiriente, consultó por cuadro clínico de 2 horas de evolución, caracterizado por dolor esternal de carácter opresivo de intensidad 8/10 en la EAD, asociado a diaforesis y náuseas. Comentó que el dolor inició de forma súbita mientras el paciente veía Netflix. Signos vitales con FC de 80 lpm, PA de 128/84 mm/Hg, FR de 22 rpm. Al examen físico, paciente con abundante panículo adiposo, murmullo vesicular conservado, sin agregados, con ruidos cardiacos rítmicos, sin agregados. Se realiza un electrocardiograma inicial el cual no evidencia anormalidades y se mide troponinas ultrasensibles, las cuales están aumentadas 6 veces el valor de referencia. A los 25 minutos de ingresado el paciente refiere aumento del dolor, se repite el electrocardiograma (anexa foto abajo). ¿Cuál es la conducta adecuada a seguir?***
+    
+    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%203.jpeg)
+    
+#A. Administración de fondaparinux
+#B. Administración de Clopidogrel
+#C. Administración de Prasugrel
+#D. No se indica manejo con inhibidores de P2Y12  
+#Respuesta correcta: D
+#Tema e ítem: ¿Se debe dar inhibidor de P2Y12 en IAM no ST?
+    
+    Argumento: En un paciente con antecedentes de riesgo cardiovascular que cursa con una clínica aguda de aparente origen cardiológico, pero que cuenta con cambios dinámicos que sugieren isquemia en el electrocardiograma y elevación de biomarcador >5 veces el valor de la normalidad se configura el diagnóstico de un IAM no ST de muy alto riesgo, por ende es un paciente en quien se indica realizar PCI inmediata; por ende, no se debe administrar ningún tipo de inhibidores de la P2Y12 (Respuesta correcta D). Recordemos futuro R1 que para pacientes con un diagnóstico inicial de IAM no ST NO se recomienda el pretratamiento con un inhibidor del P2Y12 antes de conocer la anatomía coronaria en aquellos que se prevé una estrategia invasiva temprana.
+    
+    - Por otra parte, se puede considerar el pretratamiento con inhibidor de P2Y12 selectiva, es decir, de las 24 horas de confirmado el diagnóstico en adelante. La indicación es seleccionar Fondaparinux en caso de no haber riesgo de sangrado; y en caso de haber riesgo de sangrado se indica el uso de Clopidogrel. No hay evidencia que recomiende el uso de Prasugrel en este contexto de IAM no ST.
+    
+    Lectura recomendada: - Robert A Byne; et all. Guidelines for the management of acute coronary syndrome. Developed by the task force on the management of acute coronary syndrome of the European Society of Cardiology (ESC). Available in European Heart Journal 2023.
+    
+
+#Laura de 25 años, G1P0 con 42 semanas de gestación, y alergia a la penicilina, sin otro antecedente médico de importancia, ingresa a urgencias por trabajo de parto en expulsivo, por lo que se decide atender el parto en una camilla de urgencias. Se ubica a la paciente en posición de litotomía, y se atiende el parto, naciendo a los 8 minutos paciente masculino de 4000 gramos, el cual tuvo adecuada adaptación neonatal; sin más embargo, al evaluar cavidad vaginal de Laura durante el alumbramiento de placenta se encuentra un desgarro medial que compromete músculos del periné y un 30% del esfínter anal externo, sin compromiso del esfínter anal internó ni compromiso de mucosa rectal. Aparte de iniciar reparación quirúrgica y solicitar valoración por ginecología. ¿Cuál es la conducta adecuada a seguir para el manejo del desgarro de esta paciente?***
+#A. Administración de cefuroxime 500 mg intravenosos dosis única
+#B. Indica gentamicina 240 mg intravenosos + metronidazol 500 mg intravenosos dosis única
+#C. Ordena  gentamicina 240 mg intravenosos cada 24 horas + metronidazol 500 mg cada 8 horas, por 7 días
+#D. No se indica manejo antibiótico.
+#Respuesta correcta: B
+#Tema e ítem: ¿Qué manejo antibiótico dar en desgarro perianal?
+    
+    Argumento: Ante la presencia de un desgarro grado 3a (Lesión del esfínter anal externo <50%) se debe administrar antibiótico profiláctico. Dado el antecedente de alergia a las penicilinas, la indicación terapéutica es gentamicina 240 mg intravenosos + metronidazol 500 mg intravenosos dosis única (Respuesta correcta B). Recordemos futuro R1 que una recomendación de Cochrane que estudió el uso de terapia antibiótica profiláctica vs. placebo al momento de la corrección del desgarro grado 3 o 4, encontró que las pacientes que recibieron una sola dosis de antibiótico tenían 8,2 % de probabilidad de presentar complicaciones de la herida perineal vs. 24,1 % de las que solo recibieron placebo. Por lo cual se recomienda la administración de antibiótico profiláctico, ya sea una cefalosporina de segunda generación, clindamicina o penicilina
+    
+    - Por otra parte, la administración de cefuroxime 500 mg intravenosos, dosis única, se indica en pacientes con desgarro grado 3, sin alergias a las penicilinas.
+    - Por otro lado, la dosis de gentamicina y metronidazol por 7 días se indica para pacientes con desgarro grado 4 con alergia a las penicilinas.
+    - Finalmente, este paciente dado el grado de su desgarro, si tiene indicación de manejo antibiótico.
+    
+    Lectura recomendada:
+    Trauma obstétrico perianal. Ardila A. Medellín. XXX Curso de actualización en ginecología y obstetricia. Universidad de Antioquia 2020.
+    
+
+#Valentina primigestante de 36 años, con 33 semanas de gestación y antecedente hace tres años de una pielonefritis. Consultó ahora por disuria de una semana de evolución acompañada de escalofríos y adinamia, junto a polaquiuria de 4 meses de evolución, refiere contracciones intermitentes no dolorosas. Signos vitales de Tº 38.1 ºC, PA 110/60 mm Hg y FC 110 lpm, altitud uterina de 30 cm y FCF de 175 lpm con presencia de movimiento fetal. Dolor a palpación en ángulo costovertebral derecho, útero no doloroso y cuello uterino cerrado. El uroanálisis reporta esterasa positiva, piuria y hematuria, pendiente urocultivo. ¿Cuál de las siguientes medidas es la adecuada para esta paciente?***
+#A. Nitrofurantoína vía oral 100 mg cada 12 horas durante 7 días
+#B. No se indica manejo antibiótico
+#C. Aztreonam 0.1 gramos endovenosos cada 8 horas durante las primeras 48 horas
+#D. Ceftriaxona 2 gramos endovenosos cada 24 horas durante las primeras 48 horas
+#Respuesta correcta: D
+#Tema e ítem: ¿Qué manejo realizar en paciente embarazada con pielonefritis?
+    
+    Argumento: La presencia de síntomas previos de disuria, seguidos de fiebre, escalofríos, taquicardia materna y fetal y sensibilidad en el ángulo costovertebral junto a uroanálisis con leucocitos, piuria y hematuria, confirman el diagnóstico de pielonefritis aguda. Las pacientes embarazadas con pielonefritis tienen un alto riesgo de complicaciones maternas graves (sepsis, síndrome de dificultad respiratoria aguda, trabajo de parto prematuro) y fetales (parto prematuro). Por lo tanto, estos pacientes requieren hospitalización y antibióticos intravenosos empíricos a dosis óptimas mientras se esperan los resultados del urocultivo. Una vez que los pacientes permanecen afebriles durante 24 a 48 horas y tienen una mejoría sintomática, pueden pasar a antibióticos orales. Se recomienda usar Ceftriaxona 1 a 2 gr cada 24 horas (Respuesta correcta D), Aztreonam 1 gr cada 8 horas o Cefepime 1 gr cada 12 horas o piperacilina tazobactam 4.5 gr cada 6 horas.
+    
+    - Por otra parte, algunas guías desaconsejan el uso de la nitrofurantoína al final del embarazo, dado el riesgo teórico de producir anemia hemolítica materna, neonatal y fetal. Además, este antibiótico se indica para el manejo de bacteriuria asintomática o cistitis, no en el manejo de pielonefritis.
+    - Por otro lado, si bien el Aztreonam está indicado para el manejo de pielonefritis, la dosis recomendada es de 1 gr cada 8 horas.
+    
+    Lectura recomendada:
+    Enrique O. Infección de tracto urinario en el embarazo. XX Curso de Actualización para Médicos Generales, ANIR, 2020.
+    
+
+#Maria Clara de 27 años sana, con antecedente de infección por N.gonorrhoeae no complicada tratada con ceftriaxona hace 4 años, es sexualmente activa con dos parejas sexuales masculinas y usa métodos de barrera constantemente. Consulta ahora para valoración anual de mantenimiento de la salud. Signos vitales Tº 37,0 ºC, FC 75 lpm, PA 105/75 mm Hg. Al examen físico, masa móvil única, de 2 cm de diámetro, no dolorosa, en el vestíbulo inferior de la vagina. La especuloscopia no evidencia anormalidades. ¿Cuál es el manejo adecuado para esta paciente?***
+#A. Realizar manejo expectante.
+#B. Indicar realizar biopsia de la masa.
+#C. Proceder a realizar escisión quirúrgica.
+#D. Realizar una incisión y drenaje de la lesión.
+#Respuesta correcta: A
+#Tema e ítem: Manejo no quirúrgico del Quiste de Bartolino ¿Cuándo se indica?
+    
+    Argumento: La descripción de la lesión de la paciente de una pequeña masa móvil, no dolorosa, en el vestíbulo inferior de la vagina es compatible con un quiste de la glándula de Bartolino, para la cual la observación es la opción de manejo preferida (Respuesta correcta A) debido a su tamaño (≤ 3 cm) y su clínica  (paciente asintomática). Otras medidas consisten en el uso de compresas tibias o baños de asiento, para promover la ruptura y el drenaje de un quiste.
+    
+    - En cuanto a la realización de la biopsia de la glándula de Bartolino, se indica si hay características sugestivas de malignidad, como un componente sólido dentro del quiste, adherencia al tejido circundante, persistencia del quiste o empeoramiento a pesar del tratamiento o si el paciente tiene factores de riesgo de malignidad, como la edad. > 40 años o antecedentes de malignidad labial
+    - Por otro lado, la escisión quirúrgica es el tratamiento definitivo para el carcinoma de glándulas de Bartolino o los quistes de Bartolino, que no se resuelven a pesar de medidas menos invasivas. Este paciente actualmente tiene un pequeño quiste asintomático de la glándula de Bartolino sin factores de riesgo o características que sugieran malignidad, lo que hace que un enfoque diferente sea el adecuado en este momento.
+    - Finalmente, si el quiste de Bartolino fuera > 3 cm o sintomáticos (edema, dolor intenso, dificultar actividades como caminar o tener relaciones sexuales.), con formación de abscesos se debe realizar incisión y drenaje.
+    
+    Lecturas recomendadas:
+    
+    Katherine T Chen, MD, MPH. Bartholin gland masses. Available in UpToDate 2024.
+    
+
+#Sara de 25 años, con antecedente de vida sexual activa con una pareja masculina con uso de métodos de barrera de forma consistente. Consulta ahora por 1 día de inflamación dolorosa en labio menor izquierdo de la vagina, acompañado de dolor al sentarse, al caminar y dispareunia. Signos vitales Tº de  37,9 °C, FC de 90 lpm y PA de 120/80 mm/Hg. Al examen físico, masa sensible y fluctuante rodeada de edema y eritema en el labio menor izquierdo. El resto del examen no evidencia anormalidades. ¿Cuál es el manejo adecuado para esta paciente?***
+#A. Realizar baños de asiento.
+#B. Realizar Incisión y drenaje de la lesión
+#C. Realizar marsupialización.
+#D. Iniciar tratamiento con trimetoprima/sulfametoxazol.
+#Respuesta correcta: B
+#Tema e ítem: Manejo quirúrgico del Quiste de Bartolino ¿Cuándo se indica?
+    
+    Argumento: En esta paciente la presencia de una lesión sensible, eritematosa, con edema  en labio menor de la vagina, que se acompaña de dolor unilateral agudo que afecta actividades de la vida diaria e inflamación, deben hacer sospechar de un absceso de la glándula de Bartolino, para el cual la incisión y el drenaje están indicados (Respuesta correcta B), siempre y cuando no exista antecedente de absceso de la glándula de Bartolino. En caso de tener un paciente con antecedente de absceso de la glándula de Bartolino es necesario un tratamiento adicional, como lo es la colocación de un catéter de Word (si el absceso tiene un tamaño ≥ 3 cm, la colocación del catéter puede no ser posible, y se recomienda un tratamiento de apoyo con baños de asiento).
+    
+    - Por otra parte, recordemos que los baños de asiento se utilizan para tratar los quistes de las glándulas de Bartolino, pero no como medida inicial para un absceso de las glándulas de Bartolino, se indica como mencionamos anteriormente como medida de apoyo si fuera el caso.
+    - Por otro lado, tener en cuenta que los abscesos de las glándulas de Bartolino son infecciones polimicrobianas, a menudo relacionadas con Escherichia coli, y el Trimetoprim - sulfametoxazol puede usarse en el tratamiento del absceso; sin embargo, la terapia con antibióticos solo se requiere si el tratamiento de primera línea no tiene éxito, hay una recurrencia (≥ 2 episodios) o un alto riesgo de infección complicada, o el paciente tiene una infección por MRSA confirmada o signos de infección sistémica.
+    - Finalmente, la marsupialización está indicada para el tratamiento de los abscesos recurrentes de las glándulas de Bartolino; sin embargo, este paciente no tiene antecedentes de abscesos de las glándulas de Bartolino.
+    
+    Lecturas recomendadas:
+    
+    Katherine T Chen, MD, MPH. Bartholin gland masses. Available in UpToDate 2024.
+    
+
+#Carolina de 26 años junto con su hijo, un recién nacido a término con peso de 4670 gr y apgar 9-10, producto de un trabajo de parto prolongado. El menor con signos vitales dentro de rangos normales. Al examen físico en sala de partos, el recién nacido tiene edema, sensibilidad y crepitación sobre la clavícula izquierda. El movimiento de las manos y muñecas es normal, el reflejo de prensión es normal en ambas manos, el reflejo de Moro es asimétrico. El resto del examen no muestra anormalidades. Ya se solicitó radiografía. ¿Cuál es el manejo adecuado para esta paciente?***
+#A. Estudio de conducción nerviosa.
+#B. Fijación manga a la camisa
+#C. Terapia física
+#D. Entablillado del brazo
+#Respuesta correcta:  B
+#Tema e ítem: Lesiones durante el parto: ¿Qué hacer ante una fractura de clavícula?
+    
+    Argumento: Este paciente con sensibilidad, edema y crepitación sobre la clavícula izquierda, junto a disminución de la movilidad de la extremidad superior izquierda, (reflejo de Moro asimétrico) son compatibles con una fractura de clavícula neonatal (La fractura de clavícula neonatal es más a menudo un diagnóstico clínico, pero se puede usar la radiografía para confirmar diagnóstico), para la cual se sujeta la manga de la camisa del paciente y se fija a la parte delantera de la camisa con el brazo flexionado a 90 grados (Respuesta correcta B)
+    
+    - Recordemos futuro R1 la presencia de un recién nacido con fractura de clavícula, se asocia a trabajo de parto prolongado y la macrosomía, elementos que tenía este paciente. Es importante tranquilizar a los padres de un recién nacido que tiene una fractura de clavícula y se les debe aconsejar que manipulen el brazo afectado con cuidado (mientras se visten) para reducir la incomodidad. Una vez se realice la fijación manga-camisa, se debe informar a los padres que la entidad se resuelve por sí sola dentro de 2 a 3 semanas y no se esperan complicaciones a largo plazo.
+    - Por otra parte, los estudios de conducción nerviosa no están indicados en casos de fractura de clavícula neonatal no complicada. El movimiento reducido de la extremidad superior izquierda de este paciente es probablemente una manifestación de pseudoparálisis, no una verdadera lesión del plexo braquial , especialmente porque el movimiento de su mano es normal, no obstante, si este bebé no recupera la función al mes de edad, se debe considerar un estudio de conducción nerviosa para evaluar el daño nervioso subyacente.
+    - En cuanto a la fisioterapia, puede mejorar la recuperación de los adultos con fracturas de clavícula, pero no hay indicación para ello en los recién nacidos.
+    - Finalmente, la ferulización no está indicada para las fracturas de clavícula neonatales
+    
+    Lectura recomendada:
+    Dumpa V, Kamity R. Birth Trauma. Available in StatPearls. 2024.
+    
+
+#Thomas, 2 meses, sin antecedentes de interés. Es traído a la consulta porque la madre refiere que en los últimos días ha observado que el paciente se cansa, se pone ‘’azul’’ y presenta sudoración excesiva durante las tomas de lactancia materna. Al examen físico, se evidencia taquipnea con leve tiraje subcostal, adecuada saturación a aire ambiente y un soplo pansistólico grado 3/6 audible en múltiples focos, con máxima intensidad a nivel del 3er-4to espacio intercostal izquierdo. Se realizó un electrocardiograma con evidencia de patrón de bloqueo incompleto de rama derecha.
+¿Cuál considera es el diagnóstico más probable en este paciente?***
+#A. Comunicación interventricular
+#B. Comunicación interauricular
+#C. Transposición de grandes vasos
+#D. Atresia pulmonar
+#Respuesta correcta: A
+#Tema e Ítem: Cardiología pediátrica-Cardiopatías congénitas
+    
+    Argumentación: En este paciente hay varios factores importantes, tales como la fatiga y sudoración durante las tomas, la taquipnea y el soplo cardíaco que es patológico (un soplo inocente es de bajo grado). Además, encontramos un ECG patológico. Todo esto sugiere una cardiopatía congénita con repercusión hemodinámica. En este paciente, la sospecha sería una cardiopatía congénita con cortocircuito izquierda-derecha, siendo las más probables el ductus arterioso persistente (DAP) y la comunicación interventricular (CIV).
+    
+    La CIV es un orificio en el tabique interventricular que puede hallarse en cualquier parte del mismo, ser único o múltiple y puede presentarse de forma aislada o asociado a otras cardiopatías congénitas. Representa en su forma aislada el 20% del total de cardiopatías congénitas, siendo la segunda más frecuente (tras la válvula aórtica bicúspide).
+    
+    Se produce un cortocircuito de izquierda a derecha, pues al ser la presión ventricular izquierda superior a la derecha, la sangre pasa del ventrículo izquierdo (VI) al ventrículo derecho (VD), lo que implica exceso de sangre en la arteria pulmonar (el denominado hiperflujo pulmonar) y aumento del retorno venoso, que tiene que ser manejado por la aurícula y el ventrículo izquierdos. Esta sobrecarga de volumen producirá crecimiento de las cavidades izquierdas y finalmente insuficiencia cardiaca congestiva. Al estar la presión pulmonar aumentada de forma fisiológica en los recién nacidos, inicialmente puede no haber (o ser mínimo) el cortocircuito entre ambos ventrículos, con lo que la CIV puede pasar inadvertida (sin producir clínica ni soplo audible) durante los primeros días de vida, hasta que disminuyan las presiones pulmonares. Puede darse el caso de que un niño con una CIV amplia presente una evolución aparentemente benigna por persistencia de las presiones pulmonares elevadas, que enmascare la anomalía subyacente con el riesgo de desarrollar una enfermedad vascular pulmonar obstructiva que puede ser muy grave.
+    
+    Las manifestaciones clínicas consisten inicialmente en taquipnea y trabajo respiratorio, en relación con el hiperflujo pulmonar. Posteriormente puede presentarse sudoración excesiva, fatiga con las tomas y estancamiento ponderal en relación con la insuficiencia cardiaca congestiva.
+    
+    Bibliografía recomendada:
+    
+    - Equipo académico Grupo AMIR. Cardiología y cirugía cardiovascular-Cardiopatías congénitas. 16 Ed. Manual AMIR de Pediatría. 2022
+
+#Andrés de 12 años, es traído al servicio de Urgencias llevado por su madre, refiriendo cefalea, escalofríos, fiebre y odinofagia desde hace aproximadamente 2 días. La madre dice que ha estado muy hiporéxico. Signos vitales normales, con evidencia de lengua roja con exudados amigdalares, además de un brote palpable, más marcado en regiones flexoras.
+¿Cuál de las siguientes afirmaciones es verdadera?***
+#A. Se pueden hacer test rápidos de detección del patógeno en faringe.
+#B. Solo requiere manejo sintomático
+#C. Puede en ocasiones requerir antibioticoterapia
+#D. Son extremadamente raras las complicaciones por extensión local del agente.
+#Respuesta correcta: A
+#Tema e Ítem: Enfermedades infecciosas-Escarlatina
+    
+    Argumentación: En este paciente, encontramos una lengua aframbuesada, exudados amigdalares y exantema palpable o rasposo más marcado en regiones flexoras. Estas son características típicas de la escarlatina.
+    
+    Recordemos que el agente causal de esta enfermedad es el Streptococcus piógenes o ß-hemolítico grupo A (SBHGA). Esta erupción generalmente ocurre en asociación con la faringoamigdalitis, como resultado de una reactividad cutánea de tipo retardado a la exotoxina pirogénica (toxina eritrogénica, por lo general tipos A, B o C) producida por el organismo.
+    
+    Para su detección, existen test rápidos que se toman por medio de frotis faríngeo. Cuando diagnosticamos la enfermedad, para evitar las posibles complicaciones asociadas a la infección (glomerulonefritis, fiebre reumática), es necesario administrar tratamiento antibiótico.
+    
+    Las complicaciones por extensión local del agente incluyen los abscesos periamigdalinos y son relativamente frecuentes.
+    
+    Bibliografía:
+    -Pichichero M. Complications of streptococcal tonsillopharyngitis, Jul 2023. UpToDate 2023.
+    
+
+#Sara tiene 1 año. Es traída al servicio de urgencias por sus padres por presentar desde hace aproximadamente 8 horas, 5 deposiciones con sangre. Niega otros sintomas y no ha presentado fiebre. Al examen físico, temperatura de 37. 2 °C y con resto de signos vitales estables, de buen aspecto, sin signos de deshidratación, leve dolor en hipogastrio a la palpación. Tolera vía oral. ¿Cuál consideraría el manejo más apropiado para este paciente?***
+#A. Dar signos de alarma y cita de revisión en dos días.
+#B. Iniciar hidratación intravenosa por la contraindicación a la vía oral.
+#C. Es una disentería, se debe iniciar ceftriaxona IV.
+#D. Iniciar sales de rehidratación vía oral y dejar en observación.
+#Respuesta correcta: A
+#Tema e Ítem: Enfermedad diarreica aguda – Evaluación del grado de hidratación.
+    
+    Argumento: Este paciente no tiene signos de deshidratación, ni está en riesgo de deshidratación. No tiene fiebre, ni signos clínicos de sepsis, por lo que no se requiere iniciar antimicrobiano. No tiene ninguna contraindicación para recibir líquidos vía oral.
+    
+    Cuando nos enfrentamos a la población pediátrica, lo más importante es el triángulo de valoración: Evaluar apariencia, respiración y circulación. Esto nos puede definir si un niño se encuentra en sepsis o shock, en cuyo caso debemos iniciar bolos de líquidos y cubrimiento antimicrobiano inmediato.
+    
+    Si el paciente no está en sepsis o shock, debemos evaluar posteriormente los signos de deshidratación: Que se encuentre alerta, ojos normales (no hundidos), con lágrimas, boca y lengua húmedas y que beba líquidos de forma normal o sin sed (que no beba ávidamente). Si presenta dos o más de estos signos, tiene algún grado de deshidratación y se debe iniciar el plan B.
+    
+    Si el paciente no tiene signos de deshidratación, el paso siguiente es preguntarnos si tiene riesgo de deshidratación: diarrea de alto gasto (>4 deposiciones en 4 horas o >10 en 24 horas), vómito persistente (>3 vómitos en una hora o >5 vómitos en 4 horas) o rechazo a la vía oral. Si presenta uno de esto signos, el paciente debe iniciar el plan A supervisado, que consta de:
+    ⇛ Reponer las pérdidas por vía oral con suero de rehidratación oral e iniciar alimentación ⇛ Observar respuesta y revalorar
+    ⇛ Si tolera vía oral y es posible mantener hidratación en casa, dar salida con recomendaciones de PLAN A
+    ⇛ Si persiste alto gasto, emesis o rechaza la vía oral por completo, realizar tratamiento en la institución.
+    Si no se encuentra en alto riesgo de deshidratación, podemos iniciar el plan A, con sales de rehidratación oral:  en <2 años 50-100ml y en >2 años 100-200 ml.
+    
+    Bibliografia recomendada:
+    -Abordaje del niño o niña con enfermedad diarreica aguda-abordaje inicial de las condiciones prevalentes en la primera infancia, Ministerio de salud y protección social. [https://herramientaclinicaprimerainfancia.minsalud.gov.co/modulo-7/](https://herramientaclinicaprimerainfancia.minsalud.gov.co/modulo-7/)
+    
+
+#Sara tiene 1 año. Es traída al servicio de urgencias por sus padres por presentar desde hace aproximadamente 8 horas, 5 deposiciones con sangre. Niega otros síntomas y no ha presentado fiebre. Al examen físico, temperatura de 37. 2 °C y con resto de signos vitales estables, de buen aspecto, sin signos de deshidratación, leve dolor en hipogastrio a la palpación. Tolera vía oral. Usted  da de alta con plan de rehidratación oral, signos de alarma y cita control en dos días. Sara es traída de nuevo a urgencias, debido a que ha iniciado con fiebre de 39.3°C, persiste con deposiciones con sangre (lleva 3 deposiciones hoy) y ahora con vómito (2 episodios hoy). Al examen físico, febril con 39.5°C, irritable, sin signos de deshidratación y sin aspecto tóxico. ¿Cuál es el paso a seguir?***
+#A. Iniciar antibioticoterapia empirica con clindamicina
+#B. Iniciar plan B de hidratación
+#C. Iniciar líquidos intravenosos
+#D. Iniciar antibioticoterapia empirica con ceftriaxona
+#Respuesta correcta: B.
+#Tema e Ítem: Enfermedad diarréica aguda – Disentería grave
+    
+    Argumentación: En un paciente con disentería, sin otros signos de alarma, no se debe administrar antimicrobiano. Sin embargo, si nos encontramos frente a una disentería grave, es necesario iniciar cubrimiento antibiótico empírico con cefotaxima o ceftriaxona, además de realizar coproscópico y coprocultivo. Los criterios para inicio de antimicrobiano son:
+    Sangre en heces y uno de los siguientes:
+    
+    ● Fiebre >38°C en menor de 3 meses o >39°C si es > de 3 meses
+    ● Signos generales de alarma
+    ● Compromiso del estado general
+    ● Dolor abdominal intenso
+    ● Distensión abdominal
+    ● Factores de riesgo para bacteriemia (inmunosupresión, enfermedades crónicas de tracto gastrointestinal, hemoglobinopatías, desnutrición moderada o severa).
+    
+    Posterior al inicio de antimicrobiano empírico, es importante dirigirlo de acuerdo a la bacteria encontrada.
+    
+    Bibliografía:
+    -Flórez ID, Niño-Serna LF, Beltrán-Arroyave CP. Acute Infectious Diarrhea and Gastroenteritis in Children. Curr Infect Dis Rep. 2020 Jan 28;22(2):4. doi: 10.1007/s11908-020-0713-6. PMID: 31993758.
+    
+
+#Juan Andrés de 3 años, traído al servicio de urgencias por la madre del primer nivel de atención por quemadura accidental con líquido caliente hace aproximadamente 10 horas. Refiere que se encontraba una olla con agua hirviendo, sintió un estruendo y seguido de esto la paciente empezó a gritar y a llorar; al asomarse a la cocina la encuentra mojada y la olla a los pies de ella, vacía. Inmediatamente lo llevó a la ducha con agua fría y le aplicó azúcar con café, pero empezó a verle vesículas llenas de líquido, por lo que decide traerlo. Al examen físico está taquicárdico, irritable, con quemaduras grado II en tronco anterior, extremidades superiores, muslos y cuello.
+¿Cuál es la conducta a seguir con esta paciente?***
+#A. Limpieza de herida con agua y jabón, quitar el tejido desvitalizado con gasa.
+#B. Empezar reanimación con líquidos, antibiótico profiláctico y remisión a tercer nivel
+#C. Remisión a un tercer nivel de complejidad
+#D. Iniciar reanimación con bolos de líquidos de cristaloides
+#Respuesta correcta: C
+#Tema e Ítem: Manejo del paciente pediátrico quemado
+    
+    Argumento: Esta paciente de 3 años, presentó al parecer un trauma accidental con líquido caliente. Tiene quemaduras grado II con compromiso de >50% de la superficie corporal, por lo que requiere traslado primario a un centro especializado, previo a esto con una reanimación adecuada de líquidos.
+    
+    Las quemaduras son una lesión traumática sobre la piel u otros tejidos por la acción de agentes físicos, químicos o biológicos, que producen alteraciones que varían desde el eritema hasta la destrucción de tejidos profundos. Más del 80% son prevenibles, el 90% son por accidentes caseros. Las zonas más afectadas son miembros superiores, cabeza y cuello.
+    Para iniciar el manejo debemos determinar el área de superficie corporal afectada, esto se usa solo para quemaduras de segundo y tercer grado. Tenemos varios métodos como: Regla de los nueve (Wallace), método palmar y la tabla de Lund y Browder. En los niños, la más fiable es esta última porque tiene en cuenta tamaños corporales.
+    
+    Si el paciente cumple con alguno de los siguientes criterios, debo remitir a un centro especializado:  (1) segundo grado >10% ASCq (área superficie corporal quemada), (2) tercer grado >5% ASCq, (3) áreas especiales: cara, mano, pies, genitales, periné, articulaciones principales, (4) quemaduras eléctricas o de alto voltaje (rayos y torres eléctricas), (5) lesión por inhalación, (5) trauma asociado, (6) comorbilidades, (7) circulares, (8) quemaduras químicas, (9) menores de 2 años, (10) patología de base que puede complicar el manejo, y prolongar la recuperación o afectar la mortalidad (DM, inmunosupresión), (11) sospecha de maltrato infantil y (12 ) beneficios claros de manejo intrahospitalario (ej. Pobre acceso a servicios de salud, cuidadores poco comprometidos, etc.)
+    
+    Si el paciente tiene un ASCq >15% o no tolera la vía oral, debemos iniciar manejo con líquidos IV. Los bolos de 10 a 20 cc/kg de Hartman o SS 0,9%, solo deben usarse si el paciente está en choque. Si se pueden evitar mejor, porque aumentan el edema extravascular.
+    
+    La fórmula de Parkland es la más común pero la menos recomendada porque toma a todos los niños como si fueran iguales. Existen otras fórmulas recomendadas en niños, como Galveston o Cincinnati.
+    
+    Recordemos que los antimicrobianos profilácticos NO están recomendados en el paciente quemado, solo iniciamos antimicrobiano cuando hay signos o síntomas compatibles con infección.
+    
+    Bibliografía recomendada:
+    -Fernández Santervás Y, Melé Casas M. Quemaduras. Protoc diagn ter pediatr. 2020;1:275-287
+    
+
+#Mujer de 61 años, sin antecedentes de importancia, acude a consulta externa con reporte de colonoscopia, la cual documenta 3 pólipos adenomatosos de 5, 6 y 7 mm.
+¿Cuándo se debe realizar la próxima colonoscopia de vigilancia?***
+#A. 1 año.
+#B. 5 años.
+#C. 3 años.
+#D. 10 años.
+#Respuesta correcta: C
+#Tema e ítem: Cáncer de colon – Seguimiento de pólipos
+    
+    Argumento: Recordemos que clínicamente los pólipos adenomatosos están asociados a un mayor riesgo de Ca colorrectal (CCR), por lo que requieren de vigilancia colonoscópica en periodos de tiempos que serán establecidos según el riesgo de cada paciente de desarrollar CCR a futuro. De esta manera, tenemos que los pacientes con:
+    
+    - Riesgo bajo (1 o 2 pólipos < 10 mm) - Se realiza colonoscopia a los 5 años.
+    - Riesgo intermedio (3-4 pólipos < 10 mm o 1-2 ≥ 10mm) - Se realiza colonoscopia a los 3 años
+    - Riesgo alto (≥ 5 pólipos < 10 mm o ≥ 3 pólipos si uno de ellos es ≥ 10 mm)- Se realiza colonoscopia al año.
+    
+    En este caso, la colonoscopia del paciente reporta 3 pólipos adenomatosos de 5, 6 y 7 mm, siendo una clasificación de riesgo intermedio, por lo que ameritaría una colonoscopia de vigilancia en 3 años (Respuesta correcta 3).
+    
+    Lecturas recomendadas:
+    
+    - Manual para la detección temprana del cáncer de colon y recto. Ministerio de Salud y Protección social- Instituto nacional de Cancerología ESE. Bogotá – Colombia, 2015.
+
+#Femenina de 65 años, con artritis reumatoide (AR) de larga evolución mal controlada. En tratamiento actual con infliximab y prednisona. Consulta al servicio de Urgencias por un cuadro clínico caracterizado por de lesiones ampollosas en la cara interna del muslo derecho y tórax y, las cuales describe como dolorosas y pruriginosas, de 10 días de evolución y sin causa aparente. examen físico presentó se evidencian lesiones vesiculares sobre base eritematosa múltiples ampollas de contenido hemorrágico diseminadas en varios dermatomas de la región anterior y posterior del tórax.
+¿Cuál de los siguientes es la conducta adecuada a seguir en este paciente?***
+#A. Manejo hospitalario con valaciclovir VO
+#B. Manejo ambulatorio con aciclovir VO
+#C. Manejo ambulatorio con valaciclovir VO
+#D. Manejo hospitalario con aciclovir IV
+#Respuesta correcta: D
+#Tema e ítem: Herpes Zoster en paciente inmunocomprometidos - ¿Cuál es el manejo correcto?
+    
+    Argumento: Recuerda siempre todos los pacientes inmunocomprometidos con enfermedad diseminada por virus varicela-zóster deben ser hospitalizados para recibir tratamiento con aciclovir intravenoso. Esto permitirá acelerar la recuperación y disminuir la gravedad y duración del dolor neuropático, especialmente si se inicia desde las primeras 72 horas a la aparición de las lesiones. Esto incluye receptores de trasplantes de células hematopoyéticas o de órganos sólidos, embarazadas, personas con neoplasias hematológicas, aquellas con tumores sólidos malignos que reciben quimioterapia, personas con infección por VIH avanzada (por ejemplo, recuento de CD4 <200, especialmente aquellos que no reciben terapia antirretroviral), personas que reciben glucocorticoides en dosis altas (p. ej., >20 mg/día de prednisona durante más de dos semanas) o terapia inmunomoduladora (p. ej., rituximab o inhibidores del TNF).
+    
+    El virus varicela-zóster (VVZ) es un agente oportunista frecuente en los pacientes con inmunocompromiso. La reactivación se presenta con parestesias en un dermatoma específico; el exantema característico aparece varios días después. Por orden de frecuencia, los dermatomas cutáneos más afectados son el torácico, el trigémino, el lumbar y el cervical. Los pacientes con enfermedad cutánea diseminada pueden presentar enfermedad visceral diseminada. La mayoría de los pacientes con VVZ pueden tratarse de forma ambulatoria con medicación oral. Sin embargo, los pacientes inmunocomprometidos con enfermedad diseminada, como en este caso, deben ser hospitalizados para recibir aciclovir intravenoso.
+    
+    Lectura recomendada:
+    
+    1. Mary A Albrecht, Myron J Levin. Treatment of herpes zoster. Available On Uptodate Advanced 2024.
+    2. Le P, Rothberg M. Herpes zoster infection. BMJ. 2019;364:k5095.
+
+#Femenina de 31 años, acude a consulta dermatológica preocupada por una lesión persistente en la región anterior de pierna izquierda, presente desde hace aproximadamente un mes. Niega prurito o dolor asociado. Al examen físico se evidencia lesión tipo pápula, firme a la palpación, hiperpigmentada, de aproximadamente 1 cm y que se deprime en su zona central al ser comprimido por los lados.
+¿Cuál de los siguientes es el diagnóstico más probable?***
+#A. Histiocitoma fibroso benigno
+#B. Carcinoma de células basales
+#C. Nevo displásico
+#D. Queratoacantoma
+#Respuesta correcta: A
+#Tema e ítem: Lesiones cutáneas
+    
+    Argumento: Esta lesión que se deprime en su zona central al ser pellizcado (signo del hoyuelo) es compatible con un dermatofibroma o también llamado en la literatura como histiocitoma fibroso benigno. Esta lesión benigna de la piel se presenta en extremidades de mujeres jóvenes (de predominio en miembros inferiores), como una placa o nódulo pequeño (de máximo 1 cm) y duro, engastado en la dermis e hiperpigmentado.
+    Las dermatofibromas pueden desarrollarse después de picaduras de insectos o traumatismos, pero también puede desarrollarse espontáneamente. Por lo general, no se requiere tratamiento para los dermatofibromas comunes, estáticos y asintomáticos. No se recomienda la escisión quirúrgica para los, ya que da como resultado una cicatriz que probablemente tendrá un aspecto peor que la lesión original. Para los pacientes que desean tratamiento por problemas estéticos, se sugiere crioterapia con nitrógeno líquido en lugar de escisión quirúrgica. Las variantes atípicas tienen mayor riesgo de recurrencia y se debe realizar una escisión completa con márgenes limpios
+    
+    - Los carcinomas basocelulares son los tumores cutáneos más frecuentes y se producen en zonas de la piel expuestas al sol. Esta se caracteriza por placas eritematosas e hiperqueratósicas, y se presentan como lesiones nodulares, induradas y nacaradas con un borde enrollado y una depresión central (cráter) con ulceración.
+    • Un nevo displásico es un lunar atípico. Por lo general, es una lesión en evolución con una forma asimétrica, bordes irregulares, color inconsistente y un diámetro que suele ser > 6 mm (ABCDE). Esta lesión no es característica de un nevo displasico.
+    • El queratoacantoma tiene un aspecto y un curso clínico distintos. Aparece rápidamente (en un plazo de 4 a 6 semanas) como un nódulo redondo de color rosado con un cráter central lleno de queratina, lo que le confiere un aspecto "volcaniforme". Tras su rápido crecimiento, algunos queratoacantomas tienden a involucionar.
+
+#Masculino de 48 años, ingresa a urgencias, posterior a herida por arma cortopunzante en región abdominal. No sufrió otras lesiones. Signos vitales PA de 114/68 mm/Hg y FC de 118 lpm. Al examen físico, murmullo vesicular conservado de forma bilateral, sonidos cardiacos normales sin agregados. El examen abdominal muestra una lesión que no sangra en el cuadrante superior izquierdo que mide aproximadamente 2,5 × 1 cm. El abdomen está rígido y presenta sensibilidad difusa. El tacto rectal no revela sangre. Ya se inició reanimación con líquidos. ¿Cuál es el siguiente paso en el manejo de este paciente?***
+#A. Realizar una tomografía computarizada de abdomen con contraste intravenoso.
+#B. Realizar lavado peritoneal diagnóstico.
+#C. Realizar laparotomía exploratoria.
+#D. Realizar una exploración local de la herida.
+#Respuesta correcta: C
+#Tema e ítem: Trauma abdominal penetrante anterior - Manejo
+    
+    Argumento: Este paciente tiene un traumatismo abdominal penetrante (TAP) (es decir, una herida por arma blanca) en el cuadrante superior izquierdo, con posible lesión de los órganos subyacentes (estómago, intestino delgado, bazo).  Además de la taquicardia (es decir, posible shock hemorrágico temprano), el paciente tiene peritonitis. (rigidez, sensibilidad difusa). Lo que debe indicar una posible lesión intraabdominal con hemorragia en curso; por ende, se justifica realizar una laparotomía exploratoria inmediata. Recordemos en pacientes con TAP las indicaciones de exploración por laparotomía exploratoria inmediata:
+    
+    - Evidencia de hemorragia en curso: inestabilidad hemodinámica (presión arterial sistólica <90 mm Hg) o sangre franca en la sonda nasogástrica o en el recto.
+    - Peritonitis (rigidez abdominal, dolor de rebote).
+    - Evisceración (es decir, intestinos expuestos externamente).
+    - Empalamiento (es decir, objeto penetrante todavía in situ).
+    
+    Por el contrario, los pacientes sin indicación de laparotomía inmediata deben someterse a exámenes para determinar si se produjo penetración peritoneal (tomografía computarizada o exploración local de la herida) y/o si las lesiones intraabdominales están presentes (evaluación enfocada con ecografía para traumatismos, tomografía computarizada). En caso de encontrarse en estos exámenes lesión, se justifica ya la exploración quirúrgica. En cuanto a realizar un lavado peritoneal diagnóstico, este no se realiza comúnmente, pero puede ayudar a descartar lesiones intraabdominales en pacientes con TAP que no tienen indicación (peritonitis) de laparotomía inmediata; sin embargo, recordemos este paciente tiene signos de peritonitis. Finalmente, en pacientes con heridas punzantes anteriores aisladas, se puede realizar una exploración local de la herida con anestesia local para buscar violaciones del peritoneo (visualización del contenido intraabdominal), lo que indicaría una exploración quirúrgica; sin embargo, la peritonitis de este paciente implica penetración peritoneal con lesión intraabdominal y justifica una intervención quirúrgica.
+    
+    Lecturas recomendadas:
+    
+    - Ocampo E, Trauma de abdomen. Medellín: Enfoque quirúrgicos para el médico general. Universidad de Antioquia, 2017.
+    - Serna R, Garcia C. Trauma penetrante abdominal: Algoritmos diagnósticos y terapéuticos. Medellín: VI curso de actualización en cirugía. Universidad de Antioquia 2022.
+
+#Doña Tulia de 54 años, sin antecedentes patológicos de interés, quien hace 1 mes se realizó una cirugía por fractura de cadera derecha sin complicaciones. Consulta al servicio de Urgencias por presentar dolor en la pierna derecha de varias horas de evolución. Niega disnea u otra sintomatología asociada. EKG: ritmo sinusal. Paraclínicos: Hb 13 g/dL, Cr 1.1 mg/dL. Le ordenan Doppler venoso por edema en miembro inferior derecho, con lo que diagnosticaron trombosis venosa profunda femoral derecha. P: 60 kg, IMC: 25.2. ¿Cuál de los siguientes es la conducta adecuada a seguir?***
+#A. Hospitalizar y programar para trombólisis dirigida por catéter
+#B. Dar alta médica con rivaroxabán 15 mg VO cada 12 horas por las primeras 3 semanas, luego continuar 20 mg una vez al día y recomendaciones/signos de alarma
+#C. Hospitalizar e iniciar enoxaparina 60 mg s.c cada día por 5 días y luego rotar a dabigatran 150 mg VO cada 12 horas
+#D. Dar alta médica con dabigatran 150 mg VO cada 12 horas y recomendaciones/signos de alarma
+#Respuesta correcta: B
+#Tema e ítem: Trombosis venosa profunda (TVP) - ¿Cuál es el manejo ideal?
+    
+    Argumento: Para la mayoría de los pacientes con TVP de miembros inferiores que tienen un riesgo bajo de hemorragia (como el caso de doña Tulia), la anticoagulación es la base del tratamiento, siempre que no existan contraindicaciones. El objetivo principal es la prevención de una mayor propagación y complicaciones de la TVP, como la embolia pulmonar (EP) aguda, TVP recurrente, el síndrome postrombótico (posflebítico) y la muerte. Se puede considerar la terapia ambulatoria cuando los pacientes tienen todas las características siguientes:
+    
+    •Estabilidad hemodinámica
+    •Un bajo riesgo de sangrado.
+    •Sin insuficiencia renal grave
+    •Un sistema práctico implementado en el hogar para la administración y vigilancia de la terapia anticoagulante (p. ej., buenas condiciones de vida, apoyo del cuidador, acceso telefónico, comprensión y capacidad de regresar al hospital en caso de que se produzca un deterioro).
+    
+    Varios ensayos aleatorios y metanálisis sugieren que, en pacientes seleccionados, el tratamiento ambulatorio es seguro y eficaz. La decisión de tratar la TVP en el ámbito ambulatorio debe tomarse en el contexto de la comprensión por parte del paciente de la relación riesgo-beneficio, sus preferencias y su condición clínica. Para la mayoría de los pacientes en quienes se selecciona la terapia ambulatoria, se sugiere la anticoagulación con rivaroxaban o apixaban en monoterapia (no es necesario un tratamiento previo con heparina). Como regímenes alternativos, son apropiados la heparina de bajo peso moleclar superpuesta con warfarina o el tratamiento previo con heparina de bajo peso molecular seguido de la administración de dabigatrán o edoxabán (requieren al menos 5-10 dias de anticoagulación parenteral).
+    
+    Recuerda siempre que las dosis de rivaroxabán o apixaban se inician de la siguiente manera:
+    • Rivaroxabán 15 mg VO cada 12 horas por las primeras 3 semanas, luego continuar 20 mg una vez al día
+    • Apixaban se inicia con 10 mg dos veces al día (durante los primeros siete días), luego se continua con 5 mg cada 12 horas.
+    
+    La duración de la anticoagulación mínima en un paciente con ETEV provocada, como el caso de doña Tulia es de 3 meses.
+    
+    Lectura recomendada:
+    
+    1. Stevens SM et al. Antithrombotic therapy for VTE disease: second update of the CHEST guideline and expert panel report. Chest 2021 Aug 2.
+    2. Ortel TL et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism. Blood Adv 2020 Oct 13; 4: 4693.
