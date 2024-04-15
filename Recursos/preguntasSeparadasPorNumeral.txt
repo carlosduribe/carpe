@@ -19851,7 +19851,7 @@ Es importante reconocer las distintas patologías que se incluirán, pues esto v
 Bibliografía recomendada:
 Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero 2024, Colombia.
 
-#Femenina de 17 años de edad quien consulta por presentar acné desde hace 3 años en cara y pecho. Le preocupa la posibilidad de que le queden cicatrices y acude en busca de tratamiento. No tiene antecedentes de importancia. Signos vitales normales. Al examen físico se evidencian varios comedones abiertos en cara y pecho. ¿Cuál es el tratamiento a seguir en este paciente?***
+#Femenina de 17 años de edad quien consulta por presentar acné desde hace 3 años en cara y pecho. Le preocupa la posibilidad de que le queden cicatrices y acude en busca de tratamiento. No tiene antecedentes de importancia. Signos vitales normales. Al examen físico se evidencian varios comedones abiertos en cara y pecho. ¿Cuál es el tratamiento a seguir en este paciente?
 #A.	Administrar antibióticos orales.
 #B.	Indicar peróxido de benzoilo tópico.
 #C.	Iniciar anticonceptivos orales.
@@ -19869,7 +19869,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     - Acne vulgaris: Overview of management. Avaible in UpToDate. 2024
 
-#Femenina de 18 años consulta por acné vulgar grave en cara, espalda y brazos. Venia recibiendo manejo con antibióticos orales y terapia tópica con peróxido de benzoilo y retinoides tópicos que no han resuelto los síntomas. Al examen físico hay piel grasa con múltiples comedones, pústulas y cicatrices en cara y parte superior de espalda. Se inician anticonceptivos orales combinados. El uso de este nuevo medicamento disminuye el riesgo de desarrollar:***
+#Femenina de 18 años consulta por acné vulgar grave en cara, espalda y brazos. Venia recibiendo manejo con antibióticos orales y terapia tópica con peróxido de benzoilo y retinoides tópicos que no han resuelto los síntomas. Al examen físico hay piel grasa con múltiples comedones, pústulas y cicatrices en cara y parte superior de espalda. Se inician anticonceptivos orales combinados. El uso de este nuevo medicamento disminuye el riesgo de desarrollar:
 #A.	Cáncer de cuello uterino.
 #B.	Cáncer endometrial.
 #C.	Trombosis venosa profunda.
@@ -19883,7 +19883,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     - Restrepo M. Anticoncepción para la adolescente. XXX Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2022
 
-#Femenina de 32 años es llevada a urgencias por una quemadura con agua hirviendo que sufrió hace 1 hora. Signos vitales son normales. Al examen físico se evidencia dos eritemas dolorosos y con llenado capilar sin ampollas en un área de 5 x 6 cm del abdomen izquierdo y un área de 3 x 2 cm de la parte anterior del muslo izquierdo. También hay un área de piel blanca, coriácea y necrosis tisular que rodea la extremidad superior derecha, justo proximal al codo, que está seca y no dolorosa. ¿Cuál de los siguientes se debería evaluar en esta paciente?***
+#Femenina de 32 años es llevada a urgencias por una quemadura con agua hirviendo que sufrió hace 1 hora. Signos vitales son normales. Al examen físico se evidencia dos eritemas dolorosos y con llenado capilar sin ampollas en un área de 5 x 6 cm del abdomen izquierdo y un área de 3 x 2 cm de la parte anterior del muslo izquierdo. También hay un área de piel blanca, coriácea y necrosis tisular que rodea la extremidad superior derecha, justo proximal al codo, que está seca y no dolorosa. ¿Cuál de los siguientes se debería evaluar en esta paciente?
 #A.	Realizar gases arteriales.
 #B.	Realizar ecografía de tejidos blandos.
 #C.	Iniciar manejo con ampicilina IV.
@@ -19902,7 +19902,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     - Salgado F. Enfoque inicial del paciente gran quemado en urgencias. VII Simposio de Medicina de Urgencias. 2019
 
 #Masculino de 46 años consulta por dolor abdominal en cuadrante superior derecho, asociado a ictericia, náuseas, vómitos y hepatomegalia dolorosa desde hace 6 semanas. Los paraclínicos evidencian elevación significativa de transaminasas, IGM Hepatitis A (-), AgHBs (-), AcHBs (-), IgM anti core de hepatitis B (+), Anticuerpo hepatitis C (+) y ARN de hepatitis C (-).  ¿Cuál es el manejo adecuado para este paciente?
-(AgHBs: Antígeno de Superficie de hepatitis B – AcHBs: Anticuerpos contra el antígeno de superficie de hepatitis B)***
+(AgHBs: Antígeno de Superficie de hepatitis B – AcHBs: Anticuerpos contra el antígeno de superficie de hepatitis B)
 #A.	Ribavirina e interferón.
 #B.	Tenofovir.
 #C.	Trasplante hepático de emergencia.
@@ -19920,7 +19920,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     - Equipo académico CTO. Hepatitis víricas. Manual CTO de medicina y cirugía: Digestivo. 11ª edición.
 
-#Femenina de 37 años consulta con clínica característica de hepatitis aguda. Sus paraclínicos son los siguientes: Bilirrubina total: 3,4 mg/dL, Fosfatasa alcalina 181 U/L, ALT 723 U/L, AST 385 U/L, Anticuerpo IgM contra hepatitis A (+), Anticuerpo IgG contra hepatitis A (-), AcHBs (+), AgHBs (-), IgM anti core de hepatitis B (-), Anticuerpo de hepatitis C (-). ¿Cuál de los siguientes factores de riesgo se asocia a la infección actual de esta paciente?***
+#Femenina de 37 años consulta con clínica característica de hepatitis aguda. Sus paraclínicos son los siguientes: Bilirrubina total: 3,4 mg/dL, Fosfatasa alcalina 181 U/L, ALT 723 U/L, AST 385 U/L, Anticuerpo IgM contra hepatitis A (+), Anticuerpo IgG contra hepatitis A (-), AcHBs (+), AgHBs (-), IgM anti core de hepatitis B (-), Anticuerpo de hepatitis C (-). ¿Cuál de los siguientes factores de riesgo se asocia a la infección actual de esta paciente?
 #A.	Transfusión sanguínea.
 #B.	Consumo de mariscos mal cocinados.
 #C.	Relaciones sexuales sin protección.
@@ -19938,7 +19938,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     - Equipo académico CTO. Hepatitis víricas. Manual CTO de medicina y cirugía: Digestivo. 11ª edición.
 
 #Doña Ana de 65 años, acude a consulta por historial de 2 meses de sangrado genital moderado y persistente. Tiene antecedente de hipertensión arterial y refiere que tiene la menopausia desde hace 10 años. Se realiza citologías de forma puntual, siendo la última normal. Al examen físico presenta signos vitales estables. La especuloscopia no evidencia lesiones en cérvix. Trae reporte de ecografía TV en el cual se evidencia un endometrio engrosado de 4.2 mm, sin lesiones ocupantes de espacio en su interior.
-¿Cuál sería la conducta a seguir?***
+¿Cuál sería la conducta a seguir?
 #A. Realizar TAC de pelvis con contraste
 #B. Tranquilizar a la paciente, educar sobre la condición y programar cita de control en 3 meses con resultados de nueva ecografía TV
 #C. Realizar nueva citología con prueba de ADN VPH
@@ -19958,7 +19958,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     2. Lee-may Chen, Jonathan S Berek. Endometrial carcinoma: Clinical features, diagnosis, prognosis, and screening. Available On Uptodate Advanced 2024.
 
 #Masculino de 45 años, quien se realizó chequeo ejecutivo previo al ingreso a su trabajo como gerente de empresa. En el examen físico se evidencia una lesión nodular a nivel del lóbulo tiroideo derecho, de unos 2.5 cm. Trae reporte de ecografía en el cual concluye lesión nodular solida hiperecocica, más ancha que alta, bordes mal definidos, de 2.8 cm en lóbulo tiroideo derecho.
-¿Cuál sería la conducta adecuada a seguir?***
+¿Cuál sería la conducta adecuada a seguir?
 #A. TAC de cuello contrastada
 #B. Realizar aspiración con aguja fina (ACAF)
 #C. Medir TSH
@@ -19976,7 +19976,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     2. Ruales Mora, K. Nódulo tiroideo. Medellín: Facultad de Medicina, Universidad de Antioquia, XIX Memorias Curso de Actualización en Medicina Interna; 2019.
 
 #Mujer de 28 años, acude a consulta demandando un método farmacologico para su obesidad grado II. Refiere que no ha logrado una pérdida de peso significativa en último semestre con plan alimentario y ejercicio. Niega antecedentes personales, pero refiere que su tío paterno de 35 años fue recientemente diagnosticado de neoplasia endocrina múltiple tipo 2 (MEN2) por debutar con un nódulo tiroideo cuyo estudio patológico fue positivo para cáncer medular de tiroides. IMC 38. El examen físico es anodino.
-¿Cuál de los siguientes medicamentos NO le iniciaría para su objetivo?***
+¿Cuál de los siguientes medicamentos NO le iniciaría para su objetivo?
 #A. Orlistat
 #B. Fentermina-topiramato
 #C. Semaglutide
@@ -20000,7 +20000,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     1. Khera R, Murad MH, Chandar AK, et al. Association of pharmacological treatments for obesity with weight loss and adverse events: a systematic review and meta-analysis. JAMA. 2016;315:2424-34.
 
 #Don Juan de 67 años, es traído al servicio de Urgencias por cuadro clínico de 2 días de evolución de disnea progresiva, ortopnea y edema en miembros inferiores. Tiene antecedente de hipertensión arterial, dislipidemia mixta y falla cardiaca crónica con FEV del 28% según último ECO TT realizado hace 2 meses. Actualmente en manejo con losartan, espironolactona, hidroclorotiazida y metropolol tartrato. Al examen físico presenta PA 150/65, SatO2 91%, crépitos en ambos campos pulmonares, ingurgitación yugular. La Rx de tórax muestra un derrame pleural bilateral. Se realizó toracocentesis que evidencia liquido de aspecto claro, linfocitos 45%, LDH 175 U/L (LDH plasmática 290 U/L), proteínas  4,2 g/dL (proteínas plasmáticas 7,8 g/dL).
-¿Cuál de las siguientes afirmaciones es verdadera?***
+¿Cuál de las siguientes afirmaciones es verdadera?
 #A. La relación proteínas LP/proteínas en suero es > 0.5, por tanto, se trata de un exudado
 #B. La relación LDH LP/LDH en suero es >0.6, por tanto, se trata de un exudado
 #C. Se debe solicitar adenosina desaminasa (ADA) porque se puede tratar de un posible derrame por M. tuberculosis
@@ -20021,7 +20021,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     2. Toro Rendón, LG. Derrame pleura. Medicina y Laboratorio 2009, 15: 11-26.
 
 #Un meta-analisis de diez ensayos controlados y randomizados demostró una reducción significativa en la mortalidad y eventos tromboembólicos en pacientes con fibrilación auricular al usar un nuevo anticoagulante llamado ‘’x’’, comparado con la Warfarina. Lo resultados muestran un RR de 0.56 (IC 95%: 0.30-0.7).
-¿Cuál de las siguientes afirmaciones es verdadera?***
+¿Cuál de las siguientes afirmaciones es verdadera?
 #A. El nuevo anticoagulante ‘X’ presenta una mortalidad y tasa de eventos tromboembólicos similares a los pacientes que son tratados con Warfarina
 #B. El nuevo anticoagulante ‘X’ aumenta la mortalidad y eventos tromboembólicos en un 56%
 #C. El nuevo anticoagulante parece asociarse a una menor mortalidad y tasa de eventos tromboembólicos
@@ -20032,7 +20032,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Argumento: Nos piden interpretar los resultados de un meta-ánalisis a través de una medida de asociación, que es el riesgo relativo (RR). El punto de no significación en el RR es el 1, ya que supondría que la incidencia del evento es la misma entre el grupo expuesto y el grupo no expuesto (el factor de exposición no supondría ni riesgo ni protección alguna).  El RR estimado tiene unos valores que van de 0,3 a 0,7. Al ser todos los valores del intervalo menores a 1, por lo cual se podría establecer que el nuevo anticoagulante reduce la mortalidad y tasa de eventos tromboembólicos, es decir, se comporta como un factor protector. Si el intervalo incluyera al 1, éste sería no significativo.
     
 
-#Sofía de 28 años, sin antecedentes médicos de interés, ingresó a urgencias 30  minutos después de accidente automotor a alta velocidad donde ella era la conductora del vehículo (tenía el cinturón puesto). Signos vitales FC 112 LPM, FR 12 rpm, PA de 128/90 mm/Hg. Al examen físico Glasgow 11/15, con signos de dificultad respiratoria y cianosis peribucal. Se evidenció  una laceración de 3 cm en la frente y múltiples abrasiones sobre el tórax y el abdomen. Hay crepitación a la palpación del tórax derecho. La auscultación del pulmón muestra disminución de los ruidos respiratorios en el lado derecho. Además, se ausculta en región precordial un “chasquido” que se sincroniza con los latidos del corazón. El resto del examen no muestra anomalías. Los gases arteriales a FiO2 ambiente reportan pH 7.31, PCO2 55 mmHg, PO2 42 mmHg, HCO3 22 mEq/L, SO2 76%. Se intuba a la paciente, se inicia la infusión de sln al 0,9%. ¿Cuál de los siguientes es el diagnóstico más probable?***
+#Sofía de 28 años, sin antecedentes médicos de interés, ingresó a urgencias 30  minutos después de accidente automotor a alta velocidad donde ella era la conductora del vehículo (tenía el cinturón puesto). Signos vitales FC 112 LPM, FR 12 rpm, PA de 128/90 mm/Hg. Al examen físico Glasgow 11/15, con signos de dificultad respiratoria y cianosis peribucal. Se evidenció  una laceración de 3 cm en la frente y múltiples abrasiones sobre el tórax y el abdomen. Hay crepitación a la palpación del tórax derecho. La auscultación del pulmón muestra disminución de los ruidos respiratorios en el lado derecho. Además, se ausculta en región precordial un “chasquido” que se sincroniza con los latidos del corazón. El resto del examen no muestra anomalías. Los gases arteriales a FiO2 ambiente reportan pH 7.31, PCO2 55 mmHg, PO2 42 mmHg, HCO3 22 mEq/L, SO2 76%. Se intuba a la paciente, se inicia la infusión de sln al 0,9%. ¿Cuál de los siguientes es el diagnóstico más probable?
 #A. Taponamiento cardíaco.
 #B. Ruptura bronquial.
 #C. Tórax inestable.
@@ -20049,7 +20049,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada: - AK AK, Anjum F. Tracheobronchial Tear. Available in StatPearls. 2024
     
 
-#Carolina de 27 años, sin antecedentes médicos de interés, ingresó a urgencias por dolor intenso en el tobillo izquierdo tras caerse sobre una roca mientras caminaba hace 2 horas. Refiere automedicación con acetaminofén con alivio mínimo del dolor. Los signos vitales están dentro de los límites normales. Al examen físico con abrasiones en ambas piernas. El tobillo izquierdo está edematizado y tiene una amplitud de movimiento restringida debido al dolor; no puede soportar peso sobre el pie izquierdo. Además, hay dolor a la palpación en la punta del maléolo medial izquierdo. El pulso pedio es palpable. Sin otro hallazgo anormal en el examen físico. Se eleva el pie izquierdo, se administra analgesia adicional y se aplican medidas físicas frías en el lugar lesionado. ¿Cuál es la conducta a seguir?***
+#Carolina de 27 años, sin antecedentes médicos de interés, ingresó a urgencias por dolor intenso en el tobillo izquierdo tras caerse sobre una roca mientras caminaba hace 2 horas. Refiere automedicación con acetaminofén con alivio mínimo del dolor. Los signos vitales están dentro de los límites normales. Al examen físico con abrasiones en ambas piernas. El tobillo izquierdo está edematizado y tiene una amplitud de movimiento restringida debido al dolor; no puede soportar peso sobre el pie izquierdo. Además, hay dolor a la palpación en la punta del maléolo medial izquierdo. El pulso pedio es palpable. Sin otro hallazgo anormal en el examen físico. Se eleva el pie izquierdo, se administra analgesia adicional y se aplican medidas físicas frías en el lugar lesionado. ¿Cuál es la conducta a seguir?
 #A. Ubicación de una tobillera semirrígida.
 #B. Realizar una radiografía del tobillo.
 #C. Completar la estrategia “RICE” con vendaje elástico.
@@ -20066,7 +20066,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada:- Melanson SW, Shuman VL. Acute Ankle Sprain. Available in StatPearls. 2023.
     
 
-#Carlos de 44 años, sin antecedentes médicos de interés, ingreso a urgencias de un tercer nivel, traído por bomberos 25 minutos después de un accidente de bicicleta mientras iba en una curva a velocidad de 45 km/h. Refiere llevaba casco y no perdió el conocimiento. Signos vitales FC 96 lpm, FR de 18 rpm, PA de 118/78 mm/Hg. Al examen físico Glasgow 15/15, paciente ubicado sobre tabla rígida con collarín cervical en cuello. Se evidenció múltiples hematomas en la frente y la mejilla derecha. Pupilas isocóricas reactivas a la luz. Hay dolor a la palpación en columna cervical posterior, así como también en 2ª y 3ª costilla del lado derecho. La auscultación cardio pulmonar sin alteraciones. El abdomen es levemente doloroso a la palpación sin signos de irritación peritoneal. El examen neurológico no muestra hallazgos focales. Se realizó un FAST el cual fue negativo. Se realizó una  radiografía de tórax que reportó  fractura de la tercera costilla del lado derecho y ninguna otra anomalía. El ECG es normal. ¿Cuál es la conducta ideal y  adecuada a seguir?***
+#Carlos de 44 años, sin antecedentes médicos de interés, ingreso a urgencias de un tercer nivel, traído por bomberos 25 minutos después de un accidente de bicicleta mientras iba en una curva a velocidad de 45 km/h. Refiere llevaba casco y no perdió el conocimiento. Signos vitales FC 96 lpm, FR de 18 rpm, PA de 118/78 mm/Hg. Al examen físico Glasgow 15/15, paciente ubicado sobre tabla rígida con collarín cervical en cuello. Se evidenció múltiples hematomas en la frente y la mejilla derecha. Pupilas isocóricas reactivas a la luz. Hay dolor a la palpación en columna cervical posterior, así como también en 2ª y 3ª costilla del lado derecho. La auscultación cardio pulmonar sin alteraciones. El abdomen es levemente doloroso a la palpación sin signos de irritación peritoneal. El examen neurológico no muestra hallazgos focales. Se realizó un FAST el cual fue negativo. Se realizó una  radiografía de tórax que reportó  fractura de la tercera costilla del lado derecho y ninguna otra anomalía. El ECG es normal. ¿Cuál es la conducta ideal y  adecuada a seguir?
 #A. Realizar tomografía computarizada abdominal.
 #B. Realizar radiografía del cuello.
 #C. Solicitar tomografía de columna cervical.
@@ -20083,7 +20083,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada: - Torlincasi AM, Waseem M. Cervical Injury. Available in StatPearls. 2024
     
 
-#Lidia de 46 años asistente de ventas por medio teléfono sin otro antecedente médico de interés, consultó por parestesias, y debilidad en la extremidad superior izquierda, junto con dolor subescapular en el hombro izquierdo que iniciaron hace un mes durante sus vacaciones. La paciente asoció el dolor a dormir en una cama nueva; sin embargo, durante el interrogatorio refirió que durante el trabajo está mucho tiempo contestando el teléfono y ha notado que los síntomas empeoran después de sostener el teléfono entre la cabeza y el hombro izquierdo. Los signos vitales son normales. Al examen físico, hay pérdida de la sensación de pinchazo en el pulgar y el índice izquierdos. Hay debilidad leve de la flexión del codo y el reflejo del bíceps está disminuido en el lado izquierdo. El resto del examen físico sin anormalidades. ¿Cuál es la causa más probable de los síntomas de esta paciente?***
+#Lidia de 46 años asistente de ventas por medio teléfono sin otro antecedente médico de interés, consultó por parestesias, y debilidad en la extremidad superior izquierda, junto con dolor subescapular en el hombro izquierdo que iniciaron hace un mes durante sus vacaciones. La paciente asoció el dolor a dormir en una cama nueva; sin embargo, durante el interrogatorio refirió que durante el trabajo está mucho tiempo contestando el teléfono y ha notado que los síntomas empeoran después de sostener el teléfono entre la cabeza y el hombro izquierdo. Los signos vitales son normales. Al examen físico, hay pérdida de la sensación de pinchazo en el pulgar y el índice izquierdos. Hay debilidad leve de la flexión del codo y el reflejo del bíceps está disminuido en el lado izquierdo. El resto del examen físico sin anormalidades. ¿Cuál es la causa más probable de los síntomas de esta paciente?
 #A. Compresión del nervio mediano.
 #B. Desmielinización de nervios periféricos.
 #C. Compresión de la raíz nerviosa espinal.
@@ -20100,7 +20100,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada:- Seward B. Rutkove. Overview of upper and lower extremity peripheral nerve syndromes. Available in Up to Date 2024.
     
 
-#Cristian de 34 años, sin antecedentes médicos de interés, ingreso a urgencias posterior a accidente automovilístico frontal donde el paciente estaba en calidad de conductor de moto. Signos vitales PA de 78/40 mm/Hg y FC de 134 lpm. Al examen físico, paciente alerta y orientado, auscultación y cardio pulmonar sin hallazgos anormales, en región torácica y abdominal equimosis en distribución de cinturón de seguridad. El abdomen está distendido y con sensibilidad difusa. Un eco trauma es negativo para derrame pericárdico pero positivo para líquido intraperitoneal libre. Posterior a la infusión intravenosa rápida de 2 L de salina al 0.9% el paciente tiene PA de 80/50 mmHg y FC de 118 lpm. ¿Cuál es el manejo adecuado para este paciente?***
+#Cristian de 34 años, sin antecedentes médicos de interés, ingreso a urgencias posterior a accidente automovilístico frontal donde el paciente estaba en calidad de conductor de moto. Signos vitales PA de 78/40 mm/Hg y FC de 134 lpm. Al examen físico, paciente alerta y orientado, auscultación y cardio pulmonar sin hallazgos anormales, en región torácica y abdominal equimosis en distribución de cinturón de seguridad. El abdomen está distendido y con sensibilidad difusa. Un eco trauma es negativo para derrame pericárdico pero positivo para líquido intraperitoneal libre. Posterior a la infusión intravenosa rápida de 2 L de salina al 0.9% el paciente tiene PA de 80/50 mmHg y FC de 118 lpm. ¿Cuál es el manejo adecuado para este paciente?
 #A. Realizar tomografía abdominal.
 #B. Iniciar terapia vasopresora.
 #C. Llevar al paciente a quirófano para una laparotomía exploratoria urgente.
@@ -20117,7 +20117,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lecturas recomendadas:-  Juan Pablo Hoyos Burgos. Trauma de abdomen, estado del arte. Medellín. Curso de Actualización en cirugía general. Universidad de Antioquia. 2019
     
 
-#Rosa de 30 años, G4P2C1 (la cesárea fue por presentación podálica) con 39 semanas de embarazo por FUM, sin controles prenatales, consulta porque hace 20 minutos presentó sangrado vaginal. Signos vitales T° 37.1 C, FC de 86 lpm, FR: 18 rpm, PA de 132/74 mm/Hg. Al examen físico el abdomen no está doloroso y no se sienten contracciones. El feto se encuentra en presentación cefálica. La frecuencia cardíaca fetal es de 96 lpm. La vaginoscopia con espéculo revela rotura de membranas y sangrado moderado del orificio cervical externo. ¿Cuál de los siguientes es el diagnóstico más probable?***
+#Rosa de 30 años, G4P2C1 (la cesárea fue por presentación podálica) con 39 semanas de embarazo por FUM, sin controles prenatales, consulta porque hace 20 minutos presentó sangrado vaginal. Signos vitales T° 37.1 C, FC de 86 lpm, FR: 18 rpm, PA de 132/74 mm/Hg. Al examen físico el abdomen no está doloroso y no se sienten contracciones. El feto se encuentra en presentación cefálica. La frecuencia cardíaca fetal es de 96 lpm. La vaginoscopia con espéculo revela rotura de membranas y sangrado moderado del orificio cervical externo. ¿Cuál de los siguientes es el diagnóstico más probable?
 #A. Desprendimiento de placenta
 #B. Placenta previa
 #C. Placenta acreta
@@ -20134,7 +20134,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada: - Castaño L. A. Hemorragia obstétrica del segundo y tercer trimestre: enfoque etiológico. Medellìn. XXXI Curso de actualización en ginecología y obstetricia. Universidad de Antioquia 2023.
     
 
-#Carolina de 30 años, G2P1 de 33 semanas de gestación, con antecedente de embarazo previo con oligohidramnios, sin otro antecedente médico relevante, consultó a control prenatal. Signos vitales PA de 100/70 mm/Hg. En el examen pélvico, se encontró que el tamaño del útero es más pequeño de lo esperado para la edad gestacional. El feto se encuentra en posición longitudinal, con presentación en vértice. La frecuencia cardíaca fetal es de 144 lpm. La ecografía muestra un peso fetal estimado del percentil 9 y una disminución del volumen de líquido amniótico. ¿Cuál es la conducta adecuada a seguir?***
+#Carolina de 30 años, G2P1 de 33 semanas de gestación, con antecedente de embarazo previo con oligohidramnios, sin otro antecedente médico relevante, consultó a control prenatal. Signos vitales PA de 100/70 mm/Hg. En el examen pélvico, se encontró que el tamaño del útero es más pequeño de lo esperado para la edad gestacional. El feto se encuentra en posición longitudinal, con presentación en vértice. La frecuencia cardíaca fetal es de 144 lpm. La ecografía muestra un peso fetal estimado del percentil 9 y una disminución del volumen de líquido amniótico. ¿Cuál es la conducta adecuada a seguir?
 #A. Se diagnostica inmediatamente una restricción del crecimiento intrauterino
 #B. Solicitar ecografía doppler fetal
 #C. Realizar amnioinfusión
@@ -20151,7 +20151,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada: - Li Chi Chew; Rita P. Verma.Fetal Growth Restriction. Available in Start Pearls.2024
     
 
-#Valentina de 16 años, con antecedente de menstruaciones irregulares (cada 4-5 meses) desde la menarquia a los 14 años y vida sexual activa con uso de condón de forma consistente, consultó por sangrado vaginal abundante desde hace 3 días. Signos vitales T° de 37,2 °C, PA 120/80 mm/Hg y FC de 80 lpm. Al examen pélvico, hay cantidad moderada de sangre en la cúpula vaginal y sangrado activo desde el orificio cervical. La ecografía pélvica revela un útero pequeño con una franja endometrial gruesa y ovarios normales sin masas anexiales. La prueba de embarazo en orina es negativa. Paraclínicos con hemoglobina en 10 g/dl, VCM de 90 fl, Plaquetas en 320.000, TP 12 seg y TTP de 26 seg. ¿Cuál es el manejo adecuado de esta paciente?***
+#Valentina de 16 años, con antecedente de menstruaciones irregulares (cada 4-5 meses) desde la menarquia a los 14 años y vida sexual activa con uso de condón de forma consistente, consultó por sangrado vaginal abundante desde hace 3 días. Signos vitales T° de 37,2 °C, PA 120/80 mm/Hg y FC de 80 lpm. Al examen pélvico, hay cantidad moderada de sangre en la cúpula vaginal y sangrado activo desde el orificio cervical. La ecografía pélvica revela un útero pequeño con una franja endometrial gruesa y ovarios normales sin masas anexiales. La prueba de embarazo en orina es negativa. Paraclínicos con hemoglobina en 10 g/dl, VCM de 90 fl, Plaquetas en 320.000, TP 12 seg y TTP de 26 seg. ¿Cuál es el manejo adecuado de esta paciente?
 #A. Dilatación y legrado de emergencia
 #B. Iniciar terapia anticonceptiva oral en dosis altas
 #C. Administrar progestágeno a dosis altas
@@ -20168,7 +20168,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada: - González D. Enfoque de la hemorragia uterina anormal aguda en urgencias. Medellín XXXI curso de actualización en ginecología y obstetricia. Universidad de Antioquia 2023
     
 
-#Flor de 29 años, G1P1, con 9 semanas de gestación, sin antecedentes médicos de interés, consultó por 3 horas de sangrado vaginal con paso de coágulos grandes y cólicos en hipogastrio. La paciente inició cuidados prenatales hace una semana, y una ecografía en ese momento reveló un feto de 8 semanas con FC fetal normal. Signos vitales actuales con T° de 37° C, PA de 90/65 mm Hg, FC de 110/min. Al examen físico, se evacuan grandes coágulos de sangre de vagina y se aprecia sangrado activo en el orificio cervical externo. Paraclínicos reportan hemoglobina en 8,0 g/dL y una ecografía transvaginal revela un feto de 9 semanas en el segmento uterino inferior sin actividad cardíaca. ¿Cuál es el manejo de esta paciente?***
+#Flor de 29 años, G1P1, con 9 semanas de gestación, sin antecedentes médicos de interés, consultó por 3 horas de sangrado vaginal con paso de coágulos grandes y cólicos en hipogastrio. La paciente inició cuidados prenatales hace una semana, y una ecografía en ese momento reveló un feto de 8 semanas con FC fetal normal. Signos vitales actuales con T° de 37° C, PA de 90/65 mm Hg, FC de 110/min. Al examen físico, se evacuan grandes coágulos de sangre de vagina y se aprecia sangrado activo en el orificio cervical externo. Paraclínicos reportan hemoglobina en 8,0 g/dL y una ecografía transvaginal revela un feto de 9 semanas en el segmento uterino inferior sin actividad cardíaca. ¿Cuál es el manejo de esta paciente?
 #A. Manejo expectante
 #B. Administrar misoprostol
 #C. Realizar una histerectomía
@@ -20185,7 +20185,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada:- Prager S. et al. Pregnancy loss (miscarriage): Description of management techniques. Available in up to date 2024.
     
 
-#Karina de 27 años, G2P1 con 37 semanas de gestación, antecedente de alergia leve a las penicilinas y embarazo previo con colonización de estreptococos del grupo B (SGB) y posterior sepsis fetal por SGB. Ingresa ahora a urgencias por trabajo de parto en fase activa, sin nuevas pruebas de SGB de la gestación actual. Los signos vitales están dentro de los límites normales. Al examen físico, el abdomen no doloroso, presencia de contracciones cada 4 minutos. Hay líquido amniótico claro acumulándose en la vagina. El feto se encuentra en presentación cefálica. La frecuencia cardíaca fetal es de 140 lpm. ¿Cuál de las siguientes es la estrategia de manejo más apropiada?***
+#Karina de 27 años, G2P1 con 37 semanas de gestación, antecedente de alergia leve a las penicilinas y embarazo previo con colonización de estreptococos del grupo B (SGB) y posterior sepsis fetal por SGB. Ingresa ahora a urgencias por trabajo de parto en fase activa, sin nuevas pruebas de SGB de la gestación actual. Los signos vitales están dentro de los límites normales. Al examen físico, el abdomen no doloroso, presencia de contracciones cada 4 minutos. Hay líquido amniótico claro acumulándose en la vagina. El feto se encuentra en presentación cefálica. La frecuencia cardíaca fetal es de 140 lpm. ¿Cuál de las siguientes es la estrategia de manejo más apropiada?
 #A. Administrar cefazolina 2 gr IV y posterior 1 gr IV cada 8 horas hasta el parto
 #B. Penicilina G 5 millones de U vía IV y posteriormente 2.5 millones U vida IV cada 4 horas hasta el parto.
 #C. Clindamicina 900 mg IV cada 8 horas
@@ -20202,7 +20202,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Lectura recomendada: - Cortés H. Estreptococo del grupo B durante el embarazo. Medellín. XXVIII Actualización en ginecología y obstetricia. Universidad de Antioquia. 2020
     
 
-#Salomé, 14 años, llega a urgencias por artralgias. El cuadro inició hace 3 meses, cuando decidió empezar a hacer ejercicio, presentando dolor en el tobillo derecho después de trotar, sin haber presentado trauma previo. El dolor tiende a empeorar en las mañanas, pero mejoran a lo largo del día. Se ha extendido a las rodillas, los codos y las muñecas durante el último mes, asociado a fatiga extrema. Desde hace dos meses es vegana. Su peso ha mejorado del percentil 95 al percentil 90 en los últimos 3 meses. Al examen físico, se evidencia edema leve y dolor a la palpación en tobillos, rodillas, codos y muñecas, bilateralmente. ¿Cuál de los siguientes medicamentos es el más apropiado para iniciar a esta paciente?***
+#Salomé, 14 años, llega a urgencias por artralgias. El cuadro inició hace 3 meses, cuando decidió empezar a hacer ejercicio, presentando dolor en el tobillo derecho después de trotar, sin haber presentado trauma previo. El dolor tiende a empeorar en las mañanas, pero mejoran a lo largo del día. Se ha extendido a las rodillas, los codos y las muñecas durante el último mes, asociado a fatiga extrema. Desde hace dos meses es vegana. Su peso ha mejorado del percentil 95 al percentil 90 en los últimos 3 meses. Al examen físico, se evidencia edema leve y dolor a la palpación en tobillos, rodillas, codos y muñecas, bilateralmente. ¿Cuál de los siguientes medicamentos es el más apropiado para iniciar a esta paciente?
 #A. Vitamina D y calcio
 #B. Doxiciclina
 #C. Naproxeno
@@ -20225,7 +20225,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Kimura Y; et al. Systemic juvenile idiopathic arthritis: Clinical manifestations and diagnosis. Feb, 2024.
     
 
-#Laura, 15 años. Acude a su consulta externa para una revisión general. Se encuentra asintomática. No tiene ningún antecedente patológico. Su padre tiene una falla cardíaca crónica e hipertensión arterial. Su madre tiene diabetes mellitus tipo 2, dislipidemia y sufrió un infarto agudo de miocardio a los 52 años. Al examen físico, con peso mayor de 2DE, IMC de 32 kg/m2, TA 140/90. Trae paraclínicos: glucosa 160, creatinina 1, CT 300, HDL 28, LDL 170, TG 250. Además de la actividad física regular, ¿cuál de los siguientes es el siguiente paso más apropiado en el tratamiento?***
+#Laura, 15 años. Acude a su consulta externa para una revisión general. Se encuentra asintomática. No tiene ningún antecedente patológico. Su padre tiene una falla cardíaca crónica e hipertensión arterial. Su madre tiene diabetes mellitus tipo 2, dislipidemia y sufrió un infarto agudo de miocardio a los 52 años. Al examen físico, con peso mayor de 2DE, IMC de 32 kg/m2, TA 140/90. Trae paraclínicos: glucosa 160, creatinina 1, CT 300, HDL 28, LDL 170, TG 250. Además de la actividad física regular, ¿cuál de los siguientes es el siguiente paso más apropiado en el tratamiento?
 #A. Asesoría nutricional
 #B. Ejercicio con pesas de alta intensidad
 #C. Atorvastatina
@@ -20245,7 +20245,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Murillo Valles M, Bel Comós M. Obesidad y síndrome metabólico. Protoc diagn ter pediatr. 2019;1:285-94.
     
 
-#Sofía tiene 11 años y llega a urgencias por presentar visión borrosa desde hace dos semanas. Además, refiere cefalea y náuseas. Tiene antecedentes de DM1, diagnosticada hace dos años, que debutó como cetoacidosis diabética. que le fue diagnosticada hace 2 años después de ser hospitalizada por cetoacidosis diabética. Se aplica insulina. Hace seis meses fue al oftalmólogo, sin presentar ninguna alteración. El examen de la agudeza visual fue de 20/40 bilateralmente sin cambios después de la refracción. Las pupilas son simétricas y reactivas a la luz y los movimientos extraoculares están intactos. En la campimetría, con puntos ciegos de forma bilateral.  El resto del examen neurológico es normal. En el fondo de ojo se evidencian hemorragias en astilla y papiledema. ¿Cuál de las siguientes es la causa más probable de los síntomas de este paciente?***
+#Sofía tiene 11 años y llega a urgencias por presentar visión borrosa desde hace dos semanas. Además, refiere cefalea y náuseas. Tiene antecedentes de DM1, diagnosticada hace dos años, que debutó como cetoacidosis diabética. que le fue diagnosticada hace 2 años después de ser hospitalizada por cetoacidosis diabética. Se aplica insulina. Hace seis meses fue al oftalmólogo, sin presentar ninguna alteración. El examen de la agudeza visual fue de 20/40 bilateralmente sin cambios después de la refracción. Las pupilas son simétricas y reactivas a la luz y los movimientos extraoculares están intactos. En la campimetría, con puntos ciegos de forma bilateral.  El resto del examen neurológico es normal. En el fondo de ojo se evidencian hemorragias en astilla y papiledema. ¿Cuál de las siguientes es la causa más probable de los síntomas de este paciente?
 #A. Retinopatía diabética
 #B. Adenoma pituitario
 #C. Hipertensión intracraneal idiopática
@@ -20262,7 +20262,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     Felipe Rucián A, Del Toro Riera M. Hipertensión intracraneal en Pediatría. Protoc diagn ter pediatr. 2022;1:135-144.
     
 
-#Usted atiende el parto vaginal de una paciente de 29 años de edad, el cual transcurrió sin complicaciones. Durante el embarazo, presentó diabetes gestacional en manejo con insulina. El paciente nació a las 39+5 semanas, con un peso de 3700 gramos y una talla de 48 cm. Usted evidencia una TSH tomada del talón de 15 mUI/L. ¿Cuál considera que es el paso más apropiado a seguir?***
+#Usted atiende el parto vaginal de una paciente de 29 años de edad, el cual transcurrió sin complicaciones. Durante el embarazo, presentó diabetes gestacional en manejo con insulina. El paciente nació a las 39+5 semanas, con un peso de 3700 gramos y una talla de 48 cm. Usted evidencia una TSH tomada del talón de 15 mUI/L. ¿Cuál considera que es el paso más apropiado a seguir?
 #A. Es un caso confirmado de hipotiroidismo congénito, se inicia suplementación con levotiroxina
 #B. Es un caso sospechoso de hipotiroidismo congénito, requiere confirmación con TSH y T4L
 #C. Es un valor normal, no se requieren conductas adicionales
@@ -20286,7 +20286,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     - Grupo genética crónicas-Dirección de redes en salud pública. Instituto Nacional de Salud (INS). Actualización de las recomendaciones técnicas y operativas para laboratorios de tamizaje neonatal. Junio, 2022. Bogotá, Colombia.
     - Connelly K. Clinical features and detection of congenital hypothyroidism. 2023. UpToDate Advanced.
 
-#Recién nacido de 3 horas de vida, nacido por cesárea, 38 semanas de edad gestacional. Su madre tiene DM2 controlada. Usted observa que desde hace unos minutos ha presentado cianosis peribucal, por lo que decide iniciarle O2 por cánula nasal a 2 litros/minuto, con lo cual satura 85%. A la auscultación, con soplo holosistólico II/VI a lo largo del borde esternal inferior izquierdo. La ecocardiografía muestra que las arterias pulmonares surgen de la parte posterior del ventrículo izquierdo y la aorta se eleva anteriormente desde el ventrículo derecho. ¿Cuál es el manejo inmediato que requiere el paciente?***
+#Recién nacido de 3 horas de vida, nacido por cesárea, 38 semanas de edad gestacional. Su madre tiene DM2 controlada. Usted observa que desde hace unos minutos ha presentado cianosis peribucal, por lo que decide iniciarle O2 por cánula nasal a 2 litros/minuto, con lo cual satura 85%. A la auscultación, con soplo holosistólico II/VI a lo largo del borde esternal inferior izquierdo. La ecocardiografía muestra que las arterias pulmonares surgen de la parte posterior del ventrículo izquierdo y la aorta se eleva anteriormente desde el ventrículo derecho. ¿Cuál es el manejo inmediato que requiere el paciente?
 #A. Administrar prostaglandina E1
 #B. Administrar indometacina
 #C. Llevar a cx urgente
@@ -20306,7 +20306,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     - Uricchio N. Transposition of the great arteries. Giornale Italiano Di Cardiologia, 2015 Feb;16(2):92-9. doi: 10.1714/1798.19582.
 
 #Varón de 35 años, quien acude a consulta con historial de dos meses de evolución de dolor cervical con irradiación a miembro superior derecho. Refiere que el dolor inicia en región cervical posterior e irradia por toda la cara dorsal de antebrazo hasta el tercer dedo. Refiere que ya el dolor no cede con analgésicos. Al examen físico se evidencia limitación de la movilidad cervical, reflejo tricipital derecho disminuido e hipoestesia en region dorsal de la mano y tercer dedo. Se enfoca como una cervicobraquialgia por hernia discal y se espera de los resultados de la resonancia magnética cervical.
-¿A qué nivel esperaría encontrar la hernia discal?***
+¿A qué nivel esperaría encontrar la hernia discal?
 #A. C6-C7.
 #B. C7-T1.
 #C. C5-C6.
@@ -20325,7 +20325,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     1. Peláez Pérez, JF. Dolor cérvico-braquial y radiculopatía cervical. Medellín: XXI Curso de Actualización para médicos generales – La visión del residente.
 
-#Mujer de 65 años, acude a consulta del programa control. Tiene antecedente de hipertensión arterial en tratamiento con losartan-amlodipino-hidroclorotiazida, dislipidemia en manejo con rosuvastatina e hipotiroidismo en manejo con levotiroxina. Refiere episodio de fractura de muñeca hace 2 años. ¿Cuál de los siguientes medicamentos de la paciente es eficaz para aumentar la masa ósea y disminuir el riesgo de fractura?***
+#Mujer de 65 años, acude a consulta del programa control. Tiene antecedente de hipertensión arterial en tratamiento con losartan-amlodipino-hidroclorotiazida, dislipidemia en manejo con rosuvastatina e hipotiroidismo en manejo con levotiroxina. Refiere episodio de fractura de muñeca hace 2 años. ¿Cuál de los siguientes medicamentos de la paciente es eficaz para aumentar la masa ósea y disminuir el riesgo de fractura?
 #A. Levotiroxina
 #B. Rosuvastatina
 #C. Losartan
@@ -20341,7 +20341,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     1. Shabaka Fernández A, Cases Corona C, Fernández Juarez G. Diuréticos.En: Lorenzo V., López Gómez JM (Eds). Nefrología al día. ISSN: 2659-2606. Disponible en: [https://www.nefrologiaaldia.org/217](https://www.nefrologiaaldia.org/217)
 
-#Masculino de 65 años consulta ya que ha notado un nódulo rosado de 7.5 mm desde hace 7 semanas que crece lentamente en la región posterior del cuello. La lesión presenta bordes elevados e hiperqueratósicos, no está asociado con dolor, prurito o secreción. El paciente refiere aplicación de esteroides tópicos de potencia baja sin mejoría. ¿Cuál es el paso a seguir en el abordaje de esta paciente?***
+#Masculino de 65 años consulta ya que ha notado un nódulo rosado de 7.5 mm desde hace 7 semanas que crece lentamente en la región posterior del cuello. La lesión presenta bordes elevados e hiperqueratósicos, no está asociado con dolor, prurito o secreción. El paciente refiere aplicación de esteroides tópicos de potencia baja sin mejoría. ¿Cuál es el paso a seguir en el abordaje de esta paciente?
 #A. Biopsia excisional
 #B. Seguimiento por la consulta externa en 2 meses
 #C. Biopsia incisional
@@ -20361,7 +20361,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     - Kim DP, Kus KJB, Ruiz E. Basal Cell Carcinoma Review. Hematol Oncol Clin North Am. 2019 Feb;33(1):13-24. doi: 10.1016/j.hoc.2018.09.004. PMID: 30497670.
 
-#Lina de 63 años de edad,  con antecedente de hipertensión arterial, diabetes tipo dos insulinodependiente, ansiedad, hipercolesterolemia, reflujo gastroesofágico, consumo de cigarrillo con IPA de 15 y cáncer medular de tiroides, para el cual se sometió hace dos días a una tiroidectomía total sin complicaciones. Ahora consulta por 1 hora de dolor de carácter urente en epigastrio,  asociado a náuseas sin emesis y diaforesis. Signos vitales FC: 64 lpm, FR: 17 rpm, PA:148/77 mm Hg. Al examen físico se evidenció incisión lineal de 3 cm sobre la parte anterior del cuello con 1 mm de eritema circundante y secreción serosa leve. La pared torácica y el abdomen no dolorosos al tacto, murmullo vesicular conservado, ruidos cardiacos rítmicos sin sobreagregados, sin hallazgos anormales. ¿Cuál es la conducta más apropiada en el manejo inicial de Lina?***
+#Lina de 63 años de edad,  con antecedente de hipertensión arterial, diabetes tipo dos insulinodependiente, ansiedad, hipercolesterolemia, reflujo gastroesofágico, consumo de cigarrillo con IPA de 15 y cáncer medular de tiroides, para el cual se sometió hace dos días a una tiroidectomía total sin complicaciones. Ahora consulta por 1 hora de dolor de carácter urente en epigastrio,  asociado a náuseas sin emesis y diaforesis. Signos vitales FC: 64 lpm, FR: 17 rpm, PA:148/77 mm Hg. Al examen físico se evidenció incisión lineal de 3 cm sobre la parte anterior del cuello con 1 mm de eritema circundante y secreción serosa leve. La pared torácica y el abdomen no dolorosos al tacto, murmullo vesicular conservado, ruidos cardiacos rítmicos sin sobreagregados, sin hallazgos anormales. ¿Cuál es la conducta más apropiada en el manejo inicial de Lina?
 #A. Solicitar electrocardiograma y troponinas
 #B. Se administra inhibidor de bomba de protones intravenoso
 #C. Se solicita radiografía de tórax y se inicia manejo con amoxicilina/Clavulanato
@@ -20379,7 +20379,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     - Gallego P. Ramírez J. Dolor torácico potencialmente mortal. Medellín. Curso de actualización medicina interna XXI. Universidad de Antioquia. 2021.
 
-#Diego de 54 años, con antecedente de diabetes tipo dos, hipertensión arterial y consumo de cigarrillo con IPA de 20, consulta ahora por una hora de dolor en hemitórax izquierdo, de carácter opresivo, sin referirse a otro segmento. El cuadro se acompaña de diaforesis y disnea. Signos vitales FC 59 lpm, FR 18 rpm, PA de 85/56 mm Hg. Al examen físico, palidez generalizada, frialdad distal, murmullo vesicular conservado y ruidos cardiacos rítmicos sin sobreagregados. Sin otro hallazgo anormal. Se realiza un electrocardiograma que muestra lo siguiente (foto al final). ¿Cuál de las siguientes conductas es la más adecuada para el manejo de este paciente?***
+#Diego de 54 años, con antecedente de diabetes tipo dos, hipertensión arterial y consumo de cigarrillo con IPA de 20, consulta ahora por una hora de dolor en hemitórax izquierdo, de carácter opresivo, sin referirse a otro segmento. El cuadro se acompaña de diaforesis y disnea. Signos vitales FC 59 lpm, FR 18 rpm, PA de 85/56 mm Hg. Al examen físico, palidez generalizada, frialdad distal, murmullo vesicular conservado y ruidos cardiacos rítmicos sin sobreagregados. Sin otro hallazgo anormal. Se realiza un electrocardiograma que muestra lo siguiente (foto al final). ¿Cuál de las siguientes conductas es la más adecuada para el manejo de este paciente?
     
     ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2021.png)
     
@@ -20400,7 +20400,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     
     - Jeffers, J. L., Boyd, K. L., Parks, L. J. Right Ventricular Myocardial Infarction. Available In StatPearls. 2023
 
-#Eduardo de 59 años, con antecedente de hipertensión arterial en manejo con enalapril y amlodipino, diabetes  tipo 2 en manejo con metformina y consumo de cigarrillo con IPA de 20, consulta junto a su esposa a urgencias por 3 días de disnea progresiva, sin comentar otra sintomatología.  Su esposa informa que sólo toma sus medicamentos cada dos o tres días. Signos vitales T 37,1 °C, FC de 86 lpm, PA de 167/95 mm Hg, SO2 de 91% al ambiente. Al examen físico se auscultan crépitos gruesos en bases pulmonares, sin otro hallazgo anormal. ¿Cuál es la conducta adecuada a seguir?***
+#Eduardo de 59 años, con antecedente de hipertensión arterial en manejo con enalapril y amlodipino, diabetes  tipo 2 en manejo con metformina y consumo de cigarrillo con IPA de 20, consulta junto a su esposa a urgencias por 3 días de disnea progresiva, sin comentar otra sintomatología.  Su esposa informa que sólo toma sus medicamentos cada dos o tres días. Signos vitales T 37,1 °C, FC de 86 lpm, PA de 167/95 mm Hg, SO2 de 91% al ambiente. Al examen físico se auscultan crépitos gruesos en bases pulmonares, sin otro hallazgo anormal. ¿Cuál es la conducta adecuada a seguir?
 #A. Administrar furosemida intravenosa
 #B. Indica uso de salbutamol y corticosteroide inhalado
 #C. Ordena manejo con ampicilina/sulbactam
@@ -20419,7 +20419,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     - Malek R, Soufi S. Pulmonary Edema. Available In: StatPearls. 2024
 
 #Arturo de 51 años de edad, con antecedente de diabetes
-tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de forma súbita refiere durante el recorrido inicia con náuseas, diaforesis, palidez y palpitaciones. Usted un médico/médica que estaba ejercitándose por el lugar se acerca a evaluar el paciente. La esposa del paciente le comentó que durante las últimas 3 semanas Arturo ha estado intentando perder peso y ha ajustado su dieta y nivel de actividad. Sigue una dieta baja en carbohidratos y nada 3 veces por semana. El paciente le pide a su esposa que traiga el botiquín de sus medicamentos del carro. Poco antes de que su esposa regrese del auto con su botiquín de medicamentos de emergencia, Arturo pierde el conocimiento. ¿Cuál es la conducta adecuada a seguir en este escenario y contexto?***
+tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de forma súbita refiere durante el recorrido inicia con náuseas, diaforesis, palidez y palpitaciones. Usted un médico/médica que estaba ejercitándose por el lugar se acerca a evaluar el paciente. La esposa del paciente le comentó que durante las últimas 3 semanas Arturo ha estado intentando perder peso y ha ajustado su dieta y nivel de actividad. Sigue una dieta baja en carbohidratos y nada 3 veces por semana. El paciente le pide a su esposa que traiga el botiquín de sus medicamentos del carro. Poco antes de que su esposa regrese del auto con su botiquín de medicamentos de emergencia, Arturo pierde el conocimiento. ¿Cuál es la conducta adecuada a seguir en este escenario y contexto?
 #A. Administrar Glucagón intramuscular
 #B. Indica Dextrosa intraarterial
 #C. Dar glucosa oral por medio de carbohidratos de acción rápida
@@ -20437,7 +20437,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
     - Mathew P, Thoppil D.Hypoglycemia. Available in StatPearls. 2024
 
-#Bryan de 21 años, llevado a urgencias por la policía por alteración del estado mental. Refieren que lo encontraron tapándose los oídos, gritando en la carretera y con lenguaje incoherente. Además, comentan que de camino al hospital, Bryan tuvo 2 episodios eméticos precedidos por náuseas. Signos vitales T° 38,2 °C, FC de 100 lpm, FR de 28 rpm y PA de 110/77 mm/Hg, se realizan unos paraclínicos iniciales que reportan Na: 140, Cl: 102, y gases arteriales pH 7.47, paCO2: 24mmHg, PO2: 84 mm/Hg, HCO3: 20 mEq/L. Tres horas después del ingreso presenta convulsión tónico-clónica y se repiten gases arteriales que reportan pH 7.47, paCO2: 24mmHg, PO2: 84 mm/Hg, HCO3: 20 mEq/L y a las 3 horas pH 7.39, paCO2: 31mmHg, PO2: 82 mm/Hg, HCO3: 18 mEq/L. ¿Cuál de las siguientes es la explicación más probable de los hallazgos de laboratorio del paciente?***
+#Bryan de 21 años, llevado a urgencias por la policía por alteración del estado mental. Refieren que lo encontraron tapándose los oídos, gritando en la carretera y con lenguaje incoherente. Además, comentan que de camino al hospital, Bryan tuvo 2 episodios eméticos precedidos por náuseas. Signos vitales T° 38,2 °C, FC de 100 lpm, FR de 28 rpm y PA de 110/77 mm/Hg, se realizan unos paraclínicos iniciales que reportan Na: 140, Cl: 102, y gases arteriales pH 7.47, paCO2: 24mmHg, PO2: 84 mm/Hg, HCO3: 20 mEq/L. Tres horas después del ingreso presenta convulsión tónico-clónica y se repiten gases arteriales que reportan pH 7.47, paCO2: 24mmHg, PO2: 84 mm/Hg, HCO3: 20 mEq/L y a las 3 horas pH 7.39, paCO2: 31mmHg, PO2: 82 mm/Hg, HCO3: 18 mEq/L. ¿Cuál de las siguientes es la explicación más probable de los hallazgos de laboratorio del paciente?
 #A. Intoxicación por salicilatos
 #B. Sobredosis de opioides
 #C. Cetoacidosis diabética
@@ -20455,7 +20455,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
     - Rivera J.A, Piedrahita N.H. Enfoque del Paciente Intoxicado: La visión del internista. Medellín. XXI Curso de actualización en medicina interna. Universidad de Antioquia. 2022.
 
-#Don Hebert de 60 años, con antecedente de HTA y DM2, consultó por 6 meses de evolución de aumento de la frecuencia urinaria, nicturia y polaquiuria que no le permiten realizar sus actividades de la vida diaria. No refiere sangrado, disuria, hematuria. Sus signos vitales están dentro de los límites normales. El examen abdominal no muestra anomalías. El tacto rectal muestra una próstata agrandada, simétricamente, firme y no dolorosa, sin nódulos. ¿Cuál de las siguientes opciones debe ser la primera conducta a realizar con este paciente?***
+#Don Hebert de 60 años, con antecedente de HTA y DM2, consultó por 6 meses de evolución de aumento de la frecuencia urinaria, nicturia y polaquiuria que no le permiten realizar sus actividades de la vida diaria. No refiere sangrado, disuria, hematuria. Sus signos vitales están dentro de los límites normales. El examen abdominal no muestra anomalías. El tacto rectal muestra una próstata agrandada, simétricamente, firme y no dolorosa, sin nódulos. ¿Cuál de las siguientes opciones debe ser la primera conducta a realizar con este paciente?
 #A. Uroanálisis
 #B. Ultrasonografía de próstata
 #C. Biopsia de próstata
@@ -20473,7 +20473,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
     - McVary K.Clinical manifestations and diagnostic evaluation of benign prostatic hyperplasia. Available in Up To date 2023.
 
-#Juan Camilo de 30 años, sin antecedentes médicos de interés, consultó por tres días de fiebre, escalofríos, odinofagia y disfagia. No refiere tos, dolor torácico o disnea. Signos vitales con Tº de  39,8 °C, PA de 118/76 mmHg, FC de 102 lpm y FR de 19 rpm. Al examen físico se encontró paciente disfónico, con linfadenopatía unilateral izquierda dolorosa, la úvula se desvía hacia la derecha. ¿Cuál es el manejo de este paciente?***
+#Juan Camilo de 30 años, sin antecedentes médicos de interés, consultó por tres días de fiebre, escalofríos, odinofagia y disfagia. No refiere tos, dolor torácico o disnea. Signos vitales con Tº de  39,8 °C, PA de 118/76 mmHg, FC de 102 lpm y FR de 19 rpm. Al examen físico se encontró paciente disfónico, con linfadenopatía unilateral izquierda dolorosa, la úvula se desvía hacia la derecha. ¿Cuál es el manejo de este paciente?
 #A. Realizar un frotis de garganta y antibióticos orales
 #B. Solicitar una prueba de monospot
 #C. Realizar laringoscopia de emergencia
@@ -20491,7 +20491,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
     - Laura González Gala. Patología de la faringe. Disponible en Manual de otorrinolaringología CTO 2020.
 
-#Jose de 55 años, con antecedente de diabetes mellitus 2, consulta por lesión indolora en la planta del pie izquierdo de 2 semanas de evolución, no refiere trauma reciente. Signos vitales Tº 37,5, FC 79 lpm y PA de 124/78 mmHg. Al examen físico úlcera de 1x1 cm en la cara plantar del pie izquierdo cerca de la base del segundo dedo. La úlcera tiene márgenes bien definidos, secos, hiperqueratósicos y una base eritematosa. Los pulsos pedios son palpables. Hay disminución de la sensibilidad por tacto ligero, tacto fino y vibración en ambas extremidades inferiores. ¿Cuál es la conducta diagnóstica adecuada a seguir?***
+#Jose de 55 años, con antecedente de diabetes mellitus 2, consulta por lesión indolora en la planta del pie izquierdo de 2 semanas de evolución, no refiere trauma reciente. Signos vitales Tº 37,5, FC 79 lpm y PA de 124/78 mmHg. Al examen físico úlcera de 1x1 cm en la cara plantar del pie izquierdo cerca de la base del segundo dedo. La úlcera tiene márgenes bien definidos, secos, hiperqueratósicos y una base eritematosa. Los pulsos pedios son palpables. Hay disminución de la sensibilidad por tacto ligero, tacto fino y vibración en ambas extremidades inferiores. ¿Cuál es la conducta diagnóstica adecuada a seguir?
 #A. Resonancia magnética del pie
 #B. Test del contacto óseo
 #C. Gammagrafía ósea
@@ -20509,7 +20509,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
     - Murphy-Lavoie HM, Ramsey A, Nguyen M, et al. Diabetic Foot Infections. Available in StatPearls 2023.
 
-#Adriana de 49 años, sin antecedentes de interés y previamente sana, consultó a urgencias por cuadro clínico de 45 minutos de duración de dolor torácico referido a espalda que inició mientras almorzaba. Refiere que durante los últimos 3 meses, ha tenido con frecuencia la sensación de que la comida, tanto líquida como sólida, se “atascaba” generando sensación opresiva en tórax. Los signos vitales del paciente están dentro de los límites normales. Un electrocardiograma evidenció un ritmo sinusal sin elevación o alteración del ST, con troponina a las 0 y 1 hora sin elevación, se realizó un esofagograma que reportó un esófago en sacacorchos y una manometría con contracciones prematuras espontáneas de gran amplitud y duración. ¿Cuál es el diagnóstico más probable?***
+#Adriana de 49 años, sin antecedentes de interés y previamente sana, consultó a urgencias por cuadro clínico de 45 minutos de duración de dolor torácico referido a espalda que inició mientras almorzaba. Refiere que durante los últimos 3 meses, ha tenido con frecuencia la sensación de que la comida, tanto líquida como sólida, se “atascaba” generando sensación opresiva en tórax. Los signos vitales del paciente están dentro de los límites normales. Un electrocardiograma evidenció un ritmo sinusal sin elevación o alteración del ST, con troponina a las 0 y 1 hora sin elevación, se realizó un esofagograma que reportó un esófago en sacacorchos y una manometría con contracciones prematuras espontáneas de gran amplitud y duración. ¿Cuál es el diagnóstico más probable?
 #A. Espasmo esofágico distal
 #B. Enfermedad por reflujo gastroesofágico
 #C. Acalasia
@@ -20527,7 +20527,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
     - Merino B,García J, et all. Enfermedades inflamatorias del esófago. Disponible en el Manual CTO de Medicina y Cirugía. 2019
 
-#Ofelia de 45 años, con antecedente de consumo de 5 cigarrillos al día desde los 20 años y consumo ocasional de alcohol sin llegar a la embriaguez, consultó por cuadro de 2 años de evolución refiriendo “tengo calambres en el pecho después de comer”, acompañado de dificultad progresiva para tragar sólidos y líquidos. Comentó a veces regurgita alimentos parcialmente digeridos y ahora come principalmente purés, por lo que ha perdido 4 kg de peso en los últimos 6 meses a pesar de que no ha habido cambios en el apetito. Los signos vitales están dentro de los límites normales. Al examen físico IMC de 24 kg/m2, sin hallazgos anormales al examen físico. Se realizó una prueba de deglución esofágica de bario que evidenció dilatación del esófago proximal con estenosis de la unión gastroesofágica y retraso en el vaciado de bario. Una endoscopia superior muestra mucosa esofágica y gástrica normal sin evidencia de obstrucción mecánica. La manometría esofágica muestra una presurización paneesofágica simultánea y descoordinada con una relajación incompleta del esfínter esofágico inferior. ¿Cuál es la conducta adecuada a seguir?***
+#Ofelia de 45 años, con antecedente de consumo de 5 cigarrillos al día desde los 20 años y consumo ocasional de alcohol sin llegar a la embriaguez, consultó por cuadro de 2 años de evolución refiriendo “tengo calambres en el pecho después de comer”, acompañado de dificultad progresiva para tragar sólidos y líquidos. Comentó a veces regurgita alimentos parcialmente digeridos y ahora come principalmente purés, por lo que ha perdido 4 kg de peso en los últimos 6 meses a pesar de que no ha habido cambios en el apetito. Los signos vitales están dentro de los límites normales. Al examen físico IMC de 24 kg/m2, sin hallazgos anormales al examen físico. Se realizó una prueba de deglución esofágica de bario que evidenció dilatación del esófago proximal con estenosis de la unión gastroesofágica y retraso en el vaciado de bario. Una endoscopia superior muestra mucosa esofágica y gástrica normal sin evidencia de obstrucción mecánica. La manometría esofágica muestra una presurización paneesofágica simultánea y descoordinada con una relajación incompleta del esfínter esofágico inferior. ¿Cuál es la conducta adecuada a seguir?
 #A. Indica dilatación neumática con balón
 #B. Uso de nitratos
 #C. Administración de inyección de toxina botulínica
@@ -20545,7 +20545,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
     - Momodu II, Wallen JM. Achalasia. Available in: StatPearls. 2024
 
-#Ana María, seis años, sin ningún antecedente patológico. Es llevada a su consulta por la madre debido a talla baja, asegura que tiene la estatura más baja del salón y que eso le preocupa. Al examen físico, tiene una T/E entre -2 y -3, no tiene ningún hallazgo patológico.  ¿Cuál sería su conducta?***
+#Ana María, seis años, sin ningún antecedente patológico. Es llevada a su consulta por la madre debido a talla baja, asegura que tiene la estatura más baja del salón y que eso le preocupa. Al examen físico, tiene una T/E entre -2 y -3, no tiene ningún hallazgo patológico.  ¿Cuál sería su conducta?
 #A. Es talla baja con criterios de evaluación por endocrinología
 #B. Corresponde a una talla baja patológica, envío exámenes
 #C. Es talla baja idiopática con criterios de evaluación por endocrinología
@@ -20574,7 +20574,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     Saldarriaga S; et al. Talla baja: enfoque desde la perspectiva del pediatra, ¿Cuándo remitir al endocrinólogo? Temas clave en consulta externa pediátrica, 7. Universidad CES, marzo 2024.
     
 
-#Simona, 6 años, sin antecedentes patológicos o familiares relevantes. Es llevada por su tía a su consulta, debido a que presenta crecimiento de los senos y del vello púbico y axilar desde hace varios meses. No ha presentado cambios en su conducta ni en su rendimiento escolar. Niega otros síntomas acompañantes. Tiene unas medidas antropométricas adecuadas para su edad. Se observa vello axilar, el vello púbico y los senos están la etapa 3 de Tanner. Lleva un carpograma, con una edad ósea consistente con una edad de 8 años. El nivel basal de LH es alto. ¿Cuál de los siguientes es el mejor paso siguiente en la evaluación de esta paciente?***
+#Simona, 6 años, sin antecedentes patológicos o familiares relevantes. Es llevada por su tía a su consulta, debido a que presenta crecimiento de los senos y del vello púbico y axilar desde hace varios meses. No ha presentado cambios en su conducta ni en su rendimiento escolar. Niega otros síntomas acompañantes. Tiene unas medidas antropométricas adecuadas para su edad. Se observa vello axilar, el vello púbico y los senos están la etapa 3 de Tanner. Lleva un carpograma, con una edad ósea consistente con una edad de 8 años. El nivel basal de LH es alto. ¿Cuál de los siguientes es el mejor paso siguiente en la evaluación de esta paciente?
 #A. ECO pélvica
 #B. RMN cerebral
 #C. TAC de suprarrenales
@@ -20595,7 +20595,7 @@ tipo 2 en manejo con insulina y metformina, iba caminando con su esposa y de for
     
 
 #Recién nacido a término con retraso del crecimiento intrauterino y microcefalia que en las primeras 24 horas de vida presenta ictericia, petequias y esplenomegalia.
-Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemograma se evidencia una trombocitopenia. El Coombs directo es negativo. En la TAC de cráneo simple se observan calcificaciones periventriculares. ¿Cuál es el diagnóstico más probable?***
+Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemograma se evidencia una trombocitopenia. El Coombs directo es negativo. En la TAC de cráneo simple se observan calcificaciones periventriculares. ¿Cuál es el diagnóstico más probable?
 #A. Infección congénita por toxoplasma.
 #B. Sepsis neonatal
 #C. Infección congénita por citomegalovirus (CMV)
@@ -20614,7 +20614,7 @@ Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemog
     -Neu N, Duchon J, Zachariah P. TORCH infecciones. ClinPerinatol 2015; 42:77.
     
 
-#Ismael tiene 11 años y es llevado a consulta por tos seca de 2 semanas de evolución que ha aumentado en los últimos días; en la actualidad es espasmódica y emetizante. No convive con personas con tos crónica ni existe ambiente tabáquico en el hogar. La madre refiere que presenta el PAI completo para su edad, no tiene antecedentes de importancia. Su crecimiento y desarrollo son normales, presenta hemorragia subconjuntival bilateral y la auscultación es normal, sin ruidos sobreagregados. Señale la respuesta correcta:***
+#Ismael tiene 11 años y es llevado a consulta por tos seca de 2 semanas de evolución que ha aumentado en los últimos días; en la actualidad es espasmódica y emetizante. No convive con personas con tos crónica ni existe ambiente tabáquico en el hogar. La madre refiere que presenta el PAI completo para su edad, no tiene antecedentes de importancia. Su crecimiento y desarrollo son normales, presenta hemorragia subconjuntival bilateral y la auscultación es normal, sin ruidos sobreagregados. Señale la respuesta correcta:
 #A. El diagnóstico más probable es el de asma.
 #B. Al ser la auscultación normal no se requieren más estudios complementarios.
 #C. No es preciso adoptar ninguna medida en quienes conviven con él.
@@ -20628,7 +20628,7 @@ Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemog
     -Centros de Control y Prevención de Enfermedades. Directrices generales de mejores prácticas para la inmunización. [https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/index.html](https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/index.html)
     
 
-#Ana tiene dos horas de nacida. Nació a término, con peso de 2200 gramos, en percentil 10 de longitud, percentil 14 de peso y percentil 3 de perímetro cefálico. Al examen físico, se evidencian lesiones en el cuero cabelludo "en sacabocados", labio leporino y micrognatia. Se evidencia una deformidad convexa en las plantas de los pies. La auscultación muestra un soplo holosistólico que se escucha mejor en el borde esternal inferior izquierdo. Parte de sus intestinos sobresalen por el ombligo, cubiertos por un delgado saco membranoso. En una RMN realizada se evidencia un solo ventrículo y una fusión de los ganglios basales. ¿Cuál de los siguientes hallazgos adicionales es más probable que se observe en este paciente?***
+#Ana tiene dos horas de nacida. Nació a término, con peso de 2200 gramos, en percentil 10 de longitud, percentil 14 de peso y percentil 3 de perímetro cefálico. Al examen físico, se evidencian lesiones en el cuero cabelludo "en sacabocados", labio leporino y micrognatia. Se evidencia una deformidad convexa en las plantas de los pies. La auscultación muestra un soplo holosistólico que se escucha mejor en el borde esternal inferior izquierdo. Parte de sus intestinos sobresalen por el ombligo, cubiertos por un delgado saco membranoso. En una RMN realizada se evidencia un solo ventrículo y una fusión de los ganglios basales. ¿Cuál de los siguientes hallazgos adicionales es más probable que se observe en este paciente?
 #A. Polidactilia
 #B. Pliegue palmar único
 #C. Filtrum hipoplásico
@@ -20649,7 +20649,7 @@ Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemog
     
 
 #Primigesta de 27 años, 32.6 semanas de gestación, sin antecedentes obstétricos relevantes, consulta al servicio de Urgencias por la percepción de contracciones uterinas regulares (8 contracciones en 60 minutos). No ha asistido a sus dos últimos controles prentales. tiene antecedente de reacción anafiláctica severa a la penicilina. Al examen físico presenta signos vitales estables, abdomen globoso por útero grávido, AU 38 cm. Tacto vaginal: cuello corto con 4 cm de dilatación cervical y membranas integras. El registro cardiotocográfico no revela contracciones y la frecuencia cardiaca fetal es de 142 lpm.
-¿Cuál es el manejo inicial correcto para esta paciente?***
+¿Cuál es el manejo inicial correcto para esta paciente?
 #A. Administrar nifedipino + corticoides + sulfato de magnesio
 #B. Administrar nifedipino + corticoides
 #C. Dejar evolucionar el parto y administrar nifedipino + corticoides + sulfato de magnesio
@@ -20678,7 +20678,7 @@ Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemog
     1. Arenas Marín, EA. Parto pretérmino. Medellín: Facultad de Medicina, Universidad de Antioquia, XXX Curso de actualización en ginecología y obstetricia; 2022.
 
 #Femenina de 29 años, G5P4C0A0, 36 semanas de gestación, remitida de primer nivel por abdominal intenso y pérdida hemática escasa por genitales. Refiere que antes del inicio del sangrado percibió algunas contracciones, las cuales cesaron luego de notar el sangrado. Refiere que sus anteriores embarazos cursaron sin complicaciones y ha asistido a todos sus controles prenatales sin novedades. Al ingreso presenta FC 119 lpm, PA 80/58 mh, FR 19 rpm, palidez mucocutánea y diaforesis profusa con dolor difuso a la palpación abdominal. En el registro cardiotocográfico fetal con 3 desaceleraciones tipo DIP II recurrentes con una FC de 70-80 lpm latidos por minuto.
-¿Cuál de los siguientes es el diagnóstico más probable y la conducta terapéutica adecuada?***
+¿Cuál de los siguientes es el diagnóstico más probable y la conducta terapéutica adecuada?
 #A. Placenta previa; esperar a la normalización de la frecuencia cardiaca fetal y permitirá seguir el curso del parto
 #B. Vasa previa; realizar cesárea en las siguientes 6 horas
 #C. Rotura uterina; realizar cesárea emergente
@@ -20701,7 +20701,7 @@ Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemog
     1. Castaño Jiménez, LA. Hemorragia obstétrica del segundo y tercer trimestre: enfoque etiológico. Medellín: Facultad de Medicina, Universidad de Antioquia, XXXI Memorias Curso de Actualización en Ginecología y Obstetricia; 2023.
 
 #Femenina de 26 años, sin antecedentes de interés, FUM fue hace 12 semanas. Consulta al servicio de Urgencias por sangrado vaginal y dolor pélvico de dos horas de evolución. Refiere que desde hace tres semanas presento vómitos intermitentes de contenido biliar. También comenta que ha intentado concebir sin éxito desde hace seis meses. Al ingreso presenta PA 130/85 mmHg, FC 109 lpm, regular estado general, palidez acentuada, abdomen blando, doloroso con fondo uterino a nivel de cicatriz umbilical (AU: 14 cm). Tacto vaginal: cérvix estaba blando, sangrado vaginal de aspecto oscuro con coágulos. Paraclínicos: Hb 10.5, leucocitos 12.000, PLT 250.000, β-hCG 265.000 mUI/L. Se realiza eco TV que evidencia masa intrauterina heterogénea con patrón ecográfico en “racimo de uvas’’; sin evidencia frecuencia cardiaca fetal. La Rx de tórax es normal. Se iniciaron uterotónicos y se realizó aspiración manual endouterina con éxito sin complicaciones.
-¿Cuál de las siguientes afirmaciones es verdadera?***
+¿Cuál de las siguientes afirmaciones es verdadera?
 #A. Para descartar la neoplasia trofoblástica gestacional es necesario realizar medición de β-HCG a los 7, 30 y 90 días del tratamiento
 #B. Para descartar la neoplasia trofoblástica gestacional es necesario realizar medición de β-HCG una a dos semanas del tratamiento hasta tener tres mediciones negativas consecutivas, luego cada 3 meses por 6 meses
 #C. Esta paciente no cumple con criterios para inicio de quimioterapia profiláctica
@@ -20719,7 +20719,7 @@ Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemog
     1. Torres Pineda, M. Hemorragias en el primer trimestre. Medellín: Facultad de Medicina, Universidad de Antioquia, XXXI Memorias Curso de Actualización en Ginecología y Obstetricia; 2022.
 
 #Mujer de 36 años, G2P2A0, sin más deseos genésicos, consulta por historial de sangrado abundante durante la menstruación. Trae reporte de ecografía particular la cual concluye mioma uterino de 2.7 cm intramural submucoso. Refiere que no desea tomar medicación anticonceptivos orales combinados porque no los tolera bien.
-¿Cuál sería el tratamiento ideal para esta paciente?***
+¿Cuál sería el tratamiento ideal para esta paciente?
 #A. Acetato de leuprolide (3,75 mg IM cada cuatro semanas)
 #B. DIU con 52 mg de levonorgestrel
 #C. Ácido tranexámico 1300 mg cada 8 horas vía oral los primeros cinco días del ciclo o durante los días que presente sangrado más abundante
@@ -20744,7 +20744,7 @@ Tiene una bilirrubina total de 12 mg/dL, con indirecta de 2,5 mg/dL. En el hemog
 • Antiagregante Y: RR 1.9 (IC 95%: 0.75-2.8)
 • Antiagregante Z: RR 0.6 (IC 95%: 0.34-0.84)
 • Antiagregante F: RR 3.2 (UC 95%: 2.5-8.75)
-Si se asume que todos los antiagregantes tienen la misma eficacia y similar seguridad respecto a reacciones adversas, ¿Cuál sería el de elección para prevención de IAM?***
+Si se asume que todos los antiagregantes tienen la misma eficacia y similar seguridad respecto a reacciones adversas, ¿Cuál sería el de elección para prevención de IAM?
 #A. X
 #B. Y
 #C. Z
@@ -20757,7 +20757,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     El valor puntual del RR del antiagregante Z es de 0,6, lo que revelaría un resultado protector frente a la aparición de IAM. Además, cuando miramos el intervalo de confianza al 95% éste no incluye al 1, lo cual nos dice que los resultados son estadísticamente significativos.
     
 
-#Femenina de 42 años quien consulta en contexto de cuadro clínico de 5 días de dolor epigástrico, fiebre, náuseas y malestar general. Tiene antecedente de pancreatitis biliar aguda hace 5 semanas manejada con CPRE y colecistectomía. Además, tiene antecedente de alcoholismo. Signos vitales Tº 38,7 °C, FR de 18 rpm, FC 120 lpm y PA 100/70 mm Hg. Al examen físico, dolor abdominal a la palpación en epigastrio, presencia de 3 cicatrices por laparoscopia bien cicatrizadas, sin otro hallazgo anormal. Paraclínicos que reportan: Hb 10 g/dl, Leucocitos en 15.800/mm3, Fosfatasa alcalina 70 U/L, AST 22 U/L, ALT 19 U/L, GGT 55 U/L, Bilirrubina 1 mg/dl, glucosa 105 mg/dl, amilasa 220 U/L y Lipasa 365 U/L. Una ecografía abdominal evidenció una colección de líquido quístico con paredes irregulares y tabiques en el páncreas. ¿Cuál es el diagnostico más probable para este paciente?***
+#Femenina de 42 años quien consulta en contexto de cuadro clínico de 5 días de dolor epigástrico, fiebre, náuseas y malestar general. Tiene antecedente de pancreatitis biliar aguda hace 5 semanas manejada con CPRE y colecistectomía. Además, tiene antecedente de alcoholismo. Signos vitales Tº 38,7 °C, FR de 18 rpm, FC 120 lpm y PA 100/70 mm Hg. Al examen físico, dolor abdominal a la palpación en epigastrio, presencia de 3 cicatrices por laparoscopia bien cicatrizadas, sin otro hallazgo anormal. Paraclínicos que reportan: Hb 10 g/dl, Leucocitos en 15.800/mm3, Fosfatasa alcalina 70 U/L, AST 22 U/L, ALT 19 U/L, GGT 55 U/L, Bilirrubina 1 mg/dl, glucosa 105 mg/dl, amilasa 220 U/L y Lipasa 365 U/L. Una ecografía abdominal evidenció una colección de líquido quístico con paredes irregulares y tabiques en el páncreas. ¿Cuál es el diagnostico más probable para este paciente?
 #A.	Absceso pancreático
 #B.	Pseudoquiste pancreático
 #C.	Colangitis
@@ -20776,7 +20776,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Cárdenas A, Herrera D, Vásquez Sara. Complicaciones de la pancreatitis aguda. Medellín. VI curso de actualizacion en cirugía. Universidad de Antioquia 2022.
     - Serna Juan, Mejía D. Opciones terapéuticas en pancreatitis grave. Medellín. Actualizacion en cirugía general. Universidad de Antioquia 2021.
 
-#Femenina de 70 años de edad quien consulta 7 meses después de haberse colocado un stent coronario por un IAM. Tiene antecedente de fibrilación auricular, HTA y hemorragia digestiva. Toma aspirina, clopidogrel, rivaroxabán, metoprolol, lisinopril y rosuvastatina.  ¿Cuál es el manejo adecuado para esta paciente?***
+#Femenina de 70 años de edad quien consulta 7 meses después de haberse colocado un stent coronario por un IAM. Tiene antecedente de fibrilación auricular, HTA y hemorragia digestiva. Toma aspirina, clopidogrel, rivaroxabán, metoprolol, lisinopril y rosuvastatina.  ¿Cuál es el manejo adecuado para esta paciente?
 #A.	Suspender la aspirina.
 #B.	Suspender rivaroxabán.
 #C.	Cambiar rivaroxabán por apixabán.
@@ -20794,7 +20794,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - J Am Coll Cardiol. 2019;74:104-132.
 
-#Femenina de 27 años de edad cursando con embarazo de 34 semanas consulta por disnea y palpitaciones. Niega otros síntomas. Al examen físico sus signos vitales son normales. Su saturación de oxígeno es de 97%. No hay otros hallazgos significativos al examen físico. Su dimero D es de 0,88 ug/mL y una ecografía doppler de miembros inferiores es normal. ¿Cuál es el paso adecuado a seguir según los resultados de esta paciente?***
+#Femenina de 27 años de edad cursando con embarazo de 34 semanas consulta por disnea y palpitaciones. Niega otros síntomas. Al examen físico sus signos vitales son normales. Su saturación de oxígeno es de 97%. No hay otros hallazgos significativos al examen físico. Su dimero D es de 0,88 ug/mL y una ecografía doppler de miembros inferiores es normal. ¿Cuál es el paso adecuado a seguir según los resultados de esta paciente?
 #A.	Angio-TC pulmonar
 #B.	Resonancia magnética pulmonar con gadolinio
 #C.	Gammagrafía pulmonar de ventilación-perfusión
@@ -20810,7 +20810,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Pregnancy-adapted YEARS algorithm for diagnosis of suspected pulmonary embolism. N Engl J Med. 2019;380:1139-1149.
 
-#20 minutos después de un parto por cesárea a las 38 semanas de embarazo, un recién nacido de 4630 gr presenta disnea. El Apgar fue de 7 y 8 al minuto y a los 5 minutos respectivamente. Durante el embarazo desarrolló diabetes mellitus gestacional. Signos vitales: temp. De 37°C, FC de 115 lpm y FR de 72 rpm. Satura a 89% con O2 ambiente. Al examen físico hay retracciones intercostales y subcostales leves. A la auscultación pulmonar hay crépitos bilaterales difusos. Una rx de tórax evidencia aumento del volumen pulmonar y líquido dentro de las fisuras interlobulares. ¿Cuál es el manejo adecuado para este paciente?***
+#20 minutos después de un parto por cesárea a las 38 semanas de embarazo, un recién nacido de 4630 gr presenta disnea. El Apgar fue de 7 y 8 al minuto y a los 5 minutos respectivamente. Durante el embarazo desarrolló diabetes mellitus gestacional. Signos vitales: temp. De 37°C, FC de 115 lpm y FR de 72 rpm. Satura a 89% con O2 ambiente. Al examen físico hay retracciones intercostales y subcostales leves. A la auscultación pulmonar hay crépitos bilaterales difusos. Una rx de tórax evidencia aumento del volumen pulmonar y líquido dentro de las fisuras interlobulares. ¿Cuál es el manejo adecuado para este paciente?
 #A.	Administrar oxigeno suplementario.
 #B.	Iniciar manejo antibiótico.
 #C.	Realizar ventilación con presión positiva de la vía aérea.
@@ -20824,7 +20824,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Transient Tachypnea of the Newborn. [Updated 2022 Jul 5]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-.
 
-#Femenina de 11 años es llevada a urgencias por fiebre, cefalea y náuseas durante 3 días. Evita mirar luces porque agrava la cefalea. Tiene antecedente de leucemia con ultima quimioterapia hace 2 semanas. Se ve letárgica. Signos vitales: temperatura de 40°C, FC de 131 lpm y PA de 100/60 mmHg. Al examen físico hay rigidez nucal. La flexión del cuello produce flexión de rodillas y cadera. La fuera muscular está disminuida en la extremidad superior derecha. Se obtienen hemocultivos. ¿Cuál es el manejo adecuado para esta paciente?***
+#Femenina de 11 años es llevada a urgencias por fiebre, cefalea y náuseas durante 3 días. Evita mirar luces porque agrava la cefalea. Tiene antecedente de leucemia con ultima quimioterapia hace 2 semanas. Se ve letárgica. Signos vitales: temperatura de 40°C, FC de 131 lpm y PA de 100/60 mmHg. Al examen físico hay rigidez nucal. La flexión del cuello produce flexión de rodillas y cadera. La fuera muscular está disminuida en la extremidad superior derecha. Se obtienen hemocultivos. ¿Cuál es el manejo adecuado para esta paciente?
 #A.	Realizar una tomografía computarizada de cráneo.
 #B.	Iniciar manejo antibiótico.
 #C.	Realizar una punción lumbar.
@@ -20838,7 +20838,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Meningitis - Pediatr Rev (2015) 36 (12): 514–526.
 
-#Femenina de 35 años consulta por dolor abdominal tipo cólico en hipocondrio derecho asociado a náuseas y episodios eméticos. Informa que ha presentado 3 episodios similares con duración del dolor de hasta 90 minutos. Antecedentes: HTA, dislipidemia, enfermedad de Chron. Al examen físico presenta IMC 30.1, PA 135/90 mmhg, T 37.2°C, FC 85 lpm, ictericia conjuntival leve, dolor leve a la palpación en cuadrante superior derecho sin signos de irritación peritoneal. Prueba de guayaco (-). Laboratorios: BT 3.9 mg/dL, FA 350, AST/ALT: 190/255 U/L. Ecografía de hígado y vías biliares: colédoco de 9 mm de dimatro (VN: < 6 mm) y múltiples solidos hiperecogénicos en vesícula biliar. ¿Cuál de las siguientes es la causa más probable de su cuadro clínico?***
+#Femenina de 35 años consulta por dolor abdominal tipo cólico en hipocondrio derecho asociado a náuseas y episodios eméticos. Informa que ha presentado 3 episodios similares con duración del dolor de hasta 90 minutos. Antecedentes: HTA, dislipidemia, enfermedad de Chron. Al examen físico presenta IMC 30.1, PA 135/90 mmhg, T 37.2°C, FC 85 lpm, ictericia conjuntival leve, dolor leve a la palpación en cuadrante superior derecho sin signos de irritación peritoneal. Prueba de guayaco (-). Laboratorios: BT 3.9 mg/dL, FA 350, AST/ALT: 190/255 U/L. Ecografía de hígado y vías biliares: colédoco de 9 mm de dimatro (VN: < 6 mm) y múltiples solidos hiperecogénicos en vesícula biliar. ¿Cuál de las siguientes es la causa más probable de su cuadro clínico?
 #A.	Infección aguda por VHB
 #B.	Colangitis aguda
 #C.	Colecistitis aguda leve
@@ -20854,7 +20854,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Pineda G. Coledocolitiasis, lo aprendido y lo actual. VI Curso de Actualización en Cirugía General. Universidad de Antioquia. 2022
 
-#Masculino de 24 años es llevado a urgencias por herida por arma de fuego. Durante la valoración en sala de reanimación el paciente necesitó intubación, cristaloides y transfusión. Signos vitales: PA 86/40 mmHg, FC 130/min. Al examen físico presenta 2 heridas: una en 6° espacio intercostal izquierdo, lateral a la línea medioclavicular; y otra en 7° espacio intercostal izq posterior. Una radiografía de tórax evidencia opacidades irregulares en base pulmonar izq. Sin derrame pericárdico ni líquido libre intraperitoneal. ¿Cuál es el manejo adecuado?***
+#Masculino de 24 años es llevado a urgencias por herida por arma de fuego. Durante la valoración en sala de reanimación el paciente necesitó intubación, cristaloides y transfusión. Signos vitales: PA 86/40 mmHg, FC 130/min. Al examen físico presenta 2 heridas: una en 6° espacio intercostal izquierdo, lateral a la línea medioclavicular; y otra en 7° espacio intercostal izq posterior. Una radiografía de tórax evidencia opacidades irregulares en base pulmonar izq. Sin derrame pericárdico ni líquido libre intraperitoneal. ¿Cuál es el manejo adecuado?
 #A.	Realizar laparotomía exploratoria.
 #B.	Realizar TAC de abdomen.
 #C.	Realizar lavado peritoneal diagnóstico.
@@ -20871,7 +20871,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Ana Castaño Cardona, Sergio Jaramillo. Abordaje diagnóstico de las heridas toracoabdominales. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
 
-#Masculino de 49 años procedente área rural dispersa quien consulta a Urgencias por cuadro clínico de fiebre alta y dolor abdominal progresivo de 2 semanas de evolución. Tiene historial de diabetes tipo 2 en manejo con metformina y antecedente de reacción anafiláctica a penicilinas. Al examen físico se encuentra lúcido, PA 120/80 mh, T 39.1 ºC, FC 100 lpm, murmullo vesicular ligeramente disminuido en base de hemitórax derecho, no agregados, dolor a la palpación en hipocondrio derecho, hepatomegalia por encima de reborde costal, sin signos de irritación peritoneal. Paraclínicos al ingreso: Hb 10.6, GB 19.000 (N: 87%), PCR 150 mg/dL, BT 0.66, FA 250, AST 260, ALT 400. Ecografía abdominal: volumen hepático aumentado de forma difusa con presencia de lesión heterogénea de contornos lobulados de 10 x 8 x 8 cm en lóbulo derecho, sin vascularización.  ¿Cuál de las siguientes es el enfoque terapéutico adecuado para este paciente?***
+#Masculino de 49 años procedente área rural dispersa quien consulta a Urgencias por cuadro clínico de fiebre alta y dolor abdominal progresivo de 2 semanas de evolución. Tiene historial de diabetes tipo 2 en manejo con metformina y antecedente de reacción anafiláctica a penicilinas. Al examen físico se encuentra lúcido, PA 120/80 mh, T 39.1 ºC, FC 100 lpm, murmullo vesicular ligeramente disminuido en base de hemitórax derecho, no agregados, dolor a la palpación en hipocondrio derecho, hepatomegalia por encima de reborde costal, sin signos de irritación peritoneal. Paraclínicos al ingreso: Hb 10.6, GB 19.000 (N: 87%), PCR 150 mg/dL, BT 0.66, FA 250, AST 260, ALT 400. Ecografía abdominal: volumen hepático aumentado de forma difusa con presencia de lesión heterogénea de contornos lobulados de 10 x 8 x 8 cm en lóbulo derecho, sin vascularización.  ¿Cuál de las siguientes es el enfoque terapéutico adecuado para este paciente?
 #A. Piperacilina tazobactam + metronidazol + drenaje percutáneo con tubo de drenaje
 #B. Ciprofloxacino + gentamicina + metronidazol + drenaje percutáneo sin tubo de drenaje
 #C. Meropenem + metronidazol + drenaje percutáneo con tubo de drenaje
@@ -20895,7 +20895,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Sepúlveda Bastilla, SM. Absceso hepático. Medellín: XX Curso de Actualización para Médicos Generales, ANIR; 2020.
     - Corrales. Enfoque del paciente con lesión hepática focal. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
 
-#Paciente masculino de 5 años es llevado a urgencias por dolor abdominal de 2 horas de evolución que inició tras la ingestión de frasco que contiene un líquido de limpieza para baño, asociado a varios episodios eméticos y odinofagia severa. Examen físico: FC 110 lpm, FR 27 rpm, SatO2 84%, sialorrea abundante, eritema en región epiglótica. Una radiografía de tórax es normal. El paciente se ingresa a UCI, en donde se realiza intubación orotraqueal + ventilación mecanica, y se retira toda la ropa contaminada.  ¿Cuál de las siguientes conductas también debe ser realizada en este paciente?***
+#Paciente masculino de 5 años es llevado a urgencias por dolor abdominal de 2 horas de evolución que inició tras la ingestión de frasco que contiene un líquido de limpieza para baño, asociado a varios episodios eméticos y odinofagia severa. Examen físico: FC 110 lpm, FR 27 rpm, SatO2 84%, sialorrea abundante, eritema en región epiglótica. Una radiografía de tórax es normal. El paciente se ingresa a UCI, en donde se realiza intubación orotraqueal + ventilación mecanica, y se retira toda la ropa contaminada.  ¿Cuál de las siguientes conductas también debe ser realizada en este paciente?
 #A.	Lavado gástrico
 #B.	 Esofagograma
 #C.	Endoscopia de vías altas en 6-12 horas
@@ -20909,7 +20909,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Salazar P. Quemaduras esofágicas: manejo agudo y seguimiento. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
 
-#Masculino de 32 años es llevado a urgencias luego de caer desde su propia altura sobre una roca. A su llegada el paciente tiene dolor intenso y taquipnea. Su FC es de 135 lpm, FR de 30 rpm y PA de 80/40 mm Hg. Hay una herida por el impacto de la caída en el cuarto espacio intercostal izquierdo en la línea axilar media. Se evidencia desviación de la tráquea a la derecha y ausencia de ruidos respiratorios en el pulmón izquierdo con matidez a la percusión. Las venas yugulares están colapsadas. Una radiografia de torax evidencia opacidad en hemitorax izquierdo y reducción de ángulo costofrenico.  ¿Cuál es el diagnóstico más probable?***
+#Masculino de 32 años es llevado a urgencias luego de caer desde su propia altura sobre una roca. A su llegada el paciente tiene dolor intenso y taquipnea. Su FC es de 135 lpm, FR de 30 rpm y PA de 80/40 mm Hg. Hay una herida por el impacto de la caída en el cuarto espacio intercostal izquierdo en la línea axilar media. Se evidencia desviación de la tráquea a la derecha y ausencia de ruidos respiratorios en el pulmón izquierdo con matidez a la percusión. Las venas yugulares están colapsadas. Una radiografia de torax evidencia opacidad en hemitorax izquierdo y reducción de ángulo costofrenico.  ¿Cuál es el diagnóstico más probable?
 #A.	Taponamiento cardiaco.
 #B.	Neumotórax a tensión.
 #C.	Hemotórax.
@@ -20928,7 +20928,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Arroyave Z. Trauma cerrado tórax y fractura costal. VI curso de actualización en cirugía general. Facultad de Medicina, Universidad de Antioquia. 2022.
 
 #Varón de 65 años, acude a consulta del programa de control. Tiene diagnóstico de EPOC sin historial de exacerbaciones agudas. A pesar de haber cesado el hábito de fumar, seguir al pie su tratamiento médico, aplicar una técnica de inhalación adecuada (vilanterol/fluticasona y bromuro de tiotropio) y participar activamente en el programa de rehabilitación pulmonar, persiste la disnea incluso con esfuerzos mínimos, lo que cual ha disminuido su calidad de vida. También refiere to mínima ocasional. Vacunación con influenza, neumococo y COVID-19 al día. Al examen físico presenta signos vítales estables, SatO2 94% a aire ambiente, murmullo vesicular disminuido en ambo campos. La prueba de caminata de 6 minutos muestra una SatO2 90% a aire ambiente y la espirometría una FEVI del 36% del predicho y una DLCO del 40 % del previsto. La Rx de tórax muestran signos claro de enfisema en lóbulo superior de ambos campos pulmonares.
-¿Cuál sería la conducta adecuada a seguir?***
+¿Cuál sería la conducta adecuada a seguir?
 #A. Ordenar oxigenoterapia crónica domiciliaria.
 #B. Programar para cirugía de reducción de volumen pulmonar
 #C. Iniciar antibioticoterapia profiláctica con levofloxacino por 4-8 semanas
@@ -20947,7 +20947,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     1. Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. 2023 GOLD Report.
 
 #Varón de 65 años, acude a consulta del programa control. Tiene antecedente de EPOC con FEV1/CVF posbroncodilatadora reducida y un FEV1 del 67% del previsto (diagnosticado hace 4 meses) e historial de fumador durante 40 años, cesando su uso hace 3 años. Refiere que aún continúa sintomático destacando aparición de disnea cuando camina rápido o camina calles inclinadas. No ha tenido episodios de exacerbaciones agudas. Actualmente se encuentra en manejo con indacaterol. Al examen físico presenta PA 130/70 mh, FR 19 rpm, SatO2 94% a aire ambiente, sibilancias espiratorias ocasionales, resto de examen físico normal. La Rx de tórax realizada hace cuatro meses muestra un diafragma aplanado. Analítica: hemoglobina: 12.2 g/dl; hematocrito: 36%; VCM: 81 fl; leucocitos: 8800/microl; (PMN: 63%; linfocitos: 13%; eosinófilos 1%), plaquetas: 250000/ microl.
-¿Cuál sería la conducta adecuada a seguir?***
+¿Cuál sería la conducta adecuada a seguir?
 #A. Iniciar oxigenoterapia crónica domiciliaria.
 #B. Iniciar vilanterol/fluticasona inhalado
 #C. Iniciar prednisona 60 mg/día por 7 días
@@ -20966,7 +20966,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     1. Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. 2023 GOLD Report.
 
 #Varón de 51 años, sin antecedentes de interés, remitido por aparición reciente de ‘’bulto’’ en zona anterior del cuello. Niega disfagia, disfonía, temblor distal, pérdida de peso u otra sintomatología. Al examen físico presenta signos vitales estables, presencia de nódulo bien delimitado de:  consistencia dura, no doloroso, desplazable, localizado a nivel de lóbulo tiroideo superior derecho, de aproximadamente 1.5 x 1.2 cm. Analítica: TSH 4.5 mUI/L (VR: 0.4- 5). Ecografía de tiroides: nódulo tiroideo sólido hipereocico de 16 mm, más alto que ancho, bordes mal definidos, categoría EU-TIRADS 3.
-¿Cuál sería la conducta adecuada a seguir en este paciente basados en las directrices de la guía europea 2023?***
+¿Cuál sería la conducta adecuada a seguir en este paciente basados en las directrices de la guía europea 2023?
 #A. Realizar seguimiento ecográfico del nódulo en 3 años
 #B. Realizar gammagrafía de tiroides
 #C. Realizar aspiración con aguja fina (ACAF)
@@ -20988,7 +20988,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     1. Durante C, Hegedus L, Czarniecka A, Paschke R, Russ G, Schmitt F, Soares P, Solymosi T, Papini E. 2023 European Thyroid Association clinical practice guidelines for thyroid nodule management. Eur Thyroid J. 2023 Jun 1:ETJ-23-0067
 
 #Varón de 31 años, con antecedente de reciente viaje al choco, quien consulta por fiebre alta y artralgias severas. Refiere que las artralgias iniciaron hace 5 días en articulaciones metacarpofalángicas, codos, topillos y metatarsofalángicas, eran leves, de predominio matutino y mejoraban con la administración de paracetamol. En las últimas horas inicia la fiebre y se intensifica el dolor articular. Al ingreso presenta T 38,9 °C, PA 120/70 mh, FC 110 lpm. Al examen físico se observa exantema de tipo maculopapular de distribución facial, tórax y miembros superiores, además de inyección conjuntival no supurativa bilateral. A nivel de las articulaciones referidas se objetiva tumefacción periarticular y dolor a la palpación. Laboratorios: Hb 13.2 g/dL Leucocitos 2.700/m3, N: 70%, L: 8%, PLT 190.000/m3, Cr 0.9 mg/dL.
-¿Cuál de las siguientes es la causa más probable de su cuadro clínico?***
+¿Cuál de las siguientes es la causa más probable de su cuadro clínico?
 #A. Virus Chikunguya
 #B. Virus Dengue
 #C. Artritis reactiva
@@ -21005,7 +21005,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     •Los síntomas y signos de la infección por virus Zika incluyen fiebre, exantema, cefalea, artralgia (menos intensa), mialgia y conjuntivitis. El chikungunya suele presentarse con fiebre más alta y dolor articular más intensa, aunque existe una superposición considerable en las manifestaciones clínicas.
 
 #Mujer de 35 años, sin antecedentes de interés, consulta por presentar en los últimos días hematoma con facilidad en extremidades superiores e inferiores. Al examen físico presenta PA 120/70 mh, FC 90 lpm, FR 16 rpm, tres áreas de equimosis en muslo derecho y hematoma de 2 x3 cm en antebrazo izquierdo, resto de examen físico normal. Laboratorios: Hb 13.5, VCM 88, leucocito 6000, PLT 38.000, Cr 0.9. El ESP es normal.
-¿Cuáles estudios diagnósticos de extensión solicitaría en este paciente?***
+¿Cuáles estudios diagnósticos de extensión solicitaría en este paciente?
 #A. Solicitar niveles de Vitamina B12
 #B. Solicitar anticuerpos antinucleares (ANA)
 #C. Solicitar test de Coomb directa
@@ -21019,7 +21019,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     •	La paciente tampoco presenta signos de hemólisis concurrente (nivel de hemoglobina normal, ESP normal), por lo que no es necesaria un test de coombs.
     •	La vitamina B12 es necesaria para una hematopoyesis normal. Sin embargo, la trombocitopenia aislada sería una manifestación inusual de esta deficiencia. El paciente tiene un recuento normal de leucocitos, y no se observan neutrófilos hipersegmentados en su frotis de sangre periférica, por lo que es poco probable que el déficit de B12 explique su trombocitopenia.
 
-#Emanuel, 6 años. Sin antecedentes patológicos. La madre refiere que el paciente ha presentado 3 episodios de amigdalitis en los últimos 3 años. Por lo demás, dice que el paciente se encuentra sano, ocasionalmente con enuresis. Niega síntomas respiratorios obstructivos nocturnos. Al examen físico, antropometría adecuada para la edad, con amígdalas no hipertróficas, sin signos inflamatorios. Neurológicamente, sin alteraciones. ¿Cuál es el paso a seguir?***
+#Emanuel, 6 años. Sin antecedentes patológicos. La madre refiere que el paciente ha presentado 3 episodios de amigdalitis en los últimos 3 años. Por lo demás, dice que el paciente se encuentra sano, ocasionalmente con enuresis. Niega síntomas respiratorios obstructivos nocturnos. Al examen físico, antropometría adecuada para la edad, con amígdalas no hipertróficas, sin signos inflamatorios. Neurológicamente, sin alteraciones. ¿Cuál es el paso a seguir?
 #A. Realizar amigdalectomía
 #B. Realizar adenoamigdalectomía
 #C. Solo seguimiento
@@ -21059,7 +21059,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Mitchell R; et al. Clinical Practice Guideline: Tonsillectomy in Children (Update)-Executive Summary. American Academy of Otolaryngology – Head and Neck Surgery. 2019.
     
 
-#Ángel, 8 años, es llevado por su madre al consultorio debido a dolor en los talones, de dos meses de evolución, que se ha empeorado en los últimos 3 días. Practica baloncesto en el colegio Al examen físico, se evidencia una marcha normal, se niega a realizar marcha en los talones. Se evidencia leve edema en ambos talones, con dolor a la palpación y a la dorsiflexión. ¿Cuál cree que es el diagnóstico?***
+#Ángel, 8 años, es llevado por su madre al consultorio debido a dolor en los talones, de dos meses de evolución, que se ha empeorado en los últimos 3 días. Practica baloncesto en el colegio Al examen físico, se evidencia una marcha normal, se niega a realizar marcha en los talones. Se evidencia leve edema en ambos talones, con dolor a la palpación y a la dorsiflexión. ¿Cuál cree que es el diagnóstico?
 #A. Tendinopatía del Aquiles
 #B. Apofisitis del calcáneo
 #C. Fascitis plantar
@@ -21075,7 +21075,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Achar S, Yamanaka J. Apophysitis and Osteochondrosis: Common Causes of Pain in Growing Bones. Am Fam Physician. 2019 May 15;99(10):610-618. PMID: 31083875.
     
 
-#Recién nacido a término por parto vaginal, de 37 semanas de gestación, sin controles prenatales. Presentó un apgar de 7 al nacer, con FC 144, FR 70, SatO2 84% al aire ambiente. Se evidencia una cara aplanada, retracciones intercostales y murmullo vesicular disminuido a la auscultación. El abdomen está distendido y se palpa una masa suprapúbica blanda, en la línea media. Se observa cianosis distal y pie equino varo bilateral. ¿Cuál de las siguientes es la causa subyacente más probable de la condición clínica de este paciente?***
+#Recién nacido a término por parto vaginal, de 37 semanas de gestación, sin controles prenatales. Presentó un apgar de 7 al nacer, con FC 144, FR 70, SatO2 84% al aire ambiente. Se evidencia una cara aplanada, retracciones intercostales y murmullo vesicular disminuido a la auscultación. El abdomen está distendido y se palpa una masa suprapúbica blanda, en la línea media. Se observa cianosis distal y pie equino varo bilateral. ¿Cuál de las siguientes es la causa subyacente más probable de la condición clínica de este paciente?
 #A. Valvas de uretra posterior
 #B. Taquipnea transitoria del recién nacido
 #C. Tumor de Wilms
@@ -21089,7 +21089,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Rosenblum N. Overview of congenital anomalies of the kidney and urinary tract (CAKUT). Mar, 2024. UpToDate.
     
 
-#Joaquín, 4 meses. Llevado a consulta de crecimiento y desarrollo. Nació a las 36 semanas de gestación, sin controles prenatales. Recibe lactancia materna exclusiva. Su hermana de 6 años tiene antecedentes de osteosarcoma. Al examen físico, se evidencia una desviación hacia adentro del ojo derecho. Se evidencia un reflejo blanco en el ojo derecho y un reflejo rojo en el ojo izquierdo. ¿Cuál de los siguientes es el próximo paso a seguir?***
+#Joaquín, 4 meses. Llevado a consulta de crecimiento y desarrollo. Nació a las 36 semanas de gestación, sin controles prenatales. Recibe lactancia materna exclusiva. Su hermana de 6 años tiene antecedentes de osteosarcoma. Al examen físico, se evidencia una desviación hacia adentro del ojo derecho. Se evidencia un reflejo blanco en el ojo derecho y un reflejo rojo en el ojo izquierdo. ¿Cuál de los siguientes es el próximo paso a seguir?
 #A. TAC de órbitas
 #B. Fundoscopia
 #C. Terapia oclusiva
@@ -21108,7 +21108,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Bibliografía recomendada: Roy SR, Kaliki S. Retinoblastoma: A Major Review. Mymensingh Med J. 2021 Jul;30(3):881-895. PMID: 34226484.
     
 
-#Sofía, 4 años. Llega a urgencias con su madre por tos y disnea leve desde hace 14 horas. Tiene antecedentes de asma y ha acudido en 4 ocasiones en los últimos seis meses a urgencias por exacerbaciones. Su hermana de 9 meses fue tratada por bronquiolitis hace una semana. Su padre tiene rinitis alérgica. Al examen físico, afebril y taquicárdica, con retracciones intercostales y subcostales leves, disminución del murmullo vesicular y sibilancias espiratorias en todo el campo pulmonar derecho. Se realiza una rx de tórax que muestra hiperlucidez del campo pulmonar derecho con disminución de las marcas pulmonares. De acuerdo a su sospecha clínica, ¿Cuál de los siguientes es el paso a seguir?***
+#Sofía, 4 años. Llega a urgencias con su madre por tos y disnea leve desde hace 14 horas. Tiene antecedentes de asma y ha acudido en 4 ocasiones en los últimos seis meses a urgencias por exacerbaciones. Su hermana de 9 meses fue tratada por bronquiolitis hace una semana. Su padre tiene rinitis alérgica. Al examen físico, afebril y taquicárdica, con retracciones intercostales y subcostales leves, disminución del murmullo vesicular y sibilancias espiratorias en todo el campo pulmonar derecho. Se realiza una rx de tórax que muestra hiperlucidez del campo pulmonar derecho con disminución de las marcas pulmonares. De acuerdo a su sospecha clínica, ¿Cuál de los siguientes es el paso a seguir?
 #A. Broncoscopia
 #B. Nebulizaciones con salbutamol
 #C. Epinefrina racémica
@@ -21128,7 +21128,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     -Tenenbaum T, Kähler G, Janke C, et al. Manejo de la extracción de cuerpo extraño en niños mediante broncoscopia flexible. J Broncología Interv Pulmonol 2017; 24:21.
     
 
-#Masculino de 72 años consulta para que usted le autorice la extracción de un molar. Tiene antecedente de HTA, DM-2, cardiopatía isquemia y reemplazo de válvula aórtica por estenosis aortica. Toma aspirina, warfarina, lisinopril, metformina, sitagliptina y atorvastatina. Sus signos vitales son normales. Al examen físico se ausculta soplo sistólico en foco aórtico. ¿Cuál es el manejo adecuado ante el procedimiento que se realizará este paciente?***
+#Masculino de 72 años consulta para que usted le autorice la extracción de un molar. Tiene antecedente de HTA, DM-2, cardiopatía isquemia y reemplazo de válvula aórtica por estenosis aortica. Toma aspirina, warfarina, lisinopril, metformina, sitagliptina y atorvastatina. Sus signos vitales son normales. Al examen físico se ausculta soplo sistólico en foco aórtico. ¿Cuál es el manejo adecuado ante el procedimiento que se realizará este paciente?
 #A.	Realizar un ecocardiograma antes del procedimiento.
 #B.	Suspender aspirina y warfarina 72 horas antes del procedimiento.
 #C.	Administrar amoxicilina 1 hora antes del procedimiento.
@@ -21146,7 +21146,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Guía ESC 2015 sobre el tratamiento de la endocarditis infecciosa.
 
-#Masculino de 31 años presenta cefalea y confusión progresiva desde hace 2 semanas. Tiene antecedente de infección por VIH y no tiene buena adherencia a tratamiento antirretroviral. Tampoco ha recibido manejo profiláctico. Signos vitales: temp. de 38°C, PA de 118/80 mmHg y FC de 102 lpm. Al examen físico el paciente se ve descuidado y desorientado. Hay ataxia y hemiparesia derecha. Una RM de cerebro evidencia lesiones con realce anular. ¿Cuál de los siguientes medicamentos hubiera prevenido la condición actual de este paciente?***
+#Masculino de 31 años presenta cefalea y confusión progresiva desde hace 2 semanas. Tiene antecedente de infección por VIH y no tiene buena adherencia a tratamiento antirretroviral. Tampoco ha recibido manejo profiláctico. Signos vitales: temp. de 38°C, PA de 118/80 mmHg y FC de 102 lpm. Al examen físico el paciente se ve descuidado y desorientado. Hay ataxia y hemiparesia derecha. Una RM de cerebro evidencia lesiones con realce anular. ¿Cuál de los siguientes medicamentos hubiera prevenido la condición actual de este paciente?
 #A.	Albendazol.
 #B.	Fluconazol.
 #C.	Ganciclovir.
@@ -21160,7 +21160,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Basavaraju A. Toxoplasmosis in HIV infection: An overview. Trop Parasitol. 2016 Jul-Dec;6(2):129-135.
 
-#Masculino de 72 años consulta por dolor intenso en su pierna izquierda que inició con sensación de hormigueo hace varias horas, pero que desde entonces se ha vuelto doloroso. Tiene antecedente de HTA, DM2, FA paroxística y osteoartritis. Fue fumador de 45 paquetes-año. Signos vitales: PA de 142/80 mmHg y FC de 112 lpm e irregular. Al examen físico, la piel de la extremidad inferior izquierda aparece moteada y fría al tacto. Los pulsos distales de la pierna izquierda no son palpables. ¿Qué medicamento prevendría la condición actual de este paciente?***
+#Masculino de 72 años consulta por dolor intenso en su pierna izquierda que inició con sensación de hormigueo hace varias horas, pero que desde entonces se ha vuelto doloroso. Tiene antecedente de HTA, DM2, FA paroxística y osteoartritis. Fue fumador de 45 paquetes-año. Signos vitales: PA de 142/80 mmHg y FC de 112 lpm e irregular. Al examen físico, la piel de la extremidad inferior izquierda aparece moteada y fría al tacto. Los pulsos distales de la pierna izquierda no son palpables. ¿Qué medicamento prevendría la condición actual de este paciente?
 #A.	Apixaban.
 #B.	Aspirina.
 #C.	Clopidogrel.
@@ -21174,7 +21174,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Gándara R. Fibrilación auricular ¿cómo, cuándo y con qué anticoagular? Medellín: XXI Actualización en Medicina Interna. Universidad de Antioquía. 2021
 
-#Masculino de 35 años consulta a urgencias por dolor en hemitórax derecho de intensidad 8/10. El paciente se encuentra ansioso, agitado y diaforético. Signos vitales: T°: 37.1°C, PA: 165/92 mh, FC: 130 lpm, FR: 21 rpm. A la exploración física destacan pupilas midriáticas y mucosa nasal atrófica. De resto el examen físico es anodino. Un electrocardiograma evidencia depresión del segmento ST e inversión de la onda T en las derivaciones V4-V6.  Dentro de los paraclínicos las troponinas son negativas. Y la radiografía de tórax es normal.  ¿Cuál de los siguientes es el tratamiento más adecuado?***
+#Masculino de 35 años consulta a urgencias por dolor en hemitórax derecho de intensidad 8/10. El paciente se encuentra ansioso, agitado y diaforético. Signos vitales: T°: 37.1°C, PA: 165/92 mh, FC: 130 lpm, FR: 21 rpm. A la exploración física destacan pupilas midriáticas y mucosa nasal atrófica. De resto el examen físico es anodino. Un electrocardiograma evidencia depresión del segmento ST e inversión de la onda T en las derivaciones V4-V6.  Dentro de los paraclínicos las troponinas son negativas. Y la radiografía de tórax es normal.  ¿Cuál de los siguientes es el tratamiento más adecuado?
 #A.	Iniciar terapia trombolítica.
 #B.	Dejar en observación e iniciar metoprolol IV.
 #C.	Llevar a cateterismo urgente.
@@ -21189,7 +21189,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Lewis S Nelson. Oladapo Odujebe. Cocaine: Acute intoxication. Disponible en Uptodate Advanced 2024.
 
-#Masculino de 51 años, sin antecedentes de interés, consulta a urgencias por dolor torácico muy intenso de inicio abrupto hace 2 horas. Niega otros síntomas asociados.  Refiere que su padre murió de un IAM a los 55 años. El paciente se evidencia pálido y diaforético. Signos vitales: T°: 36.9°C, PA: 179/105 mmHg, FC 110 lpm, FR 18 rpm. Al examen físico los pulsos radiales se encuentran disminuidos, ruidos cardiacos rítmicos, murmullo vesicular conservado. Un electrocardiograma evidencia taquicardia sinusal, con aumento del voltaje del QRS en varias derivaciones e inversión de la onda T en las derivaciones V5 y V6. Se realiza una TAC de tórax muestra signos compatibles con disección de aorta tipo A según clasificación de Stanford. Se inicia analgesia, ¿Cuál de los siguientes tratamientos debe recibir de forma inmediata este paciente?***
+#Masculino de 51 años, sin antecedentes de interés, consulta a urgencias por dolor torácico muy intenso de inicio abrupto hace 2 horas. Niega otros síntomas asociados.  Refiere que su padre murió de un IAM a los 55 años. El paciente se evidencia pálido y diaforético. Signos vitales: T°: 36.9°C, PA: 179/105 mmHg, FC 110 lpm, FR 18 rpm. Al examen físico los pulsos radiales se encuentran disminuidos, ruidos cardiacos rítmicos, murmullo vesicular conservado. Un electrocardiograma evidencia taquicardia sinusal, con aumento del voltaje del QRS en varias derivaciones e inversión de la onda T en las derivaciones V5 y V6. Se realiza una TAC de tórax muestra signos compatibles con disección de aorta tipo A según clasificación de Stanford. Se inicia analgesia, ¿Cuál de los siguientes tratamientos debe recibir de forma inmediata este paciente?
 #A.	Nitroprusiato.
 #B.	Hidralazina.
 #C.	Hidroclorotiazida.
@@ -21210,7 +21210,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Giraldo J. Síndrome aórtico agudo. VIII Simposio Medicina de Urgencias. 2020
 
-#Femenina de 24 años consulta porque tuvo relaciones sexuales hace 2 días con su pareja sin métodos anticonceptivos. Refiere que no desea quedar embarazada en este momento ya que se encuentra a 6 meses de terminar sus estudios universitarios, pero que le gustaría concebir una vez se gradúe. No hay alteraciones en su menstruación. Refiere alergia a metales de joyería. La prueba de embarazo es negativa. ¿Cuál es el manejo inmediato adecuado para esta paciente?***
+#Femenina de 24 años consulta porque tuvo relaciones sexuales hace 2 días con su pareja sin métodos anticonceptivos. Refiere que no desea quedar embarazada en este momento ya que se encuentra a 6 meses de terminar sus estudios universitarios, pero que le gustaría concebir una vez se gradúe. No hay alteraciones en su menstruación. Refiere alergia a metales de joyería. La prueba de embarazo es negativa. ¿Cuál es el manejo inmediato adecuado para esta paciente?
 #A.	Colocar un dispositivo intrauterino de cobre.
 #B.	Colocar un dispositivo intrauterino de progestágenos.
 #C.	Administrar acetato de ulipristal.
@@ -21227,7 +21227,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Zuleta T. Abordaje de los mitos en anticoncepción. XXXI Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
 
-#Paciente femenina de 19 años, G1P0, sin control prenatal, quien cursa con 24 sem de gestación. Tiene dolor abdominal en hemiabdomen derecho desde hace 2 días asociados a náuseas e inapetencia. Refiere contracciones no dolorosas, sin hemorragia ni flujo. Signos vitales: T 39°C, PA 116/70 mmHg y FC 120/min. Al examen físico hay dolor en flanco derecho, sin irritación peritoneal. Al tacto vaginal el cervix está cerrado y membranas íntegras. ¿Cuál es el diagnóstico más probable?***
+#Paciente femenina de 19 años, G1P0, sin control prenatal, quien cursa con 24 sem de gestación. Tiene dolor abdominal en hemiabdomen derecho desde hace 2 días asociados a náuseas e inapetencia. Refiere contracciones no dolorosas, sin hemorragia ni flujo. Signos vitales: T 39°C, PA 116/70 mmHg y FC 120/min. Al examen físico hay dolor en flanco derecho, sin irritación peritoneal. Al tacto vaginal el cervix está cerrado y membranas íntegras. ¿Cuál es el diagnóstico más probable?
 #A.	Torsión ovárica.
 #B.	Infección intraamniótica.
 #C.	Apendicitis aguda.
@@ -21245,7 +21245,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Quinceno C. Abordaje inicial del abdomen agudo ginecológico. XXXI Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
 
-#Paciente femenina de 28 años, G3P2 en semana 36 de gestación de feto en cefálico con diagnóstico de polihidramnios y PFE de 2500gr, ingresa a urgencias por inicio de contracciones uterinas hace 2 horas. Al tacto vaginal se encontró dilatación de 5 cm, 100% de borramiento cervical y un estadio De Lee de -1. Se realizó una monitorización fetal que reportó FCF de 145 lpm con desaceleraciones variables. Cinco minutos más tarde, tras la rotura espontánea de membranas, la frecuencia cardíaca fetal es de 60/min y el tacto vaginal evidenció un cordón grueso y pulsante, por lo que se inician medidas de reanimación in Útero, con posterior FCF de 80 lpm. ¿Cuál es la conducta a seguir?***
+#Paciente femenina de 28 años, G3P2 en semana 36 de gestación de feto en cefálico con diagnóstico de polihidramnios y PFE de 2500gr, ingresa a urgencias por inicio de contracciones uterinas hace 2 horas. Al tacto vaginal se encontró dilatación de 5 cm, 100% de borramiento cervical y un estadio De Lee de -1. Se realizó una monitorización fetal que reportó FCF de 145 lpm con desaceleraciones variables. Cinco minutos más tarde, tras la rotura espontánea de membranas, la frecuencia cardíaca fetal es de 60/min y el tacto vaginal evidenció un cordón grueso y pulsante, por lo que se inician medidas de reanimación in Útero, con posterior FCF de 80 lpm. ¿Cuál es la conducta a seguir?
 #A.	Parto vaginal Instrumentalizado.
 #B.	Parto por cesárea.
 #C.	Reposición manual del cordón umbilical.
@@ -21264,7 +21264,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Boushra M, Stone A, Rathbun KM. Umbilical Cord Prolapse. Available in: Stat Pearl.2023.
     - Velásquez M. Alteraciones del líquido amniótico y patología fetal del segundo y tercer trimestre: ¿cómo realizar un abordaje práctico?. XXXI Curso de Actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
 
-#Femenina de 26 años, G1P0 y un aborto espontáneo e incompleto a las 12 semanas de gestación que se manejó con dilatación y legrado, consultó por amenorrea de 7 meses de evolución con previos ciclos menstruales irregulares y sangrado intermenstrual. Su menarquía fue a los 12 años. Signos vitales normales. Al examen físico IMC de 29, sin hallazgos anormales, con caracteres sexuales secundarios presentes. Paraclínicos que reportan Prolactina, FSH, TSH normales y prueba de embarazo negativa. ¿Cuál de las siguientes es la conducta adecuada?***
+#Femenina de 26 años, G1P0 y un aborto espontáneo e incompleto a las 12 semanas de gestación que se manejó con dilatación y legrado, consultó por amenorrea de 7 meses de evolución con previos ciclos menstruales irregulares y sangrado intermenstrual. Su menarquía fue a los 12 años. Signos vitales normales. Al examen físico IMC de 29, sin hallazgos anormales, con caracteres sexuales secundarios presentes. Paraclínicos que reportan Prolactina, FSH, TSH normales y prueba de embarazo negativa. ¿Cuál de las siguientes es la conducta adecuada?
 #A. Terapia anticonceptiva oral
 #B. Reto con acetato de medroxiprogesterona
 #C. Terapia con gonadotropinas
@@ -21282,7 +21282,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Aristizábal J. Amenorrea. Medellín. XXXI Curso de actualización en Ginecología y Obstetricia. Universidad de Antioquia. 2023
 
-#Femenina de 27 años, con antecedente de menarquía a los 14 años y FUM de hace 3 semanas y menstruaciones regulares, asiste a cita para realizarse un examen pélvico anual y una prueba de Papanicolaou; sin embargo, refiere dolor sordo en fosa iliaca derecha. Signos vitales dentro de rangos normales. Al examen físico, dolor abdominal a la palpación profunda en fosa iliaca izquierda, sin otro hallazgo anormal. Se realizó una prueba de embarazo en orina negativa y una ecografía de la pelvis evidenció un quiste unilocular lleno de líquido de 5 cm de paredes delgadas sin componentes sólidos en el ovario izquierdo. ¿Cuál de los siguientes es la causa más probable de su cuadro clínico?***
+#Femenina de 27 años, con antecedente de menarquía a los 14 años y FUM de hace 3 semanas y menstruaciones regulares, asiste a cita para realizarse un examen pélvico anual y una prueba de Papanicolaou; sin embargo, refiere dolor sordo en fosa iliaca derecha. Signos vitales dentro de rangos normales. Al examen físico, dolor abdominal a la palpación profunda en fosa iliaca izquierda, sin otro hallazgo anormal. Se realizó una prueba de embarazo en orina negativa y una ecografía de la pelvis evidenció un quiste unilocular lleno de líquido de 5 cm de paredes delgadas sin componentes sólidos en el ovario izquierdo. ¿Cuál de los siguientes es la causa más probable de su cuadro clínico?
 #A. Quiste folicular
 #B. Quiste del cuerpo lúteo
 #C. Endometrioma
@@ -21300,7 +21300,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
     - Córdoba C. Masas anexiales. Medellín. XXX Curso de actualización en ginecología y obstetricia. Universidad de Antioquia. 2022
 
-#Bianka de 4 años de edad, sin antecedentes médicos de importancia, es llevada a urgencias por sus padres por cuadro clínico de 3 semanas de evolución, consiste en astenia y adinamia, junto con aparición de hematomas con facilidad. Además, su madre comentó que durante la última semana ha cursado con cuadros febriles objetivos y dolor en extremidades inferiores de predominio nocturno. Signos vitales T° de  38,3 °C, FC de 120 lpm y FR de 30 rpm. Al examen físico se encontró adenopatía cervical y axilar, con ganglios indoloros, adheridos a planos profundos. El abdomen blando, no doloroso, se palpa un hígado 5 cm por debajo del margen costal derecho y el bazo 3 cm por debajo del margen costal izquierdo. Los paraclínicos reportan Hb en 10.1 g/dl, leucocitos 63.000 mm³, plaquetas 27.000. Un aspirado de médula ósea reportó predominio de células inmaduras que se tiñen positivamente para CD10, CD19 y desoxinucleotidil transferasa terminal (TdT). ¿Cuál de los siguientes es el diagnóstico más probable?***
+#Bianka de 4 años de edad, sin antecedentes médicos de importancia, es llevada a urgencias por sus padres por cuadro clínico de 3 semanas de evolución, consiste en astenia y adinamia, junto con aparición de hematomas con facilidad. Además, su madre comentó que durante la última semana ha cursado con cuadros febriles objetivos y dolor en extremidades inferiores de predominio nocturno. Signos vitales T° de  38,3 °C, FC de 120 lpm y FR de 30 rpm. Al examen físico se encontró adenopatía cervical y axilar, con ganglios indoloros, adheridos a planos profundos. El abdomen blando, no doloroso, se palpa un hígado 5 cm por debajo del margen costal derecho y el bazo 3 cm por debajo del margen costal izquierdo. Los paraclínicos reportan Hb en 10.1 g/dl, leucocitos 63.000 mm³, plaquetas 27.000. Un aspirado de médula ósea reportó predominio de células inmaduras que se tiñen positivamente para CD10, CD19 y desoxinucleotidil transferasa terminal (TdT). ¿Cuál de los siguientes es el diagnóstico más probable?
 #A. Una reacción leucemoide
 #B. Un linfoma Hodgkin
 #C. Leucemia mieloide aguda
@@ -21317,7 +21317,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Lectura recomendada:- Puckett Y, Chan O. Acute Lymphocytic Leukemia. Available in StatPearls.2024
     
 
-#Angela de 33 años, con antecedente de consumo de cigarrillo con IPA de 14 y antecedente familiar de madre que falleció por un IAM a los 60 años, consultó a urgencias por 2 horas de evolución de palpitaciones de forma intermitente. Refiere que cada episodio ha tenido una duración de 10 minutos. No refiere ningún dolor torácico. Signos vitales T° de 37,0 °C, FC de 190 lpm, PA de 104/76 mm/Hg. Al examen físico murmullo vesicular conservado. Auscultación cardíaca sin soplos, ni fricciones, ni galopes. Se realiza un electrocardiograma (Anexa foto en la parte de abajo). ¿Cuál es la conducta inicial adecuada a seguir?***
+#Angela de 33 años, con antecedente de consumo de cigarrillo con IPA de 14 y antecedente familiar de madre que falleció por un IAM a los 60 años, consultó a urgencias por 2 horas de evolución de palpitaciones de forma intermitente. Refiere que cada episodio ha tenido una duración de 10 minutos. No refiere ningún dolor torácico. Signos vitales T° de 37,0 °C, FC de 190 lpm, PA de 104/76 mm/Hg. Al examen físico murmullo vesicular conservado. Auscultación cardíaca sin soplos, ni fricciones, ni galopes. Se realiza un electrocardiograma (Anexa foto en la parte de abajo). ¿Cuál es la conducta inicial adecuada a seguir?
     
     ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2022.png)
     
@@ -21337,7 +21337,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Lectura recomendada:- Hafeez Y, Armstrong TJ. Atrioventricular Nodal Reentry Tachycardia. Available in StatPearls. 2024
     
 
-#Ofelia de 54 años, con antecedente de  obesidad grado II por IMC de 34 kg/m². Consultó por astenia, adinamia y pérdida intencional de peso en los últimos 3 meses, comentó perder 10 kg aproximadamente. Signos vitales: T° 36,9 C°, la PA  de 120/80 mm/Hg y FC de 80 lpm. Al examen físico, abdomen blando, no doloroso, con matidez desplazable a la percusión, hay hepatomegalia y un nódulo hepático palpable. Tiene edema grado II con fóvea de forma bilateral en miembros inferiores. Paraclínicos con: Hb 11,6, Plaquetas 120.000, Leucocitos 9.000, Albúmina 2,5 g/dL, Bilirrubina total 2,3 mg/dL, FA 370, U/L, AST 154 U/L, ALT134 U/L y Alfafetoproteína sérica 12 ng/mL. ¿Cuál es el diagnóstico más probable?***
+#Ofelia de 54 años, con antecedente de  obesidad grado II por IMC de 34 kg/m². Consultó por astenia, adinamia y pérdida intencional de peso en los últimos 3 meses, comentó perder 10 kg aproximadamente. Signos vitales: T° 36,9 C°, la PA  de 120/80 mm/Hg y FC de 80 lpm. Al examen físico, abdomen blando, no doloroso, con matidez desplazable a la percusión, hay hepatomegalia y un nódulo hepático palpable. Tiene edema grado II con fóvea de forma bilateral en miembros inferiores. Paraclínicos con: Hb 11,6, Plaquetas 120.000, Leucocitos 9.000, Albúmina 2,5 g/dL, Bilirrubina total 2,3 mg/dL, FA 370, U/L, AST 154 U/L, ALT134 U/L y Alfafetoproteína sérica 12 ng/mL. ¿Cuál es el diagnóstico más probable?
 #A. Hiperplasia nodular focal
 #B. Adenoma hepático
 #C. Carcinoma Hepatocelular
@@ -21354,7 +21354,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Lectura recomendada: - Reig M, Forner A, et all. Diagnóstico y tratamiento del carcinoma hepatocelular. Actualización del documento de consenso de la AEEH y otros. Disponible en ElSevier 2021.
     
 
-#Hernán de 76 años, con antecedente de hipertensión arterial, DM2, gota y consumo de cigarrillo con un IPA de 30 (dejó de fumar hace 5 años). Consultó para seguimiento postoperatorio de 6 meses, de cirugía de derivación de las arterias coronarias (no tuvo complicaciones) por enfermedad coronaria. El paciente refiere que el dolor torácico de esfuerzos se ha resuelto por completo posterior a la cirugía. No informa palpitaciones, disnea, ni síncope. Al examen físico, pulso irregular. La incisión quirúrgica del tórax está bien cicatrizada. Auscultación cardiopulmonar sin soplos. No hay edema periférico. Se realiza un electrocardiograma de control que evidencia lo siguiente (se anexa foto en la parte de abajo). ¿Cuál es la conducta de manejo adecuada para este paciente?***
+#Hernán de 76 años, con antecedente de hipertensión arterial, DM2, gota y consumo de cigarrillo con un IPA de 30 (dejó de fumar hace 5 años). Consultó para seguimiento postoperatorio de 6 meses, de cirugía de derivación de las arterias coronarias (no tuvo complicaciones) por enfermedad coronaria. El paciente refiere que el dolor torácico de esfuerzos se ha resuelto por completo posterior a la cirugía. No informa palpitaciones, disnea, ni síncope. Al examen físico, pulso irregular. La incisión quirúrgica del tórax está bien cicatrizada. Auscultación cardiopulmonar sin soplos. No hay edema periférico. Se realiza un electrocardiograma de control que evidencia lo siguiente (se anexa foto en la parte de abajo). ¿Cuál es la conducta de manejo adecuada para este paciente?
     
     ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2023.png)
     
@@ -21374,7 +21374,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Lectura recomendada:- Gándara J.Patrones electrocardiográficos de alto riesgo. Medellín: VII Simposio de medicina de urgencias. Asociación nacional de internos y residentes regional Antioquia (ANIR) 2019
     
 
-#Luis David de 68 años con antecedente de hipercolesterolemia en manejo con atorvastatina de 40 mg y diabetes mellitus tipo 2 no insulino requiriente, consultó por cuadro clínico de 2 horas de evolución, caracterizado por dolor esternal de carácter opresivo de intensidad 8/10 en la EAD, asociado a diaforesis y náuseas. Comentó que el dolor inició de forma súbita mientras el paciente veía Netflix. Signos vitales con FC de 80 lpm, PA de 128/84 mm/Hg, FR de 22 rpm. Al examen físico, paciente con abundante panículo adiposo, murmullo vesicular conservado, sin agregados, con ruidos cardiacos rítmicos, sin agregados. Se realiza un electrocardiograma inicial el cual no evidencia anormalidades y se mide troponinas ultrasensibles, las cuales están aumentadas 6 veces el valor de referencia. A los 25 minutos de ingresado el paciente refiere aumento del dolor, se repite el electrocardiograma (anexa foto abajo). ¿Cuál es la conducta adecuada a seguir?***
+#Luis David de 68 años con antecedente de hipercolesterolemia en manejo con atorvastatina de 40 mg y diabetes mellitus tipo 2 no insulino requiriente, consultó por cuadro clínico de 2 horas de evolución, caracterizado por dolor esternal de carácter opresivo de intensidad 8/10 en la EAD, asociado a diaforesis y náuseas. Comentó que el dolor inició de forma súbita mientras el paciente veía Netflix. Signos vitales con FC de 80 lpm, PA de 128/84 mm/Hg, FR de 22 rpm. Al examen físico, paciente con abundante panículo adiposo, murmullo vesicular conservado, sin agregados, con ruidos cardiacos rítmicos, sin agregados. Se realiza un electrocardiograma inicial el cual no evidencia anormalidades y se mide troponinas ultrasensibles, las cuales están aumentadas 6 veces el valor de referencia. A los 25 minutos de ingresado el paciente refiere aumento del dolor, se repite el electrocardiograma (anexa foto abajo). ¿Cuál es la conducta adecuada a seguir?
     
     ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%203.jpeg)
     
@@ -21392,7 +21392,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Lectura recomendada: - Robert A Byne; et all. Guidelines for the management of acute coronary syndrome. Developed by the task force on the management of acute coronary syndrome of the European Society of Cardiology (ESC). Available in European Heart Journal 2023.
     
 
-#Laura de 25 años, G1P0 con 42 semanas de gestación, y alergia a la penicilina, sin otro antecedente médico de importancia, ingresa a urgencias por trabajo de parto en expulsivo, por lo que se decide atender el parto en una camilla de urgencias. Se ubica a la paciente en posición de litotomía, y se atiende el parto, naciendo a los 8 minutos paciente masculino de 4000 gramos, el cual tuvo adecuada adaptación neonatal; sin más embargo, al evaluar cavidad vaginal de Laura durante el alumbramiento de placenta se encuentra un desgarro medial que compromete músculos del periné y un 30% del esfínter anal externo, sin compromiso del esfínter anal internó ni compromiso de mucosa rectal. Aparte de iniciar reparación quirúrgica y solicitar valoración por ginecología. ¿Cuál es la conducta adecuada a seguir para el manejo del desgarro de esta paciente?***
+#Laura de 25 años, G1P0 con 42 semanas de gestación, y alergia a la penicilina, sin otro antecedente médico de importancia, ingresa a urgencias por trabajo de parto en expulsivo, por lo que se decide atender el parto en una camilla de urgencias. Se ubica a la paciente en posición de litotomía, y se atiende el parto, naciendo a los 8 minutos paciente masculino de 4000 gramos, el cual tuvo adecuada adaptación neonatal; sin más embargo, al evaluar cavidad vaginal de Laura durante el alumbramiento de placenta se encuentra un desgarro medial que compromete músculos del periné y un 30% del esfínter anal externo, sin compromiso del esfínter anal internó ni compromiso de mucosa rectal. Aparte de iniciar reparación quirúrgica y solicitar valoración por ginecología. ¿Cuál es la conducta adecuada a seguir para el manejo del desgarro de esta paciente?
 #A. Administración de cefuroxime 500 mg intravenosos dosis única
 #B. Indica gentamicina 240 mg intravenosos + metronidazol 500 mg intravenosos dosis única
 #C. Ordena  gentamicina 240 mg intravenosos cada 24 horas + metronidazol 500 mg cada 8 horas, por 7 días
@@ -21410,7 +21410,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Trauma obstétrico perianal. Ardila A. Medellín. XXX Curso de actualización en ginecología y obstetricia. Universidad de Antioquia 2020.
     
 
-#Valentina primigestante de 36 años, con 33 semanas de gestación y antecedente hace tres años de una pielonefritis. Consultó ahora por disuria de una semana de evolución acompañada de escalofríos y adinamia, junto a polaquiuria de 4 meses de evolución, refiere contracciones intermitentes no dolorosas. Signos vitales de Tº 38.1 ºC, PA 110/60 mm Hg y FC 110 lpm, altitud uterina de 30 cm y FCF de 175 lpm con presencia de movimiento fetal. Dolor a palpación en ángulo costovertebral derecho, útero no doloroso y cuello uterino cerrado. El uroanálisis reporta esterasa positiva, piuria y hematuria, pendiente urocultivo. ¿Cuál de las siguientes medidas es la adecuada para esta paciente?***
+#Valentina primigestante de 36 años, con 33 semanas de gestación y antecedente hace tres años de una pielonefritis. Consultó ahora por disuria de una semana de evolución acompañada de escalofríos y adinamia, junto a polaquiuria de 4 meses de evolución, refiere contracciones intermitentes no dolorosas. Signos vitales de Tº 38.1 ºC, PA 110/60 mm Hg y FC 110 lpm, altitud uterina de 30 cm y FCF de 175 lpm con presencia de movimiento fetal. Dolor a palpación en ángulo costovertebral derecho, útero no doloroso y cuello uterino cerrado. El uroanálisis reporta esterasa positiva, piuria y hematuria, pendiente urocultivo. ¿Cuál de las siguientes medidas es la adecuada para esta paciente?
 #A. Nitrofurantoína vía oral 100 mg cada 12 horas durante 7 días
 #B. No se indica manejo antibiótico
 #C. Aztreonam 0.1 gramos endovenosos cada 8 horas durante las primeras 48 horas
@@ -21427,7 +21427,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Enrique O. Infección de tracto urinario en el embarazo. XX Curso de Actualización para Médicos Generales, ANIR, 2020.
     
 
-#Maria Clara de 27 años sana, con antecedente de infección por N.gonorrhoeae no complicada tratada con ceftriaxona hace 4 años, es sexualmente activa con dos parejas sexuales masculinas y usa métodos de barrera constantemente. Consulta ahora para valoración anual de mantenimiento de la salud. Signos vitales Tº 37,0 ºC, FC 75 lpm, PA 105/75 mm Hg. Al examen físico, masa móvil única, de 2 cm de diámetro, no dolorosa, en el vestíbulo inferior de la vagina. La especuloscopia no evidencia anormalidades. ¿Cuál es el manejo adecuado para esta paciente?***
+#Maria Clara de 27 años sana, con antecedente de infección por N.gonorrhoeae no complicada tratada con ceftriaxona hace 4 años, es sexualmente activa con dos parejas sexuales masculinas y usa métodos de barrera constantemente. Consulta ahora para valoración anual de mantenimiento de la salud. Signos vitales Tº 37,0 ºC, FC 75 lpm, PA 105/75 mm Hg. Al examen físico, masa móvil única, de 2 cm de diámetro, no dolorosa, en el vestíbulo inferior de la vagina. La especuloscopia no evidencia anormalidades. ¿Cuál es el manejo adecuado para esta paciente?
 #A. Realizar manejo expectante.
 #B. Indicar realizar biopsia de la masa.
 #C. Proceder a realizar escisión quirúrgica.
@@ -21446,7 +21446,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Katherine T Chen, MD, MPH. Bartholin gland masses. Available in UpToDate 2024.
     
 
-#Sara de 25 años, con antecedente de vida sexual activa con una pareja masculina con uso de métodos de barrera de forma consistente. Consulta ahora por 1 día de inflamación dolorosa en labio menor izquierdo de la vagina, acompañado de dolor al sentarse, al caminar y dispareunia. Signos vitales Tº de  37,9 °C, FC de 90 lpm y PA de 120/80 mm/Hg. Al examen físico, masa sensible y fluctuante rodeada de edema y eritema en el labio menor izquierdo. El resto del examen no evidencia anormalidades. ¿Cuál es el manejo adecuado para esta paciente?***
+#Sara de 25 años, con antecedente de vida sexual activa con una pareja masculina con uso de métodos de barrera de forma consistente. Consulta ahora por 1 día de inflamación dolorosa en labio menor izquierdo de la vagina, acompañado de dolor al sentarse, al caminar y dispareunia. Signos vitales Tº de  37,9 °C, FC de 90 lpm y PA de 120/80 mm/Hg. Al examen físico, masa sensible y fluctuante rodeada de edema y eritema en el labio menor izquierdo. El resto del examen no evidencia anormalidades. ¿Cuál es el manejo adecuado para esta paciente?
 #A. Realizar baños de asiento.
 #B. Realizar Incisión y drenaje de la lesión
 #C. Realizar marsupialización.
@@ -21465,7 +21465,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     Katherine T Chen, MD, MPH. Bartholin gland masses. Available in UpToDate 2024.
     
 
-#Carolina de 26 años junto con su hijo, un recién nacido a término con peso de 4670 gr y apgar 9-10, producto de un trabajo de parto prolongado. El menor con signos vitales dentro de rangos normales. Al examen físico en sala de partos, el recién nacido tiene edema, sensibilidad y crepitación sobre la clavícula izquierda. El movimiento de las manos y muñecas es normal, el reflejo de prensión es normal en ambas manos, el reflejo de Moro es asimétrico. El resto del examen no muestra anormalidades. Ya se solicitó radiografía. ¿Cuál es el manejo adecuado para esta paciente?***
+#Carolina de 26 años junto con su hijo, un recién nacido a término con peso de 4670 gr y apgar 9-10, producto de un trabajo de parto prolongado. El menor con signos vitales dentro de rangos normales. Al examen físico en sala de partos, el recién nacido tiene edema, sensibilidad y crepitación sobre la clavícula izquierda. El movimiento de las manos y muñecas es normal, el reflejo de prensión es normal en ambas manos, el reflejo de Moro es asimétrico. El resto del examen no muestra anormalidades. Ya se solicitó radiografía. ¿Cuál es el manejo adecuado para esta paciente?
 #A. Estudio de conducción nerviosa.
 #B. Fijación manga a la camisa
 #C. Terapia física
@@ -21485,7 +21485,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
 
 #Thomas, 2 meses, sin antecedentes de interés. Es traído a la consulta porque la madre refiere que en los últimos días ha observado que el paciente se cansa, se pone ‘’azul’’ y presenta sudoración excesiva durante las tomas de lactancia materna. Al examen físico, se evidencia taquipnea con leve tiraje subcostal, adecuada saturación a aire ambiente y un soplo pansistólico grado 3/6 audible en múltiples focos, con máxima intensidad a nivel del 3er-4to espacio intercostal izquierdo. Se realizó un electrocardiograma con evidencia de patrón de bloqueo incompleto de rama derecha.
-¿Cuál considera es el diagnóstico más probable en este paciente?***
+¿Cuál considera es el diagnóstico más probable en este paciente?
 #A. Comunicación interventricular
 #B. Comunicación interauricular
 #C. Transposición de grandes vasos
@@ -21506,7 +21506,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Equipo académico Grupo AMIR. Cardiología y cirugía cardiovascular-Cardiopatías congénitas. 16 Ed. Manual AMIR de Pediatría. 2022
 
 #Andrés de 12 años, es traído al servicio de Urgencias llevado por su madre, refiriendo cefalea, escalofríos, fiebre y odinofagia desde hace aproximadamente 2 días. La madre dice que ha estado muy hiporéxico. Signos vitales normales, con evidencia de lengua roja con exudados amigdalares, además de un brote palpable, más marcado en regiones flexoras.
-¿Cuál de las siguientes afirmaciones es verdadera?***
+¿Cuál de las siguientes afirmaciones es verdadera?
 #A. Se pueden hacer test rápidos de detección del patógeno en faringe.
 #B. Solo requiere manejo sintomático
 #C. Puede en ocasiones requerir antibioticoterapia
@@ -21526,7 +21526,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     -Pichichero M. Complications of streptococcal tonsillopharyngitis, Jul 2023. UpToDate 2023.
     
 
-#Sara tiene 1 año. Es traída al servicio de urgencias por sus padres por presentar desde hace aproximadamente 8 horas, 5 deposiciones con sangre. Niega otros sintomas y no ha presentado fiebre. Al examen físico, temperatura de 37. 2 °C y con resto de signos vitales estables, de buen aspecto, sin signos de deshidratación, leve dolor en hipogastrio a la palpación. Tolera vía oral. ¿Cuál consideraría el manejo más apropiado para este paciente?***
+#Sara tiene 1 año. Es traída al servicio de urgencias por sus padres por presentar desde hace aproximadamente 8 horas, 5 deposiciones con sangre. Niega otros sintomas y no ha presentado fiebre. Al examen físico, temperatura de 37. 2 °C y con resto de signos vitales estables, de buen aspecto, sin signos de deshidratación, leve dolor en hipogastrio a la palpación. Tolera vía oral. ¿Cuál consideraría el manejo más apropiado para este paciente?
 #A. Dar signos de alarma y cita de revisión en dos días.
 #B. Iniciar hidratación intravenosa por la contraindicación a la vía oral.
 #C. Es una disentería, se debe iniciar ceftriaxona IV.
@@ -21550,7 +21550,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     -Abordaje del niño o niña con enfermedad diarreica aguda-abordaje inicial de las condiciones prevalentes en la primera infancia, Ministerio de salud y protección social. [https://herramientaclinicaprimerainfancia.minsalud.gov.co/modulo-7/](https://herramientaclinicaprimerainfancia.minsalud.gov.co/modulo-7/)
     
 
-#Sara tiene 1 año. Es traída al servicio de urgencias por sus padres por presentar desde hace aproximadamente 8 horas, 5 deposiciones con sangre. Niega otros síntomas y no ha presentado fiebre. Al examen físico, temperatura de 37. 2 °C y con resto de signos vitales estables, de buen aspecto, sin signos de deshidratación, leve dolor en hipogastrio a la palpación. Tolera vía oral. Usted  da de alta con plan de rehidratación oral, signos de alarma y cita control en dos días. Sara es traída de nuevo a urgencias, debido a que ha iniciado con fiebre de 39.3°C, persiste con deposiciones con sangre (lleva 3 deposiciones hoy) y ahora con vómito (2 episodios hoy). Al examen físico, febril con 39.5°C, irritable, sin signos de deshidratación y sin aspecto tóxico. ¿Cuál es el paso a seguir?***
+#Sara tiene 1 año. Es traída al servicio de urgencias por sus padres por presentar desde hace aproximadamente 8 horas, 5 deposiciones con sangre. Niega otros síntomas y no ha presentado fiebre. Al examen físico, temperatura de 37. 2 °C y con resto de signos vitales estables, de buen aspecto, sin signos de deshidratación, leve dolor en hipogastrio a la palpación. Tolera vía oral. Usted  da de alta con plan de rehidratación oral, signos de alarma y cita control en dos días. Sara es traída de nuevo a urgencias, debido a que ha iniciado con fiebre de 39.3°C, persiste con deposiciones con sangre (lleva 3 deposiciones hoy) y ahora con vómito (2 episodios hoy). Al examen físico, febril con 39.5°C, irritable, sin signos de deshidratación y sin aspecto tóxico. ¿Cuál es el paso a seguir?
 #A. Iniciar antibioticoterapia empirica con clindamicina
 #B. Iniciar plan B de hidratación
 #C. Iniciar líquidos intravenosos
@@ -21575,7 +21575,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
 
 #Juan Andrés de 3 años, traído al servicio de urgencias por la madre del primer nivel de atención por quemadura accidental con líquido caliente hace aproximadamente 10 horas. Refiere que se encontraba una olla con agua hirviendo, sintió un estruendo y seguido de esto la paciente empezó a gritar y a llorar; al asomarse a la cocina la encuentra mojada y la olla a los pies de ella, vacía. Inmediatamente lo llevó a la ducha con agua fría y le aplicó azúcar con café, pero empezó a verle vesículas llenas de líquido, por lo que decide traerlo. Al examen físico está taquicárdico, irritable, con quemaduras grado II en tronco anterior, extremidades superiores, muslos y cuello.
-¿Cuál es la conducta a seguir con esta paciente?***
+¿Cuál es la conducta a seguir con esta paciente?
 #A. Limpieza de herida con agua y jabón, quitar el tejido desvitalizado con gasa.
 #B. Empezar reanimación con líquidos, antibiótico profiláctico y remisión a tercer nivel
 #C. Remisión a un tercer nivel de complejidad
@@ -21601,7 +21601,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
 
 #Mujer de 61 años, sin antecedentes de importancia, acude a consulta externa con reporte de colonoscopia, la cual documenta 3 pólipos adenomatosos de 5, 6 y 7 mm.
-¿Cuándo se debe realizar la próxima colonoscopia de vigilancia?***
+¿Cuándo se debe realizar la próxima colonoscopia de vigilancia?
 #A. 1 año.
 #B. 5 años.
 #C. 3 años.
@@ -21622,7 +21622,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Manual para la detección temprana del cáncer de colon y recto. Ministerio de Salud y Protección social- Instituto nacional de Cancerología ESE. Bogotá – Colombia, 2015.
 
 #Femenina de 65 años, con artritis reumatoide (AR) de larga evolución mal controlada. En tratamiento actual con infliximab y prednisona. Consulta al servicio de Urgencias por un cuadro clínico caracterizado por de lesiones ampollosas en la cara interna del muslo derecho y tórax y, las cuales describe como dolorosas y pruriginosas, de 10 días de evolución y sin causa aparente. examen físico presentó se evidencian lesiones vesiculares sobre base eritematosa múltiples ampollas de contenido hemorrágico diseminadas en varios dermatomas de la región anterior y posterior del tórax.
-¿Cuál de los siguientes es la conducta adecuada a seguir en este paciente?***
+¿Cuál de los siguientes es la conducta adecuada a seguir en este paciente?
 #A. Manejo hospitalario con valaciclovir VO
 #B. Manejo ambulatorio con aciclovir VO
 #C. Manejo ambulatorio con valaciclovir VO
@@ -21640,7 +21640,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     2. Le P, Rothberg M. Herpes zoster infection. BMJ. 2019;364:k5095.
 
 #Femenina de 31 años, acude a consulta dermatológica preocupada por una lesión persistente en la región anterior de pierna izquierda, presente desde hace aproximadamente un mes. Niega prurito o dolor asociado. Al examen físico se evidencia lesión tipo pápula, firme a la palpación, hiperpigmentada, de aproximadamente 1 cm y que se deprime en su zona central al ser comprimido por los lados.
-¿Cuál de los siguientes es el diagnóstico más probable?***
+¿Cuál de los siguientes es el diagnóstico más probable?
 #A. Histiocitoma fibroso benigno
 #B. Carcinoma de células basales
 #C. Nevo displásico
@@ -21655,7 +21655,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     • Un nevo displásico es un lunar atípico. Por lo general, es una lesión en evolución con una forma asimétrica, bordes irregulares, color inconsistente y un diámetro que suele ser > 6 mm (ABCDE). Esta lesión no es característica de un nevo displasico.
     • El queratoacantoma tiene un aspecto y un curso clínico distintos. Aparece rápidamente (en un plazo de 4 a 6 semanas) como un nódulo redondo de color rosado con un cráter central lleno de queratina, lo que le confiere un aspecto "volcaniforme". Tras su rápido crecimiento, algunos queratoacantomas tienden a involucionar.
 
-#Masculino de 48 años, ingresa a urgencias, posterior a herida por arma cortopunzante en región abdominal. No sufrió otras lesiones. Signos vitales PA de 114/68 mm/Hg y FC de 118 lpm. Al examen físico, murmullo vesicular conservado de forma bilateral, sonidos cardiacos normales sin agregados. El examen abdominal muestra una lesión que no sangra en el cuadrante superior izquierdo que mide aproximadamente 2,5 × 1 cm. El abdomen está rígido y presenta sensibilidad difusa. El tacto rectal no revela sangre. Ya se inició reanimación con líquidos. ¿Cuál es el siguiente paso en el manejo de este paciente?***
+#Masculino de 48 años, ingresa a urgencias, posterior a herida por arma cortopunzante en región abdominal. No sufrió otras lesiones. Signos vitales PA de 114/68 mm/Hg y FC de 118 lpm. Al examen físico, murmullo vesicular conservado de forma bilateral, sonidos cardiacos normales sin agregados. El examen abdominal muestra una lesión que no sangra en el cuadrante superior izquierdo que mide aproximadamente 2,5 × 1 cm. El abdomen está rígido y presenta sensibilidad difusa. El tacto rectal no revela sangre. Ya se inició reanimación con líquidos. ¿Cuál es el siguiente paso en el manejo de este paciente?
 #A. Realizar una tomografía computarizada de abdomen con contraste intravenoso.
 #B. Realizar lavado peritoneal diagnóstico.
 #C. Realizar laparotomía exploratoria.
@@ -21677,7 +21677,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Ocampo E, Trauma de abdomen. Medellín: Enfoque quirúrgicos para el médico general. Universidad de Antioquia, 2017.
     - Serna R, Garcia C. Trauma penetrante abdominal: Algoritmos diagnósticos y terapéuticos. Medellín: VI curso de actualización en cirugía. Universidad de Antioquia 2022.
 
-#Doña Tulia de 54 años, sin antecedentes patológicos de interés, quien hace 1 mes se realizó una cirugía por fractura de cadera derecha sin complicaciones. Consulta al servicio de Urgencias por presentar dolor en la pierna derecha de varias horas de evolución. Niega disnea u otra sintomatología asociada. EKG: ritmo sinusal. Paraclínicos: Hb 13 g/dL, Cr 1.1 mg/dL. Le ordenan Doppler venoso por edema en miembro inferior derecho, con lo que diagnosticaron trombosis venosa profunda femoral derecha. P: 60 kg, IMC: 25.2. ¿Cuál de los siguientes es la conducta adecuada a seguir?***
+#Doña Tulia de 54 años, sin antecedentes patológicos de interés, quien hace 1 mes se realizó una cirugía por fractura de cadera derecha sin complicaciones. Consulta al servicio de Urgencias por presentar dolor en la pierna derecha de varias horas de evolución. Niega disnea u otra sintomatología asociada. EKG: ritmo sinusal. Paraclínicos: Hb 13 g/dL, Cr 1.1 mg/dL. Le ordenan Doppler venoso por edema en miembro inferior derecho, con lo que diagnosticaron trombosis venosa profunda femoral derecha. P: 60 kg, IMC: 25.2. ¿Cuál de los siguientes es la conducta adecuada a seguir?
 #A. Hospitalizar y programar para trombólisis dirigida por catéter
 #B. Dar alta médica con rivaroxabán 15 mg VO cada 12 horas por las primeras 3 semanas, luego continuar 20 mg una vez al día y recomendaciones/signos de alarma
 #C. Hospitalizar e iniciar enoxaparina 60 mg s.c cada día por 5 días y luego rotar a dabigatran 150 mg VO cada 12 horas
