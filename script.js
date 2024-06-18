@@ -72,7 +72,7 @@ function displayRandomQuestion() {
     argument.appendChild(imageAnswer);
   } else {
     argument.textContent = grupoAleatorio[6];
-  }
+  };
 
   opcionA.name = 'answer';
   opcionB.name = 'answer';
