@@ -62,7 +62,17 @@ function displayRandomQuestion() {
   opcionC.textContent = grupoAleatorio[3];
   opcionD.textContent = grupoAleatorio[4];
   rightAnswer.textContent = grupoAleatorio[5];
-  argument.textContent = grupoAleatorio[6];
+  
+  if (grupoAleatorio[6].startsWith("https")) {
+    let imageAnswer = document.createElement("img");
+    imageAnswer.src = grupoAleatorio[6];
+    imageAnswer.alt = grupoAleatorio[6];
+    imageAnswer.style.maxWidth = "100%";
+
+    argument.appendChild(imageAnswer);
+  } else {
+    argument.textContent = grupoAleatorio[6];
+  }
 
   opcionA.name = 'answer';
   opcionB.name = 'answer';
