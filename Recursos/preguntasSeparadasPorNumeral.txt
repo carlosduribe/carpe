@@ -21714,7 +21714,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 #https://1drv.ms/i/s!AjvZMkq-eMAsm3m90V4K3pQxRflQ?e=ihHvvb
 
 #Varón de 59 años diagnosticado con enfermedad pulmonar obstructiva crónica (EPOC), actualmente bajo tratamiento inhalado con bromuro de tiotropio. Además, ha presentado dos episodios de agudización moderada con manejo ambulatorio en el último año. Se ha mantenido estable en los últimos tres meses. Laboratorios: gases arteriales recientes con PaO2 61 mh - PaCO2 51 mh, conteo de eosinófilos en sangre de 305 células/µL, sin otros hallazgos relevantes en paraclínicos. 
-#¿Cuál de las siguientes opciones debe ser la siguiente conducta?
+¿Cuál de las siguientes opciones debe ser la siguiente conducta?
 #A. Iniciar protocolo para oxigenoterapia crónica domiciliaria y corticoides orales tipo prednisona 60 mg/día por 7 días 
 #B. Ajustar el tratamiento inhalado con LABA + LAMA 
 #C. Ajustar el tratamiento inhalado con LABA + LAMA e iniciar protocolo para oxigenoterapia crónica domiciliaria
@@ -21874,12 +21874,12 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAsnA-URNs4JhVYwslJ?e=8EmIiD
 
-Sofía tiene 3 años. Es llevada a su consulta porque desde hace 4 meses, inicia con Telarca. Al examen físico, con Tanner IV, sin crecimiento del vello púbico o axilar. Los genitales externos son normales. La ecografía revela útero pequeño y la edad ósea es de 3 años. 
+#Sofía tiene 3 años. Es llevada a su consulta porque desde hace 4 meses, inicia con Telarca. Al examen físico, con Tanner IV, sin crecimiento del vello púbico o axilar. Los genitales externos son normales. La ecografía revela útero pequeño y la edad ósea es de 3 años. 
 ¿Qué actitud adoptaría? 
-A. Realizar ecografía mamaria
-B. Iniciar análogos de GnRh
-C. Seguimiento cada 3-4 meses
-D. Realizar niveles hormonales
+#A. Realizar ecografía mamaria
+#B. Iniciar análogos de GnRh
+#C. Seguimiento cada 3-4 meses
+#D. Realizar niveles hormonales
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAsnBK8jIDXZn61uONG?e=14WgCc
 
