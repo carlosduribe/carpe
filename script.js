@@ -65,11 +65,11 @@ function displayRandomQuestion() {
   
   if (grupoAleatorio[6].startsWith("https")) {
     let imageAnswer = document.createElement("img");
+    argument.appendChild(imageAnswer);
     imageAnswer.src = grupoAleatorio[6];
     imageAnswer.alt = grupoAleatorio[6];
     imageAnswer.style.maxWidth = "100%";
-
-    argument.appendChild(imageAnswer);
+    
   } else {
     argument.textContent = grupoAleatorio[6];
   };
