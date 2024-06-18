@@ -9886,7 +9886,7 @@ Argumento: El bloqueo auriculoventricular de primer grado se caracteriza por un 
 
 Lectura recomendada
 ●	Jaramillo C.J. Patrones electrocardiográficos. Medellín. XXI Curso de actualización en medicina interna. Universidad de Antioquia.2022.
-
+Hasta aqui vamos bien
 
 #Andrea de 24 años, en décima semana de gestación sin otro antecedente de interés, es llevada a urgencias por su pareja por cuadro clínico súbito de disnea y dolor torácico bilateral que empeora con la inspiración, clasificado como 8/10 en la EAD. Signos vitales Tº 37,7 °C, PA: 140/78 mm Hg, FC:110 lpm, FR: 25 rpm y SO2 de 95% con FiO2 ambiente. Al examen físico, ruidos cardiacos rítmicos sin soplos, murmullo vesicular conservado, sin agregados, extremidades eutróficas, sin edema, sin cambios en coloración o temperatura de la piel. Se realizó gammagrafía pulmonar con ventilación/perfusión que reportó alta probabilidad de embolia pulmonar. ¿Cuál es la estrategia de tratamiento más apropiada?
 #A. Dabigatrán
@@ -14292,7 +14292,7 @@ Lectura recomendada:
 #B. Programar para derivación portosistémica intrahepática transyugular
 #C. Programar para derivación portosistémica intrahepática transyugular e iniciar bisoprolol
 #D. Iniciar solo carveridol
-#Respesta correcta: B
+#Respuesta correcta: B
 #Tema e ítem: Medidas profilácticas para hemorragia digestiva alta variceal - ¿Cuáles recomienda la evidencia actual?
 
 Argumento: En un paciente con cirrosis y una hemorragia por varices esofágicas, la prevención de un nuevo evento tras la ligadura endoscópica con bandas implica tanto el tratamiento con betabloqueantes como una nueva endoscopia digestia alta con ligadura de varices hasta lograr la obliteración.
@@ -16760,8 +16760,7 @@ Además de la toma de muestras para uroanálisis y urocultivo, ¿Cuál de los si
     ●	Swartz MN. Clinical practice. Cellulitis. N Engl J Med. 2004 Feb 26;350(9):904-12. doi: 10.1056/NEJMcp031807. PMID: 14985488.
     
 
-#Carlos, 35 años, sin antecedentes personales. Consulta por cuadro de diapensia de nueva aparición, no asociada a sangrado del tracto gastrointestinal, pérdida de peso ni episodios eméticos. Sus signos vitales son normales, no se palpan adenopatías ni masas. ¿Cuál de las siguientes conductas le
-recomendaría a Carlos?
+#Carlos, 35 años, sin antecedentes personales. Consulta por cuadro de diapensia de nueva aparición, no asociada a sangrado del tracto gastrointestinal, pérdida de peso ni episodios eméticos. Sus signos vitales son normales, no se palpan adenopatías ni masas. ¿Cuál de las siguientes conductas le recomendaría a Carlos?
 #A. Terapia triple empírica con lansoprazol, amoxicilina y claritromicina sin pruebas de infección por Helicobacter pylori.
 #B. Prueba del aliento con urea
 #C. Esofagogastroduodenoscopia
@@ -16919,7 +16918,7 @@ A Ernesto se le decide iniciar manejo con líquidos endovenosos, suspender la v�
     - Diagnosis and Management of Transient Ischemic Attack and Acute Ischemic Stroke: A Review. JAMA. 2021 Mar 16;325(11):1088-1098.
     - Escenarios clínicos en anticoagulación ¿Cuándo y cómo? – XXI Curso de Actualización en Medicina Interna – Universidad de Antioquia – 2022
 
-    #Paciente masculino de 39 años presenta dolor abdominal en flanco derecho irradiado a testículo ipsilateral. Signos vitales: T° de 36.8°C, FC de 82 lpm, FR de 12 rpm y PA de 130/78 mmHg. Al examen físico no hay signos de irritación peritoneal. Se realiza una ecografía abdominal que revela un cálculo ureteral derecho de 3 mm y un único calculo biliar de aprox. 5 cm. Se inicia manejo médico y al cabo de 2 horas el paciente expulsa el cálculo por la orina con resolución del cuadro clínico. ¿Cuál es el paso a seguir en el manejo de este paciente?
+#Paciente masculino de 39 años presenta dolor abdominal en flanco derecho irradiado a testículo ipsilateral. Signos vitales: T° de 36.8°C, FC de 82 lpm, FR de 12 rpm y PA de 130/78 mmHg. Al examen físico no hay signos de irritación peritoneal. Se realiza una ecografía abdominal que revela un cálculo ureteral derecho de 3 mm y un único calculo biliar de aprox. 5 cm. Se inicia manejo médico y al cabo de 2 horas el paciente expulsa el cálculo por la orina con resolución del cuadro clínico. ¿Cuál es el paso a seguir en el manejo de este paciente?
 #A.	Realizar una colangiorresonancia.
 #B.	Realizar una colecistectomía laparoscópica programada.
 #C.	Seguimiento ecográfico en 6 meses.
@@ -17679,7 +17678,7 @@ Lectura recomendada:
 #B. Valor predictivo positivo
 #C. Especificidad
 #D. Valor predictivo negativo
-#Repuesta correcta: D
+#Respuesta correcta: D
 #Tema e ítem: Parámetros de uso en el estudio de un test – Recordando conceptos básicos para el examen de residencia
 
 Argumento: Recordemos que el valor predictivo negativo (VPN) se define como la probabilidad de estar libre de una enfermedad si el resultado de la prueba es negativo.  Una cosa muy importante que hay que recordar es que el VPN variará con la probabilidad previa a la prueba de padecer una enfermedad.  Un paciente con una alta probabilidad de padecer una enfermedad tendrá un VPN bajo, y un paciente con una baja probabilidad de padecer una enfermedad tendrá un VPN alto.  Por ejemplo:
@@ -18693,7 +18692,7 @@ Lectura recomendada:
 #B. Colonoscopia
 #C. AngioTAC
 #D. Endoscopia digestiva alta
-#Repuesta correcta: C
+#Respuesta correcta: C
 #Tema e ítem: Hemorragia digestiva baja con repercusión hemodinámica - ¿Cuál es el estudio de elección?
 
 Argumento: En pacientes con hematoquezia hemodinámicamente significativa en curso, la angiografía por TAC es la prueba diagnóstica inicial de elección. Luego de la canalización con accesos venosos adecuados e iniciar resucitación con uno a dos litros de cristaloides, se debe localizar lo más pronto posible la fuente de la hemorragia. Con la angioTAC se puede detectar un sangrado a una velocidad de 0,3 a 0,5 ml/minuto y una vez localizado el origen, se debe deben programar inmediatamente a una arteriografía transcatéter (idealmente dentro de los 90 minutos) y una posible embolización.
@@ -21707,7 +21706,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 
 #Varón de 59 años, sin antecedentes de interés, acude a consulta por presentar mareos, astenia y aumento de peso en los últimos dos años. Tras la aplicación del cuestionario PHQ-9, se obtiene un puntaje de 0, descartando trastorno del estado de ánimo. Laboratorios: TSH: 6.9, T4L: 0.9, sin alteraciones en resto de paraclínicos. La actitud a seguir sería: 
 #A. Repetir TSH y T4L en 8 semanas, solicitar Ac anti- TSH-r y remitir para valoración a endocrinología
-#B.  Iniciar tratamiento con levotiroxina 25 mcg/día y remitir para valoración a endocrinología
+#B. Iniciar tratamiento con levotiroxina 25 mcg/día y remitir para valoración a endocrinología
 #C. Repetir TSH y T4L en 8 semanas y buscaría otras causas de sus sintomas 
 #D. Remitir a endocrinología dado que se trata de un hipotiroidismo primario
 #Respuesta correcta:
@@ -21744,7 +21743,6 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 #B. Por el tiempo transcurrido, ya no es candidata para iniciar PEP con TDF + FTC + RAL 
 #C. No se requieren intervenciones adicionales, ya que el riesgo de transmisión es minimo
 #D. Se debe iniciar PEP con TDF + FTC + RAL durante 28 días y programar un seguimiento para repetir la prueba
-
 TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAsm30UAAnnsXZw9wyW?e=eDs70Z
@@ -21926,4 +21924,3 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #D. Bicarbonato de sodio
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAsnBcNmP-Y-yfGpRWE?e=kEQ7wB
-
