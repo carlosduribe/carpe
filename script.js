@@ -64,6 +64,7 @@ function displayRandomQuestion() {
   rightAnswer.textContent = grupoAleatorio[5];
   
   if (grupoAleatorio[6].startsWith("https")) {
+    argument.innerHTML = ""
     let imageAnswer = document.createElement("img");
     argument.appendChild(imageAnswer);
     imageAnswer.src = grupoAleatorio[6];
