@@ -21710,7 +21710,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 #C. Repetir TSH y T4L en 8 semanas y buscaría otras causas de sus sintomas 
 #D. Remitir a endocrinología dado que se trata de un hipotiroidismo primario
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsm3m90V4K3pQxRflQ?e=ihHvvb
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213577&authkey=%21AINr_El05E2U3wk&width=989&height=1280
 
 #Varón de 59 años diagnosticado con enfermedad pulmonar obstructiva crónica (EPOC), actualmente bajo tratamiento inhalado con bromuro de tiotropio. Además, ha presentado dos episodios de agudización moderada con manejo ambulatorio en el último año. Se ha mantenido estable en los últimos tres meses. Laboratorios: gases arteriales recientes con PaO2 61 mh - PaCO2 51 mh, conteo de eosinófilos en sangre de 305 células/µL, sin otros hallazgos relevantes en paraclínicos. 
 ¿Cuál de las siguientes opciones debe ser la siguiente conducta?
@@ -21719,7 +21719,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 #C. Ajustar el tratamiento inhalado con LABA + LAMA e iniciar protocolo para oxigenoterapia crónica domiciliaria
 #D. Ajustar el tratamiento inhalado con LABA + LAMA + GCI
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsm3ryGQ6AvtZf2v1m?e=LCKMlB
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213578&authkey=%21AFCXOqTUBK4ipzw&width=989&height=1280
 
 #Paciente de 60 años con diagnóstico de diabetes tipo 2 con 5 años de evolución, HTA y obesidad grado I. Manejo actual con metformina 1000 mg q12h, losartán 50 mg q12h.  Debuta actualmente con primer episodio de insuficiencia cardiaca. Pesa 80 kg, talla 160 cm. Tiene glicemia central en 189 mg/dL, Hb1Ac 8.7%. ¿Cuál de los siguientes medicamentos no recomendaría para intensificar la terapia antidiabética en esta paciente?
 #A. Empaglifozina
@@ -21727,7 +21727,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 #C. Pioglitazona
 #D. Sitagliptina
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsm3szG6t39sZRr3ky?e=r1kQxP
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213579&authkey=%21AO20ntGjR2qR8CU&width=989&height=1280
 
 #Varón de 31 años, sin antecedentes de interés, quien consulta al servicio de Urgencias por dos episodios de vómitos en ‘’cuncho de café’’ y melenas escasas. Refiere consumo de diclofenaco 200 mg/día desde hace una semana por migraña. Examen físico: buenas condiciones generales, PA 110/80 mh, FC 71 lpm, sin dolor, Hb 13.2 g/dL, Hto 39%.  Se realiza endoscopia a las 12 horas reportando erosiones de 2-3 mm a nivel antral, varias con un punto de hematina en su base. Ante dichos hallazgos cuál es la conducta correcta:
 #A. Hospitalizar, suspender la vía oral e iniciar manejo con IBP endovenoso en infusión continua durante 72 horas 
@@ -21735,7 +21735,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 #C. Hospitalizar, mantener suspendida la vía oral, suministrar líquidos y omeprazol endovenoso y realizar control diario con hemograma. 
 #D. Alta hospitalaria con IBP oral, cambiar el antiinflamatorio y recomendaciones más signos de alarma
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsm3xOCs_DbYF4NiWP?e=n7dQ3x
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213580&authkey=%21AEO1Rg1N8MTNl7I&width=989&height=1280
 
 #Mujer de 25 años, consulta a urgencias 36 horas después de tener relación sexual no protegida con un joven el cual le informó que es una persona que convive con VIH y se encuentra en TARV con carga viral indetectable desde hace tres años.  Refiere mucha preocupación porque fue sin protección con múltiples eyaculaciones. Se le realiza un ELISA de 4ª generación, la cual arroja un resultado no reactivo. 
 ¿Cuál de las siguientes afirmaciones es verdadera? 
@@ -21745,7 +21745,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
 #D. Se debe iniciar PEP con TDF + FTC + RAL durante 28 días y programar un seguimiento para repetir la prueba
 TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsm30UAAnnsXZw9wyW?e=eDs70Z
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213581&authkey=%21AN2w0JoTSRbnhWo&width=989&height=1280
 
 #Una mujer embarazada de 18 semanas acude a una cita programada para cervicometría de tamizaje. Tiene antecedente de parto prematuro en la semana 32 de en su anterior gestación. Durante la prueba se detecta una longitud cervical es de 27 mm.
 ¿Cuál de las siguientes opciones es la adecuada para prevenir la recurrencia de parto prematuro en esta paciente?
@@ -21754,7 +21754,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Caproato de 17-hidroxiprogesterona muscular semanal 
 #D. No requiere ninguna intervención adicional
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsm39QyPUAPHRteXOq?e=h4Vcyh
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213583&authkey=%21AC7n2PPuBCcaAlM&width=989&height=1280
 
 #Mujer de 32 años, acude a consulta porque ayer en la mañana mientras se realizaba autoexamen palpó una ‘’masa’’ en su mama izquierda. Tiene antecedentes familiares de Ca de mama en su abuela paterna diagnosticada a los 61 años. Al examen físico se evidencia una lesión ocupante de espacio de aproximadamente 2 cm, sin cambios en la piel adyacente, móvil, de bordes regulares, en cuadrante superior externo. 
 ¿Cuál sería la conducta adecuada? 
@@ -21763,7 +21763,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Solicitar ecografía + mamografía 
 #D. Realizar vigilancia con cita de control en 6 meses. Si persiste o se presentan cambios, se realizará mamografía
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnACHg52YYd-ovogj?e=5PWiLT
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213584&authkey=%21ALCm-trJtmNabFU&width=989&height=1280
 
 #Mujer de 41 años, madre de dos hijos, trae a consulta resultado de citología cervicovaginal de rutina. El informe indica cambios compatibles con células escamosas atípicas de significado indeterminado (ASCUS).  Sus citologías previas han sido normales.
 ¿Cuál de las siguientes afirmaciones es verdadera? 
@@ -21772,7 +21772,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Esta paciente se beneficia de una colposcopia inmediata más biopsia.
 #D. El 70% de las mujeres con ASCUS son portadoras del VPH.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAEYLHj3aW4W38XS?e=5GJd0E
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213585&authkey=%21AAQRLKocSBRGSfs&width=989&height=1280
 
 #Gestante de 35 semanas, G2P0A0C1 consulta al servicio de Urgencias por sangrado genital rojo rutilante de moderada cantidad. Niega dolor abdominal o contracciones. Al examen físico presenta presión arterial 120/74mmHg, frecuencia cardiaca 78/min, altura uterina 29 cm, sin actividad uterina. En el monitoreo fetal está reactivo con FCF de 145 lpm, sin desaceleraciones. 
 ¿Cuál es el diagnóstico más probable? 
@@ -21781,7 +21781,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Placenta previa
 #D. Rotura de vasa previa
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAIOOBAnQgUIakX_?e=pUWWLr
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213586&authkey=%21ADWLpQQvRRYQZkM&width=989&height=1280
 
 #Alejandra, 36 años, asiste a programa de planificación demandando un método anticonceptivo. Entre sus antecedentes destaca un parto por cesarea hace cinco meses sin complicaciones. Actualmente se encuentra en lactancia materna exclusiva y ha reiniciado sus ciclos menstruales hace una semana.  
 ¿Cuál de las siguientes afirmaciones es verdadera? 
@@ -21790,7 +21790,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. No requiere ningún método anticonceptivo adicional, ya que el método de amenorrea por lactancia es muy efectivo hasta los seis meses del posparto. 
 #D. Se puede sugerirle el uso de un anticonceptivo hormonal a base de progestágeno
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAP6WAlA5mfhSeVa?e=sKgE1X
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213587&authkey=%21AI4rZam2xmO_Ge0&width=989&height=1280
 
 #Masculino de 30 años presenta trauma abdominal penetrante por arma de fuego. Se encuentra alerta, orientado con signos vitales dentro de la normalidad. Al examen físico se evidencia herida de entrada en cuadrante superior derecho con una herida de salida a nivel inferior derecho de la espalda. Hay leve dolor difuso a la palpación abdominal sin signos de irritación. ¿Qué medida considera que es de mayor utilidad en el abordaje de este paciente? 
 #A.	Dejar en observación. 
@@ -21798,7 +21798,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Realizar una tomografía computarizada de abdomen.
 #D.	Traslado a quirófano para realizar laparotomía exploratoria.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAWNNXgR-97P2cZ1?e=8crpvQ
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213589&authkey=%21AFasnfaGhzXpSZo&width=989&height=1280
 
 #Usted recibe a una paciente femenina de 28 años quien presenta quemaduras químicas graves que se extienden por ambas manos y antebrazos. Usted estabiliza a la paciente e inicia medidas de reanimación: asistencia respiratoria, reanimación con líquidos IV, estabilización cardiovascular e irrigación con solución salina de las heridas. Usted desea evaluar que la reanimación hídrica garantiza una buena perfusión, por lo que usted mide el siguiente parámetro:
 #A.	Formula de Parkland.
@@ -21806,7 +21806,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Presión venosa central.
 #D.	Gasto urinario.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAa4n4S222LQqBiy?e=jldI07
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213590&authkey=%21AAWZlIzgIkxlVBQ&width=989&height=1280
 
 #Masculino de 43 años sufre caída de aprox. 4 metros. Refiere dolor abdominal en flanco derecho. Signos vitales: Temp. de 37°C, FC de 132 lpm y PA de 95/60 mmHg. El examen físico evidencia equimosis en tronco y flanco derecho del abdomen con dolor a este nivel, sin masas palpables. Un eco-FAST no evidencia colecciones de líquido intraperitoneal. La hemoglobina es de 7.6 g/dL. ¿Cuál órgano es más probable que se encuentre afectado?
 #A.	Hígado.
@@ -21814,7 +21814,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Riñón.
 #D.	Intestino delgado.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAc4ODCpeUD1nfZu?e=urQ9uE
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213591&authkey=%21ANwTp1Hk49-f7zM&width=989&height=1280
 
 #Usted se encuentra en un primer nivel de atención. Allí recibe a un paciente masculino de 22 años quien sufre un trauma con arma cortopunzante a nivel de 4° espacio intercostal izquierdo en línea medioclavicular. El paciente esta alerta y orientado, refiere disnea. Signos vitales: FC de 99 lpm, FR de 32 rpm y PA de 112/72 mmHg. Al examen físico se evidencia burbujeo de sangre con cada respiración a nivel de la herida, hay hiperresonancia a la percusión y disminución de ruidos respiratorios en el hemitórax ipsilateral. En plan de iniciar traslado a un centro de mayor atención, usted considera:
 #A.	Realizar una toracotomía. 
@@ -21822,7 +21822,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Realizar una pericardiocentesis.
 #D.	Realizar una toracostomía con aguja.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAiMV63pSwB8ODO3?e=U34RC8
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213592&authkey=%21AM86KgsOP7J_8H4&width=989&height=1280
 
 #Masculino de 55 años con antecedente de cirrosis hepática alcohólica se encuentra programado para la realización de un trasplante de hígado. El médico le pide al paciente que deje de comer por 24 horas antes de la cirugía. Al momento de la cirugía, ¿Cuál de los siguientes órganos contribuye directamente a la prevención de la hipoglicemia al liberar glucosa a la sangre?
 #A.	Musculo esquelético.
@@ -21830,7 +21830,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Corteza renal
 #D.	Glándula suprarrenal.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAkXWCZ9qwX539oD?e=dnbWWg
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213593&authkey=%21AEXZY2aeHvp5Bcw&width=989&height=1280
 
 #Usted acaba de intubar a un paciente de 29 años que fue encontrado inconsciente en la vía pública. El paciente se encuentra conectado a ventilación mecánica. Sus signos vitales son: FC de 91 lpm y PA de 136/60 mmHg, se encuentra saturando a 94%. Al examen físico hay evidencia de expansión torácica asimétrica con ruidos respiratorios normales en hemitórax derecho y disminuidos en hemitórax izquierdo. Usted considera que la mejor opción en este momento es: 
 #A.	Realizar descompresión con aguja del hemitórax izquierdo.
@@ -21838,7 +21838,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Retirar el tubo endotraqueal y reintubar al paciente.
 #D.	Realizar una toracotomía de emergencia.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAt93FYkD1jcdAjC?e=usrF6h
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213595&authkey=%21AFlwLVTBfZiCUpE&width=989&height=1280
 
 #Femenina de 64 años consulta por episodios de vértigo desde hace aprox. 1 mes. Cada episodio dura entre 30 y 40 segundos, desencadenándose al acostarse o sentarse repentinamente o cuando gira la cabeza para mirar algo. El examen físico es completamente normal. ¿Cuál es el diagnostico más probable en esta paciente? 
 #A.	Vértigo postural paroxístico benigno. 
@@ -21846,7 +21846,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Enfermedad de Meniere.
 #D.	Isquemia cerebral.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnAwGYAqN8w1FE8KA?e=LVBqgj
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213596&authkey=%21AJOc_DWah6i0VQE&width=989&height=1280
 
 #Femenina de 52 años se encuentra hospitalizada en contexto de una hemorragia subaracnoidea que fue diagnosticada hace aprox. 1 semana, la cual fue manejada de forma endovascular. Durante su estancia presenta una caída mientras se trasladaba al baño. Al examen físico la fuerza del miembro inferior derecho es de 3/5 y del miembro inferior izquierdo de 5/5. La administración del siguiente medicamento posiblemente hubiera prevenido la etiología más probable que explica la condición actual de este paciente: 
 #A.	Enalapril
@@ -21854,7 +21854,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Aspirina.
 #D.	Nitroglicerina.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnA3qpn6AsBUCQqB3?e=lcRXni
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213597&authkey=%21AHM0e-qz24Z8beU&width=989&height=1280
 
 #Masculino de 65 años es llevado a urgencias en contexto de cuadro de 2 días de evolución caracterizado por letargo progresivo y confusión. Su esposa informa que el paciente se ha estado quejando de náuseas, polaquiuria y tos con expectoración desde hace 5 días. Tiene antecedente de hipertensión arterial desde hace 10 años, pero no consulta a un médico desde hace 8 años. Toma amlodipino. Signos vitales: Temp. de 38.5°C, FC de 114 lpm, FR de 15 rpm y PA de 108/75 mmHg. SatO2 en 98%. Se encuentra somnoliento y desorientado. Al examen físico las mucosas están secas con disminución en la turgencia de la piel. Hay crépitos en la base pulmonar izquierda. El resto de examen físico es anodino. ¿Cuál es la conducta inmediata a tomar en este paciente? 
 #A.	Realizar una radiografía de tórax.
@@ -21862,7 +21862,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Realizar hemocultivos.
 #D.	Realizar una glucometría.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnA6cwfxHMrDs1NlC?e=t0aDNE
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213598&authkey=%21AE9udaBcERV-Rr4&width=989&height=1280
 
 #Paciente masculino de 75 años consulta por dolor lumbar. Refiere que el dolor se irradia a la cara lateroposterior del muslo izquierdo y presenta paresia para extender el hallux ipsilateral. Al examen neurológico se evidencia marcha de trendelemburg. ¿Cuál de las siguientes condiciones es la más probable? 
 #A.	Compromiso de la raíz L5.
@@ -21870,7 +21870,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C.	Compromiso de la raíz L1.
 #D.	Compromiso de la raíz L3.
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnA-URNs4JhVYwslJ?e=8EmIiD
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213599&authkey=%21AJsQSja0T0Ar-R4&width=989&height=1280
 
 #Sofía tiene 3 años. Es llevada a su consulta porque desde hace 4 meses, inicia con Telarca. Al examen físico, con Tanner IV, sin crecimiento del vello púbico o axilar. Los genitales externos son normales. La ecografía revela útero pequeño y la edad ósea es de 3 años. 
 ¿Qué actitud adoptaría? 
@@ -21879,7 +21879,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Seguimiento cada 3-4 meses
 #D. Realizar niveles hormonales
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnBK8jIDXZn61uONG?e=14WgCc
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213602&authkey=%21AFJTeaphxXt3zxo&width=989&height=1280
 
 #Juan de 7 años, consulta porque desde hace una semana con dolor abdominal, vómito y diarrea. Hace 48 horas, con hematoquecia y adinamia. Hoy con oliguria. La madre refiere que varias personas tuvieron síntomas gastrointestinales similares después de asistir a una comida al aire libre la semana pasada, pero todos se recuperaron. El paciente tiene ictericia escleral y edema bimaleolar. 
 ¿Cuál de las siguientes anomalías de laboratorio estaría más probablemente relacionada?
@@ -21888,7 +21888,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Prolongación de tiempos de coagulación
 #D. Trombocitopenia
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnBPPS6wFQOkoJiBL?e=i1FIkC
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213603&authkey=%21AOhUCuR7Ql9ZiS4&width=989&height=1280
 
 #Juliana de 9 años. Inicia con tinnitus en la última semana. También ha notado una sensación de chasquido en el oído cuando deglute y dificultad para oír sonidos suaves. A la otoscopia, se evidencia una membrana timpánica derecha retraída con vasos sanguíneos dilatados circundantes. Trae una audiometría con evidencia de una leve hipoacusia derecha. 
 ¿Cuál de los siguientes es el diagnóstico más probable?
@@ -21897,7 +21897,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Enfermedad de Ménière
 #D. Otitis media crónica
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnBQotw_vX9znBTk6?e=MV2YBW
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213604&authkey=%21AG04WeIUWkpnXOo&width=989&height=1280
 
 #Alexander, 13 años, con antecedentes de diabetes tipo 1 desde hace 3 años, en manejo con insulina, recientemente con disminución de las unidades basales debido a hipoglucemia. Su madre tiene hipotiroidismo primario por enfermedad de Hashimoto. Llega a la consulta por pérdida de peso y dolor abdominal ocasional. Tiene una talla y peso bajos para su edad. Lleva paraclínicos: Hb 10.5, VCM 69, plaquetas 450.000, GB 8000, HbA1C 5.6%, TSH 2.4. 
 ¿Cuál considera que es el paso a seguir?
@@ -21906,7 +21906,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Anticuerpos anti-transglutaminasa tisular IgA
 #D. Coprograma
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnBVUf8ZqBf_VfRmj?e=7eCu7S
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213605&authkey=%21AJG1CDzAG6hc3NU&width=989&height=1280
 
 #Felipe tiene 7 años, con PAI al día. Desde hace 3 días con rinorrea y tos que empeora por la noche. Presentó fiebre el primer día. Hoy inició con dolor leve e intermitente alrededor de la región superior de las mejillas, que particularmente exacerba al inclinarse hacia adelante. Al examen físico, estable y de buen aspecto, con rinorrea verdosa y abundante, orofaringe eritematosa y dolor a la digitopresión en senos maxilares. 
 ¿Cuál es el paso a seguir?
@@ -21915,7 +21915,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Seguimiento
 #D. Antihistamínicos
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnBZ9tZXnS3duv901?e=EKahag
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213606&authkey=%21ANvWn0pxti0gu94&width=989&height=1280
 
 #Varón de 45 años, campesino, remitido de primer nivel por presentar cuadro clínico de 2 horas de evolución caracterizado por vómitos, diarrea acuosa, diaforesis profusa, sialorrea, lagrimeo y miosis. Está consciente con una FC de 52 lpm, sin datos de inestabilidad hemodinámica. Teniendo en cuenta la causa más probable del cuadro clínico de este paciente, ¿Cuál de los siguientes es el tratamiento adecuado? 
 #A. Flumazenil
@@ -21923,4 +21923,4 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #C. Atropina 
 #D. Bicarbonato de sodio
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsnBcNmP-Y-yfGpRWE?e=kEQ7wB
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213607&authkey=%21ADr1aDdGwkpTf7k&width=1236&height=1600
