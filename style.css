@@ -11,7 +11,7 @@ body {
     align-items: center;
     color: white;
   }
-  img {
+  #logoCarpe {
     height: 70px;
     border-radius: 50px;
     padding: 10px;
