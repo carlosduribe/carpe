@@ -21966,7 +21966,7 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #B. Uso de teclado ergonómico durante su trabajo.
 #C. Iniciar terapia con antiinflamatorios no esteroideos orales.
 #D. Realizar terapia física.
-Respuesta correcta:
+#Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213635&authkey=%21AHNwPh71cWB7TAU&width=989&height=1280
 
 #Un paciente masculino de 60 años, con antecedentes de HTA, dislipidemia y tabaquismo, es evaluado durante una consulta de rutina. Sus signos vitales son normales. Al examen físico, se encuentra una masa abdominal pulsátil en la región periumbilical con un soplo audible a la auscultación. Los exámenes paraclínicos son normales. 
