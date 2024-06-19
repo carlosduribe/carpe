@@ -3073,7 +3073,7 @@ Bibliografía recomendada:
 #B.	Ingreso hospitalario inmediato y observación
 #C.	Indicar manejo analgésico ambulatorio y cita de revisión
 #D.	ECO doppler testicular de urgencia.
-#Respuesta correcta : A.
+#Respuesta correcta: A.
 #Tema - Ítem: Emergencias quirúrgicas no traumáticas - Escroto agudo
 
 Argumento: Este paciente presentó un trauma escrotal, posterior a lo cual tiene un dolor intenso. Para poder reconocer qué tipo de lesión le generó el trauma, debemos primero que todo, realizar una anamnesis y un examen físico. Si en la pregunta se especificaran los hallazgos típicos de una torsión testicular y la pregunta fuera “¿cuál sería el examen de elección para hacer el diagnóstico?”, la respuesta sería la D.
@@ -3089,7 +3089,7 @@ Bibliografía recomendada:
 #B.	Plan A con metronidazol y revisión en 48 horas.
 #C.	Hospitalizar con manejo antimicrobiano, suero oral y alimentación especial.
 #D.	Ordenar coprocultivo e iniciar manejo antimicrobiano.
-#Respuesta correcta : C
+#Respuesta correcta: C
 #Tema - Ítem: Desnutrición en niños - Desnutrición aguda moderada-grave
 
 Argumentación: Este paciente tiene un peso para la talla en -3 DE, por lo tanto clasifica para una desnutrición aguda grave. Dentro de los parámetros para un manejo intrahospitalario, se encuentra la presencia de diarrea aguda (independiente de las características), por lo cual requiere hospitalización con manejo antimicrobiano.
@@ -3351,7 +3351,7 @@ Lecturas recomendadas:
 #B.	Síndrome de túnel carpiano.
 #C.	Síndrome del pronador.
 #D.	Síndrome del túnel cubital.
-#Respuesta correcta: 2
+#Respuesta correcta: B
 #Tema e ítem: Síndrome de túnel carpiano – Sospecha clínica.
 
 Argumento: El dolor referido en muñeca de predominio nocturno que despierta durante la noche y que exacerba al realizar actividades manuales es compatible con el síndrome de túnel carpiano (STC).  El STC se produce por la comprensión del nervio mediano y hace parte de los síndromes de atrapamiento nervioso más comunes en el adulto (90% de los casos).
@@ -3670,7 +3670,7 @@ Lecturas recomendadas:
 #B.	Requiere un trasplante de células madre hematopoyéticas
 #C.	Requerir terapia inmunomoduladora
 #D.	Requerir profilaxis antiviral y antifúngica
-#Respuesta Correcta A
+#Respuesta Correcta: A
 #Tema e item: Inmunología- inmunodeficiencia común variable-Manejo.
 
 Argumento: Esta paciente, con bacteriemia estreptocócica, infección por G. lamblia, sinusitis recurrente, retraso en el crecimiento y asma, debe hacer sospechar de una inmunodeficiencia común variable (ICV), la cual requiere infusión de inmunoglobulina intravenosa para reponer las inmunoglobulinas y prevenir infecciones graves; sin embargo, los pacientes tienen un mayor riesgo de enfermedad autoinmune y ciertas neoplasias malignas, independientemente del tratamiento.Recordemos, que en la ICV, la diferenciación anormal de células B en células plasmáticas da como resultado una disminución en la producción de múltiples clases de inmunoglobulinas. Se debe tener en cuenta que la ICV se presenta en adolescentes o adultos jóvenes con infecciones sinopulmonares recurrentes causadas por organismos encapsulados. La enfermedad pulmonar crónica (asma) es frecuente. Los pacientes también pueden tener infecciones diarreicas recurrentes (Salmonella, G.lamblia) y retraso en el crecimiento. Finalmente, los resultados de laboratorio característicos incluyen un perfil de inmunoglobulina con una marcada disminución de IgG, IgA y/o IgM, mientras que el hemoleucograma no suele mostrar alteraciones.
@@ -3719,7 +3719,7 @@ Lecturas recomendadas:
 #B.	Síndrome de Brown-Séquard
 #C.	Síndrome del cordón central
 #D.	Síndrome del cordón posterior
-#Respuesta Correcta C
+#Respuesta Correcta: C
 #Tema e ítem:Trauma medular- Diagnóstico de la lesión aguda
 
 Argumento: Este paciente que presentó una lesión por hiperextensión (cabeza que impacta contra una bolsa de aire expandida)  y que presenta cambios degenerativos de la columna cervical preexistentes (espondilosis cervical), tiene elementos que favorecen el traumatismo selectivo de la porción central de la médula espinal (ME), y el sangrado o la conmoción cerebral resultantes del cordón central, pueden provocar el síndrome del cordón central (SCC), con hallazgos clínicos que dependen del tamaño de la afectación de la ME:
@@ -12342,7 +12342,7 @@ Lectura recomendada:
 #B. Realizar tomografía computarizada de cráneo contrastada
 #C. Proceder con manejo neuroquirúrgico
 #D. Realizar punción lumbar
-#Respuesta correcta B
+#Respuesta correcta: B
 #Tema e ítem: ¿Cuándo realizar neuroimágenes ante la sospecha de absceso cerebral?
 
 Argumento: Ante la presencia de un proceso infeccioso predisponente como la otitis media aguda, en conjunto con la tríada clásica de fiebre, cefalea y focalización neurológica (Alteración del 6 par craneal) y síntomas de aumento de la presión intracraneal (PIC) (cefalea y emesis), se debe sospechar de una neuroinfección, en este caso más probable un absceso cerebral, por lo que el paso a seguir es realizar una tomografía computarizada (TAC) de cráneo con contraste o una resonancia magnética para identificar el tamaño, la ubicación y el número de los abscesos intracraneales (Respuesta correcta B).
@@ -21614,7 +21614,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     - Riesgo intermedio (3-4 pólipos < 10 mm o 1-2 ≥ 10mm) - Se realiza colonoscopia a los 3 años
     - Riesgo alto (≥ 5 pólipos < 10 mm o ≥ 3 pólipos si uno de ellos es ≥ 10 mm)- Se realiza colonoscopia al año.
     
-    En este caso, la colonoscopia del paciente reporta 3 pólipos adenomatosos de 5, 6 y 7 mm, siendo una clasificación de riesgo intermedio, por lo que ameritaría una colonoscopia de vigilancia en 3 años (Respuesta correcta 3).
+    En este caso, la colonoscopia del paciente reporta 3 pólipos adenomatosos de 5, 6 y 7 mm, siendo una clasificación de riesgo intermedio, por lo que ameritaría una colonoscopia de vigilancia en 3 años (Respuesta correcta C).
     
     Lecturas recomendadas:
     
@@ -21924,3 +21924,229 @@ TDF: Tenofovir, FTC: emtricitabina, RAL: raltegravil
 #D. Bicarbonato de sodio
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213607&authkey=%21ADr1aDdGwkpTf7k&width=1236&height=1600
+
+#Paciente masculino de 75 años ingresado en la UCI desde hace 48 horas debido a un síndrome coronario agudo. El paciente presenta una presión arterial de 50/20 mmHg y un electrocardiograma (ECG) que muestra fibrilación ventricular. Los pulsos no son palpables, por lo que se inicia RCP avanzada, incluyendo dos intentos de desfibrilación, seguidos de la administración de 1 mg de epinefrina intravenosa (IV). Tras el tercer intento de desfibrilación, el paciente continúa sin pulso y su presión arterial se eleva a 60/35 mmHg, sin cambios en el ECG.
+¿Cuál es el paso inmediato más adecuado en el manejo de este paciente?
+#A. Administrar noradrenalina.
+#B. Administrar amiodarona.
+#C. Administrar epinefrina.
+#D. Administrar atropina.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213631&authkey=%21AIYbW-37cn-q_IY&width=989&height=1280
+
+#Paciente femenina de 68 años con un episodio de ataque cerebrovascular isquémico transitorio. Tiene antecedentes de diabetes tipo 2 (DT2) e hipertensión arterial (HTA) y ha sido fumadora durante 30 años. Actualmente está en tratamiento con metformina e hidroclorotiazida. Sus signos vitales son: frecuencia cardiaca de 110 lpm (latido irregular) y presión arterial de 130/84 mmHg. El examen neurológico es normal. El electrocardiograma muestra complejos QRS irregulares con ausencia de onda P. La administración de uno de los siguientes medicamentos prevendría futuros episodios de disfunción neurológica en esta paciente:
+#A. Atorvastatina.
+#B. Aspirina.
+#C. Clopidogrel.
+#D. Rivaroxabán.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213632&authkey=%21ANiuBhts1QCUN4A&width=989&height=1280
+
+#Paciente masculino de 62 años es llevado a urgencias 40 minutos después de que su esposa notara parálisis facial en el lado derecho. Al examen físico, se observa parálisis facial derecha, hemiparesia derecha y disartria. Tiene antecedentes de hipertensión arterial (HTA), diabetes tipo 2 (DT2) y es fumador desde hace 35 años. Los signos vitales son: temperatura de 37°C, frecuencia cardiaca de 99 lpm y presión arterial de 195/120 mmHg. La glucometría capilar es normal. Se realiza una TAC cerebral de urgencia, que muestra hiperdensidad en la arteria cerebral media izquierda.
+¿Cuál es el manejo más adecuado para este paciente?
+#A. Manejo con alteplasa intravenosa (IV).
+#B. Manejo con labetalol intravenoso (IV).
+#C. Manejo con aspirina vía oral (VO).
+#D. Traslado a quirófano para descompresión quirúrgica.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213633&authkey=%21AEZivZnjEQ6UVk8&width=989&height=1280
+
+#Paciente femenina de 62 años se encuentra en la sala de reanimación debido a una sepsis de origen respiratorio. Se ha iniciado tratamiento con antibióticos y soluciones isotónicas. Su presión arterial ha mejorado con los líquidos, pasando de 82/50 mmHg a 112/62 mmHg. El gasto urinario en las últimas 6 horas es de 75 ml. Los paraclínicos muestran una creatinina de 4.2 mg/dL y un potasio sérico de 6.6 mEq/L. El ECG revela una frecuencia cardiaca de 92 lpm y ondas T picudas.
+¿Cuál es el manejo inmediato más adecuado para esta paciente?
+#A. Administrar gluconato de calcio intravenoso (IV).
+#B. Administrar insulina + dextrosa.
+#C. Iniciar bicarbonato de sodio intravenoso (IV).
+#D. Iniciar furosemida intravenosa (IV).
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213634&authkey=%21AL2S72es-HWzu2I&width=989&height=1280
+
+#Paciente femenina de 46 años consulta por presentar, durante los últimos 8 meses, dolor progresivo en ambas manos, distribuido en la cara palmar desde el 1° hasta el 3° dedo, asociado a entumecimiento y parestesia en los dedos. Refiere que los síntomas empeoran durante la noche y mejoran al estrechar las manos. Trabaja como secretaria en una oficina. Los síntomas se reproducen al realizar una flexión sostenida de la muñeca. Tras dialogar con la paciente, se decide optar por un manejo conservador.
+¿Cuál es el manejo más adecuado para este caso?
+#A. Inmovilización nocturna de las muñecas.
+#B. Uso de teclado ergonómico durante su trabajo.
+#C. Iniciar terapia con antiinflamatorios no esteroideos orales.
+#D. Realizar terapia física.
+Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213635&authkey=%21AHNwPh71cWB7TAU&width=989&height=1280
+
+#Un paciente masculino de 60 años, con antecedentes de HTA, dislipidemia y tabaquismo, es evaluado durante una consulta de rutina. Sus signos vitales son normales. Al examen físico, se encuentra una masa abdominal pulsátil en la región periumbilical con un soplo audible a la auscultación. Los exámenes paraclínicos son normales. 
+¿Cuál es la prueba diagnóstica adecuada en este caso?
+#A. Tomografía contrastada de abdomen
+#B. Ecografía abdominal
+#C. Arteriografía percutánea
+#D. Arteriografía renal
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213637&authkey=%21AFRnyPh6ym8m05Q&width=989&height=1280
+
+#Masculino de 14 meses de edad presenta una masa abdominal, la cual se hizo más notoria cuando empezó a caminar. La masa aumenta de tamaño al llorar y desaparece al decúbito. Al examen físico hay una masa umbilical de aprox. 1 cm, no dolorosa y fácilmente reducible. Sus padres quieren que su hijo sea operado. 
+¿Cuál de las siguientes afirmaciones sobre esta intervención es correcta?
+#A.	El paciente debe ser valorado por un anestesiólogo previo a la cirugía.
+#B.	Este paciente sería candidato a la misma si persiste con la hernia después de los 3 años de edad.
+#C.	Se indica cuando se presentan defectos grandes en la pared abdominal (≥ 1 cm).
+#D.	Es poco probable que este paciente requiera de dicha cirugía en un futuro cercano.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213638&authkey=%21ADRhg-pMXGqD9lc&width=989&height=1280
+
+#Paciente masculino de 60 años, con antecedentes de hipertensión arterial (HTA), dislipidemia y tabaquismo, presenta dolor abdominal desde hace 2 meses. Al examen físico, se encuentra una masa periumbilical a la palpación profunda, asociada a soplo. El paciente trae consigo un reporte de una tomografía de abdomen contrastada que evidencia un aneurisma de aorta abdominal de 48 mm. ¿Cuál es el manejo adecuado para este paciente?
+#A. Programar para reparación endovascular prioritaria
+#B. Realizar ultrasonografía de control semestral
+#C. Realizar TAC contrastada anual
+#D. Realizar ultrasonografía en 3 meses
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213639&authkey=%21AEUJxqoXtqBGyJA&width=989&height=1280
+
+#Masculino de 23 años fue intervenido quirúrgicamente por una rotura esplénica y laceración hepática tras un trauma cerrado hace 18 horas. Ahora sus signos vitales son: FC de 140 lpm y PA de 80/50 mmHg. Recibió transfusión de 6 unidades de glóbulos rojos. Al examen físico presenta distensión venosa yugular y retracciones intercostales. El abdomen está tenso y distendido, sin cambios inflamatorios en herida quirúrgica. Paraclínicos: BUN 80 mg/dl, Cr 3 mg/dl, HCO3 29 mEq/l. Gasto urinario de 90 cc en 6 horas. La presión intraabdominal es de 22 mmHg. ¿Cuál es el manejo adecuado en este paciente? 
+#A.	Administrar plasma fresco congelado.
+#B.	Realizar embolización angiográfica.
+#C.	Reintervenir y dejar abdomen abierto.
+#D.	Administrar epinefrina intramuscular.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213640&authkey=%21ANApwTZvGfkKbz4&width=989&height=1280
+
+#Paciente femenina de 32 años presenta dolor epigástrico, irradiado a la espalda, de inicio intenso y repentino, asociado a episodios eméticos desde hace 4 horas, el cual comenzó después de comer y tomar unas cervezas. Signos vitales: temperatura de 37°C, frecuencia cardíaca de 98 lpm y presión arterial de 110/60 mmHg. Al examen físico, se corrobora la ubicación del dolor, con defensa abdominal, sin exacerbación al rebote. Paraclínicos: HTO en 43%, leucocitos en 9000/mm3, Na+: 140 mEq/l, K+: 4.5 mEq/l, Ca++: 9 mg/dl, lipasa 980 U/L, amilasa 152 U/L, ALT 140 U/L. Se inician líquidos endovenosos y analgesia. ¿Cuál de los siguientes es el siguiente paso más apropiado en la gestión?
+#A.	Realizar una ecografía de abdomen.
+#B.	Realizar una TAC contrastada de abdomen.
+#C.	Realizar un perfil lipídico.
+#D.	Programar para una CPRE.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213641&authkey=%21AI3ESjji9bYQSVE&width=989&height=1280
+
+#Francisco de 40 años, con antecedente de hospitalización hace 48 horas por ITU manejada con trimetoprim/sulfametoxazol, consultó nuevamente ahora por rash y sensación de ardor cutáneo asociado a múltiples lesiones en piel.  Al examen físico, eritema generalizado acompañado de ampollas flácidas y erosiones (como si se despegara la epidermis a nivel de la capa basal) que comprometen el 35% de la superficie corporal (simulan una quemadura superficial); incluyendo compromiso de mucosas. Ante dichos hallazgos, ¿cuál es la sospecha diagnóstica correcta?
+#A. Necrólisis epidérmica tóxica
+#B. Síndrome de Stevens-Johnson
+#C. Pénfigo vulgar inducido por medicamentos
+#D. Síndrome de la piel escaldada por estafilococos
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213643&authkey=%21AJrbd-uZCOm_IPs&width=989&height=1280
+
+#Varón de 59 años, con antecedente de esquizofrenia en manejo con risperidona, es llevado a urgencias por cursar con fiebre objetiva y alteración del sensorio. Al examen físico con glasgow 6/15, Tº de 40.5º C; FR de 38 rpm y SatO2 81% con uso de musculatura accesoria respiratoria y rigidez muscular intensa en extremidades, sin evidencia de signos meníngeos.  Se decide realizar una punción lumbar, la cual no tuvo hallazgos anormales. 
+¿Cuál considera que es la prueba más útil en el contexto clínico de este paciente?
+#A. Creatinina
+#B. Cistatina C 
+#C. CPK
+#D. PCR
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213644&authkey=%21AGgb7OOsZKi6COM&width=989&height=1280
+
+#Hernán, de 78 años, previamente sano, es traído de un hogar geriátrico e ingresado a urgencias por desorientación en espacio y tiempo de 24 horas de evolución. Sus cuidadores refieren episodios de somnolencia y apatía, seguidos por episodios de agitación motora y verbal, durante los cuales vocifera palabras soeces. El examen físico no revela hallazgos anormales. El examen neurológico no es confiable debido a los cambios fluctuantes en el estado de ánimo del paciente.
+Ante estos hallazgos, ¿cuál es la sospecha diagnóstica más probable?
+#A. Angiopatía amiloide
+#B. Síndrome confusional agudo.
+#C. Principios de esquizofrenia
+#D. Demencia
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213645&authkey=%21ALTCUXZiymldRrk&width=989&height=1280
+
+#Eunice, de 52 años, sin antecedentes médicos de importancia, acude a una cita de control de rutina. Trae resultado de una mamografía de tamizaje que reporta lesiones compatibles con microcalcificaciones, BIRADS 4. El examen físico es anodino, y la ecografía mamaria no muestra alteraciones. No refiere factores de riesgo para cáncer de mama.
+¿Cuál sería la conducta a seguir?
+#A. Indicar una biopsia con aguja gruesa.
+#B. Control con mamografía y ecografía en 6 meses.
+#C. Realizar biopsia asistida con vacío.
+#D. Indicar aspiración con aguja fina de la lesión.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213646&authkey=%21AB45bWQKv_kDL-U&width=989&height=1280
+
+#Carolina, de 16 años, con antecedente de inicio de vida sexual y uso irregular de condón, consulta en un primer nivel un domingo por 4 días de dolor pélvico, disuria, y descarga vaginal y uretral, sin referir otra sintomatología. En la especuloscopia se observa una secreción cervical espesa y amarilla, y el cuello uterino sangra al contacto con un hisopo. No hay dolor en el examen pélvico bimanual. El resto del examen físico es normal. En el momento, no se dispone de estudios paraclínicos en el hospital.
+¿Cuál es la conducta terapéutica adecuada?
+#A. Administrar ceftriaxona 500 mg intramuscular dosis única y azitromicina 1 g vía oral cada 12 horas 
+#B. Ceftriaxona 500 mg intramuscular dosis única y azitromicina 1 g vía oral dosis única 
+#C. Ciprofloxacina 400 mg vía oral cada 12 horas por 7 días 
+#D. Penicilina G. Benzatínica 2.400.000 UI dosis única intramuscular y azitromicina 1 g vía oral dosis única
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213647&authkey=%21AKckLq3e5P0MU9A&width=989&height=1280
+
+#Salomé, de 4 años, es llevada a urgencias por su madre tras una caída accidental en una piscina. La madre informa que la sacó del agua tan pronto como se dio cuenta y que, aunque estaba inconsciente, respiraba. Actualmente, la paciente se encuentra somnolienta, con taquicardia y taquipnea. La SatO2 es del 89% a pesar de estar con cánula de alto flujo. Además, presenta aleteo nasal, retracciones intercostales y sibilancias a la auscultación. Mueve todas las extremidades, pero no sigue órdenes.
+¿Cuál es el primer paso en el manejo de esta paciente?
+#A. Inmovilización de la columna cervical
+#B. Intubación orotraqueal
+#C. Ventilación con presión positiva
+#D. TAC de cráneo simple
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213649&authkey=%21AHNs3kIq5d55PAs&width=989&height=1280
+
+#Neonato de 16 días de vida. Desde hace 3 días inició con vómitos posprandiales que cada vez son más intensos y frecuentes. Con respecto a la patología que sospecha, ¿Cuál de las siguientes afirmaciones es cierta? 
+#A. Suele cursar con acidosis metabólica
+#B. Es más frecuente en niños
+#C. El tratamiento es médico 
+#D. Es frecuente el antecedente de polihidramnios.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213650&authkey=%21AKWJ0pqhzbsGPKw&width=989&height=1280
+
+#Julián, 3 años. Llevado a urgencias por tos, disnea y sibilancias audibles, desde hace 30 minutos. La madre dice que el paciente estaba jugando afuera con sus amigos cuando comenzó la sintomatología. Hace 3 días presenta rinorrea. Se encuentra taquicárdico, taquipnéico, SatO2 91% al aire ambiente. Se ausculta hipoventilación y sibilancias espiratorias en el campo pulmonar derecho. En la rx de tórax se evidencia hiperinsuflación del pulmón derecho y desplazamiento del mediastino hacia la izquierda. ¿Cuál es el primer paso en el tratamiento?
+#A. Epinefrina nebulizada
+#B. Broncoscopia rígida 
+#C. Toracostomía
+#D. Nebulizaciones con salbutamol
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213651&authkey=%21APYuKRak6WExBS4&width=989&height=1280
+
+#Esteban tiene 15 meses. Es llevado al consultorio debido a que la madre le preocupa la forma de sus piernas, la cual refiere que ha empeorado desde que empezó a caminar hace un mes. En la exploración, se encuentra en peso y talla adecuados para la edad y se evidencia un genu varo simétrico, sin otros hallazgos patológicos. ¿Qué le diría a la madre?
+#A. Es algo normal, solo requiere seguimiento
+#B. Requiere ortesis y terapia física
+#C. Se debe ordenar rx de tibia bilateral
+#D. Hay que remitir al ortopedista
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213652&authkey=%21AKRaYRHWAkRORVY&width=989&height=1280
+
+#Lázaro de 7 años. Es llevado a su consulta por un acné facial grave que ha aparecido en los últimos meses. Fue automedicado con peróxido de benzoilo tópico y jabón con ácido salicílico, sin mejoría. También ha notado un aumento significativo en la talla de su hijo, siendo ahora más alto que su hermano gemelo. La altura está en el percentil 98 y el peso en el percentil 85 para edad y sexo. Se evidencia acné quístico grave en cara y hombros, con vello púbico y axilar grueso. El volumen testicular es de 2 ml. La edad ósea es 2 desviaciones estándar mayor que la edad cronológica. Los niveles iniciales de LH son bajos y no aumentan después de la estimulación con un agonista de GnRH. 
+¿Cuál considera el diagnóstico más probable?
+#A. Pubertad precoz idiopática
+#B. Síndrome de Klinefelter 
+#C. Hiperplasia adrenal congénita no clásica
+#D. Síndrome de McCune-Albright
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213653&authkey=%21AHTQPVG73XBfZ0w&width=989&height=1280
+
+#Acude a consulta una mujer de 25 años, con antecedente de asma bien controlada con fluticasona/salmeterol. Refiere que hace 15 días, tras el consumo de maní, presentó lesiones cutáneas eritematosas y elevadas (descritas como "ronchas") y una sensación de cosquilleo en la orofaringe, los cuales se resolvieron espontáneamente en menos de cuatro horas. Desde entonces, ha evitado el consumo de frutos secos por temor, sin presentar nuevos eventos similares. El examen físico es normal. 
+¿Cuál sería la conducta adecuada? 
+#A. Realizar prick test
+#B. Medir niveles de IgE e IgG específica en sangre para frutos secos
+#C. Realizar prueba de provocación oral 
+#D. Realizar test de inyección intradérmica
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213655&authkey=%21AOKazmbBcutSMnQ&width=989&height=1280
+
+#Andrea de 26 años, sin antecedentes médicos relevantes, remitida a la consulta de alergología tras presentar síntomas gastrointestinales hace una semana, posteriores al consumo de mariscos y pescado. Trae un reporte de IgE específica de 18 KU/L frente a Anisakis simplex.
+¿Cuál de las siguientes afirmaciones es verdadera? 
+#A. Debe evitar el consumo de cualquier tipo de mariscos, pero puede comer pescado siempre que esté fresco y cocinado a 30-40°C durante al menos 2 minutos
+#B. Debe evitar el consumo de cualquier tipo de mariscos y pescado  
+#C. Puede consumir mariscos y pescados siempre que estén frescos y cuando estén cocinados a la plancha. 
+#D. Puede consumir pescados siempre que sean ultracongelados comerciales
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213656&authkey=%21AFPPCwI4KC1Dnd0&width=989&height=1280
+
+#Mujer de 61 años, consulta al programa de control. Tiene antecedentes de diabetes tipo 2 desde hace 7 años, hipertensión arterial y enfermedad renal crónica con TFG de 38 mL/min. Actualmente en tratamiento con metformina, losartán a dosis máxima tolerable y rosuvastatina. Laboratorios: Hb1Ac 7.1%, Hb 11,3 g/dL, HCO3 25 mEq/L, K 4.2 mEq/L, cociente albumina/creatinina en orina 385 mg/g. 
+¿Cuál de los siguientes esquemas de tratamiento es el más adecuado para reducir la progresión de la enfermedad renal crónica en este paciente?
+#A. Solo iSGLT2 
+#B. iSGLT2 + firenona + bicarbonato sódico  
+#C. iSGLT2 + firenona
+#D. iSGLT2 + firenona + iECA + eritropoyetina
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213657&authkey=%21AGKfd238XQsZFrs&width=989&height=1280
+
+#El interno de medicina interna le trae el reporte de una gasometría arterial: pH 7,38, HCO3 33 mEq/L y PaCO2 57 mmHg. 
+¿Cuál de las siguientes alteraciones presenta el paciente?
+#A. Acidosis respiratoria y acidosis metabólica 
+#B. Acidosis respiratoria y alcalosis metabólica.
+#C. Alcalosis respiratoria y acidosis metabólica
+#D. No presenta alteraciones del equilibrio acido base
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213658&authkey=%21AHhlMbkrCc89Bgg&width=989&height=1280
+
+#Se realiza un ensayo clínico en pacientes con diabetes tipo 2 para valorar la efectividad de un nuevo fármaco en la reducción de aparición de neuropatía diabética. El riesgo relativo (RR) de neuropatía diabética en relación con el fármaco habitual es de 0,75 con un IC al 95% de 0,40 a 1,25. 
+¿Cuál de las siguientes afirmaciones es verdadera?
+#A. El nuevo fármaco reduce el riesgo de neuropatía diabética en un 75% 
+#B. No hay evidencia estadística que sugiera diferencias en los efectos entre los dos fármacos estudiados
+#C. El nuevo fármaco ofrece una reducción del riesgo de neuropatía diabética del 25%, por lo cual debería recomendarse para su uso 
+#D. El nuevo fármaco es muy eficaz y debería ser recomendado para su uso.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213659&authkey=%21ABDtXUP2oGrg3Mw&width=989&height=1280
+
+#Femenina de 26 años, gestante de 12 semanas. Vive en zona rural de Acandí (Chocó). Consulta al servicio de urgencias por fiebre alta, cefalea intensa, mialgias y escalofríos desde hace 72 horas. Examen físico: PA 110/75 mmHg, FC 91 lpm, buen estado general, leve palidez mucocutánea, sin signos de deshidratación. Laboratorios: sin anormalidades. Toman gota gruesa en la que documentan formas parasitarias de P. vivax. Pesa 75 kg. 
+¿Cuál de los siguientes es el tratamiento de elección?
+#A. Artesunato (IV) 
+#B. Cloroquina (VO) + primaquina (VO)
+#C. Cloroquina (VO) 
+#D. Artemeter lumefrantina (VO)
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213660&authkey=%21APsqJIQIKW6KgCI&width=1236&height=1600
