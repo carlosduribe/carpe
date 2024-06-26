@@ -22150,3 +22150,220 @@ Ante estos hallazgos, ¿cuál es la sospecha diagnóstica más probable?
 #D. Artemeter lumefrantina (VO)
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213660&authkey=%21APsqJIQIKW6KgCI&width=1236&height=1600
+
+#Una mujer de 30 años consulta en urgencias una hora después de haber sufrido una agresión sexual con penetración vaginal. La paciente se dirigió inmediatamente al hospital. No tiene antecedentes médicos de importancia. Su esquema de vacunación es completo. Se realiza un examen físico detallado y se toman muestras para pruebas de infecciones de transmisión sexual (ITS) y análisis medicolegales. La prueba de embarazo resulta negativa. Se notifica el incidente a las autoridades judiciales.
+¿Cuál es el abordaje médico adecuado en este momento?
+#A. Administrar mifepristona y misoprostol con 24 horas de diferencia.
+#B. Iniciar profilaxis con tenofovir y abacavir.
+#C. Indicar profilaxis con ceftriaxona, metronidazol y azitromicina.
+#D. Administrar inmunoglobulina contra hepatitis B.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213685&authkey=%21AJEIQyQdDvRcM9o&width=990&height=1280
+
+#Masculino de 45 años es llevado a urgencias tras sufrir aplastamiento por un bloque de concreto en su pierna izquierda. Signos vitales: FC de 130 lpm, PA de 80/50 mmHg, FR de 28 y SatO2 al 92% con oxigeno ambiente. Al examen físico hay una herida lacerante en cara antero-lateral de muslo izquierdo con sangrado activo importante y un hematoma grande y pulsátil en región inguinal. No se palpan los pulsos distales. El llenado capilar es de 4 seg. La extremidad está fría y cianótica.
+¿Cuál es el manejo adecuado en este paciente?
+#A. Aplicar torniquete proximal a la lesión y trasladar a urgencias para intervención quirúrgica de emergencia.
+#B. Administrar líquidos isotónicos, monitorizar signos vitales y esperar a que pare el sangrado.
+#C. Realizar una angiotomografia previo a realizar intervención quirúrgica.
+#D. Realizar una fasciotomía inmediata en urgencias y luego trasladar a cirugía.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213686&authkey=%21AAke6jr0qgBv0Iw&width=990&height=1280
+
+#Usted se encuentra en un 3° nivel de atención en donde recibe a un paciente masculino de 45 años que es llevado a urgencias por una caída desde una escalera de aproximadamente 1 metro de altura, recibiendo un golpe en la cabeza. Al llegar, el paciente se encuentra consciente y orientado, pero refiere cefalea, vértigo y ha presentado dos episodios eméticos desde entonces. Niega pérdidas del conocimiento durante o después del evento. Al examen físico, presenta apertura ocular al llamado, obedece órdenes y su respuesta verbal es normal. No hay evidencia de fracturas o deformidades craneales.
+¿Cuál sería el manejo adecuado en este paciente y por qué?
+#A. Realizar una tomografía de cráneo simple debido al mecanismo de la lesión.
+#B. Dar egreso médico con signos de alarma por ausencia de pérdida de la conciencia y síntomas controlables.
+#C. Dejar en observación y realizar tomografía de cráneo si el paciente presenta deterioro neurológico en las próximas 4-6 horas.
+#D. Realizar tomografía de cráneo simple debido al historial de episodios eméticos y puntuación en la escala de Glasgow.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213687&authkey=%21AFEOkwCi_p4M2p8&width=990&height=1280
+
+#Masculino de 65 años se encuentra en sala de reanimación por una neumonía adquirida en la comunidad que evolucionó a sepsis. Al ingreso el paciente presenta PA de 85/55 mmHg, FC de 120 lpm, FR de 28 rpm, SatO2 al 93% con mascara de oxígeno y temp. de 38.5°C. Su Glasgow es de 14 puntos. Paraclínicos: lactato sérico de 5 mmol/L, Leu: 18.000/mm3 y Cr de 2.0 (Elevada con respecto a su basal). Tras la administración de 2L Hartman la presión arterial se evidencia en 90/60 mmHg y persisten los signos de hipoperfusión. ¿Cuál es el medicamento de elección en este paciente?
+#A. Dopamina.
+#B. Norepinefrina.
+#C. Vasopresina.
+#D. Dobutamina.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213688&authkey=%21AJ7PYg3lIqcqRR8&width=990&height=1280
+
+#Femenina de 58 años se encuentra en UCI por shock séptico de foco urinario. Al momento sus signos vitales son: PA 70/40 mmHg, FC de 130 lpm, FR de 26 rpm, Temp de 38.8°C. Paraclínicos: Lactato de 6 mmol/L y Leu: 22.000/mm3. A pesar de la administración de 3L de cristaloides y el uso de dos vasopresores a dosis altas la presión arterial no mejora. ¿Cuál de los siguientes seria la terapia adecuada en este paciente?
+#A. Aumentar dosis de vasopresores.
+#B. Agregar dobutamina a la terapia.
+#C. Administrar hidrocortisona IV.
+#D. Iniciar dopamina.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213689&authkey=%21ANWUAnUnpPve3uk&width=990&height=1280
+
+#Luis, un niño de 2 años, presenta dificultad respiratoria y estridor que comenzaron hoy. Hace dos días comenzó con rinorrea, congestión y tos. Actualmente está febril, taquicárdico y taquipnéico, saturando 96% sin oxígeno suplementario. Muestra retracciones supraesternales leves y una tos seca y áspera. La orofaringe se observa levemente eritematosa. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Epiglotitis
+#B. Bronquiolitis
+#C. Crup
+#D. Aspiración de cuerpo extraño
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213691&authkey=%21ADg-om3PYNoo05I&width=990&height=1280
+
+#Julieta, una niña de 6 meses, alimentada con leche materna y de fórmula, sin mascotas en casa y bañada cada dos días con syndet. Es llevada a su consulta por un brote pruriginoso en la cara, los brazos y el pecho. Niegan exposición a ropa nueva, detergentes, lociones u otras sustancias. Se evidencian lesiones eritematosas y descamativas en mejillas, frente, tórax y brazos. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Dermatitis seborreica
+#B. Dermatitis alérgica de contacto
+#C. Dermatitis atópica
+#D. Eccema herpético
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213692&authkey=%21AF8Qtn2wPyfE9bQ&width=990&height=1280
+
+#Camilo, 5 años, sin antecedentes patológicos, con 3 días de fiebre, odinofagia e hiporexia. Se encuentra febril, con TA 108/58, FC 108 lpm, FR 18 rpm; se evidencian varias vesículas en pilares palatinos anteriores, de aproximadamente 1 mm y varias úlceras grises y poco profundas en el paladar blando y la úvula. De acuerdo con la patología que sospecha, ¿Cuál de los siguientes es el patógeno más probable?
+#A. Herpes simple
+#B. Adenovirus
+#C. Coxsackie virus 
+#D. S. pyogenes
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213693&authkey=%21AIdhAJSkidu087g&width=990&height=1280
+
+#Femenina de 2 días de vida, se encuentra en UCIN por prematuridad y dificultad respiratoria. Nació a las 29 semanas por parto vaginal espontáneo. La madre recibió una dosis de betametasona prenatal. La paciente se encuentra con LEV, recibió surfactante y se inició CPAP. Hace unos minutos, ha empeorado el quejido y el trabajo respiratorio, con FR 70 y SatO2 80%. Se observa abolición de murmullo vesicular e hiperresonancia a la percusión en el campo pulmonar izquierdo. ¿Cuál de los siguientes es el mejor paso con esta paciente?
+#A. Suspender CPAP
+#B. Descompresión con aguja
+#C. Incrementar FiO2 del CPAP y la presión espiratoria
+#D. Realizar RX de tórax
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213694&authkey=%21AAzDDxE_G4dVGW4&width=990&height=1280
+
+#Laura, una adolescente de 16 años con un esquema de vacunación incompleto, llega a urgencias por un brote que inició esta mañana, progresando de forma cefalocaudal, acompañado de artralgias en dedos y muñecas. Es sexualmente activa. Se encuentra febril, con buen estado general, presentando una erupción maculopapular eritematosa en cara, pecho, espalda y extremidades, respetando palmas y plantas. Además, se palpa linfadenopatía auricular posterior y suboccipital. ¿Cuál de las siguientes es la causa más probable de los síntomas de esta paciente?
+#A. Epstein-Barr
+#B. Neisseria gonorrhoeae
+#C. Treponema pallidum
+#D. Rubéola
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213695&authkey=%21ACtatVw_dyoGDoY&width=990&height=1280
+
+#Erminda, de 51 años, con antecedente de menopausia desde hace un año y obesidad grado II, consulta por presentar dos semanas de evolución de sangrado vaginal escaso. La paciente describe este sangrado como de menor cantidad en comparación con los sangrados que presentaba durante sus menstruaciones. Se decidió realizar una ecografía transvaginal, la cual reporta un endometrio de 6.5 mm. ¿Cuál es la respuesta correcta  en cuanto a la conducta adecuada a seguir?
+#A. Tomar biopsia endometrial a ciegas por método de aspiración.
+#B. Iniciar anticonceptivosorales combinados cada 8 horas por 7 días e indicar seguimiento por consulta externa.
+#C. Realizar histeroscopia diagnóstica sin toma de biopsia endometrial.
+#D. Tomar biopsia de endometrio bajo visión histeroscópica.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213697&authkey=%21AN_QfJIMd4St9os&width=989&height=1280
+
+#Olga, de 24 años, residente en zona veredal a 3 horas del casco urbano, consultó al hospital de segundo nivel del municipio por 3 días de dolor abdominal en hipogastrio que ha empeorado con la última relación sexual. Signos vitales: T° 38,8°C. Al examen físico, dolor a la palpación en hipogastrio, adenopatías inguinales bilaterales y en la vaginoscopia, presencia de flujo vaginal purulento. La exploración bimanual genital genera dolor al movimiento uterino y cervical. Los paraclínicos reportan: Leucocitos 13.500 mm3 y PCR 30 mg/L. ¿Cuál es el tratamiento correcto para la condición de esta paciente?
+#A. Ceftriaxona 500 mg IM dosis única + Doxiciclina 100 mg/12 h por 14 días VO.
+#B. Ampicilina/Sulbactam 3 g/6 horas IV + Doxiciclina 100 mg/12 horas VO.
+#C. Ceftriaxona 1 g/12 horas IM + Doxiciclina 100 mg/12 h VO + Metronidazol 1 g/12 horas VO.
+#D. Ampicilina/Sulbactam 1.5 g/8 horas IV + Doxiciclina 50 mg/24 horas VO.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213698&authkey=%21AIcwshDJtuaaB3c&width=990&height=1280
+
+#Lucia una primigestante de 38.2 semanas, sin antecedentes médicos de interes con perfil infeccioso negativo, consulta a urgencias de centro hospitalario de primer nivel del municipio de San Carlos Antioquia por dinámica uterina regular. Al examen fisico con dilatación de 5cm, borramiento del 80% y por maniobras de Leopold aparenta un  feto unico en cefalico. ¿Cual es la conducta adecuada a seguir?
+#A. Se ingresa a la paciente directamente a sala de trabajo de parto para ser atendida por gineco obstetra
+#B.  Ingreso hospitalario a salas de preparto para monitorizar feto y decidir nuevas conductas
+#C.  Se indica a la paciente es un triage 4; por ende, se redirecciona a consulta prioritaria o en su defecto consulta externa
+#D. Ingreso hospitalario a salas de preparto para monitorizar feto y decidir nuevas conductas segun criterio de ginecoobsterta del servicio.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213699&authkey=%21AERZ0_-OtsJOjlk&width=990&height=1280
+
+#Ana de 36 años, G1P0 con 27 semanas de gestación, consultó por ausencia de movimientos fetales durante los últimos 2 días. No refiere sangrado ni secreción vaginal. Al examen pélvico, cuello uterino blando de 2 cm de largo en la línea media con un orificio cervical que mide 3 cm. La ecografía transvaginal muestra un feto sin actividad cardíaca. ¿Cuál es la conducta a seguir?
+#A. Realizar parto por cesárea
+#B. Inducción del trabajo de parto con sonda Foley
+#C. Ofrecer administración de oxitocina para inducción del parto
+#D. Realizar dilatación y curetaje
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213700&authkey=%21AMg5q7Imb_JLnD8&width=989&height=1280
+
+#Mariana, de 25 años, con antecedente de G4P0 y tres abortos en el primer trimestre antes de la semana 10, y con una relación monógama, consulta para un control de rutina a las 6 semanas de gestación. No refiere sintomatología en el momento. Los paraclínicos de control muestran un hematocrito de 33%, leucocitos en 7.000, (TP) de 10 segundos, (TTP) de 47 segundos y prueba de VDRL positiva. El uroanálisis no revela proteinuria y la ecografía muestra un polo fetal de 6 semanas con actividad cardíaca. ¿Cuál de las siguientes pruebas analíticas cree que nos orientaría mejor en nuestra sospecha diagnóstica?
+#A. Anticoagulante lúpico, anticuerpos anti-beta 2 IgG e IgM y anticardiolipina IgG e IgM.
+#B. Solicitar FTA-ABS o TPPA.
+#C. Medición de proteína C y S en sangre.
+#D. Medición de prolactina sérica.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213701&authkey=%21AN_v-ehp3Q8nvjA&width=990&height=1280
+
+#Marta, 70 años, ingresa a UCI con hipotensión y hematoquecia. Tiene una colonoscopia normal de hace 1 mes. Está taquicárdica. Su abdomen es blando, no doloroso, sin masas palpables. Se observan coágulos rutilantes y hemorragia activa. Paraclínicos: Hb 6 g/d, BUN 7 mg/dL, Cr 0,7 mg/dL. Se reanima y se transfunde. La esofagogastroduodenoscopia es normal. ¿Cuál es la conducta más adecuada?
+#A.	Realizar gammagrafía nuclear 
+#B.	Realizar laparotomía exploratoria 
+#C.	Realizar angiografía abdominal 
+#D.	Realizar colonoscopia inmediata tras lavado colónico rápido
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213703&authkey=%21AAnzORrtFgREr38&width=989&height=1280
+
+#Paciente masculino de 63 años, sin antecedentes familiares significativos. Hace 1 semana se realizó una colonoscopia inicial que reportó dos pólipos adenomatosos tubulares de 3 y 11 mm, sin características vellosas ni displasia de alto grado. Él le pregunta cuándo será la próxima colonoscopia. ¿Usted qué le responde?
+#A.	Dentro de 5 años
+#B.	A los 3 años
+#C.	1 año después
+#D.	Dentro de 10 años
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213704&authkey=%21AC1JzWpmSxjVrxw&width=989&height=1280
+
+#Sandra, 30 años, consulta por dolor epigástrico desde hace 6h, irradiado al hombro derecho. Está taquicardia y tiene leve sensibilidad epigástrica. Paraclínicos: AST 80 U/L, ALT 90 U/L, FA 200 U/L, BT 4.9 mg/dL. ECO hepática y de vías biliares: hígado con ecotextura gruesa, un colédoco con diámetro de 7 mm y una vesícula biliar contraída sin colelitiasis. 
+¿Cuál es la mejor conducta?
+#A.	Llevar a CPRE
+#B.	Llevar a Colelap
+#C.	Realizar colangioresonancia
+#D.	Considerar colangiografía transparietohepática percutánea
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213705&authkey=%21AAXw2UU5IrShRFI&width=989&height=1280
+
+#Pedro, 56 años. Ingresa a UCI por una pancreatitis aguda grave, tiene dificultad respiratoria. Está disneico, con dolor intenso. Examen físico: T 39°C, PA 120/70 mmHg, FC 120 l/min, FR 28 r/min, SatO2 90% al ambiente. La TAC muestra una colección heterogénea, peripancreática, sin paredes definidas ni presencia de gas. 
+¿Cuál de las siguientes afirmaciones es correcta?
+#A.	La ausencia de gas en la TAC hace poco probable que este paciente tenga una colección peripancreática infectada
+#B.	La complicación aguda de este paciente se resuelve de manera espontánea en unas 4 semanas, solo requiere medidas de soporte
+#C.	Se debe solicitar interconsulta por cirugía general, pues el paciente requiere necrosectomía abierta
+#D.	Se puede considerar manejo con imipenem por mínimo 5 días
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213706&authkey=%21AOSP89W1zipNEFA&width=989&height=1280
+
+#Ismael, 65 años, consulta por dolor en hemiabdomen izquierdo de 1 día de evolución, asociado a náuseas y emesis. Examen físico: T 40°C y FC 105 l/min. Tiene dolor a la palpación en fosa iliaca izquierda con defensa. El TAC reporta divertículos e inflamación de la grasa pericólica del sigmoide. ¿Cuál de las siguientes afirmaciones es correcta?
+#A.	Se beneficia de manejo conservador con antibioticoterapia oral
+#B.	Puede decirse que la enfermedad está confinada
+#C.	Es posible que este paciente tenga una comunicación libre con luz intestinal
+#D.	Este paciente tiene una clasificación de Hinchey Modificada Ib
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213707&authkey=%21ALdP1glzoY5OWos&width=989&height=1280
+
+#Acude a la consulta un paciente de 57 años con antecedentes de tabaquismo y disnea progresiva durante el último año. Trae reporte de espirometría ordenada por su médico familiar con un FEV1 del 58% de lo previsto después de prueba broncodilatadora y un Índice de Tiffeneau (FEV1/CVF) del 76%. 
+¿Cuál es la interpretación correcta para esta espirometría? 
+#A. Tiene obstrucción moderada
+#B. Tiene obstrucción leve
+#C. No tiene obstrucción, pero tiene patrón restrictivo 
+#D. Tiene patrón mixto (obstructivo y restrictivo)
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213709&authkey=%21AEhE9tGaXyYQZVA&width=988&height=1280
+
+#Mujer de 65 años, diagnosticada de cirrosis relacionada con la esteatohepatitis no alcohólica hace 2 años, es traída al servicio de Urgencias por cuadro de fiebre alta, distensión abdominal progresiva, ictericia y desorientación temporo-espacial. Si desea tener información respecto al pronóstico de esta paciente, ¿Cuál de los siguientes paraclínicos serían útiles? 
+#A. Bilirrubinas, albumina serica, INR, ALT/AST, creatinina 
+#B. Bilirrubinas, albumina serica, INR, ALT/AST, proteínas totales
+#C. Bilirrubinas, albumina serica, INR 
+#D. Bilirrubinas, fosfatasa alcalina, ALT/AST, albumina serica, INR
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213710&authkey=%21ABeCMPlfi_iumeA&width=988&height=1280
+
+#Hombre de 65 años. Diagnóstico de EPOC confirmado por espirometría y exposición crónica a humo de cocina de leña. Actualmente en tratamiento con tiotropio (no adherente). Ingresa a Urgencias por 1 semana de aumento de la disnea y tos, con expectoración blanquecina y abundante. Niega fiebre. Examen físico: alerta, orientado, FC 100 lpm, T 37, FR 24 rpm, PA 130/80 mmhg, SatO2 89% sin oxígeno suplementario, retracciones leves de los músculos accesorios de la respiración. La rx de tórax evidencia signos de atrapamiento de aire sin consolidaciones Laboratorios: PCR 11 mg/L, gases arteriales: pH 7.31, PCO2 55 mmHg, HCO3 24, PO2 60 mmHg.
+¿Cuál sería, entre los siguientes, el abordaje terapéutico adecuado para este paciente?
+#A. Iniciar SABA + SAMA, corticoides sistémicos, antibioticos y ordenar traslado a UCI para iniciar ventilación mecánica no invasiva 
+#B. Iniciar SABA + SAMA, corticoides sistémicos y ordenar traslado a UCI para iniciar ventilación mecánica no invasiva
+#C. Iniciar SABA + SAMA, corticoides sistémicos, antibioticos y oxigenoterapia de alto flujo 
+#D. Iniciar SABA + SAMA, corticoides sistémicos, antibioticos y ordenar traslado a UCI para intubación orotraqueal y conexión a la ventilación mecánica.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213711&authkey=%21AA9VbwkLZr5OWgI&width=988&height=1280
+
+#Don Miguel de 57 años, quien hace tres meses sufrió un síndrome coronario agudo con compromiso de cara inferior y dado de alta con atorvastatina 40 mg/día. Tiene antecedente de obesidad grado I, tabaquismo (IPA 30) y dislipidemia mixta no adherente a cambios en el estilo de vida ni medicación. Refiere que ha abandonado el tabaquismo, realiza ejercicio más regular. Trae perfil lipídico al control evidenciando CT de 191 mg/dl, HDL-c 55 mg/dl, LDL-c 118 mg/dl y triglicéridos 161 mg/dl. 
+¿Cuál sería la conducta terapéutica adecuada y la meta de LDL para este paciente? 
+#A. Aumentar la dosis de atorvastatina a 80 mg/día, añadir ezetemibe y meta de LDL < 100 mg/dL
+#B. Aumentar la dosis de atorvastatina a 80 mg/día, añadir ezetemibe y meta de LDL < 55 mg/dL
+#C. Aumentar la dosis de atorvastatina a 80 mg/día, añadir ezetemibe y meta de LDL < 70 mg/dL  
+#D. Aumentar la dosis de atorvastatina a 80 mg/día, añadir ezetemibe + iCPSK9 y meta de LDL < 55 mg/dL
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213712&authkey=%21ANeeE-KqRIVYifc&width=988&height=1280
+
+#Femenina de 43 años, sin antecedentes médicos personales o familiares relevantes, acude a consulta por un chequeo rutinario anual solicitado por su empresa. Niega sintomas. Durante la evaluación, trae reporte de analítica completa encontrando un calcio sérico de 12.5 mg/dL. La PTH es de 131 pg/mL (VRN: 10-65). La densitometría ósea, depuración de creatinina y calcio en orina son normales. 
+¿Cuál de las siguientes es la estrategia de tratamiento más apropiada? 
+#A. Iniciar furosemida
+#B. Iniciar corticoides sistémicos 
+#C. Programar para cirugía 
+#D. Iniciar diálisis
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213713&authkey=%21ACqSDAIX-Vco2ZI&width=988&height=1280
+
+#Masculino de 78 años es llevado a urgencias por náuseas y vértigo desde hace 1 hora. Al examen físico hay fuerza muscular 5/5 en todas las extremidades, sin embargo, la sensación del tacto ligero y pinchazo se encuentran disminuidos en miembro superior e inferior derecho. Se realiza una tomografía de cráneo que evidencia un infarto agudo en la distribución de la arterial cerebral posterior izquierda. ¿Cuál de los siguientes hallazgos semiológicos es más probable que se encuentren en este paciente? 
+#A.	Heminegligencia del lado izquierdo.
+#B.	Hemianopsia homónima derecha con preservación macular.
+#C.	Desviación de la mirada hacia la izquierda.
+#D.	Cuadrantanopsia superior derecha.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213714&authkey=%21AILaJeDHvHg_vbA&width=1236&height=1600
