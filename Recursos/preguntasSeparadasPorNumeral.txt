@@ -22367,3 +22367,228 @@ Ante estos hallazgos, ¿cuál es la sospecha diagnóstica más probable?
 #D.	Cuadrantanopsia superior derecha.
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213714&authkey=%21AILaJeDHvHg_vbA&width=1236&height=1600
+
+#Abril tiene 8 años y es llevada a su consulta porque a la madre le preocupa su macrocefalia. Nació a término, tiene PAI al día y no tiene antecedentes patológicos. Al examen físico, con perímetro cefálico P90, talla P80 y peso P75, con adecuado neurodesarrollo, sin alteraciones neurológicas. ¿Cuál sería el paso a seguir?
+#A. Realizar neuroimagen 
+#B. Calcular perímetro cefálico parental promedio 
+#C. Remitir a neurología
+#D. Seguimiento del perímetro cefálico
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213718&authkey=%21AA-KYTnCVqRpkLk&width=989&height=1280
+
+#Recién nacida de sexo femenino, pretérmino de 30 semanas, por parto vaginal, peso de 1750 g. A los 30 minutos, la enfermera le comenta que se encuentra con retracciones subcostales moderadas y quejido, con FC 145 lpm, FR 66 rpm, afebril y saturando 87% al aire ambiente. A la auscultación, con hipoventilación en ambos campos pulmonares. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Taquipnea transitoria del recién nacido
+#B. Síndrome de dificultad respiratoria del recién nacido
+#C. Neumonía neonatal
+#D. Displasia broncopulmonar
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213719&authkey=%21ADBRdfb2XtgDgDY&width=989&height=1280
+
+#Daniel tiene 6 meses, es llevado a su consulta para una revisión de rutina. Nació a término, sin complicaciones. Recibió lactancia materna exclusiva hasta los 4 meses, recientemente inició consumo de alimentos sólidos como pollo, mantequilla de maní y batatas y zanahorias blandas. Usa chupo en las noches, viaja en el asiento trasero del auto de su madre en un asiento de seguridad orientado hacia adelante. Su padre tiene un arma de fuego en la casa que guarda descargado y bajo llave en un estante alto. ¿Cuál de las siguientes es la recomendación más adecuada en este momento?
+#A. Iniciar con el retiro del chupo
+#B. Retirar todas las armas de la casa
+#C. Usar silla del auto mirando hacia atrás 
+#D. Evitar mantequilla de maní hasta el año
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213720&authkey=%21AJ3ZmwsGOwNnnkM&width=989&height=1280
+
+#Cristian, 5 años, en consulta con sus padres por retraso en el lenguaje. Como antecedentes, nació a las 30 semanas, sin patologías crónicas. El hermano mayor tiene trastorno del espectro autista. El paciente es hablador, utiliza frases completas y tiene un amplio vocabulario, pero con frecuencia pronuncia mal las palabras y más del 30% de su discurso es ininteligible.  Cuando se le da un lápiz y papel, el paciente corre, se sube a la mesa de exploración y escribe su nombre. No tiene alteraciones al examen físico. 
+¿Cuál de los siguientes es el mejor paso a seguir?
+#A. Realizar una prueba de audición 
+#B. Continuar seguimiento
+#C. RMN cerebral
+#D. Remitir a fonoaudiología
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213721&authkey=%21AArD0keek7gJY48&width=989&height=1280
+
+#María Antonia, 3 años llega al servicio de urgencias letárgica y con fiebre. Tuvo diarrea durante varios días, pero en las últimas doce horas ha presentado anorexia y anuria. Al examen físico, febril, PA 60/28, FC 145. Tiene signo del pliegue y llenado capilar de 5 segundos. A pesar de numerosos intentos, no es posible iniciar una vía intravenosa periférica.  ¿Cuál de los siguientes es el mejor a seguir?
+#A. Intentar vía intraósea 
+#B. Traslado a UCIP para colocación de catéter venoso central 
+#C. Intentar inserción de un catéter venoso central 
+#D. Intentar inserción de sonda nasogástrica
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213722&authkey=%21ADi_mv--lSeKCx0&width=989&height=1280
+
+#Paciente masculino de 25 años de edad, sin antecedentes de importancia, residente en Majagual, Sucre. Consulta por un cuadro clínico de 4 días de evolución, caracterizado por picos febriles de 38.5°C, mialgias, artralgias, cefalea y dolor retroocular, que se asocia el día de hoy a dolor abdominal intenso y 4 episodios eméticos en 1 hora. Signos vitales: PA: 110/75 mmHg, FC: 85 lpm, FR: 18 rpm y temperatura: 39°C. ¿Cuál es la clasificación y manejo inicial adecuado para este paciente?
+#A.	Caso sospechoso de dengue sin signos de alarma: Dar egreso con manejo médico, recomendaciones y signos de alarma para reconsultar. 
+#B.	Caso sospechoso de dengue con signos de alarma: Canalizar dos vías, indicar cristaloides a 20 cc/kg para pasar en 15-30 minutos. 
+#C.	Caso sospechoso de dengue grave: Canalizar dos vías, monitorizar, indicar cristaloides a 20 cc/kg para pasar en 15-30 minutos. 
+#D.	Caso sospechoso de dengue con signos de alarma: Hospitalizar, iniciar cristaloides a 10 cc/kg para pasar en 1 hora.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213723&authkey=%21ABsDoAwBdbq37qw&width=989&height=1280
+
+#Mujer de 28 años consulta por dolor en la muñeca derecha desde hace varias semanas. Dio a luz a su hijo hace 2 meses y el dolor le dificulta levantarlo y realizar otras actividades sencillas. Al examen físico, presenta dolor a la palpación en la región radial de la muñeca, pero no en la base del pulgar. Cuando mete el pulgar en el puño e intenta mover la muñeca hacia el lado cubital, el dolor empeora. Además, cuando se le lleva el pulgar hasta el quinto dedo, el dolor también se exacerba. ¿Cuál es el diagnostico más probable en esta paciente?
+#A.	Síndrome del túnel carpiano.
+#B.	Tenosinovitis de De Quervain
+#C.	Esguince de muñeca.
+#D.	Artrosis de la articulación carpometacarpiana del pulgar
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213725&authkey=%21AJ4uNWA39goASg0&width=989&height=1280
+
+#Hombre de 45 años consulta por dolor, edema y eritema en rodilla izquierda desde hace 3 días. Tiene antecedente de artritis reumatoide en tratamiento con metotrexato y hace 6 semanas tuvo un reemplazo de esta misma rodilla. Actualmente, solo le molesta esta articulación. Signos vitales: temperatura de 37,9°C, frecuencia cardíaca de 87 lpm y presión arterial de 136/84 mmHg. Al examen físico: rodilla izquierda con evidencia de derrame moderado con calor, dolor y limitación de extensión y flexión. Paraclínicos: leucocitos en 11.200 mm3, VSG de 52 mm/h y proteína C reactiva de 67 mg/L. ¿Cuál es el abordaje diagnóstico adecuado para este paciente?
+#A.	Realizar una resonancia magnética de la rodilla.
+#B.	Realizar artrocentesis de la articulación.
+#C.	Realizar un ensayo de prednisona oral - 10 mg al día.
+#D.	Realizar una gammagrafía osea nuclear.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213726&authkey=%21ACp8i9IG2I8oZ2c&width=989&height=1280
+
+#Femenina de 23 años es llevada a urgencias por un episodio de 2 minutos de duración caracterizado por sacudidas rítmicas en hemicuerpo izquierdo, con alteración del estado de conciencia, desviación de la mirada hacia arriba y a la izquierda, e incontinencia urinaria. Posterior a ello, se encontró confundida y con debilidad en su hemicuerpo izquierdo, con resolución espontánea en 15 minutos. No tiene antecedentes de importancia. Refiere haber trabajado la noche anterior y que por eso se encuentra cansada. El examen físico al momento es normal. Los paraclínicos séricos y la tomografía computarizada (TAC) de cráneo simple son normales. ¿Cuál es el manejo adecuado para esta paciente?
+#A.	Indicar la realización de una resonancia magnética y un electroencefalograma. 
+#B.	Realizar una punción lumbar.
+#C.	Dar egreso con signos de alarma y recomendaciones.
+#D.	Iniciar tratamiento con valproato de sodio y remitir a neurología.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213727&authkey=%21AJryB9mqY-lI3sg&width=989&height=1280
+
+#Paciente masculino de 50 años presenta dolor abdominal difuso y progresivo, distensión, náuseas y episodios eméticos desde hace 48 horas. Antecedente de apendicetomía hace 20 años. Signos vitales normales con temperatura de 38°C. Al examen físico distensión abdominal con ruidos intestinales aumentados y dolor a la palpación sin signos de irritación peritoneal. Paraclinicos: Leucocitosis con neutrofilia y gases arteriales con pH de 7.2 y HCO3 de 12 mEq/L. Una Rx de abdomen en bipedestación evidencia dilatación de las asas del intestino delgado con niveles hidroaereos y edema de la pared, no hay gas en colon. ¿Cuál es la conducta adecuada? 
+#A.	Colocar sonda nasogástrica e iniciar antibióticos de amplio espectro.
+#B.	Realizar enema opaco para descartar vólvulo del sigma.
+#C.	Realizar laparotomía urgente. 
+#D.	Realizar colonoscopia descompresiva.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213728&authkey=%21AM8kRsKzPGpSzzc&width=989&height=1280
+
+#María, 35 años, le ordenaron 20 mg de omeprazol dos veces al día luego de las comidas desde hace 8 semanas por pirosis. Continúa sintomática, sobre todo postprandial y al supino. Es adherente a la terapia y recomendaciones nutricionales. Niega náuseas, regurgitación, saciedad precoz, diaforesis y pérdida de peso. Su IMC es de 30. ¿Cuál de las siguientes afirmaciones es correcta?
+#A.	Se debe modificar la administración farmacológica
+#B.	Esta paciente requiere de una prueba de medición de pH esofágico 
+#C.	Es recomendable realizar un estudio cardiaco, incluyendo electrocardiograma y prueba de esfuerzo 
+#D.	Requiere una esofagogastroduodenoscopia para descartar ERGE e infección por H. pylori
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213730&authkey=%21AJf0UAkFtWL1X6Q&width=990&height=1280
+
+#¿Cuál es la evaluación más adecuada ante la sospecha de un melanoma cutáneo? 
+#A.	Realizar una escisión elíptica con márgenes de 1 cm 
+#B.	Realizar una biopsia en sacabocados
+#C.	Realizar una biopsia excisional
+#D.	Tomar una fotografía, tranquilizar al paciente y programar una reevaluación en 3 meses
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213731&authkey=%21AG87ZijSmlaliQE&width=990&height=1280
+
+#Gloria, 94 años, padece insuficiencia cardiaca congestiva y fibrilación auricular. Consulta por una pápula nacarada de 8 mm con telangiectasia central prominente en la parte superior del tórax. La notó desde hace año y medio. Ella y sus familiares tienen miedo de que sea un cáncer de piel. ¿Usted qué les recomienda? 
+#A.	Remitir a un dermatólogo 
+#B.	Aplicación de esteroide tópico
+#C.	Biopsia de la lesión 
+#D.	Observación
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213732&authkey=%21ABiP5dEgZPm3A5g&width=990&height=1280
+
+#Pedro, 65 años, consulta por pérdida de 4,5 kg en 2 meses, dolor óseo generalizado, dolor abdominal y malestar general. Niega síntomas urinarios y sangre digestivo. No tiene adenopatías. Paraclínicos: Hb 11,7 g/dL, Ca 10,2 mg/dL, FA 503 U/litro. TAC de abdomen: múltiples metástasis blásticas extensas, próstata de aspecto normal. Biopsia de linfadenopatía paraaórtica: adenocarcinoma poco diferenciado. 
+¿Cuál es la siguiente prueba más apropiada para este paciente? 
+#A.	Perfil tumoral molecular del ganglio linfático muestreado mediante análisis de expresión génica 
+#B.	Tacto rectal y prueba de antígeno prostático específico 
+#C.	Prueba del antígeno carcinoembrionario seguida de colonoscopia 
+#D.	Tomografía por emisión de positrones
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213733&authkey=%21ADLuQzfPu79mTX8&width=990&height=1280
+
+#Claudia, 71 años, tiene HTA y artrosis. Asiste a valoración rutinaria. Se encuentra estable de sus comorbilidades y es adherente al manejo. Al examen físico, se observa lesión ulcerosa en cuadrante superoexterno de mama derecha, asociado piel de naranja. 
+¿Cuál de las siguientes afirmaciones es correcta?
+#A.	Por su edad, comorbilidades y esperanza de vida, ya no es candidata a tamización adicional para cáncer de mama
+#B.	Se debe realizar una ecografía mamaria, si el resultado es Birads 4 o superior, se debe remitir cirugía de mama prioritariamente
+#C.	Se debe solicitar ecografía mamaria
+#D.	Se debe solicitar mamografía y ecografía mamaria
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213734&authkey=%21AFb-nTtuuvWA0Ok&width=990&height=1280
+
+#Juanita, de 25 años y sin antecedentes médicos relevantes, actualmente está en la semana 22 de gestación y presenta una presión arterial de 150/92 mm/Hg en ambos brazos en su consulta. En el control anterior, realizado en la semana 18, su presión arterial estaba por debajo de 130/80 mm/Hg, al igual que en todos los controles previos. No se observaron otros hallazgos anormales en el examen físico. Se llevó a cabo un análisis de proteinuria en la orina de 24 horas que reportó 0.2 gramos. 
+¿Cómo clasificaría esta gestación?
+#A. Hipertensión gestacional
+#B. Hipertensión crónica
+#C. Preeclampsia sobreañadida a hipertensión crónica
+#D. Preeclampsia
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213736&authkey=%21AAOl9JA06RjD6ZM&width=989&height=1280
+
+#Martha, de 42 años y residente en zona rural, no presenta antecedentes médicos relevantes. Es primigestante y se encuentra en la semana 12 de embarazo. Acude a consulta para realizarse la ecografía del primer trimestre y extracción de sangre para el cribado de aneuploidías. Al calcular el riesgo de cromosomopatías, se reporta un riesgo de 1/5 para la trisomía 21. ¿Cuál sería la conducta adecuada a seguir?
+#A. Se trata de un riesgo alto, por lo que se indica amniocentesis.
+#B. Se trata de un riesgo muy alto, por lo que se indica biopsia de vellosidades coriónicas.
+#C. Se trata de un riesgo moderado, por lo que se indica realizar biopsia de vellosidades coriónicas.
+#D. Se trata de un riesgo muy alto, por lo que se indica amniocentesis.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213737&authkey=%21ACiIpXfrM8KPAVE&width=989&height=1280
+
+#Verónica, de 29 años, con antecedente de asma alérgico grave en "step 5" de tratamiento, asiste a consulta preconcepcional preocupada por los posibles efectos teratogénicos de su medicación antiasmática. ¿Cuál de las siguientes opciones es incorrecta?
+#A. Se debe mantener, en caso de una gestación, la dosis de formoterol/budesonida.
+#B. Se debe suspender el manejo con omalizumab.
+#C. Se debe mantener el manejo con salbutamol inhalado en casos de crisis.
+#D. Se deben suspender las dosis de corticosteroide inhalado e iniciar prednisolona oral.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213738&authkey=%21ALkXjpxDD90Hgjs&width=989&height=1280
+
+#Teniendo en cuenta los lineamientos del Ministerio de Salud de Colombia para la detección y manejo de lesiones preinvasivas del cuello uterino, ¿cuál de las siguientes opciones es falsa respecto a las indicaciones de tamizaje de cáncer de cérvix?
+#A. Mujer de 24 años con sexarquia a los 14 años y múltiples parejas sexuales desde entonces
+#B. Mujer de 26 años con citología negativa hace 3 años
+#C. Mujer de 40 años con prueba de ADN-VPH de virus del papiloma humano negativos hace 6 años
+#D. Mujer de 67 años con incontinencia urinaria de esfuerzo, no se indica realizar estrategia de tamizaje
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213739&authkey=%21AItbkNlRRhCD_rs&width=989&height=1280
+
+#Elida de 28 años, sin antecedentes médicos de interés consulta por flujo vaginal maloliente y prurito vulvar. Refiere un flujo vaginal amarillo-verdoso y espumoso, prurito intenso, sensación de irritación y disuria ocasional desde hace dos semanas. Al examen ginecológico se observa eritema y edema vulvar, flujo vaginal amarillo-verdoso, espumoso y maloliente, y eritema cervical. 
+¿Cuál es el tratamiento de primera línea recomendado por la guía nacional de Colombia para esta paciente?
+#A. Administrar Metronidazol 500 mg vía oral cada 12 horas por 7 días
+#B. Ordenar Metronidazol 2 gramos vía oral dosis única
+#C. Solicitar Tinidazol 2 gramos vía oral dosis única
+#D. Indica secnidazol 2 gr vía oral dosis única
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213740&authkey=%21AM5SPK4omc5iGlw&width=989&height=1280
+
+#Mujer de 75 años, quien acude a consulta refiriendo dolor e hinchazón en la rodilla izquierda, de 12 días de evolución, lo cual afecta su día a día al caminar y subir las escaleras de su hogar. Refiere historial de episodios similares en los últimos tres años, con una duración promedio de tres-cuatro semanas y resolviendo con reposo, analgésicos de venta libre y hielo. Al examen físico, los signos vitales son normales. En la rodilla izquierda muestra derrame moderado, calor, dolor a la palpación y al evaluar rango de movimiento. El resto del examen físico es normal. Analítica: hemoleucograma normal, VSG 60 mm/h, panel metabólico normal, ácido úrico 3 mg/dL (VRN: 3.5-7.2). La rx de rodilla izquierda muestra signos de condrocalcinosis. 
+¿Cuál es el diagnóstico más probable?
+#A. Ataque de gota
+#B. Artritis séptica 
+#C. Artritis reactiva
+#D. Artritis por cristales de PC
+
+PC = Pirofosfato de calcio.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213742&authkey=%21AKLQOlh87bC1cno&width=988&height=1280
+
+#Varón de 61 años, con antecedentes de cirrosis hepática por esteatohepatitis no alcohólica (NASH), consulta por aumento progresivo del perímetro abdominal en los últimos siete días. Niega fiebre o dolor asociado. Refiere adherencia a las recomendaciones sobre consumo de sal por día y actualmente se encuentra en manejo con furosemida y espironolactona. Al examen físico, presenta signos vitales normales. Se evidencia ascitis moderada, matidez cambiante a la percusión abdominal, con ausencia de edema en miembros inferiores. Se realiza paracentesis diagnóstica con evidencia de 2100 células/mL, 75% PMN, 20% linfocitos, 5% hematíes, albumina 4.2 g/dL. 
+¿Cuál de las siguientes opciones terapéuticas le parece más adecuada?
+#A. Administrar meropenem 1 g IV q8h 
+#B. Realizar paracentesis evacuadora 
+#C. Programar para derivación portocava 
+#D. Administrar cefotaxima 2 g IV q8h
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213743&authkey=%21AJFGVin4f93gISA&width=988&height=1280
+
+#Varón de 48 años, remitido a la consulta externa de cardiología. No refiere sintomas y niega antecedentes médicos personales o familiares relevantes. Se realizó EKG rutinario por médico de atención primaria, en el cual se observan extrasístoles ventriculares (EV) monomórficas frecuentes. El eco TT no evidenció anomalías estructurales y la FEVI es del 65%. Trae reporte de holter de ritmo ambulatorio de 48 horas que evidencia una carga de EV < 1%. 
+¿Cuál sería la conducta terapéutica más adecuada en este caso? 
+#A. No requiere manejo farmacologico, solo tranquilizar al paciente y eliminar posibles desencadenantes. 
+#B. Ordenar una coronariografía  
+#C. Iniciar carveridol 6.25 mg cada 12 horas y cita de control en tres meses 
+#D. Ordenar prueba de esfuerzo
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213744&authkey=%21AJu0GBavqFIsWPI&width=988&height=1280
+
+#Varón de 20 años, universitario, acude a consulta de primer nivel porque desde hace tres días ha estado presentando lesiones cutáneas pruriginosas. Refiere que iniciaron como placas elevadas eritematosas de aproximadamente 5-10 mm, las cuales han aumentado de tamaño, con tendencia a adquirir morfología anular y que resuelven espontáneamente antes de las 24 horas sin dejar lesión residual. No hay compromiso de mucosas. Basados en el diagnóstico más probable, ¿Cuál sería una conducta adecuada a seguir? 
+#A. Remitir a alergología porque tiene indicaciones de inicio de omalizumab
+#B. Iniciar desloratadina 5 mg y cita control en dos semanas.
+#C. Iniciar antibioticos tipo clindamicina 600 mg q8h por 7 días y cita control en diez días
+#D. Iniciar difenhidramina 50 mg antes de acostarse y cita control en dos semanas.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213745&authkey=%21APp6X3vebCIMFyQ&width=988&height=1280
+
+#Doña Aurora de 68 años con diagnóstico de artritis reumatoide de 4 años de evolución, actualmente en manejo con metotrexato (MTX). Acude a consulta por presentar desde hace 3 meses síntomas de fatiga progresiva, debilidad generalizada y palidez mucho-cutánea. Refiere disnea de esfuerzos moderados. Niega fiebre, pérdida de peso o historial de sangrado evidente, cambios en la dieta o en la medicación reciente. Al examen físico presenta signos vitales normales, se observa palidez de piel y mucosas, pero sin ictericia ni adenopatías, hepatomegalia o esplenomegalia. Laboratorios: Hb 9.1 g/dL, VCM 71 fl, ADE <15 % (homogéneo), leucocitos 6.700, PLT 170.000, ferritina 480 ng/ml.
+¿Cuál es el diagnóstico más probable? 
+#A. Anemia perniciosa
+#B. Anemia por deficiencia de hierro
+#C. Anemia por déficit de B12 o acido fólico 
+#D. Anemia por enfermedad crónica
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213746&authkey=%21AHFqVaCOCLeIXPE&width=1236&height=1600
+
+#Masculino de 3 meses de edad presenta una masa a nivel escrotal derecha desde el nacimiento el cual ha aumentado de tamaño progresivamente. Se niegas otros signos o síntomas. No hay antecedentes de importancia. Al examen fisico hay una masa escrotal derecha no dolorosa, que no reduce y es translucida. Una ecografía indica un hidrocele derecho sin otras alteraciones. ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Se debe hacer una corrección quirúrgica urgente.
+#B.	Se debe realizar punción y aspiración.
+#C.	Se debe hacer seguimiento expectante hasta el año de vida.
+#D.	Realizar corrección quirúrgica antes de que cumpla el primer año.
+#Respuesta correcta: C
+#Tema e item: Hidrocele
+Argumento: El hidrocele es una acumulación de líquido entre las capas parietal y visceral de la túnica vaginal. A la hora del abordaje es indispensable determinar la presencia de un hidrocele comunicante vs no comunicante (El primero suele desaparecer al decúbito o con maniobras y aumenta con la bipedestación). Los hidroceles no comunicantes NO cambian de tamaño con maniobras ni durante el examen físico. El diagnóstico es clínico, pero cuando no es clara la etiología de la lesión escrotal puede solicitarse una ecografía testicular. El manejo es expectante hasta el primer año de vida, ya que con frecuencia la mayoría resuelven solos. 
+
+Recuerda que ante la presencia de un hidrocele comunicante se encuentra indicada la corrección quirúrgica. 
+
+Bibliografía recomendada: 
+-	Chams Anturi, A. Valencia Valencia, L. Patología quirúrgica ambulatoria. Medellín: Facultad de Medicina, Universidad de Antioquia, XXXIX Memorias Curso de Actualización en Pediatría; 2023.
