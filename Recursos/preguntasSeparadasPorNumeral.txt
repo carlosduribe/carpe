@@ -22740,3 +22740,223 @@ Debemos tener presente que ningún rasgo radiográfico único es diagnóstico de
 Bibliografía recomendada:
 1. Joshua F Baker. Diagnosis and differential diagnosis of rheumatoid arthritis. Available On Uptodate Advanced 2024.
 2. Aletaha D, Smolen JS. Diagnosis and management of rheumatoid arthritis: a review. JAMA. 2018 Oct 2;320(13):1360-1372.
+
+#Pedro, de 28 años, sin antecedentes médicos de interés, consulta a urgencias de un hospital de tercer nivel debido a un cuadro clínico de 2 meses de evolución caracterizado por una masa palpable en el testículo derecho, no dolorosa. Se realiza ecografía en la que se evidencia una lesión hipoecoica, homogénea, bien definida, sin áreas quísticas ni calcificaciones. Se solicitan los marcadores tumorales alfa fetoproteína y beta HCG, los cuales resultan negativos. ¿Cuál es la conducta adecuada a seguir con Pedro?
+#A. Se descarta neoplasia testicular y requiere observación.
+#B. Proceder con incisión inguinal y en caso de haber una masa, realizar orquiectomía radical.
+#C. Realizar una TAC tóraco-abdomino-pélvica inmediatamente.
+#D. Repetir la ecografía testicular en tres meses.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213847&authkey=%21AHx103wn9C5NxOQ&width=989&height=1280
+
+#Juan, de 29 años, sin antecedentes médicos relevantes, es hospitalizado por un cólico renal izquierdo con una respuesta adecuada al manejo analgésico. Durante su hospitalización, se le realiza un UROTAC que revela la presencia de un cálculo de 6x7 mm en el tercio distal del uréter izquierdo. En el uroanálisis, el pH de la orina fue de 5,5 y se reportó la presencia de aglomerados de cristales desorganizados, formando masas continuas. ¿Cuál sería el tratamiento adecuado para Juan?
+#A. Ureteroscopia con extracción del cálculo.
+#B. Nefrolitotomía endoscópica percutánea.
+#C. Administración de citrato potásico.
+#D. Administración de D-penicilamina.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213848&authkey=%21AO5RWVPtE3fj5dA&width=989&height=1280
+
+#Albeiro, de 67 años, con antecedente de diabetes tipo 2 y asma, ingresó a urgencias con un diagnóstico de glaucoma crónico simple de novo. La tonometría reveló una presión intraocular (PIO) aguda de 36 mm/Hg bilateralmente. Al ser interrogado, el paciente informó que nunca ha tomado medicación para esta afección, pero mencionó que es adherente con los inhaladores para el control de su asma. 
+¿Cuál de los siguientes medicamentos es el más adecuado?
+#A. Colirio en solución bimatoprost - timolol 0.3mg/ml - 5mg/ml, 1 gota ocular cada 24 horas.
+#B. Timolol gotas 0.5%, 1 gota ocular cada 12 horas.
+#C. Latanoprost colirio en solución 50 mcg/ml, 1 gota ocular cada 24 horas.
+#D. Realizar una trabeculectomía.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213849&authkey=%21AGy-wQO90f2rjHs&width=989&height=1280
+
+#Adriana, de 65 años, con antecedente de hernia hiatal tipo II, consulta por la aparición súbita de dolor tipo cólico en epigastrio de intensidad 8/10 según la escala analógica del dolor (EAD), y náuseas recurrentes sin emesis. En el servicio de urgencias, debido al cuadro clínico de la paciente, se decide colocar una sonda nasogástrica, pero no se consigue progresar al estómago. 
+¿Cuál de las siguientes opciones corresponde al diagnóstico más probable?
+#A. Síndrome de Mallory-Weiss.
+#B. Vólvulo órgano-axial agudo.
+#C. Bezoar gástrico.
+#D. Vólvulo mesentérico-axial agudo.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213850&authkey=%21AO9CJMU24pg5Fro&width=989&height=1280
+
+#Ramón, de 52 años, con antecedente de hipertensión arterial, consultó a urgencias por dolor en la fosa renal izquierda, calificado como 9/10 según la EAD. Se inició manejo con acetaminofén 1 g intravenoso y diclofenaco 75 mg, sin obtener mejoría. Posteriormente, se administró tramadol intravenoso 50 mg, logrando una reducción del dolor a 4/10 según la EAD. Se realizó una uroTAC que evidenció un cálculo renal unilateral derecho, siendo candidato para litotricia extracorpórea por ondas de choque de forma ambulatoria en 4 días. ¿Cuál sería el manejo médico indicado para Ramón mientras se le realiza la litotricia?
+#A. Tabletas de hidrocodona 5 mg + acetaminofén 325 mg vía oral cada 6 horas por 4 días.
+#B. Parches de fentanilo de 25 mcg cada 72 horas.
+#C. Oxicodona tableta de 20 mg de liberación prolongada vía oral cada 12 horas por 4 días.
+#D. Morfina 10 mg vía oral e ibuprofeno 400 mg vía oral, ambas cada 8 horas por 4 días.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213851&authkey=%21AEw8QibDbpciH7s&width=989&height=1280
+
+#Gael tiene 5 años, sin antecedentes patológicos. Es llevado urgencias por adinamia e incapacidad para la marcha. Hace tres semanas, inició con fiebre objetiva y congestión. Los síntomas de las vías respiratorias superiores desaparecieron, pero la fiebre persistió y se asoció a hiporexia y pérdida de peso. Se encuentra febril, taquicárdico y normotenso. Se palpan adenopatías en región cervical, axilar e inguinal, no dolorosas y esplenomegalia. Hay dolor a la palpación profunda de los muslos y se observan múltiples petequias. Se realizan paraclínicos: Hto 24, Hb 8, Plaq 18.000, GB 2.800
+¿Cuál de las siguientes opciones probablemente confirmaría el diagnóstico?
+#A. Aspirado de médula ósea 
+#B. Electroforesis de hemoglobina 
+#C. Solicitar ANA
+#D. Serología Epstein – Barr
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213852&authkey=%21AOKiLzV6PeIY-QU&width=989&height=1280
+
+#Salomé, 3 años, sin antecedentes patológicos. Es llevada a la clínica por edema y dolor en la ingle, desde hace 2 semanas, con aparición gradual de eritema y dolor. Ha sido automedicada con analgésicos y se han aplicado compresas frías, sin mejoría.  La paciente asiste al preescolar 3 veces por semana, tiene 2 perros, un gato y una tortuga. Al examen físico, se evidencia una pápula pequeña e indolora en la parte anterior del muslo izquierdo y se palpa una adenopatía inguinal izquierda de 4 cm, dolorosa, blanda y móvil, con eritema localizado.  ¿Cuál de los siguientes es la etiología de esta patología?
+#A. Bartonella henselae 
+#B. Pasteurella multocida
+#C. S. aureus
+#D. Salmonella enteritidis
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213854&authkey=%21ANFydEbXskN1hWk&width=990&height=1280
+
+#Julio tiene 3 años, con PAI incompleto, sin antecedentes patológicos. La madre lo lleva a urgencias por una erupción que inició en la cara y se ha extendido al pecho, espalda y brazos. Además ha presentado secreción nasal, tos seca y fiebre durante la última semana. Al examen físico, febril, taquicárdico e irritable, con inyección conjuntival bilateral y epífora, con lesiones redondas de color blanco en la mucosa bucal junto al primer y segundo molar superior. Presenta eritema orofaríngeo y adenopatías cervicales anteriores y posteriores pequeñas, blandas y móviles anterior y posterior.  Tiene un exantema maculopapular, eritematoso, que palidece a la digitopresión. 
+¿Cuál cree que es el diagnóstico?
+#A. Rubeola
+#B. Sarampión
+#C. Kawasaki
+#D. Roséola
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213855&authkey=%21ABW6TqE-IH0L0ZQ&width=990&height=1280
+
+#Recién nacido de 24 horas de vida, nacido por parto vaginal a las 38 semanas de gestación, sin complicaciones. La madre presentó diabetes gestacional con manejo no farmacológico. Al examen físico, alerta, con meato uretral en la punta del glande, se palpan ambos testículos en saco escrotal pero el escroto izquierdo se encuentra edematoso, sin eritema. Se hace transiluminación en escroto izquierdo, que es positiva. ¿Cuál sería el paso a seguir?
+#A. Realizar ECO escrotal
+#B. Remitir a urología para cirugía
+#C. Seguimiento periódico
+#D. Aspiración guiada por ECO
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213856&authkey=%21APbRyg092m0fw50&width=989&height=1280
+
+#John, 12 años, con antecedentes de miopía. Llevado a urgencias por dolor ocular bilateral, que inició hace aproximadamente una hora y es progresivo. Refiere que ayer observó por un rato el eclipse con su familia, niega traumas. Su hermano tiene una conjuntivitis bacteriana. La agudeza visual es de 20/40 en ambos ojos y se evidencian inyección conjuntival, con epífora. Se realiza tinción con fluoresceína,  evidenciando una tinción corneal puntiforme difusa bilateralmente.  ¿Cuál de las siguientes es la causante de la patología del paciente?
+#A. Exposición a la luz ultravioleta 
+#B. Cuerpo extraño retenido 
+#C. Miopía
+#D. Infección bacteriana
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213857&authkey=%21AFo8GXB-eMsJr98&width=990&height=1280
+
+#Camila, 41 años, asiste a control rutinario. Sus ciclos menstruales son regulares, sin sangrado abundante. Manifiesta dolor hipogástrico muy intenso, el cual se presenta entre 1 y 3 veces por mes.  El IMC es de 34 kg/m2. El examen pélvico bimanual muestra un útero agrandado irregularmente. La ECO TV confirma la presenta se múltiples masas uterinas redondas hipoecoicas y bien circunscritas. Ella no quiere más hijos. 
+¿Qué se puede concluir de la enfermedad de la paciente?
+#A.	Por la sintomatología, la paridad satisfecha y el riesgo que representa la paciente de presentar displasias endometriales, la mejor conducta sería la histerectomía
+#B.	Es posible que, en aproximadamente en 10 años, dichas masas se contraigan y no vuelvan a aparecer nuevamente
+#C.	La paciente tiene leiomiomatosis, posiblemente FIGO 0 o 1
+#D.	En ella se puede considerar un manejo con AINES, ACOs y ácido tranexámico de manera temporal y remitir a ginecología para realizar histerectomía
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213860&authkey=%21ADV5S1YgNjp4zps&width=989&height=1280
+
+#Elisa, 36 años, G3P2, 34 semanas de gestación, consulta por sangrado vaginal escaso de 3 horas de evolución. No tiene controles prenatales. Sus dos hijos anteriores nacieron por cesárea. Examen físico: T 37,1°C, FC 80/min, FR 16/min y PA 120/80 mmHg. No tiene dolor. El feto está en presentación cefálica, FCF 156/min.  
+¿Cuál es la mejor conducta?
+#A.	Realizar ecografía transvaginal + maduración fetal
+#B.	Realizar ecografía transvaginal + tocolisis
+#C.	Realizar ecografía transvaginal + programar cesárea
+#D.	Neuroprotección fetal + tocolisis + maduración fetal
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213861&authkey=%21ABnmJz3XvTWw98A&width=989&height=1280
+
+#Se presenta a su consulta una paciente femenina de 45 años con VIH de reciente diagnóstico. Su recuento de CD4 es de 75 células/mm, presenta una prueba de IgG positiva para toxoplasma gondii. No es alérgica a ningún medicamento. Además de iniciar terapia antirretroviral ¿Cuál es el manejo adecuado para esta paciente?
+#A.	Trimetroprim – sulfametoxazol 160/800 mg cada 24 horas.
+#B.	Dapsona 100 mg vía oral cada 24 horas.
+#C.	Azitromicina 1 gr vía oral cada 24 horas. 
+#D.	No es necesario un manejo adicional a la terapia antirretroviral.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213862&authkey=%21AKK_lL0kbhRT1ow&width=989&height=1280
+
+#Liliana, 58 años, asiste a control rutinario. Padece HTA. Tiene una masa indolora, firme y no móvil de 1 x 2 cm a las 5 de la areola izquierda. Se realizó una eco y mamografía, que reportaron una lesión anecoica con múltiples septos finos en su interior, BIRADS 3. ¿Cuál de las siguientes afirmaciones es correcta?
+#A.	La paciente tiene un quiste complejo por la presencia de múltiples septos en su interior. Se beneficia de biopsia TRUCUT guiada.
+#B.	Se debe programar a la paciente para drenaje guiado. si el drenaje no llega a ser hemático y el quiste desaparece, no requeriría remisión a cirugía de mama
+#C.	Tiene un quiste complejo requiere de manera prioritaria la remisión a cirugía de mama
+#D.	Se puede realizar un seguimiento semestral clínico e imagenológico por medicina general
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213863&authkey=%21ADoNdHxU2uVAkZ8&width=989&height=1280
+
+#Femenina de 44 años consulta por disfagia progresiva desde hace 3 semanas, resultándole imposible tragar actualmente. Refiere 8 parejas sexuales a lo largo de su vida y usa condones de manera irregular. Su padre murió de CA de estómago. Signos vitales: Temp. de 37°C, FC de 75 lpm, FR de 18 rpm y PA de 110/75 mmHg. Al valorar la cavidad oral se evidencian múltiples placas blancas que se desprenden fácilmente. Dentro de los paraclínicos destaca un EISA de cuarta generación para VIH positiva. El diagnostico se confirma con una misma prueba. 
+¿Cuál es el manejo apropiado para esta paciente?
+#A.	Realizar enjuague oral con nistatina.
+#B.	Iniciar manejo con ganciclovir IV.
+#C.	Realizar una endoscopia de vías digestivas altas.
+#D.	Iniciar tratamiento con fluconazol IV.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213865&authkey=%21APgwnTEXhBlKWIQ&width=989&height=1280
+
+#Femenina de 28 años, primigestante, con embarazo de 38 semanas llega a urgencias con trabajo de parto activo. Tuvo un mal control prenatal, tiene antecedente de VIH sin tratamiento con terapia antirretroviral. Se desconoce su carga viral. Se decide iniciar manejo con zidovudina IV para reducir la transmisión perinatal del virus. ¿Cuál de los siguientes procesos del ciclo viral se ve afectado con la aplicación de este medicamento? 
+#A.	Integración del genoma viral.
+#B.	Acción de la ARN polimerasa.
+#C.	Elongación del ADN viral.
+#D.	Fusión viral con células T.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213866&authkey=%21AE6rl2jBTdKcfAs&width=989&height=1280
+
+#Paciente masculino de 20 años consultar por dolor intenso, prurito y secreción amarillenta en oído derecho desde hace 5 días. No tiene antecedentes relevante y no presenta otra sintomatología. Durante el abordaje usted concluye que el paciente presenta una otitis externa aguda no complicada. ¿Cuál es el tratamiento adecuado para este paciente?
+#A.	Ciprofloxacina 500 mg VO cada 12 horas por 7 días.
+#B.	Ciprofloxacina 0.2% + Hidrocortisona 1%, solución ótica aplicar cada 8 horas por 7 días.
+#C.	Prednisona 60 mg vía oral cada 24 horas por 7 días. 
+#D.	Clotrimazol al 1%, solución ótica, aplicar 2 veces al día por 7 días.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213867&authkey=%21ABQjrIaRO0VGLeQ&width=989&height=1280
+
+#Lina, 30 años, consulta por dispareunia desde hace 6 meses. Además, manifiesta dolor tipo cólico días previos a la menstruación, las cuales son regulares. Sus síntomas no se alivian con analgésicos. Es sexualmente activa. Tiene dolor rectovaginal. La ECO TV reporta masa anexial homogénea con ecos bajos de 3 cm de diámetro. ¿Qué puede concluir del caso?
+#A.	Requiere cirugía para escisión de masa anexial y confirmación histológica de la lesión
+#B.	La paciente tiene endometriosis profunda, se beneficia de manejo con etinilestradiol 30 mcg
+#C.	En ella se puede considerar realizar un mapeo
+#D.	La paciente requiere una laparoscopia exploratoria diagnóstica
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213868&authkey=%21AAowyhI6QmoDf0g&width=989&height=1280
+
+#Masculino de 8 años es llevado a urgencias porque fue mordido por el perro de su vecino hace 3 horas. El niño perseguía al perro con un palo cuando este lo atacó. El paciente ha alimentado al perro antes y nunca lo había mordido. Su padre vio al animal 2 horas después del incidente y su comportamiento era normal. Nunca ha recibido vacuna antirrábica. Al examen físico hay una herida de 2 cm en pantorrilla izquierda con eritema mínimo alrededor. El resto del examen físico es normal.  La herida se irriga y se lava con solución salina y clorhexidina. ¿Cuál es el manejo adecuado en este caso?
+#A.	Observar al perro durante 10 días.
+#B.	Realizar eutanasia al perro y realizar pruebas para rabia.
+#C.	Administrar vacuna antirrábica e inmunoglobulina.
+#D.	Administrar vacuna contra la rabia.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213869&authkey=%21AJ-pE3dGhlOIJtU&width=989&height=1280
+
+#Emilio, de 65 años, con antecedentes de hipertensión arterial (HTA) y fibrilación auricular (FA), refiere que, al caminar por la calle, si no hay alguien a su derecha para guiarlo, tiende a tropezar con objetos en ese lado. La campimetría muestra un déficit campimétrico homónimo derecho bilateral, altamente congruente y con preservación macular. ¿Cuál es la estructura vascular que probablemente esté comprometida?
+#A. Arteria cerebral posterior derecha
+#B. Arteria cerebral anterior derecha
+#C. Arteria cerebral posterior izquierda
+#D. Arteria comunicante posterior izquierda
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213871&authkey=%21ALGD_ZvxiWfUJI4&width=990&height=1280
+
+#Federico, de 86 años, vive en residencia geriátrica, con antecedente de trastorno neurocognitivo mayor y estado de encamamiento permanente, es llevado al servicio de urgencias por presentar distensión abdominal progresiva, dolor abdominal tipo cólico difuso y ausencia de deposición en los últimos dos días. Al examen físico afebril, con abdomen doloroso a la palpación profunda de forma difusa, sin claros signos de irritación peritoneal, con timpanismo aumentado en flanco derecho en la percusión. Sin hallazgo anormal en el tacto rectal. Una radiografía abdominal reportó dilatación del marco cólico derecho,  sin signos de obstrucción mecánica. 
+¿Cuál es el diagnóstico más probable?
+#A. Diverticulitis
+#B. Cáncer de colon
+#C. Fecaloma distal
+#D. Síndrome de Ogilvie
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213872&authkey=%21AImtgHSWF3FXUrE&width=990&height=1280
+
+#La enfermera de hospitalización solicita que se evalúe una paciente adulta que presenta de inicio abrupto dolor abdominal intenso, episodios eméticos y desorientación temporoespacial. Se encuentra el posoperatorio inmediato de un reemplazo de cadera izquierda y tiene antecedentes de hipotiroidismo primario por enfermedad de Hashimoto tratado con levotiroxina 75 mcg/día. Examen físico: paciente confusa, orientada en persona, pero no en lugar o tiempo. FC 132 lpm, FR 24 rpm, PA 65/45 mmHg, abdomen doloroso a la palpación difusa sin signos irritación peritoneal. Laboratorios: pendientes. Glucometría de 110 mg/dl. ¿Cuál es la conducta terapéutica más adecuada?
+#A. Realizar laparotomía urgente
+#B. Iniciar múltiples dosis de hidrocortisona
+#C. Administrar bolo de 250 cc de dextrosa al 10%
+#D. Administrar bolo de cristaloides a dosis de 10 cc/kg
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213873&authkey=%21ADhpcQ3SgCEM5vI&width=990&height=1280
+
+#Hernán, de 28 años, con antecedente de laparotomía de emergencia hace 4 años por apendicitis gangrenosa perforada, consultó a urgencias por un cuadro de dolor abdominal difuso tipo cólico, emesis alimentaria e intolerancia a la vía oral de 20 horas de evolución. Refiere tener paso de flatos. Al examen físico, se encuentra afebril, con abdomen distendido, timpanismo y peristaltismo aumentado. No se evidencian masas intraabdominales ni en la pared. En la radiografía se observa dilatación de asas de intestino delgado y niveles hidroaéreos sin presencia de aire en el colon. Los paraclínicos reportan un potasio sérico de 3.2. ¿Cuál es el diagnóstico más probable?
+#A. Vólvulo de sigma
+#B. Hernia incarcerada
+#C. Obstrucción intestinal por bridas
+#D. Íleo paralítico
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213874&authkey=%21ANEBae5lfC4NzKg&width=990&height=1280
+
+#Carlos, de 31 años, consultó por dos días de parestesias y dolor en el dorso del antebrazo y el tercer dedo de la extremidad superior derecha (MSD), asociado a dolor cervical del mismo lado. Refiere que el dolor comenzó después de levantar pesas en el gimnasio. En el examen físico, presenta un test de Spurling positivo y disminución de la sensibilidad al pinchazo en el dedo 3º de MSD. El reflejo del tendón profundo del tríceps es 1+ en MSD. ¿Qué hallazgo en el examen físico determinaría la localización de la lesión probable?
+#A. Extensión del codo
+#B. Flexión del codo
+#C. Extensión de la muñeca
+#D. Abductores intrínsecos de la mano
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213875&authkey=%21AKkh9V4h6OM4Lgw&width=990&height=1280
+
+#Masculino de 58 años presenta dolor abdominal intenso desde hace aprox. 24 horas. Tiene antecedente de alcoholismo severo. Desde hace 12 horas ha presentado disnea progresiva. Signos vitales: Temp. de 38°C, FC de 120 lpm, FR de 30 rpm, PA de 100/60 mmHg, SatO2 de 85% con oxigeno ambiente. El paciente se intuba y se ventila. Al examen físico se evidencian crépitos pulmonares difusos, marcado dolor epigástrico y un hematoma periumbilical. Los gases arteriales con una FiO2 de 0.4 reportan: pH de 7.29, PaO2 de 61 mmHg, PCO2 de 40 mmHg, HCO3- de 18 mEq/L. Se realiza una radiografía de torax con evidencia de opacidades bilaterales difusas. ¿Cuál es el diagnostico más probable en este paciente? 
+#A.	Tromboembolismo pulmonar.
+#B.	Neumonía por aspiración.
+#C.	Neumonía asociada al cuidado de la salud.
+#D.	Síndrome de distrés respiratorio agudo.
+#Respuesta correcta: D
+#Tema e item: Trastorno por consumo de alcohol
+Argumento: El trastorno por consumo de alcohol, dolor epigástrico y el signo de Cullen en este paciente sugieren la presencia de una pancreatitis aguda, la cual, también puede desencadenar síntomas respiratorios al producir una liberación masiva de citocinas proinflamatorias que predisponen al desarrollo de síndrome de distrés respiratorio agudo (SDRA). 
+
+El SDRA es un síndrome inflamatorio caracterizado por lesión endotelial y aumento de la permeabilidad alveolo-capilar, lo que conduce an edema pulmonar no cardiogéncio y alteración del intercambio gaseoso. Este caracteriza por el desarrollo de insuficiencia respiratoria hipoxémica y una relación PaO2/FiO2 menor de 300, además, la radiografía de tórax típicamente muestra infiltrados bilaterales difusos. 
+
+-	Si bien este paciente pudo haber desarrollado un tromboembolismo pulmonar (TEP) la presencia de acidosis respiratoria y los hallazgos radiográficos no apoyan este diagnóstico (Los pacientes con TEP realizan alcalosis respiratoria y presentar radiografía de tórax normal o signos inespecíficos).
+
+- ⁠El consumo de alcohol de este paciente puede predisponerlo a desarrollar neumonía por aspiración, sin embargo, el curso de este cuadro es indolente con afección pulmonar lobar. Los hallazgos radiográficos y la rápida progresión del cuadro de este paciente están en contra de este diagnóstico. 
+
+-	Por definición, la neumonía asociada a la atención hospitalaria ocurre después de 48 horas del ingreso. El tiempo de manejo hospitalario de este paciente no se asocia con este diagnóstico.
+
+Bibliografía recomendada:
+-	Insuficiencia respiratoria aguda. Acta Colomb Cuid Intensivo. 2016;16(S1):1---24.
