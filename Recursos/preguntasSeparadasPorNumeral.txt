@@ -22960,3 +22960,228 @@ El SDRA es un síndrome inflamatorio caracterizado por lesión endotelial y aume
 
 Bibliografía recomendada:
 -	Insuficiencia respiratoria aguda. Acta Colomb Cuid Intensivo. 2016;16(S1):1---24.
+
+#Masculino de 25 años es llevado a urgencias tras lanzarse de un tercer piso. Al momento no responde verbalmente a las preguntas, pero señala su cabeza cuando se le interroga sobre dolor. Signos vitales: FC de 131 lpm, FR de 22 rpm y PA de 100/60 mmHg. Satura a 91% con O2 ambiente. Al examen físico hay una laceración de 1 cm en la cabeza y una fractura abierta de la tibia derecha. Abre los ojos espontáneamente y las pupilas son isocóricas, normoreactivas. Los ruidos respiratorios están disminuidos y hay hiperresonancia en hemitórax derecho. ¿Cuál es el manejo inmediato adecuado para este paciente?
+#A.	Realizar una toracostomía con aguja.
+#B.	Realizar intubación orotraqueal.
+#C.	Colocar collarín cervical.
+#D.	Realizar un examen neurológico.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213894&authkey=%21AEH1cpbQO0BPGS4&width=990&height=1280
+
+#Femenina de 3 años es llevada a urgencias 20 minutos después de encontrarse boca abajo en una piscina. Los paramédicos encontraron a la niña somnolienta, pero respiraba espontáneamente. De camino al hospital, iniciaron ventilación con dispositivo bolsa – mascarilla con O2 al 100%. Al momento se encuentra letárgica. Signos vitales: Temp. de 34.2°C, FC de 80 lpm, FR de 34 rpm y PA de 90/60 mmHg. Satura a 88% con O2 al 100% por mascara de no reinhalación. Al examen físico los labios están cianóticos, la vía aérea está despejada, se auscultan crépitos difusos y sibilancias en ambos campos pulmonares. El resto de la valoración es normal. ¿Cuál es el manejo inmediato adecuado para esta paciente? 
+#A.	Cubrir con mantas calientes y observar durante al menos 8 horas.
+#B.	Realizar una resonancia magnética cerebral.
+#C.	Administrar cristaloides calentados IV.
+#D.	Realizar intubación endotraqueal.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213891&authkey=%21AC1ioM3xy3YMXcc&width=990&height=1280
+
+#Masculino de 35 años es llevado a urgencias luego de sufrir un trauma durante una corrida de toros. Posterior a ser derribado por el animal, sintió dolor en región torácica inferior derecha y luego de 20 minutos refiere mareo. No tiene antecedentes de importancia. Al llegar a urgencias apenas responde a estímulos dolorosos. Signos vitales: Temp. de 36°C, FC de 135 lpm, FR de 22 rpm y PA de 76/62 mmHg. Al examen físico se evidencian equimosis a nivel de región torácica inferior derecha y en el cuadrante superior derecho del abdomen. Se inicia reanimación con líquidos y el paciente se intuba. Un eco-FAST evidencia liquido libre en receso hepatorrenal. Posterior a la administración de 1000 cc de cristaloides la presión arterial es de 80/64 mmHg. ¿Cuál es el manejo apropiado para este paciente?
+#A.	Realizar lavado peritoneal diagnóstico.
+#B.	Transfundir glóbulos rojos, O Rh negativo.
+#C.	Iniciar infusión de norepinefrina.
+#D.	Realizar tomografía computarizada de abdomen
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213890&authkey=%21ANqG7d9cFB8WJFs&width=990&height=1280
+
+#Usted se encuentra en un centro de primer nivel en donde recibe a un paciente masculino de 32 años que acaba de recibir un traume cortopunzante durante una riña callejera. El paciente presenta disnea, dolor abdominal y sangrado. Al momento se encuentra alerta y activo. Signos vitales: Temp. de 37°C, FC de 120 lpm, FR de 20 rpm (Presenta respiración superficial) y una PA de 89/61 mmHg. Al examen físico hay una herida profunda de aprox. 4 cm en región subcostal derecha con sangrado activo; el cuchillo aún se encuentra en la herida. ¿Cuál es el abordaje inicial adecuado para este paciente? 
+#A.	Cruzar, reservar y transfundir glóbulos rojos.
+#B.	Realizar secuencia de intubación rápida. 
+#C.	Remitir como urgencia vital a un centro de mayor complejidad.
+#D.	Retirar el cuchillo y aplicar presión sobre la herida.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213888&authkey=%21AM4iu3zo9D5rgbY&width=990&height=1280
+
+#Masculino de 30 años es llevado a urgencias posterior a una amputación traumática por explosivo de su miembro superior derecho a nivel inferior al codo. El sangrado fue controlado mediante torniquete. El paciente al momento se encuentra alerta y orientado. Signos vitales: FC de 145 lpm, FR de 30 rpm y PA de 90/60 mmHg. Durante el manejo primario del paciente con trauma se hace imposible obtener un acceso intravenoso para iniciar reposición de líquidos. ¿Cuál es el paso a seguir en el manejo de este paciente? 
+#A.	Colocar un acceso venoso central.
+#B.	Reemplazar torniquete por apósitos a presión.
+#C.	Colocar un acceso intraóseo. 
+#D.	Realizar intubación endotraqueal.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213887&authkey=%21AMTo4FiX1jjKd4c&width=990&height=1280
+
+#Varón de 25 años, es traído al servicio de Urgencias tras sufrir pérdida de la conciencia mientras estaba de pie esperando ingresar a un concierto. El evento fue presenciado por amigos quien lo notaron pálido, sudado, mareado y posteriormente cae desde su propia altura presentando movimientos tónico-clónicos generalizados de 5 segundos con pérdida de control de esfínter vesical. Se recuperó en menos de un minuto, orientado y consciente del evento. Signos vitales, exploración general y examen neurológico normales. La glucometría capilar es de 120 mg/dL y el EKG muestra ritmo sinusal. 
+¿Cuál sería la conducta adecuada a seguir? 
+#A. Administrar tiamina IV y realizar TAC simple de cráneo 
+#B. Solicitar TAC simple de cráneo,  iniciar antiagregación dual ASA + clopidogrel, y ordenar holter de ritmo de 24 horas  
+#C. Educar al paciente refiriendo que se trató de un sincope reflejo y dar de alta con recomendaciones más signos de alarma 
+#D. Solicitar un TAC simple de cráneo, perfil metabólico e interconsulta con neurología
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213899&authkey=%21ANX5333ZL-DrfY4&width=989&height=1280
+
+#Mujer de 61 años, acude al servicio de Urgencias por dolor torácico opresivo de 2 horas de evolución. Al examen físico está ansiosa, diaforética, PA 88/60 mh, FC 115 lpm, distensión venosa yugular, ruidos cardiacos hipofonéticos sin soplos, sin agregados pulmonares. No hay pulso paradójico. EKG: elevación del segmento ST de 1.5 mm en derivaciones de cara inferior. 
+¿Cuál es el diagnóstico más probable? 
+#A. Embolismo pulmonar
+#B. Taponamiento cardiaco 
+#C. Disección aortica 
+#D. Infarto de ventrículo derecho
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213895&authkey=%21APBDPajT08ALonA&width=989&height=1280
+
+#Varón de 68 años, con antecedente de cáncer de próstata con metástasis óseas, actualmente en tratamiento con quimioterapia + radioterapia. Acude al centro de salud de primer nivel refiriendo disnea súbita de inicio hace una hora y tos seca.  Examen físico: ansioso, PA 120/70 mh, FC 118 lpm, FR 27 rpm, SatO2 88%, ruidos cardiacos aumentados en intensidad, taquicárdicos, concordantes con el pulso, murmullo vesicular conservado. Se realiza el siguiente EKG: 
+¿Cuál es el diagnóstico más probable? 
+Imagen
+#A. Disección coronaria espontánea
+#B. Trastorno de ansiedad
+#C. Embolismo pulmonar
+#D.  Fibrilación auricular
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213896&authkey=%21AC0yi2aw_AjU6oM&width=989&height=1280
+
+#Don José de 71 años, con antecedente de HTA y diabetes tipo 2, es traído al servicio de Urgencias por fiebre alta, tos productiva, disnea progresiva y confusión de inicio reciente. A su llegada, se encuentra en regular estado general, T 39.2 ºC PA 65/50 mh, taquicárdico, taquipneico, crepitantes en base pulmonar derecha. Se realiza Rx de tórax portátil que pone de manifiesto un aumento de densidad con patrón alveolar en el lóbulo inferior derecho. 
+¿Qué medida de entre las siguientes no sería adecuada en el manejo inicial de don José?
+#A. Medir niveles de lactato sérico. 
+#B. Iniciar norepinefrina en infusión continua 
+#C. Iniciar administración rápida de líquidos 
+#D. Obtener hemocultivos antes de administrar antibióticos.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213893&authkey=%21AHHt3Vg2jjZxFH4&width=989&height=1280
+
+#Mujer de 25 años, previamente sana, acude a consulta por presentar un episodio de palpitaciones de inicio súbito. Las palpitaciones comenzaron mientras estaba descansando en casa, sin relación aparente con esfuerzo físico, estrés emocional o consumo de alcohol o cafeína. No refiere dolor torácico, disnea, mareos ni síncope. Se realiza el siguiente EKG: 
+¿Cuál es el diagnóstico más probable? 
+Imagen
+#A. Taquicardia sinusal
+#B. Fibrilación auricular 
+#C. Taquicardia del nódulo AV por reentrada
+#D. Taquicardia de complejos anchos, con concordancia eléctrica.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213892&authkey=%21AH32AKVhQxogAco&width=989&height=1280
+
+#Camila, 35 años, G3P3, le diagnosticaron una lesión intraepitelial de alto grado, por lo que se ordenó una colposcopia. Los resultados de la biopsia cervical de esa evaluación confirman la presencia de un carcinoma de células escamosas microinvasivo del cuello uterino. La muestra del canal endocervical es negativa. ¿Cuál es el siguiente paso más apropiado en el tratamiento de este paciente?
+#A.	Realizar conización
+#B.	Ordenar estudios de extensión: tomografía de tórax y abdomen
+#C.	Tomar muestras de ganglios linfáticos pélvicos
+#D.	Iniciar esquema de quimioterapia y radioterapia
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213907&authkey=%21AOmbT2YzX3ezgvI&width=989&height=1280
+
+#Sandra, 36 años, G1P0A0, 26 semanas de gestación. Consulta por disuria de una semana de evolución. Refiere polaquiuria desde el primer mes de embarazo. Tiene contracciones intermitentes, no dolorosas, sin hemorragia ni pérdida de líquido. Hace tres años, la paciente fue tratada de pielonefritis. Examen físico: T 38°C, PA 94/60 mmHg, FC 110/min.  La altura del fondo uterino es de 26 cm y FCF 170/min. El uroanálisis muestra > 20 leuococitos/hpf, bacterias (++++), esterasa leucocitaria (+) y sangre (++); se recoge un urocultivo. Seleccione la opción correcta:
+#A.	Se debe esperar al resultado del urocultivo de manera que se oriente la terapia antibiótica con el mejor perfil de seguridad para el feto
+#B.	La paciente tiene una pielonefritis aguda. Puede ser manejada en un nivel de atención primario siempre y cuando se inicie de manera inmediata la antibioticoterapia empírica intravenosa
+#C.	Es posible que, tras presentar mejoría posterior a un día de antibioticoterapia empírica endovenosa, la paciente pueda continuar con manejo antibiótico oral
+#D.	Se debe ordenar una ecografía renal y vías urinarias para confirmar el diagnóstico
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213901&authkey=%21ABH53bQewfynQ9Y&width=989&height=1280
+
+#Laura, 27 años, G1P1, acude a consulta prioritaria para seguimiento de hemorragia postparto. Hace 4 días tuvo un parto vaginal asistido con fórceps. Tuvo una laceración perineal de tercer grado que fue reparada. Refiere que ha tenido hemorragias vaginales continuas de color rojo oscuro con pequeños coágulos, usando unas 6 toallas al día. El fondo uterino es firme, no sensible, a 4 cm debajo del ombligo. La reparación de la laceración perineal está intacta, y el cuello uterino está dilatado 1 cm con mínima sangre roja oscura en canal vaginal.  Paraclínicos: Hb 10 g/dL, Plaq 140.000/mm3, Leucocitos 11.000/mm3. ¿Cuál de las siguientes afirmaciones es correcta?
+#A.	Se debe dejar a la paciente en observación, ya que es posible que llegue a requerir de dilatación y legrado
+#B.	Si no hay hallazgos que sugieran hipotonía uterina, persistencia de una trauma o restos placentarios, se debe proseguir ordenando una prueba de actividad del factor von Willebrand
+#C.	Se debe tranquilizar a la paciente, no hay aspectos que sugieran patología grave
+#D.	Se debe ordenar niveles cuantitativos de β-hCG para descartar una neoplasia trofoblástica gestacional
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213900&authkey=%21AKjoCG7Tk94cQOo&width=990&height=1280
+
+#Luisa, 24 años, G2P1, 26 semanas de gestación. Consulta porque lleva 3 días sin sentir ningún movimiento fetal. Niega dolor, pérdida de líquido y hemorragia. Todas las pruebas realizadas durante este embarazo han sido normales. Examen físico: T 36,7°C, PA 120/80 mmHg y FC 94/min. El Doppler no detecta tonos cardíacos fetales. La ecografía muestra ausencia de actividad cardiaca fetal y un feto pequeño en presentación cefálica. El cuello uterino es largo y cerrado. Paraclínicos: Hb 11,2 g/dL, Plaq 160.000/mm3, Leucocitos 11.000/mm3, Fibrinógeno 350 mg/dL (301-696). 
+¿Cuál de las siguientes afirmaciones es correcta?
+#A.	El parto espontaneo es la conducta que en esta paciente ofrece lo mejores desenlaces clínicos
+#B.	La retención de un feto sin vida aumenta el riesgo de coagulopatía y la presentación podálica aumenta el riesgo de trauma obstétrico y complicaciones en el parto. La manera más segura de culminar con esta gestación es el parto por cesárea
+#C.	Se puede inducir el parto en un hospital cuando se sienta preparada
+#D.	Se debe dejar hospitalizada y programar dilatación y evacuación bajo anestesia general
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213898&authkey=%21AMSBhgXYMeNxBs4&width=989&height=1280
+
+#Paciente de 33 años, trigestante. Cursa la semana 16 de un embarazo de bajo riesgo. Aporta citología reciente que reporta LIE de alto grado. Cuál sería el manejo indicado:
+#A. Colposcopia + biopsia en semana 6 post parto.
+#B. Colposcopia + biopsia ahora
+#C. Conización con radiofrecuencia.
+#D. Crioterapia.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213897&authkey=%21AHBS8xFDMD1Y7Ds&width=989&height=1280
+
+#Doña Ana de 61 años, asintomática y gozando de buen estado de salud, acude a consulta con resultado de prueba de tuberculina de 7 mm y un reporte de Rx de tórax reciente que evidencia cambios fibronodulares apicales típicos de TB antigua en ambos campos pulmonares, sin otros hallazgos. Nunca ha recibido manejo antifímico. 
+¿Cuál la conducta a seguir? 
+#A. Seguimiento y cita de control en 3 meses
+#B. Iniciar isoniacida durante doce meses 
+#C. No requiere tratamiento
+#D. Iniciar manejo con isoniacida + rifampicina durante nueve meses
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213906&authkey=%21AO3L-Q_8_eYA0zg&width=989&height=1280
+
+#Doña Pabla de 65 años, quien ha estado en contacto cercano en los últimos 15 días con su abuelo paterno, quien tiene tuberculosis pleural. La prueba de Mantoux es de 14 mm. Tiene antecedente de HTA, dislipidemia y cursó con un episodio de embolia pulmonar hace 3 meses. Actualmente está en tratamiento con losartán + amlodipino, rosuvastatina y Warfarina. Se encuentra asintomática y gozando de buen estado de salud. La rx de tórax es normal. 
+¿Cuál es el tratamiento ideal para doña Pabla? 
+#A. No requiere tratamiento
+#B. Isoniacida durante nueve meses.
+#C. Isoniacida + rifampicina durante seis meses
+#D. Rifampicina durante cuatro meses
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213905&authkey=%21AKv3bkyciwO8nHw&width=989&height=1280
+
+#Don Pablo de 65 años, es traído al servicio de Urgencias por dolor abdominal difuso de inicio abrupto desde hace cuatro horas. Niega fiebre u otro sintoma asociado. Al examen físico se evidencia en regular estado general, pálido, diaforético, desorientación temporo-espacial, PA 68/45 mmHg, FC 121 lpm, signos irritación peritoneal. 
+¿Cuál sería la conducta adecuada a seguir? 
+#A. Iniciar líquidos y vasopresores hasta lograr estabilización hemodinámica 
+#B. Solicitar analítica completa, analgesia endovenosa, rx de abdomen y definir según resultados 
+#C. Realizar laparotomía en forma emergente.
+#D. Solicitar TAC de abdomen contrastado
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213904&authkey=%21APWRfVb9zHXqtQ8&width=989&height=1280
+
+#Varón de 27 años, acude al servicio de Urgencias presentando dolor intenso en región anterior del cuello irradiado a mandíbula, fiebre alta, nerviosismo, temblor distal e insomnio durante las últimas 48 horas. Analítica: Hb 13.1, leucocitos 15.000, PLT 280.000, VSG 25 mm/h, T4L 2.9 ng/dL, TSH <0,1 µUI/ml. 
+¿Cuál es el diagnóstico más probable? 
+#A. Tiroiditis silente
+#B. Hashitoxicosis.
+#C. Tiroiditis de Quervain
+#D. Tiroiditis de Riedel
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213903&authkey=%21ABiqFFlH5OSPhbE&width=989&height=1280
+
+#Mujer de 31 años, con antecedente de enfermedad celiaca desde la adolescencia con buen control y dermatitis atópica. Acude a consulta refiriendo que en las últimas cuatro semanas se ha sentido con sensación de “nerviosismo”, ansiedad y pérdida de peso de uno 2 kg, además de episodios de palpitaciones. Al examen físico se iroides aumentado de tamaño, sin evidencia de lesiones ocupante de espacio, no dolorosa a la palpación. Paraclínicos: TSH <0,04 µUI/ml, T4L 2.8 ng/dL, títulos altos de anticuerpos antiperoxidasa (TPO). La gammagrafía de tiroides con Tc99 muestra hipocaptación general de la glándula. 
+¿Cuál es el diagnóstico más probable? 
+#A. Enfermedad de Graves-Basedow
+#B. Hashitoxicosis.
+#C. Tiroiditis de Quervain
+#D. Tiroiditis de Riedel
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213902&authkey=%21APYEiwFGnpYSPfk&width=989&height=1280
+
+#Fernando, de 26 años, ingresó a urgencias por trauma en hombro derecho secundario a una caída mientras jugaba baloncesto. Posterior al evento presenta dolor, deformidad y limitación funcional de la zona afectada. Al examen físico se encontró edema en la región anterior del hombro derecho, signo de pseudocharretera y dolor al realizar una flexión a 90 grados, intentando llevar el codo de la misma extremidad hacia el lado contralateral. Además, posterior al manejo analgésico bimodal, se evaluaron los arcos de movilidad, los cuales están intactos. No se encontraron otros hallazgos anormales. 
+¿Cuál es la conducta adecuada a seguir?
+#A. Radiografía de hombro con proyección AP verdadera, axilar y de Zanca unilateral.
+#B. Resonancia magnética del hombro derecho.
+#C. Radiografía de hombro con proyección AP verdadera, axilar y de Zanca bilateral.
+#D. Realizar reducción cerrada de forma inmediata.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213913&authkey=%21APPefiHGum2Ng_s&width=990&height=1280
+
+#Carlos, de 32 años, ingresó a urgencias por una lesión por aplastamiento en el miembro inferior derecho (MID) a nivel de la pierna en su cara anterior. Al examen físico se evidenció edema y múltiples hematomas en la pierna del MID, dolor a la extensión pasiva de la musculatura de los dedos del pie y del músculo extensor, y herida de 2 cm con exposición ósea a nivel de la diáfisis del peroné y la tibia. Se inició manejo analgésico multimodal de alta potencia, pero a las 2 horas el paciente refiere persistencia del dolor en el MID y aumento de este. No se observa palidez ni alteración de la sensibilidad. Una radiografía confirma fractura de la diáfisis de tibia y peroné del MID. 
+¿Cuál es la conducta adecuada a seguir?
+#A. Iniciar infusión de ketamina como medida analgésica y evaluar respuesta
+#B. Realizar una fasciotomía.
+#C. Elevar la extremidad 30 cm por encima del eje flebostático.
+#D. Ordenar una escarotomía.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213912&authkey=%21AFkd8rL1YowoysE&width=990&height=1280
+
+#Carlos, de 32 años, ingresó a urgencias por una lesión por aplastamiento en el miembro inferior derecho (MID) a nivel de la pierna en su cara anterior. Al examen físico se evidenció edema y múltiples hematomas en la pierna del MID, dolor a la extensión pasiva de la musculatura de los dedos del pie y del músculo extensor, y herida de 2 cm con exposición ósea a nivel de la diáfisis del peroné y la tibia. Se inició manejo analgésico multimodal de alta potencia, pero a las 2 horas el paciente refiere persistencia del dolor en el MID y aumento de este. No se observa palidez ni alteración de la sensibilidad. Una radiografía confirma fractura de la diáfisis de tibia y peroné del MID. 
+Teniendo en cuenta el caso anterior, ¿Cuál sería el manejo antibiótico adecuado para Carlos?
+#A. Cefazolina
+#B. Clindamicina 
+#C. Cefazolina+ gentamicina 
+#D. Ciprofloxacina
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213910&authkey=%21AG1jO5MzUFQwMio&width=990&height=1280
+
+#Carlos, de 25 años y residente en zona rural, consultó a un hospital de segundo nivel por dolor intenso en el pene de 20 horas de evolución. Refiere que el dolor inició rápidamente después de escuchar un “chasquido” durante una relación sexual con penetración. Inmediatamente después, experimentó detumescencia del pene; sin embargo, debido a las condiciones demográficas de la región, apenas pudo consultar ahora. Indica micción presente sin alteraciones. Al examen físico, se observa desviación del pene hacia la izquierda desde la mitad del eje. Además, hay equimosis y edema en el pene, sin compromiso del escroto. No hay globo vesical. Teniendo en cuenta el tiempo transcurrido desde la lesión y el nivel hospitalario, ¿Cuál es la conducta adecuada a seguir?
+#A. Proceso de remisión para manejo quirúrgico.
+#B. Solicitar una ecografía genital.
+#C. Colocar una sonda vesical inmediatamente
+#D. Indicar manejo conservador con hielo, vendaje compresivo y antibiótico profiláctico.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213909&authkey=%21AGyVArJ1CwF3c0Q&width=990&height=1280
+
+#Ofelia, de 82 años, con antecedentes de estreñimiento, demencia vascular y postración durante los últimos 4 años, es llevada a urgencias por personal de salud del hogar geriátrico donde vive, debido a dolor abdominal tipo cólico progresivo, generalizado, con predominio en hipogastrio y flanco izquierdo. Mencionó una deposición acuosa sin sangre hace 6 horas y no refiere pérdida de peso. Al examen físico signos vitales estables, el abdomen está ligeramente distendido y hay dolor leve a la palpación de forma difusa, sin signos de irritación peritoneal. El tacto rectal muestra heces duras. ¿Cuál es la conducta adecuada a seguir de forma inicial?
+#A. Indicar una laparotomía exploratoria.
+#B. Realizar desimpactación manual.
+#C. Realizar colonoscopia.
+#D. Modificar estilos de vida y alimentación
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213908&authkey=%21APB-OiGDcW7QSxw&width=990&height=1280
+
+#Doña Olga, de 65 años, acude a cita de control un mes después de haber sido hospitalizada por una úlcera duodenal clasificación Forrest IIA, la cual fue tratada exitosamente mediante inyección de adrenalina y colocación de clips. Los resultados de la biopsia fueron negativos para H. pylori y niega haber tenido nuevos episodios de deposiciones melénicas. Tiene antecedentes de lumbalgia crónica debido a una hernia de núcleo pulposo en los niveles L4-L5, previamente manejada con ibuprofeno, que fue suspendido durante su hospitalización y reemplazado por acetaminofén. En la consulta actual, refiere que el acetaminofén no es suficiente para controlar su dolor y solicita la recomendación de otro AINE. Actualmente solo toma esomeprazol. 
+¿Cuál de las siguientes opciones proporciona la mejor prevención de úlceras en este paciente?
+#A. Diclofenaco + esomeprazol
+#B. Celecoxib + famotidina 
+#C. Diclofenaxo + misoprostol
+#D. Celecoxib + esomeprazol
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213911&authkey=%21AErAiEoZ5dphwBw&width=1236&height=1600
