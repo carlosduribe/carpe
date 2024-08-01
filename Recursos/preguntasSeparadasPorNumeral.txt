@@ -22637,7 +22637,7 @@ Bibliografía recomendada:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213825&authkey=%21ACWz0IUYi1vgg58&width=989&height=1280
 
 #Femenina de 19 años consulta con un electrocardiograma que se realizó de manera ambulatorio debido a que su padre murió a los 48 años de causas desconocidas y está preocupada por ello. El electrocardiograma se muestra en la imagen 1. Tiene antecedentes de síndrome de ovario poliquístico, hipotiroidismo, obesidad y depresión. Está medicada con levotiroxina 100 mcg/día, sertralina 50 mg/día y un anticonceptivo oral combinado. Signos vitales: 120/80 mmHg y frecuencia cardíaca de 75 lpm. El examen físico es normal. Las pruebas tiroideas son normales. ¿Cuál es el manejo adecuado?
-Imagen
+![Untitled]
 #A.	Realizar un ecocardiograma.
 #B.	Realizar monitoreo cardiaco ambulatorio de 24 horas.
 #C.	Iniciar betabloqueador.
@@ -22655,7 +22655,7 @@ Imagen
 
 #Usted se encuentra evaluando una paciente en sala de reanimación la cual presenta palpitaciones en el pecho desde hace 1 hora. Niega disnea, dolor torácico, mareo o perdida del conocimiento. No tiene antecedentes de importancia. Signos vitales con FC de 190 lpm, FR de 18 rpm y PA de 130/80 mmHg. Se toma un ECG el cual se evidencia en la imagen 2. Se realizan maniobras de Valsalva modificada sin mejoría del cuadro. 
 ¿Cuál es el paso a seguir en el manejo de esta paciente? 
-Imagen
+![Untitled]
 #A.	Administrar adenosina IV.
 #B.	Realizar cardioversión eléctrica.
 #C.	Administrar metoprolol IV.
@@ -23021,7 +23021,7 @@ Bibliografía recomendada:
 
 #Varón de 68 años, con antecedente de cáncer de próstata con metástasis óseas, actualmente en tratamiento con quimioterapia + radioterapia. Acude al centro de salud de primer nivel refiriendo disnea súbita de inicio hace una hora y tos seca.  Examen físico: ansioso, PA 120/70 mh, FC 118 lpm, FR 27 rpm, SatO2 88%, ruidos cardiacos aumentados en intensidad, taquicárdicos, concordantes con el pulso, murmullo vesicular conservado. Se realiza el siguiente EKG: 
 ¿Cuál es el diagnóstico más probable? 
-Imagen
+![Untitled]
 #A. Disección coronaria espontánea
 #B. Trastorno de ansiedad
 #C. Embolismo pulmonar
@@ -23040,7 +23040,7 @@ Imagen
 
 #Mujer de 25 años, previamente sana, acude a consulta por presentar un episodio de palpitaciones de inicio súbito. Las palpitaciones comenzaron mientras estaba descansando en casa, sin relación aparente con esfuerzo físico, estrés emocional o consumo de alcohol o cafeína. No refiere dolor torácico, disnea, mareos ni síncope. Se realiza el siguiente EKG: 
 ¿Cuál es el diagnóstico más probable? 
-Imagen
+![Untitled]
 #A. Taquicardia sinusal
 #B. Fibrilación auricular 
 #C. Taquicardia del nódulo AV por reentrada
@@ -23813,3 +23813,524 @@ Bibliografía recomendada:
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214102&authkey=%21AF6VLkyCC1tOTPc&width=1237&height=1600
 
+#Pedro, 78 años, está cursando con una neumonía, ingresa a UCI en insuficiencia respiratoria aguda. Está con taquicardia, hipoxemia e hipotensión. Se decide intubar y se inició antibiótico de amplio espectro y vasopresor. Tiene HTA bien controlada. Niveles de glicemia durante UCI: 288, 293 y 272 mg/dL. ¿Cuál es la mejor conducta?
+#A.	No modificar sus niveles de glicemia, tiene hiperglucemia asociada a estrés derivado se la sepsis con la que cursa.
+#B.	Realizar medición de HbA1c.
+#C.	Iniciar infusión de insulina, con metas entre 110 a 140 mg/dL.
+#D.	Iniciar infusión de insulina, con metas entre 140 a 180 mg/dL.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214104&authkey=%21AKnOjWxBDyhgnew&width=989&height=1280
+
+#Ismael, 60 años, tiene DT2 con mal control y EPOC, es hospitalizado por una exacerbación de EPOC. Recibe 50 U/día de glargina, metformina 1gr/12h y fluticasona inhalada más salmeterol. Tiene dificultad respiratoria leve. Examen físico: T 37,9°C, PA 146/90 mmHg, FC 102 lpm, FR 22 rpm, SATO2 90% con cánula nasal a 3 L. Pesa 100 kilos, IMC de 33. Tiene sibilancias y crépitos, en la rx con una consolidación en base pulmonar derecha. Se decidió intubar por falla respiratoria. Se continúa con su dosis domiciliaria de insulina glargina y se suspende la metformina. En el segundo día de hospitalización, tiene glicemias entre 200-300 mg/dL. ¿Cuál es la mejor conducta?
+#A.	Continuar con la misma dosis por día de glargina, pero dividir la dosis y aplicar cada 12 horas.
+#B.	Dividir la dosis total diaria del paciente en 2, el 50% se debe administrar basal y el otro 50% en bolos prandiales.
+#C.	Subir la dosis de insulina 0.6 U/kg/día y considerar el uso de esquemas suplementarios.
+#D.	No modificar sus niveles de glicemia, pues tiene hiperglucemia asociada a su condición pulmonar.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214105&authkey=%21AGe5rbFXbv9qdKo&width=989&height=1280
+
+#Samanta, 22 años, consulta tras ingerir 25 tabletas de un fármaco desconocido hace 4 horas. Examen físico: T 36,7°C, FC 41/min, FR 14/min y PA 88/55 mmHg, SATO2 93% al ambiente. Está confundida y orientada sólo a la persona. Tiene isocoria normorreactiva. Las extremidades están frías y húmedas. Se escuchan sibilancias espiratorias dispersas y roncus en ambos campos pulmonares. La glucometría fue de 65 mg/dL. EKG: intervalos PR prolongados y complejos QRS estrechos. Se administra solución salina normal, dextrosa y atropina. 5 min después: FC 51/min y PA 95/61 mmHg. Además de asegurar la vía aérea, ¿cuál es la mejor conducta?
+#A. Administrar carbón activado.
+#B. Administrar bicarbonato de sodio.
+#C.  Administrar glucagón.
+#D.	Llevar a hemodiálisis.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214106&authkey=%21AEZvdGIy3ow3iX8&width=989&height=1280
+
+#Camilo, 58 años, tiene EPOC e HTA, consulta por disnea de 3 días de evolución luego de comenzar terapia con propranolol. Examen físico: T 36,7°C, FC 64/min, FR 20/min y PA 138/88 mmHg. La auscultación de los pulmones muestra sibilancias espiratorias difusas. ¿Cuál es la conducta más apropiada?
+#A.	Suspender propranolol e iniciar salmeterol.
+#B.	Iniciar bromuro de ipratropio.
+#C.	Iniciar prednisona y considerar timolol en reemplazo del propranolol.
+#D.	Iniciar albuterol.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214107&authkey=%21ACWec15rUrp2XXQ&width=989&height=1280
+
+#Raúl, 55 años, consulta por dolor torácico retroesternal episódico y disnea durante los últimos 6 meses. El cuadro aparece con largas caminatas o subir escaleras, pero desaparecen rápidamente con el reposo. Tiene EPOC, toma bromuro de ipratropio. Examen físico: FC 81/min y PA 153/82 mmHg. El examen físico muestra sibilancias espiratorias leves en ambos pulmones. Se considera tratamiento adicional con un betabloqueante. ¿Cuál de los siguientes se debe evitar en él?
+#A.	Metoprolol.
+#B.	Atenolol.
+#C.	Esmolol.
+#D.	Labetalol.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214108&authkey=%21AA2Ew01yRh-pJ0s&width=989&height=1280
+
+#Martina, de 28 años, G2P1 con 37 semanas de gestación, sin antecedentes médicos de importancia, ingresa a urgencias por trabajo de parto en fase activa, con cultivo positivo para Streptococcus del Grupo B (SGB) que no reporta resistencia a ningún betalactámico. Al examen físico, el abdomen no es doloroso y hay presencia de contracciones cada 4 minutos. Hay líquido amniótico claro acumulándose en la vagina. El feto se encuentra en presentación cefálica. La frecuencia cardíaca fetal es de 140 lpm. ¿Cuál de las siguientes es la estrategia de manejo más apropiada?
+#A. Ampicilina, 2 g IV, luego 1 g IV cada 4 horas hasta el parto
+#B. Cefazolina, 2 g IV, luego 1 g IV cada 8 horas hasta el parto
+#C. Clindamicina 900 mg IV cada 8 horas hasta el parto
+#D. Vancomicina 1 g IV cada 12 horas
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214122&authkey=%21AHXNly4WX1LioYI&width=990&height=1280
+
+#Olga, de 32 años, con antecedentes de lupus eritematoso sistémico y nefritis desde hace 3 años, consulta ahora al médico general para recibir asesoramiento preconcepcional. En la historia clínica de la paciente se evidenció que respondió rápidamente a la terapia de inducción con inmunosupresores combinados y se ha mantenido con micofenolato de mofetilo e hidroxicloroquina durante los últimos 2 años. Los paraclínicos y la evaluación clínica de los últimos 12 meses evidencian enfermedad inactiva. No hay evidencia de disfunción renal. ¿Cuál es la conducta de manejo adecuada teniendo en cuenta el deseo de iniciar una gestación en la paciente?
+#A. Suspender únicamente la hidroxicloroquina.
+#B. Continuar con los medicamentos actuales.
+#C. Suspender únicamente el micofenolato de mofetilo y agregar prednisona 20 mg al día.
+#D. Suspender únicamente el micofenolato de mofetilo y agregar azatioprina.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214123&authkey=%21ACCjLHdDyrcxgsI&width=990&height=1280
+
+#Julieta, de 28 años, con antecedente de menarquia a los 14 años y FUM hace 3 semanas, con menstruaciones regulares, asiste a consulta para realizarse un examen pélvico anual y una prueba de Papanicolaou. Sin embargo, refiere dolor sordo en la fosa iliaca derecha. Los signos vitales están dentro de los rangos normales. Al examen físico, se observa dolor abdominal a la palpación profunda en la fosa ilíaca izquierda, sin otro hallazgo anormal. Se realizó una prueba de embarazo en orina, la cual resultó negativa, y una ecografía de la pelvis evidenció un quiste anecoico unilocular lleno de líquido de 5 cm con paredes delgadas, sin componentes sólidos en el ovario izquierdo. ¿Cuál de las siguientes es la causa más probable de su cuadro clínico?
+#A. Quiste folicular
+#B. Quiste del cuerpo lúteo
+#C. Endometrioma
+#D. Quiste dermoide
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214124&authkey=%21ACofBm2jHo0GtZs&width=1981&height=1280
+
+#Paula, de 38 años, con antecedentes de menstruaciones irregulares, sin gestaciones previas, y con vida sexual activa sin condón con su esposo durante los últimos 13 meses, consulta ahora al programa de concepción porque no ha podido concebir. En el examen físico no se encontraron hallazgos anormales. El espermograma de su pareja es normal y él ha tenido dos hijos con su pareja anterior. ¿Cuál es la conducta adecuada a seguir?
+#A. Realizar una histerosalpingografía
+#B. Obtener un nivel de progesterona sérica en la fase lútea media
+#C. Repetir el análisis de semen
+#D. Prueba de hormona estimulante de la tiroides
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214126&authkey=%21AHLEu1n_i4VCAuc&width=990&height=1280
+
+#Marcela, de 28 años, primigestante con 34 semanas de gestación, consulta por disnea y palpitaciones. No refiere dolor torácico, tos ni hemoptisis. Su única medicación es una vitamina prenatal. Los signos vitales son normales, con una saturación de oxígeno del 97% con FiO2 ambiente. Al examen físico, presenta un útero grávido. Se ausculta un murmullo vesicular conservado sin agregados, y no presenta edema, eritema ni aumento de sensibilidad en las piernas. Los paraclínicos muestran un nivel de dímero D de 0,88 mg/L. La ecografía Doppler de las piernas es normal. ¿Cuál de las siguientes es la prueba diagnóstica más adecuada a realizar a continuación?
+#A. Angiografía pulmonar por tomografía computarizada
+#B. No se indica realizar otros exámenes en este momento
+#C. Resonancia magnética pulmonar con gadolinio
+#D. Exploración pulmonar de ventilación-perfusión por gammagrafía
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214127&authkey=%21AHmnoHW0UzEvW4A&width=989&height=1280
+
+#Emiliano, 3 años, es llevado al programa de niño sano. Nació a las 37 semanas de gestación y pesó 2700 g. No hay antecedentes personales ni familiares de enfermedad grave. PAI al día. Se ausculta un soplo de eyección sistólico de grado 3/6 en el borde esternal superior izquierdo y un soplo de eyección sistólico de grado 2/6 mesodiastólico en el borde esternal inferior izquierdo, con desdoblamiento del segundo ruido, no varía con la respiración. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Defecto septal ventricular
+#B. Soplo cardíaco benigno
+#C. Estenosis de la válvula pulmonar
+#D. Comunicación interauricular
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214129&authkey=%21ANusl41keggcsqU&width=990&height=1280
+
+#Rogelio, 13 años llevado a urgencias de un tercer nivel de complejidad por su profesor de química 20 minutos después de tener un accidente en el laboratorio de su colegio, durante el cual estuvo expuesto al hidróxido de potasio. En el momento, refiere dolor intenso en el ojo derecho y dificultad para la apertura ocular. El niño afirma que tenía puestas sus gafas cuando ocurrió el accidente y que, inmediatamente después, el profesor le lavó el ojo profusamente con agua del grifo durante aproximadamente 5 minutos. En el ojo derecho se evidencia eritema y ampollas en el párpado, con congestión conjuntival y epífora. Hay una laceración de espesor parcial por encima de la ceja derecha. El examen posterior se ve impedido debido al marcado blefaroespasmo. ¿Cuál de los siguientes es el paso inicial más apropiado con este paciente?
+A.	Continuar la irrigación con solución salina normal
+#B.	Comenzar la irrigación con una solución ácida débil 
+#C.	Aplicar acetato de prednisolona tópico
+#D.	Vendaje ocular
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214130&authkey=%21AGTjybnQPnefD9E&width=990&height=1280
+
+#Una niña de 3 meses de edad es llevada al médico por 5 días de evolución de tos productiva, además de episodios de diarrea acuosa en el último mes. La madre refiere que su hija no aumenta de peso. Antecedentes: Recibe lactancia materna exclusiva cada 3 a 4 horas durante 15 a 20 minutos. Tuvo un parto vaginal a las 38 semanas de gestación en casa y aún no ha sido evaluada por un médico. La madre no tuvo control prenatal. PAI incompleto (no ha recibido ninguna vacuna). Al examen físico: percentil 5 de altura y peso. Su temperatura es de 38,5 °C, pulso 155/min, FR 45/min y PA 88/50 mm Hg. Se evidencian placas blancas que cubren la lengua y el paladar. Hay adenopatías cervicales e inguinales. En el examen pulmonar, se escuchan crépitos bilaterales. ¿Cuál de los siguientes es más probable que confirme el diagnóstico?
+#A.	Prueba de ADN para mutación CFTR
+#B.	Citometría de flujo de linfocitos B
+#C.	Prueba de círculo de escisión del receptor de linfocitos T 
+#D.	Reacción en cadena de la polimerasa para genes virales
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214131&authkey=%21AO-p-G72e_zZw9Q&width=990&height=1280
+
+#Luis, 8 años. Es llevado al médico por su padre debido a cuadro clínico de 4 días de evolución de movimientos anormales de sus extremidades, espasmódicos e incontrolables, incluso se le han caído tazas y juguetes. Se ha tornado más irritable. Sus síntomas empeoran cuando está excitado y mejoran mientras duerme. Tenía odinofagia hace 6 semanas que se resolvió sin tratamiento. T 37,3°C, resto de signos vitales sin alteraciones. Al examen físico muestra muecas ocasionales con movimientos espasmódicos involuntarios de sus extremidades, disminución de la fuerza y el tono muscular en todas las extremidades, cuando agarra los dedos índice y medio del médico con sus manos, su agarre aumenta y disminuye continuamente. ¿De cuál de las siguientes complicaciones tiene mayor riesgo este paciente? 
+#A.	Regurgitación mitral
+#B.	Demencia de inicio temprano
+#C.	Trastorno por déficit de atención e hiperactividad
+#D.	Metástasis extraneural
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214132&authkey=%21ADVAZRsaieRRhvE&width=990&height=1280
+
+#Julio, 10 años, llevado a urgencias de un alto nivel de complejidad por cuadro de una hora de evolución de cefalea intensa, tipo punzante, en región frontotemporal derecha. Dice que esto ha ocurrido alrededor de cinco veces en los últimos dos meses. Su madre dice que todos los episodios anteriores comenzaron después de la práctica de fútbol, luego de lo cual se encerraba en su habitación, cerraba las cortinas y dormía unas horas, después de despertarse, la cefalea disminuía o desaparecía. Antecedentes: Miopía, con gafas.  Su hermano de 4 años tuvo gingivoestomatitis herpética 2 meses atrás. Examen físico: El examen de fondo de ojo no es concluyente porque el paciente no coopera. El resto del examen no muestra anormalidades. ¿Cuál de los siguientes es el paso más adecuado con el paciente?
+#A. Realizar RMN
+#B. Iniciar amitriptilina 
+#C. Iniciar dihidroergotamina
+#D. Iniciar acetaminofén
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214133&authkey=%21AH79BI3aSzcwcCk&width=990&height=1280
+
+#Hernán, de 58 años, con antecedente de colecistectomía hace dos semanas, consulta por edema y dolor en pantorrilla izquierda. Signos vitales dentro de rangos normales y al examen físico se observa edema en la extremidad inferior izquierda desde los dedos hasta la rodilla. La ecografía doppler muestra una trombosis venosa profunda en la vena femoral. ¿Cuál es la conducta de manejo adecuada?
+#A. Anticoagulación durante 12 meses.
+#B. Programar para colocación de filtro de vena cava inferior. 
+#C. Anticoagulación durante 6 a 8 semanas.
+#D. Anticoagulación durante 3 a 6 meses.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214135&authkey=%21AKbqjvNxtB6xCvQ&width=989&height=1280
+
+#Orlando, de 50 años, con antecedente de diabetes tipo 2 y hospitalización reciente por infarto de miocardio sin elevación del segmento ST, en manejo con metformina, ASA, clopidogrel, rosuvastatina, metoprolol y losartan. Aude a consulta de seguimiento post hospitalización; actualmente está asintomático. Signos vitales dentro de rangos normales. Al examen físico, IMC de 30, sin otros hallazgos anormales. Los estudios de laboratorio muestran un nivel de Hb1Ac de 7,2%. 
+¿Cuál de los siguientes es el tratamiento más adecuado?
+#A. Indicar insulina detemir 
+#B. Ordenar uso de glibenclamida 
+#C. Iniciar dapaglifozina. 
+#D. Iniciar manejo con linagliptina
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214136&authkey=%21AJWBZNX9o9ZrDJE&width=989&height=1280
+
+#Augusto, de 60 años, consulta por historial de cinco días de palpitaciones y pérdida de peso de 3 kg de forma no intencionada en los últimos dos meses. Al examen físico, FC de 110 lpm, con nódulo tiroideo de 2 cm en el polo superior izquierdo, el cual es firme y móvil, sin cambios en la piel adyacente. Sin otros hallazgos anormales. Paraclínicos con TSH <0,1 µUI/ml y T4 libre de 2,5 ng/dL. ¿Cuál de las siguientes es la prueba diagnóstica más adecuada?
+#A. Punción por aspiración con aguja fina de la lesión 
+#B. Medición de T3 total
+#C. Gammagrafía tiroidea 
+#D. TAC de cuello con contraste
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214137&authkey=%21APXP1MY1m5fHZu4&width=989&height=1280
+
+#Dario, de 31 años, consulta por cuadro clínico de dos años de evolución caracterizado por ginecomastia. Durante la valoración también refiere baja libido, aumento de peso y disfunción eréctil. Él y su esposa han estado intentando quedar embarazados durante los últimos 12 meses sin éxito. No refiere otros síntomas y no toma medicamentos ni suplementos. Los signos vitales son normales. Al examen físico, el IMC es 29. La masa muscular está disminuida y el vello púbico y axilar es escaso. La palpación mamaria demuestra tejido glandular subareolar de aproximadamente 1.2 cm de diámetro en la mama izquierda y 1 cm en la mama derecha. El examen testicular revela disminución del volumen testicular. 
+¿Cuál de las siguientes es la prueba diagnóstica más adecuada?
+#A. Ecografía testicular
+#B. Mamografía
+#C. Test de testosterona serica matutina
+#D. Biopsia con aguja gruesa de mama
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214138&authkey=%21AALS6vdrnBTQWn4&width=989&height=1280
+
+#Andrés de 31 años, sin antecedentes de interés, campesino en área rural de los montes de María. Consulta por prurito intenso zona interdigital y plantar del pie derecho, de varios días de evolución. Refiere que es el primer episodio. Refiere que en ocasiones usa de manera irregular sandalias o zapatos, y menciona que en su residencia hay presencia de perros. Al examen físico se evidencia lesiones pápulo-eritematosas con superficie excoriada y costrosa en las zonas interdigitales referidas, además de la presencia de múltiples surcos serpiginosos intraepidérmicos de 20 mm de longitud. 
+¿Cuál es el tratamiento correcto? 
+#A. Albendazol 400 mg/día durante 3-5 días + ivermectina VO 200 mcg/kg DU 
+#B. Ivermectina VO 200 mcg/kg DU 
+#C. Penicilina benzatínica 2.400.000 U IM + azitromicina 1 gr VO dosis única  
+#D. Azitromicina 1 gr VO dosis única
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214139&authkey=%21AOXP2MfeaVWaC7g&width=989&height=1280
+
+#Femenina de 48 años se encuentra en una cita control de rutina. Hace 5 años desarrolló una pancreatitis crónica secundario a consumo excesivo de alcohol. Fuma un paquete de cigarrillos al día. Se encuentra medicada con naproxeno (En caso de dolor) y terapia con reemplazo de enzimas pancreáticas. Trae consigo estudios de laboratorio con una glucosa en ayunas en 190 mg/dl y una HbA1c de 8.5%. ¿Cuál de los siguientes es el manejo adecuado para esta paciente?  
+#A.	Iniciar tratamiento con sitagliptina.
+#B.	Iniciar tratamiento con empaglifozina.
+#C.	Iniciar tratamiento con insulina.
+#D.	Indicar dieta hipoglucida.
+#Respuesta correcta: C
+#Tema e item: Diabetes tipo 2
+
+Argumento: Esta paciente presenta glucemias en ayunas y HbA1c elevadas, lo que indica que padece diabetes, probablemente como resultado de su pancreatitis crónica. Fisiopatológicamente esto se explica por la pérdida de células de los islotes durante el curso de la inflamación y fibrosis pancreáticas lo que a su vez es el factor de riesgo más importante para el desarrollo de insuficiencia endocrina (Y por lo tanto un déficit de insulina).  Esto lleva a que la base del tratamiento de la diabetes relacionada con la pancreatitis crónica implique el uso de insulina. En ocasiones, la metformina es una opción de tratamiento en estos pacientes, sin embargo, su uso suele ser limitado por los efectos gastrointestinales secundarios (Los cuales también se ven exacerbados con la pancreatitis). 
+
+Los pacientes con diabetes secundaria a pancreatitis crónica también tienen un mayor riesgo de hipoglicemia, explicado por la disminución de producción de hormonas contrarreguladoras como el glucagón. Esto indica que además se evita un control estricto de la glucosa en comparación con otros pacientes diabéticos. 
+
+-	Los inhibidores de la dipeptidil peptidasa-4, como la sitagliptina, se asocian con un mayor riesgo de pancreatitis. Además, debido a la pérdida de la función endocrina, los medicamentos insulinotrópicos se evitan en pacientes con pancreatitis crónica.  
+-	Los inhibidores del SGLT2 como la empaglifozina se asocian con cetoacidosis diabética euglicemica, aumentando aún más su riesgo en pacientes con insuficiencia pancreática. 
+-	Dado que el páncreas del paciente no produce suficiente insulina por sí solo, es necesario administrarle insulina para controlar sus niveles de glucosa, además de iniciar una dieta de bajo índice glucémico.
+
+Punto clave
+
+Todos los pacientes con pancreatitis crónica deben someterse a exámenes periódicos de detección de diabetes mellitus, deficiencias de vitaminas liposolubles y osteoporosis.
+
+Fuente bibliográfica:
+-	Type 3c (pancreatogenic) diabetes mellitus secondary to chronic pancreatitis and pancreatic cancer. The Lancet Gastroenterology & Hepatology. 1(3), 226–237.
+
+#María José, 3 años. Llevada a urgencias por cuadro de aproximadamente 4 horas de evolución de irritabilidad, anorexia y odinofagia. Durante la última semana había presentado tos seca, acompañado de fiebre objetiva con pico máximo de 38.1°C. Tiene PAI al día. Al examen físico, febril, con facies de dolor, taquicárdica, llora cuando se le extiende el cuello durante el examen orofaríngeo y se observan amígdalas eritematosas con edema de la pared faríngea posterior, con úvula centrada. Tiene adenopatías cervicales bilaterales, dolorosas. Se toma rx lateral del cuello, con evidencia de ensanchamiento del espacio entre la faringe y la fascia vertebral. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. CRUP
+#B. Absceso periamigdalino
+#C. Absceso retrofaríngeo
+#D. Epiglotitis
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214141&authkey=%21ALkvF2AD8s5eZkc&width=1979&height=1280
+
+#Juan Esteban, sin antecedentes, 9 meses, llevado a urgencias por aparición de equimosis periorbitarias que aparecieron hace 24 horas. Además, los padres refieren 3 semanas de evolución de fiebre objetiva de 38,3 °C, y ha estado quejándose continuamente. Se encuentra taquicárdico, febril, con abdomen distendido, doloroso a la palpación, se palpa masa intraabdominal palpable que se extiende desde el lado derecho de su abdomen hasta justo a la izquierda de la línea media. Se solicitó RMN, HLG, tiempos de coagulación, ionograma y ácido úrico. ¿Qué examen nos ayudaría a hacer el diagnóstico?
+#A. LDH elevada
+#B. Alfafetoproteína sérica elevada
+#C. Catecolaminas elevadas en suero y orina
+#D. CA-125 elevado
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214143&authkey=%21AGA7SFIcHDeagoQ&width=990&height=1280
+
+#Víctor, 4 años, nació de 34 semanas, sin requerimiento de IOT. Llevado a su consulta porque esta semana, después de ponerse un parche de pirata sobre el ojo derecho cuando se disfrazaba, refirió que no podía ver. Por lo demás, dice que no tiene problemas en la visión. Al examen físico, con reflejos corneales simétricos, reflejo rojo presente bilateralmente, el cover test no muestra desviación ocular y los movimientos extraoculares están intactos. La agudeza visual es de 20/30 en el ojo derecho. En el ojo izquierdo, vista de cuentadedos. El examen fundoscópico muestra márgenes discales nítidos con calibre y trayecto normal del vaso. ¿Cuál de las siguientes es la causa más probable de los hallazgos clínicos de este paciente?
+#A. Error refractivo no corregido
+#B. Retinopatía del prematuro
+#C. Ambliopía
+#D. Opacidades corneales
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214144&authkey=%21AIpUpylv1pA9EnA&width=990&height=1280
+
+#Emmanuel, 8 años, sin antecedentes patológicos. Llevado a urgencias 45 minutos después de caerse de la cama, 10 minutos después de acostarlo en la cama, la madre escuchó un ruido y lo encontró inconsciente en el suelo, con cianosis peribucal. El paciente recuperó la conciencia después de unos minutos, pero quedó excesivamente somnoliento. Niega otros signos/síntomas previos. Al examen físico, se encuentra alerta e interactúa con el medio, pero no recuerda nada sobre el evento. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Convulsión de inicio generalizado
+#B. Convulsión de inicio tónico-clónico bilateral que progresó a ser focal
+#C. Síncope vasovagal
+#D. Alucinaciones hipnagógicas
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214145&authkey=%21ADLSg7UcMrnF2UQ&width=990&height=1280
+
+#Valery, 3 años, llevada a urgencias porque hace cinco minutos inicia con angioedema y disfonía. Refieren que lo único diferente fue un consumo de yogurt por accidente. Tiene antecedentes de alergia a la proteína de leche de vaca. Al examen físico  con signos vitales estables, pálida, diaforética y con algunas sibilancias. ¿Cuál es el primer tratamiento de elección? 
+#A. Adrenalina vía subcutánea.
+#B. Adrenalina vía intramuscular. 
+#C. Metilprednisolona intramuscular. 
+#D. Salbutamol nebulizado en esquema de crisis.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214146&authkey=%21APEJnIsdaYj7onM&width=990&height=1280
+
+#Masculino de 67 años con antecedente de anemia crónica es llevado a urgencias con disnea y opresión torácica de 30 minutos de evolución la cual se desarrolla posterior a una transfusión de glóbulos rojos. Tiene antecedente además de HTA y ERC estadio III. Signos vitales: Temp. de 37°C, FC de 110 lpm, PA de 160/95 mmHg, FR de 22 rpm y SatO2 del 90% con oxigeno ambiente. Al examen físico hay estertores en ambas bases pulmonares y distensión venosa yugular. Un ECG muestra taquicardia sinusal y signos de hipertrofia ventricular izquierda. Paraclínicos: Hb de 10.2 gr/dL, Cr de 3.2 mg/dL Y un péptido natriurético (BNP) elevado. Una radiografía de tórax muestra infiltrados bilaterales difusos. A la espera de un ecocardiograma. ¿Cuál es el manejo adecuado? 
+#A.	Intubación endotraqueal y ventilación mecánica.
+#B.	Furosemida IV.
+#C.	Metoprolol IV.
+#D.	Hemodiálisis.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214148&authkey=%21AMqIiZOOu5E06u8&width=989&height=1280
+
+#Femenina de 67 años es llevada a urgencias por disnea progresiva y confusión desde hace 2 días. Tiene antecedente de enfermedad coronaria, insuficiencia cardíaca con FEVI del 30%, DT2 y dislipidemia. La paciente niega cumplir con su medicación. Signos vitales: Temp. de 37°C, FC de 70 lpm, FR de 20 rpm y PA de 85/45 mmHg. Al examen físico se evidencia ingurgitación yugular, crépitos pulmonares bibasales, un ruido cardíaco S3 y edema de miembros inferiores. Usted indica un medicamento IV que aumenta la contractibilidad cardiaca y disminuye la resistencia vascular sistémica sin cambios significativos de la presión arterial. ¿Cuál de los siguientes es ejemplo de este medicamento? 
+#A.	Dopamina en dosis altas.
+#B.	Dobutamina.
+#C.	Fenilefrina.
+#D.	Noradrenalina.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214149&authkey=%21APG8IPF3qFMYWn0&width=989&height=1280
+
+#Femenina de 72 años es llevada a urgencias al presentar letargo. Sus familiares informan que la paciente en encuentra postrada en cama posterior a un ACV secuelar. Tiene antecedente de enfermedad coronaria, HTA, hiperlipidemia y DT2. La paciente se evidencia en regulares condiciones. Signos vitales: Temp. de 39°C, PA de 105/75 mmHg, FC de 108 lpm, FR de 24 rpm y SatO2 del 95%. Al examen físico las mucosas están secas y hay una gran herida sacra no estadificable con secreción maloliente. ¿Cuál de las siguientes intervenciones realizaría mas tempranamente? 
+#A.	Administrar noradrenalina.
+#B.	Colocar una línea arterial.
+#C.	Colocar un catéter venoso central.
+#D.	Medir ácido láctico.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214150&authkey=%21AEsBRMCo2FRmfHc&width=989&height=1280
+
+#Masculino de 42 años se encuentra en urgencias en contexto de un cuadro de dificultad respiratoria. Después de una valoración inicial, la saturación de oxígeno del paciente disminuye a un 76% y hay disminución del estado mental. El urgenciólogo procede a intubar al paciente utilizando un medicamento que actúa impidiendo que la acetilcolina se una a los receptores en la placa motora terminal, inhibiendo su despolarización. ¿Cuál de los siguientes medicamentos se administró?
+#A.	Rocuronio.
+#B.	Ketamina.
+#C.	Succinilcolina.
+#D.	Midazolam.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214151&authkey=%21AB5tjVfX2n-s0k8&width=989&height=1280
+
+#Masculino de 53 años por disnea en reposo, dolor torácico y malestar general de aprox. 8 días de evolución. Describe el dolor torácico como retroesternal, no irradiado. Tiene antecedente de adenocarcinoma de colon estadio IVa, diabetes tipo 2 e hipertensión arterial. Signos vitales: PA 110/70 mh, FC 140 lpm, FR 25 rpm. Al examen físico se encuentra pálida, ansiosa, hay distensión venosa yugular, crépitos en ambas bases pulmonares, sin otros hallazgos a la exploración. Electrocardiograma: taquicardia sinusal. Ecocardiograma TT: derrame pericárdico moderado de 310 ml.  ¿Cuál sería la conducta adecuada a seguir?
+#A.	Administrar diurético tipo furosemida y revalorar en 6 horas
+#B.	Administrar indometacina + colchicina
+#C.	Iniciar furosemida + digoxina + betabloqueador selectivo y revalorar en 6 horas
+#D.	Periocardiocentesis urgente.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214152&authkey=%21AOWogoSfbdO8pXA&width=989&height=1280
+
+#Mujer de 41 años con antecedente de diabetes tipo 2 desde hace dos años es remitida a la consulta de endocrinología por presentar glucometrías persistentemente elevadas y Hb1Ac de 9.2% a pesar del tratamiento metformina, linagliptina, dapaglifozina e insulina basal y glulisina con hipoglicemias frecuentes. Refiere que es adherente al tratamiento y al plan alimentario formulado por nutrición. Ha perdido 5 kg de peso desde el diagnóstico. Además de la DT2, tiene antecedente de hipotiroidismo en manejo con levotiroxina 75 mcg/día con última TSH hace dos meses en metas. Al examen físico los signos vitales son normales, IMC 26, sin hallazgos a la exploración. Laboratorios: AntiGAD65 positivos. 
+¿Cuál sería la conducta adecuada a seguir? 
+#A.  Referir a nutrición para reevaluar el plan alimentario 
+#B. Solicitar anticuerpos contra la descarboxilasa del ácido glutámico (AntiGAD65)
+#C. Solicitar cortisol en orina de 24 horas para descartar síndrome de Cushing 
+#D. Ajustar las dosis de insulina basal y glulisina y solicitar nueva TSH
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214154&authkey=%21APhdwbWv53dhLUM&width=1981&height=1280
+
+#Mujer de 67 años, consulta al programa de control. Antecedentes: diabetes tipo 2, hipertensión arterial y enf. Renal crónica con tasa de depuración en 51 mL/min. Esta en tratamiento para su diabetes con metformina, dapaglifozina, rosuvastatina e hidroclorotiazida. Examen físico normal. Laboratorios: Hb1Ac 6.9%, relación albúmina/creatinina en orina de 95 mg/g.
+¿Cuál de las siguientes es la estrategia de tratamiento más apropiada?
+#A. Suspender empaglifozina
+#B. Iniciar diltiazem
+#C. Suspender metformina
+#D. Iniciar losartan
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214156&authkey=%21AKBfhMalLaoWt2c&width=989&height=1280
+
+#Gonzalo, 62 años, con múltiples comorbilidades, entre ellas, epilepsia. Ha estado bien controlado con carbamazepina de liberación prolongada 400 mg dos veces al día durante los últimos 2 años, sin crisis ni efectos adversos de la medicación. Tiene un nivel sérico de carbamazepina de 14 µg / mL (RN 6-12) y un nivel de sodio de 134 mEq / litro. ¿Cuál es la mejor conducta?
+#A. Suspender la carbamazepina 
+#B. Dejar al paciente en observación 
+#C. Reducir la dosis de carbamazepina a 300 mg dos veces al día 
+#D. Continuar con la dosis actual de carbamazepina
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214157&authkey=%21AEAPThgHZCjvRuM&width=989&height=1280
+
+#Don Juan de 55 años, ingresa en la Unidad de Cuidados Intensivos debido a un cuadro de insuficiencia respiratoria severa secundario a exacerbación aguda de la EPOC. Se realiza el siguiente EKG: 
+¿Cuál es el diagnóstico electrocardiográfico más probable? 
+![Untitled]
+#A. Taquicardia sinusal
+#B. Taquicardia auricular multifocal 
+#C. Fibrilación auricular con respuesta ventricular alta
+#D. Taquicardia auricular
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214158&authkey=%21AOVgiBPBPFkfN1M&width=989&height=1280
+
+#Doña Ana de 61 años, a quien se le detecta en una revisión rutinaria por parte de su empresa una lesión periférica en el pulmón izquierdo de 3 cm de diámetro y con calcificaciones en su interior que forman una imagen que recuerda a una ‘’palomita de maíz’’, hallazgo que se confirman posteriormente en una tomografía. 
+¿Cuál sería una conducta adecuada? 
+#A. Programar para resección de la lesión
+#B. Remitir a oncología para iniciar protocolo de quimioterapia + radioterapia
+#C. Seguimiento radiologico 
+#D. Realizar biopsia percutánea de la lesión.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214159&authkey=%21AEWjcpT3rnPx_CE&width=989&height=1280
+
+#Carlos, de 25 años y sin antecedentes de interés, consultó a urgencias por presentar episodios de cefalea frontal izquierda referida a la región periorbitaria de una hora de duración que le generan agitación, con una evolución de 4 meses. Refiere que recientemente ha experimentado 4 episodios diarios en la última semana, utilizando acetaminofén con un alivio mínimo. Los signos vitales están dentro de los límites normales. Al examen físico se evidenció inyección conjuntival y epífora del ojo izquierdo, sin otro hallazgo anormal. ¿Cuál es la terapia más apropiada para Carlos? 
+#A. Indometacina 
+#B. Amitriptilina 
+#C. Naproxeno 
+#D. Administrar oxígeno al 100%.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214161&authkey=%21AOGkYke-1d96g6o&width=990&height=1280
+
+#Eduardo, de 74 años, con antecedente de inasistencia a valoración médica en los últimos 20 años y sin ningún otro antecedente conocido, consultó junto a su esposa por un cuadro de 1 año de evolución consistente en cambios del comportamiento, dificultades para reconocer a sus nietos, desubicación espacio-temporal y bradicinesia. Su esposa refiere rigidez y temblores desde hace 4 años. En el examen físico se evidencian pares craneales sin alteración, así como tacto ligero conservado. Hay rigidez en las extremidades superiores e inferiores bilateral, pero con predominio en el hemicuerpo izquierdo, presenta bradilalia y marcha inestable. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Enfermedad de Alzheimer 
+#B. Demencia en cuerpos de Lewy
+#C. Demencia por enfermedad de Parkinson
+#D. Demencia vascular
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214162&authkey=%21ADlEA9wsgaZtAuM&width=990&height=1280
+
+#Andrés de 22 años, con antecedente de consumo de sustancias psicoactivas y consumo de alcohol hasta la embriaguez todos los días. Es ingresado en el hospital hace 3 días para realizar una apendicectomía laparoscópica. Actualmente, se encuentra en postoperatorio de 1 hora de un procedimiento sin complicaciones, en manejo analgésico con morfina intravenosa. Durante la estancia en la sala de recuperación se torna agitado e inquieto. Además, cursa con temblores, diaforesis, cefalea y náuseas. Signos vitales Tº 37,4 °C, FC 115 lpm, FR 19 rpm, PA de 142/90 mm/Hg. Al examen físico orientado solo en persona, con alucinaciones visuales, mucosas húmedas y piel caliente, abdomen con heridas quirúrgicas cubiertas por vendajes limpios y secos. Le tiemblan las manos cuando extiende los brazos con los dedos separados. ¿Cuál es la conducta adecuada a seguir?
+#A. Lorazepam intravenoso
+#B. Propranolol intravenoso
+#C. Naloxona intravenosa
+#D. Dantroleno
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214163&authkey=%21AGhwTNYbqrBBIR8&width=990&height=1280
+
+#Juan Fernando de 9 años, con antecedente de viaje recreacional en familia a zona selvática en el Amazonas hace 3 días. Consulta ahora por dos días de múltiples deposiciones acuosas, ha contado 12 deposiciones, sin sangre, junto con 3 eventos de emesis. El paciente refiere intolerancia a la vía oral desde el inicio del cuadro y anuria desde hace 24 horas. Signos vitales Tº 38,0 °C, FC de 106 lpm y PA 96/60 mm Hg. Al examen físico, palidez en conjuntivas, mucosas secas, abdomen blando sin organomegalia, con disminución del peristaltismo. Paraclínicos con Na: 148, K: 3.7, HCO3: 19, BUN: 80, Creatinina en 2 mg/dl. ¿Cuál es la causa de los resultados anormales del laboratorio renal de este paciente?
+#A. Glomerulonefritis
+#B. Obstrucción del tracto urinario
+#C. Necrosis tubular aguda
+#D. Hipoperfusión renal
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214164&authkey=%21ALnCJXoZETGPXbI&width=989&height=1280
+
+#María Antonia, una paciente de raza negra de 35 años con antecedente de lupus eritematoso sistémico, consultó por dolor lancinante en el hemitórax izquierdo de inicio agudo (hace 6 horas) asociado a disnea. Refiere que el dolor mejora con la sedestación y se exacerba con la inspiración profunda y la tos. Signos vitales dentro de rangos normales. Al examen físico, no hay ingurgitación yugular, no se observan deformidades torácicas, movimientos anormales ni pulsaciones visibles en la región precordial. No se detectan soplos ni frémitos en la región precordial. Se ausculta un roce pericárdico en la región paraesternal izquierda, que se escucha mejor al inclinar a la paciente hacia adelante. El murmullo vesicular está conservado sin sobreagregados. Se toma un electrocardiograma que reporta lo siguiente:
+¿Cuál de los siguientes es la conducta correcta?
+![Untitled]
+#A. Iniciar enoxaparina 60 mg subcutáneo cada 12 horas.
+#B. Iniciar ibuprofeno 600 mg V.0 q8h + colchicina 0,5 mg/día
+#C. Dar carga de ácido acetil salicílico y 75 mg de clopidogrel.
+#D. Solicitar angiotomografia de tórax urgente.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214165&authkey=%21AAxsx3Gr95hg0TU&width=990&height=1280
+
+#Carmen, 67 años, consulta por cuadro de diarrea de 5 días de evolución, niega fiebre y otros síntomas. Tiene antecedente de lupus eritematoso sistémico. Examen físico: FC 110 lpm, PA 98/60 mmHg, T 36°C. Está somnolienta, con extremidades frías. Paraclínicos: complemento C4 25 mg/dL (RN 16-40 mg/dL), complemento C3 120 mg/dL (RN 100-180 mg/dL), BUN 44, Cr 2, sedimento urinario sin hematuria ni glóbulos blancos, pero con 20-30 cilindros hialinos por campo de baja potencia. Tiene un gasto urinario <0,5 ml/kg/h en las últimas 6 h. ¿Cuál de las siguientes estrategias de tratamiento es la más adecuada para este paciente?
+#A. Administrar solución salina 0.9% IV
+#B. Administrar metilprednisolona IV
+#C. Iniciar hemodiálisis
+#D. Iniciar globulina antitimocítica
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214167&authkey=%21AEyqQP6Spf29qk8&width=989&height=1280
+
+#Pedro, 51 años, tiene DT2 no insulinorrequiriente y está controlado, sin otros antecedentes. Asiste a valoración rutinaria. Se encuentra bien, asintomático. La semana pasada fue a visitar a una familiar que está en prisión, él le mencionó que ha estado sano, al igual que las demás personas con las que comparte celda. Se decidió realizar una prueba de tuberculina, con un resultado de 5 mm a las 48 horas. ¿Cuál es la conducta más apropiada?
+#A. Tratar con rifampicina durante 4 meses
+#B. Solicitar radiografía de tórax
+#C. Tranquilizar y no ordenar conductas adicionales
+#D. Esperar a cumplir 72 horas de realizada la prueba de tuberculina y medir nuevamente la induración
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214168&authkey=%21ACBcPr5AgmjUX2k&width=989&height=1280
+
+#Alfonso, 67 años, tiene diagnóstico de mieloma múltiple. Se encuentra manejo con quimioterapia. Consulta por fiebre, tos, taquipnea y dolor abdominal en el cuadrante inferior derecho. Tiene al día las vacunas Covid-19 y da negativo en las pruebas de detección del SARS-CoV-2. Los paraclínicos al ingreso reportan un recuento absoluto de neutrófilos de 100 células por mm. En el orden adecuado, ¿cuál sería la conducta más apropiada?
+#A. Iniciar dipirona 1g cada 8 horas, administrar ampicilina-sulbactam 3 g cada 6 horas, solicitar ayudas imagenológicas como radiografía de tórax y retiro de catéter si porta uno
+#B. Ordenar hemocultivos, seguido de inicio de meropenem 1 g IV cada 8 horas, administrar factor estimulante de colonias de granulocitos y ordenar tomografía de tórax y abdomen
+#C. Realizar toma de muestras para hemocultivos, iniciar inmediatamente a esto piperacilina/tazobactam 4.5 g IV cada 6 horas y solicitar radiografía de tórax
+#D. Solicitar hemocultivos, ordenar medición de galactomanan y administrar cefepime 2 g IV cada 8 horas
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214169&authkey=%21AII-pO4Oxesh_to&width=989&height=1280
+
+#Felipe, 52 años. Tiene antecedente de cirrosis alcohólica Child Pugh C2. Consulta por cuadro de 2 horas de hematemesis, han tenido 2 episodios. El paciente ingresa a urgencias con PA 88/60 mmHg, FC 140 lpm y SATO2 96%. Inicialmente se inicia con LEV, posterior a esto, tiene los siguientes signos vitales: PA 100/78 mmHg, FC 130 lpm, SATO2 96%, pero vuelve a tener un nuevo episodio de hematemesis. Los paraclínicos reportan una hemoglobina de 7.9 g/dL y plaquetas de 54.000/mm3. ¿Cuál es la mejor conducta?
+#A. Iniciar terlipresina 2 mg cada 4h IV, ordenar endoscopia digestiva alta y reservar 2 unidades de glóbulos rojos para el procedimiento
+#B. Administrar somatostatina en bolo de 250 µg con infusión continua a 250 µg/h IV, iniciar ceftriaxona IV 1 g/día y transfundir inmediatamente 2 unidades de glóbulos rojos
+#C. Iniciar profilaxis con trimetoprim sulfametoxazol 800/160 mg cada 12h VO e iniciar octreotide 50-100 ug seguido de infusión 50 ug/h por 72h
+#D. Iniciar propranolol 160 mg/12h, administrar norfloxacina VO 400 mg cada 12h, transfundir inmediatamente 2 unidades de glóbulos rojos, 1 unidad de concentrado de plaquetas y programar para TIPS (Derivación intrahepática portosistémica transyugular precoz)
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214170&authkey=%21AHSPxpaqYns958c&width=989&height=1280
+
+#Don Juan, de 65 años, ingresado por cirugía de Glioblastoma multiforme parietal derecho. A las 24 h de la intervención, presenta disnea súbita. En el examen físico presenta signos vitales estables, exceptuando FC 110 lpm. Se evidencia edema en miembro inferior izquierdo. Se realizan paraclínicos y Rx de tórax, sin alteraiones. EKG: ritmo sinusal a 110 lpm. El Doppler venoso evidencia trombosis venosa profunda iliofemoral izquierda. 
+¿Cuál sería la conducta adecuada a seguir? 
+#A. Iniciar fondaparinux por menor riesgo de sangrado intracraneal
+#B. Programar para colocación ligadura de vena cava inferior 
+#C. Iniciar dabigatran por menor riesgo de sangrado intracraneal
+#D. Programar para colocación de vena cava inferior
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214171&authkey=%21AHdjqbk-7WDJU6o&width=989&height=1280
+
+#Masculino de 71 años consulta a una cita de control cardiovascular. Tiene antecedente de HTA, diabetes, hiperlipidemia y enfermedad arterial coronaria. Fue hospitalizado hace 4 meses por un síndrome coronario agudo sin elevación del ST y se colocó un stent farmacológico en la arteria circunfleja izquierda. Actualmente está en tratamiento con metoprolol, enalapril, atorvastatina, metformina, aspirina y clopidogrel. El paciente se encuentra ansioso por dejar de tomar el clopidogrel ya que tiene miedo de presentar sangrados. No ha presentado episodios hemorrágicos evidentes y se determinar que tiene un bajo riesgo para esta complicación. ¿Al menos cuanto tiempo posterior a la colocación del stent se debe esperar para suspender el tratamiento con clopidogrel?
+#A.	6 meses.
+#B.	12 meses.
+#C.	24 meses.
+#D.	3 meses.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214173&authkey=%21AGLk8GcN_eZn3rM&width=989&height=1280
+
+#Usted se encuentra en un área rural dispersa con un centro de mayo nivel más cercano a 3 horas de distancia. Recibe a una paciente femenina de 47 años de edad en contexto de dolor torácico retroesternal opresivo de aprox. 1 hora de evolución. Signos vitales: FC de 96 lpm y PA de 160/80 mmHg. El examen físico es normal. No tiene antecedentes de importancia. Actualmente se encuentra con su periodo menstrual. Se realiza un electrocardiograma con diagnostico de síndrome coronario agudo con elevación del ST en cara inferior. Se indica manejo anti-isquémico vía oral. ¿Cuál de las siguientes es la más importante en este momento? 
+#A.	Iniciar terapia fibrinolítica en los primeros 10 minutos de hacer el diagnóstico.
+#B.	Iniciar terapia fibrinolítica en la primera hora del diagnóstico.
+#C.	Trasladar inmediatamente a un centro con hemodinamia. 
+#D.	Determinar reperfusión con el manejo anti-isquémico indicado a los 90 minutos.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214174&authkey=%21AK_K5Etkq3nk1Wc&width=989&height=1280
+
+
+#Femenina de 59 años presenta un síndrome coronario agudo con elevación del ST de cara anterior. La paciente recibió manejo con tenecteplasa intravenosa hace aprox. 8 horas. Signos vitales: FC de 69 lpm, PA de 140/80 mmHg y SatO2 del 95% con oxigeno ambiente. Al examen físico hay estertores finos en ambas bases pulmonares, no hay soplos cardiacos y tiene edema grado I en extremidades inferiores. Se evidencian los electrocardiogramas antes y después de la trombólisis. El ecocardiograma revela una FEVI del 32% con acinesia anteroseptal y apical, regurgitación mitral leve. Las enzimas cardiacas y los péptidos natriuréticos están elevados. ¿Cuál es el manejo principal adecuado en esta paciente? 
+![Untitled]
+![Untitled]
+#A.	Realizar angiografía coronaria por TAC.
+#B.	Realizar una prueba de esfuerzo en 2 semanas.
+#C.	Realizar cateterismo cardiaco + angiografía coronaria.
+#D.	No es necesaria realizar pruebas adicionales.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214175&authkey=%21AK6zMOSRu46FAxA&width=989&height=1280
+
+#Masculino de 68 años es llevado a urgencias por dolor inguinal derecho y una masa no reducible, la cual ha estado presenta durante varios años, pero ha aumentado progresivamente durante las ultimas 2 semanas. Signos vitales: Temp. de 38.7°C, PA de 85/50 mmHg, FC de 130 lpm, FR de 24 rpm y SatO2 de 94% con oxigeno ambiente. Al examen físico hay una masa eritematosa, dolorosa e irreducible en la ingle derecha por encima del ligamento inguinal. Se indican líquidos endovenosos y antibióticos de amplio espectro. Dentro de los paraclínicos destaca leucocitosis y lactato sérico elevado. ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Indicar traslado a UCI para observación.
+#B.	Realizar una tomografía de abdomen contrastado.
+#C.	Reparación quirúrgica inmediata.
+#D.	Reparación quirúrgica en 48 horas.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214176&authkey=%21AMMcxMTkXngEZiA&width=989&height=1280
+
+#Femenina de 21 años es llevada a urgencias por fiebre alta, malestar general, náuseas y cefalea. Signos vitales: temp. de 38.5°C, PA de 80/40 mmHg, FC de 128 lpm y FR de 18 rpm. Se evidencia en mal estado general. Al examen físico la piel está calienta, eritematosa, con exantema eritematoso macular difuso similar a quemadura solar que cubre la mayor parte del cuerpo, incluidos tronco, palmas de las manos y plantas de los pies.  No hay rigidez de nuca y el signo de Nikolsky es negativo. ¿Cuál de los siguientes factores es más probable que se encuentra presente en esta paciente? 
+#A.	Inicio reciente de anticonceptivos orales.
+#B.	Uso reciente de antibióticos en contexto de una IVU.
+#C.	Uso reciente de tampones para la menstruación.
+#D.	Viajes recientes a zona de transmisión de rickettsia.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214177&authkey=%21AN0Zb0SqTbKG0qQ&width=989&height=1280
+
+#Gestante de 12 semanas, G1P0A0, consulta al servicio de Urgencias por presentar en los últimos días equimosis con facilidad en extremidades, así como episodios de epistaxis y gingivorragia. No tiene antecedentes relevantes, únicamente recibe sus vitaminas prenatales. Al examen físico los signos vitales son estables, AU acorde a la edad gestacional, resto hemáticos en fosas nasales y mucosa bucal. Laboratorios: Hb 11.8 g/dL, leuocitos 4.200/m3, PLT 59.000/m3, Cr 0.8 mg/dL, ALT/AST: 25/18. El estudio del frotis de sangre periférica ofrece una morfología eritrocitaria normal, recuento leucocitario diferencial normal y el recuento plaquetario es concordante con la cifra del autoanalizador sin observarse agregados plaquetares. 
+¿Cuál es la causa más probable de su trombocitopenia? 
+#A. Síndrome de HELLP 
+#B. Púrpura trombótica trombocitopénica (TTP)
+#C. Trombocitopenia gestacional
+#D. Púrpura trombocitopénica inmune (PTI)
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214179&authkey=%21ABBbEwp6O-cycRM&width=990&height=1280
+
+#Gestante de 30 semanas, G2P1A0, diagnosticada de diabetes gestacional (DG) hace dos semanas. En su primer embarazo hace tres años también presentó DG. Desde el diagnóstico ha mejorado su plan alimentario guiado por nutrición, realiza ejercicio adaptado y monitorea constantemente sus niveles de glicemia. Trae reporte de glucometrías que muestran más del 30 % de las dextrometrías en ayunas 110-122 mg/dL y posprandiales a las 2 horas de 125-135 mg/dL. 
+¿Cuál sería la conducta más adecuada a seguir?
+#A. Iniciar metformina
+#B. Dado están en metas, se debe continuar con los controles normales de la gestación.
+#C. Iniciar insulina
+#D. Iniciar gliburide
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214180&authkey=%21AO_mLOZk1TBxWvY&width=990&height=1280
+
+#Mujer de 31 años, gestante de 11 semanas, G1P0A0. Consulta al servicio de Urgencias por edema progresivo en miembro inferior izquierdo de un día de evolución. Ordenan Doppler venoso que evidencia material ecogénico que ocupa lumen de vena femoral profunda izquierda. 
+¿Cuál sería el tratamiento correcto?
+#A. Filtro de vena cava
+#B. Enoxaparina + Warfarina, luego de cinco días suspender enoxaparina hasta lograr INR de 3 
+#C. Medias de compresión fuerte
+#D. Enoxaparina hasta finalizar el embarazo y evaluar si requiere continuar anticoagulación en el posparto
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214181&authkey=%21AEurUd2ZNEHJwzQ&width=990&height=1280
+
+#Gestante de 36.4 semanas, G2P1A0, por Urgencias con cefalea leve, escotomas, náuseas persistentes y dolor epigástrico persistente. Al ingreso su PA es de 160/115 mm Hg, presenta edemas generalizados y proteinuria ++++. Paraclínicos sin alteraciones.  Realiza una ecografía en la que observa un feto en presentación cefálica con una biometría acorde con la amenorrea, placenta y líquido amniótico normales.
+¿Cuál de las siguientes conductas es la correcta?
+#A. Programar para cesarea urgente
+#B. Iniciar manejo antihipertensivo y maduración pulmonar con corticoides 
+#C. Iniciar sulfato de magnesio y luego proceder a la inducción del parto o, si no es posible inducir, realizar cesárea.
+#D. Iniciar nifedipino, maduración pulmonar con corticoides, e inducir el parto después de 24 horas.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214182&authkey=%21ALzWwJ94GztaJyE&width=990&height=1280
+
+#Doña Ana de 62 años, acude al programa de control. Entre sus antecedentes destaca HTA, dislipidemia y obesidad grado I. Actualmente en tratamiento con losartán, amlodipino y atorvastatina. Refiere aumento de peso de 4.5 kg en los últimos ocho meses. Examen físico: PA 130/70 mmHg, IMC 30. Trae reporte de paraclínicos destacando glicemia en ayunas de 115 mg/dL y Hb1Ac de 6.2%. 
+¿Cuál de las siguientes conductas es la más apropiada? 
+#A. Iniciar metformina
+#B. Iniciar linagliptina
+#C. Recomendar cambios significativos y sostenidos su plan alimentario y actividad física
+#D. Iniciar glibenclamida
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214183&authkey=%21AKzGAiBIfkmtB8U&width=990&height=1280
+
+#Samuel tiene 2 años. Es llevado a urgencias por un cuadro de dos días de evolución de fiebre objetiva que cede con acetaminofén, acompañado de tos perruna de aparición brusca, afonía y estridor inspiratorio. Al examen físico, saturando 89%, se evidencian retracciones intercostales y supraesternal. De acuerdo a la patología que sospecha, ¿Cuál sería el tratamiento de elección? 
+#A. Intubar de forma inmediata e iniciar antimicrobiano
+#B. Observación y antipiréticos
+#C. Iniciar esteroides orales
+#D. Iniciar ciclos de salbutamol nebulizado
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214185&authkey=%21AIU69T3GQz4lt54&width=990&height=1280
+
+#Laura tiene 3 años, sin antecedentes patológicos relevantes. Sus padres refieren cuadro de inicio súbito de palidez y debilidad progresiva. Desde hace aproximadamente 12 horas con oliguria marcada. Se encuentra deshidratada y con petequias, afebril. Usted decide realizar un HLG con los siguientes hallazgos: Hb 7, GB 20.000, plaquetas 43.000 y Cr 3. De acuerdo a su impresión diagnóstica, ¿Cuál de las siguientes es cierta?
+#A. El manejo es con antimicrobianos
+#B. El diagnóstico definitivo es histológico
+#C. En la mayoría, el cuadro es precedido por una enfermedad diarreica prodrómica
+#D. Requiere nefrectomía bilateral
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214186&authkey=%21ALkbPYZjLMtwTRc&width=990&height=1280
+
+#Emiliano de 10 años con linfoma de Burkitt, llevado a urgencias por cuadro de 1 día de evolución de náuseas, vómito, dolor en ángulo costovertebral bilateral y orina oscura. Hace dos días inició quimioterapia de inducción con ciclofosfamida, vincristina, prednisolona y doxorrubicina. Se realiza uroanálisis evidenciando sangre +++ y abundantes cristales romboides de color ámbar. ¿Cuál de los siguientes es importante en el manejo de esta patología?
+#A. Restricción hídrica
+#B. Administración de alopurinol
+#C. Transfusión de plaquetas
+#D. Alcalinización de la orina
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214187&authkey=%21AL88iprL8G0Wk48&width=990&height=1280
+
+#Manuel, 6 años. Es llevado a urgencias por sus padres debido a 12 horas de empeoramiento de sibilancias y disnea, sin otros síntomas adicionales. Como antecedentes, asma mal controlada y dermatitis atópica. Al examen físico, afebril, FC 123 lpm, FR 45 rpm y PA 101/85 mmHg, con sibilancias inspiratorias y espiratorias y con retracciones subcostales e intercostales. Se inicia tratamiento con nebulizaciones en esquema de crisis y con esteroides. Usted revalora el paciente una hora después y lo encuentra letárgico, FC 144 lpm, FR 25 rpm, SatO2 89% y PA 100/70 mmHg. No ausculta sibilancias. ¿Cuál es el paso a seguir?
+#A. Iniciar ventilación con presión positiva
+#B. Intubar
+#C. Iniciar sulfato de magnesio 
+#D. Iniciar antibiótico
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214188&authkey=%21ACoG59j9Jx19mXQ&width=990&height=1280
+
+#Ingresa a su consultorio una paciente secundigestante de 26 semanas, sin complicaciones en su embarazo previo. Su primer hijo tiene 7 meses. Refiere que, en la primera gestación, fue vacunada contra tos ferina y ahora quiere saber si requiere una nueva dosis y en qué semana del embarazo. De acuerdo a la información actual en vacunación, ¿Cuál de las siguientes afirmaciones es correcta?
+#A. Si ya fue vacunada, no requiere nueva aplicación. 
+#B. Se aplica un refuerzo a los diez años.
+#C. Debe aplicarse entre la semana 27-36 en cada embarazo.
+#D. Debe aplicarse en el primer trimestre en cada embarazo.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214189&authkey=%21AE-fePyUKstca90&width=990&height=1280
