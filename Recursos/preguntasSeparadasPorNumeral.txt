@@ -23742,6 +23742,7 @@ Bibliografía recomendada:
 #B. 26 mm
 #C. Se debió solicitar test de fibronectina antes de tomar una conducta
 #D. 14 mm
+#Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214092&authkey=%21AJ9sCiv1Ay-wAWY&width=989&height=1280
 
 #Julieta de 16 años consulta por amenorrea, refiere nunca ha tenido una menstruación. Al examen físico presenta un desarrollo femenino normal de los caracteres sexuales secundarios. En la exploración ginecológica se aprecia ausencia de vagina. Se realiza ecografía y no sé identifica útero. Los ovarios son normales ecográficamente. Paraclínicos con niveles de estradiol y testosterona dentro de rangos normales para el género femenino. ¿Cuál es el diagnóstico más probable?
@@ -23749,6 +23750,7 @@ Bibliografía recomendada:
 #B. Síndrome de Morris.
 #C. Síndrome de Turner
 #D. Síndrome de Kallmann.
+#Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214093&authkey=%21AEFEkS4RDXuJIbI&width=988&height=1280
 
 #Marcela, de 19 años, primigestante con 34 semanas de gestación y un embarazo de curso normal, tiene antecedentes de consumo ocasional (los fines de semana) de cocaína inhalada. Ahora consulta en urgencias refiriendo sangrado vaginal oscuro y escaso, acompañado de contracciones intensas, dolorosas y frecuentes. Al examen físico se observa escaso sangrado vaginal oscuro; cérvix borrado, blando, centrado y con dilatación de 2 cm. La frecuencia cardíaca fetal es de 80 lpm. Respecto al cuadro clínico de Marcela, señale la opción INCORRECTA:
@@ -23756,6 +23758,7 @@ Bibliografía recomendada:
 #B. Las complicaciones maternas graves, provocadas por la hipovolemia, incluyen principalmente la falla renal aguda.
 #C. La probabilidad de una encefalopatía hipóxico-isquémica fetal en Marcela es muy elevada.
 #D. La paciente debe ser preparada para una cesárea inmediata.
+#Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214094&authkey=%21AImmpFMOiWTCrXs&width=989&height=1280
 
 #Ofelia de 35 años, G2P1, de 31 semanas de gestación, consultó por pirosis severa y dolor en hipocondrio derecho, junto a náuseas y emesis. En la consulta previa hace una semana la paciente estaba fatigada y tenía PA de 130/80 mm/Hg, actualmente es de 160/90 mm/Hg con FC de 86 lpm. Al examen físico, IMC de 42 kg/m2, presencia de dolor a la palpación en el cuadrante superior derecho del abdomen, sin signos de irritación peritoneal. FC fetal de 130 lpm. Paraclínicos con: Hb 9.7 g/dl, Plaquetas 80.000, Leucocitos de 8.000, Albúmina: 2.6 g/dl, BT: 2.2 mg/dl, BD: 0.5 mg/dl, FA: 170 U/L, AST: 122 U/L, ALT: 124 U/L. La tira reactiva de orina con 2+ proteínas. 
@@ -23764,6 +23767,7 @@ Bibliografía recomendada:
 #B. Infiltración grasa del hígado
 #C. Obstrucción del conducto cístico
 #D. Rotura de un adenoma hepático
+#Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214095&authkey=%21ALX54lprZV6MMtQ&width=989&height=1280
 
 #¿Cuál de los siguientes no hace parte de los criterios diagnósticos del síndrome HELLP en la embarazada?
@@ -23771,6 +23775,7 @@ Bibliografía recomendada:
 #B. LDH elevada
 #C. Hiperbilirrubinemia
 #D. Aumento de la presión arterial
+#Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214096&authkey=%21ABzkM6qmSl6CGQ0&width=988&height=1280
 
 #Femenina de 22 años es llevada a urgencias luego de presenta un TEC al care de una altura de aprox. 2 metros. Desde entonces ha presentado cefalea y varios episodios eméticos. No tiene antecedentes de importancia. Signos vitales: Temp. de 37.5°C, FC de 88 lpm, FR de 15 rpm y PA de 120/60 mmHg. Durante la observación la paciente se torna somnolienta, no responde al llamarla, pero si a estímulos dolorosos. Se realiza un TC de cráneo con evidencia de hematoma epidural. El equipo de neurocirugía considera realizar una craneotomía de emergencia. Usted es el anestesiólogo de turno. ¿Cuál de los siguientes medicamentos considera evitar durante la cirugía?
