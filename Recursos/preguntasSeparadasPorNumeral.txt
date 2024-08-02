@@ -24334,3 +24334,43 @@ Fuente bibliográfica:
 #D. Debe aplicarse en el primer trimestre en cada embarazo.
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214189&authkey=%21AE-fePyUKstca90&width=990&height=1280
+
+#Carlos, 8 años, consulta por rinorrea hialina, estornudos frecuentes y prurito nasal durante las últimas 4 semanas, casi 5 días por semana. Tiene antecedente de asma intermitente. En el último mes, ha usado albuterol 4 veces después de jugar al aire libre. Se ve bien y tiene signos vitales normales. Se observa un surco nasal transversal y pliegue de Dennie Morgan. Sus cornetes están edematosos, no se evidencian pólipos. La faringe presenta cierto patrón de empedrado. Sin dolor a la palpación facial. No tiene sibilancias. ¿Cuál es la mejor conducta?
+#A.	Iniciar loratadina 5 mg/día 
+#B.	Iniciar cinarizina oral 10 mg c/12h y fluticasona 2 puff c/24 horas
+#C.	Iniciar mometasona 1 puff c/24 h
+#D.	Iniciar azelastina 1 puff cada 12 horas y citar para seguimiento en 2 meses
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214191&authkey=%21ABol2Aozunj2F5w&width=989&height=1280
+
+#Sandra, 29 años, tiene asma, alergia a la aspirina, sinusitis crónica recurrente y pólipos nasales. Consulta por cuadro sugestivo de sinusitis aguda y se le ordenó amoxicilina-clavulánico. Consulta 15 min después de tomar la primera tableta de antibiótico, experimenta prurito generalizado, edema periorbitario y miembros inferiores, mareos, disnea y tos. Signos vitales: FC 100 lpm, PA 120/80 mmHg, FR 16 rpm, SATO2 92%. ¿Cuál es la mejor conducta?
+#A.	Iniciar adrenalina 0.3 mg IM, salbutamol nebulizado y oxigenoterapia por cánula nasal a 3 ltr/min
+#B.	Administrar adrenalina 0.5 mg  IM y oxigenoterapia por máscara de no reinhalación a 15 ltr/min
+#C.	Iniciar adrenalina oral 0.01 mg/kg IM, más metilprednisolona 2 mg/kg/día IV y dexclorfeniramina 5 mg IV
+#D.	Administrar dosis única de adrenalina autoinyectable e hidrocortisona IV 200 mg
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214192&authkey=%21AA_Xr6GCekXQzTs&width=989&height=1280
+
+#Luz, 34 años, sin antecedentes de importancia. Consulta a urgencias por rinorrea, odinofagia, cefalea y fiebre. Hace 10 días la rinorrea era amarilla. Tras 3 días de gran malestar general, comenzó a notar algo de mejoría. Pero volvió a empeorar el cuadro, aunque esta vez solo tiene rinorrea hialina y ha desarrollado tos seca. Examen físico: T 37°C, FC 83 lpm, FR 14 rpm, PA: 123/85 mmHg. La mucosa nasal está eritematosa y con rinorrea. No hay dolor a la palpación facial. La orofaringe está eritematosa sin exudado. No tiene linfadenopatías y la auscultación pulmonar es normal. ¿Cuál es la mejor conducta?
+#A.	Iniciar amoxicilina 500 mg c/8h por 10 días
+#B.	Administrar doxiciclina 100 mg c/12h
+#C.	Solicitar TAC de senos paranasales e iniciar ampicilina sulbactam 3 gr c/6h
+#D.	Iniciar amoxicilina/clavulanato 500/125 mg c/8h por mínimo 3 semanas
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214193&authkey=%21AKVTlOZJkA4STyE&width=989&height=1280
+
+#Daniel, 6 años, hace 3 días una pelota de fútbol lo golpeó en la nariz y sufrió una epistaxis inmediata, que luego se autolimitó. Consulta por rinorrea hialina y persistencia del dolor, ha tomado ibuprofeno, sin mucha mejoría. Al examen físico, no se observan crepitaciones ni desniveles a la palpación. Tiene edema del dorso nasal, sin desviación visible. Se observa congestión del tabique nasal bilateral, los cornetes son difíciles de visualizar y hay rinorrea abundante. ¿Cuál es el mejor paso a seguir en el cuidado de este paciente?
+#A.	Solicitar radiografía de huesos nasales
+#B.	Tranquilizar y ordenar manejo ambulatorio
+#C.	Realizar incisión urgente
+#D.	Ordenar prednisona por 5 días
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214194&authkey=%21AAuC5DLC69eDkhE&width=989&height=1280
+
+#Camilo, 27 años, es llevado a urgencias 45 minutos después de sufrir un accidente de tránsito en calidad de conductor de carro. Refiere disnea. Examen físico: está letárgico, T 36,7°C, FC 135/min, FR 25/min y superficiales, PA 108/65 mmHg, SATO2 con máscara facial simple de 83%. Tiene isocoria normorreactiva. Tiene múltiples hematomas en la pared torácica anterior izquierda. La pulsación venosa yugular se mide a 3 cm por encima del ángulo esternal con la cabecera a 30°. La tráquea está en la línea media. Tiene una respiración paradójica. Hay dolor a la palpación y crepitación sobre las costillas anteriores izquierdas. ¿Cuál es la mejor conducta inicial?
+#A.	Iniciar ventilación por presión positiva
+#B.	Realizar descompresión torácica con aguja
+#C.	Programar toracotomía urgente en servicio de urgencias
+#D.	Llevar a fijación quirúrgica
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214195&authkey=%21AKYmgB4smh-ry_Q&width=989&height=1280
