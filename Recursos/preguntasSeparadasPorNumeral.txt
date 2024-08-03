@@ -23907,7 +23907,7 @@ Bibliografía recomendada:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214129&authkey=%21ANusl41keggcsqU&width=990&height=1280
 
 #Rogelio, 13 años llevado a urgencias de un tercer nivel de complejidad por su profesor de química 20 minutos después de tener un accidente en el laboratorio de su colegio, durante el cual estuvo expuesto al hidróxido de potasio. En el momento, refiere dolor intenso en el ojo derecho y dificultad para la apertura ocular. El niño afirma que tenía puestas sus gafas cuando ocurrió el accidente y que, inmediatamente después, el profesor le lavó el ojo profusamente con agua del grifo durante aproximadamente 5 minutos. En el ojo derecho se evidencia eritema y ampollas en el párpado, con congestión conjuntival y epífora. Hay una laceración de espesor parcial por encima de la ceja derecha. El examen posterior se ve impedido debido al marcado blefaroespasmo. ¿Cuál de los siguientes es el paso inicial más apropiado con este paciente?
-A.	Continuar la irrigación con solución salina normal
+#A.	Continuar la irrigación con solución salina normal
 #B.	Comenzar la irrigación con una solución ácida débil 
 #C.	Aplicar acetato de prednisolona tópico
 #D.	Vendaje ocular
@@ -24379,3 +24379,44 @@ Fuente bibliográfica:
 #D.	Llevar a fijación quirúrgica
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214195&authkey=%21AKYmgB4smh-ry_Q&width=989&height=1280
+
+#Gabriel, de 35 años, sin antecedentes médicos de interés, consultó por dolor monocular derecho, asociado con el movimiento. Refiere que se despertó con visión borrosa, sensación de que los colores se ven "apagados" y un escotoma central en el mismo ojo. No comenta sintomatología en el otro globo ocular. Al examen físico, el fondo de ojo no presenta alteraciones, las pupilas son reactivas, con defecto pupilar aferente en el ojo derecho. La agudeza visual es 20/20 en el ojo izquierdo y 20/100 en el ojo derecho, confirmándose además el escotoma central. No se evidenció proptosis, ni inyección conjuntival, ni dolor al palpar el globo ocular. Los paraclínicos mostraron leucocitos de 5000 y VSG dentro del rango normal. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Neuritis óptica
+#B. Celulitis orbitaria
+#C. Oclusión de la arteria central de la retina
+#D. Arteritis de células gigantes
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214198&authkey=%21AOYh8AAyb78pGdM&width=990&height=1280
+
+#Roberto, de 46 años, con antecedentes de colelitiasis, en postoperatorio de colecistectomía abierta hace 5 días, es evaluado ahora en ronda por 2 días de disnea, fiebre, astenia y adinamia, junto con tos húmeda productiva con esputo verdoso. Signos vitales: Tº: 39,5 °C, FC: 104 lpm, PA: 94/68 mmHg, FR: 30 rpm y SO2: 92% con oxígeno por cánula a 2 litros/min. Al examen físico, crépitos en la base pulmonar derecha, cicatriz en hipocondrio derecho sin eritema ni secreción y llenado capilar menor a 2 segundos. Paraclínicos reportan leucocitos de 16.000/mm3 y creatinina de 0.9 mg/dl. Se decide iniciar líquidos a 1000 cc en bolo, se realiza hemocultivo y se mide lactato. ¿Cuál de las siguientes es la conducta más adecuada para Roberto?
+#A. Administrar vancomicina y cefepime
+#B. Solicitar una radiografía abdominal
+#C. Administrar linezolid y cefepime
+#D. Administrar ampicilina/sulbactam y cefepime
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214199&authkey=%21AP0Ba1gfpdsPpk4&width=990&height=1280
+
+#Juan de 14 años, con antecedente familiar de padre que falleció por cáncer testicular a la edad de 55 años, es llevado a urgencias por su madre por cuadro clínico de 3 horas de dolor testicular 10/10 en la EAD y 5 episodios eméticos. Nunca había tenido un episodio similar en el pasado. Signos vitales Tº de 37 °C, FC de 90 lpm, PA de 100/60 mm Hg. Al examen físico, el escroto derecho está firme, eritematoso y edematizado, signo de Prehn negativo y ausencia de reflejo cremastérico. ¿Cuál es la conducta a seguir?
+#A. Exploración quirúrgica del escroto.
+#B. Tomografía computarizada del abdomen y la pelvis.
+#C. Ecografía Doppler del escroto.
+#D. Terapia con ceftriaxona y doxiciclina.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214200&authkey=%21ADXtYW-3NvHlIBk&width=990&height=1280
+
+#Arcesio, de 19 años, ingresó a urgencias de un hospital de tercer nivel con quirófano de trauma anexado a urgencias. El paciente fue traído por trauma por arma cortopunzante y golpes contundentes en el tórax derecho. Refiere intenso dolor en el hemitórax derecho y disnea. Sus signos vitales son: PA 92/56 mmHg, FC 140 lpm, SO₂ 90% al ambiente, y FR 33 rpm. Al examen físico, está consciente y orientado, con matidez a la percusión en el hemitórax derecho y evidencia de laceración con sangrado activo de 5 cm en el cuarto espacio intercostal derecho, a nivel de la línea medioclavicular, además de múltiples hematomas en la caja torácica derecha. En la radiografía de tórax se observan múltiples fracturas costales derechas y un derrame pleural ipsilateral masivo. Se coloca un tubo de tórax de manera emergente, con una recolección de 1.650 cc de líquido hemático. Se coloca una máscara de no reinhalación. 
+¿Cuál es la conducta adecuada a seguir por el médico general de urgencias?
+#A. Se debe iniciar protocolo de transfusión y pasar al paciente de forma emergente a cirugía.
+#B. Se debe intubar al paciente de forma inmediata y pasar al tomógrafo para caracterizar las lesiones.
+#C. Se debe intubar al paciente, iniciar protocolo de transfusión y pasar al paciente de forma emergente a cirugía.
+#D. Se debe intubar al paciente, iniciar protocolo de transfusión y observar evolución clínica; en caso de agravamiento, se indica intervención quirúrgica.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214201&authkey=%21AAWF1iA9YLd5ePA&width=990&height=1280
+
+#Augusto, de 68 años, con antecedente de consumo de cigarrillo para un IPA de 16, consultó por nocturia y chorro que describe en “regadera”. El nieto del paciente, que es personal de salud en formación, le indicó que se realizará un antígeno prostático previo a la consulta; el paciente trae consigo un resultado de PSA menor de 0.5 ng/mL. En el examen físico no hay pérdida de peso respecto al valor previo. En el tacto rectal se aprecia una zona endurecida y fija de medio centímetro en un lóbulo prostático. ¿Cuál es la conducta adecuada?
+#A. Indicar una biopsia prostática transrectal.
+#B. Se ordena tamsulosina para mejorar la sintomatología obstructiva y repetir anualmente el PSA.
+#C. Repetir la determinación de PSA en tres meses.
+#D. Programar una resección prostática retropúbica.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214202&authkey=%21AKee5lzLPvOjnmo&width=990&height=1280
