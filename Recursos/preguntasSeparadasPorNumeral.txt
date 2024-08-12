@@ -24420,3 +24420,190 @@ Fuente bibliográfica:
 #D. Programar una resección prostática retropúbica.
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214202&authkey=%21AKee5lzLPvOjnmo&width=990&height=1280
+
+#Felipe, 14 años. Llega a su consultorio por edema en rodilla derecha desde ayer, posterior a un partido de fútbol, acompañado de rigidez en la articulación. Niega traumas o caídas. Refiere que en los últimos meses ha presentado fatiga, con síntomas gripales intermitentes y artralgias ocasionales. Es sexualmente activo con su novia que vive en EE. UU en el noreste. y con quien regresó de viaje hace meses. Al examen físico, se observa una marcha normal, con derrame y calor en articulación de rodilla derecha, dolorosa a la palpación, con flexión reducida en comparación con la izquierda. En la rx no se observan alteraciones. Se realiza una artrocentesis: líquido amarillo translúcido con un recuento de leucocitos de 22.000/mm3 (50% neutrófilos) y tinción de Gram negativo. ¿Cuál de las siguientes es la causa más probable de este cuadro clínico?
+#A. Infección gonocócica diseminada
+#B. Artritis séptica por S. aureus 
+#C. Infección por B. burgdorferi
+#D. Artritis reactiva por C. trachomatis
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214218&authkey=%21AEjIiYtzSrAu1sA&width=990&height=1280
+
+#Luisa, 15 años, llevada a su consulta por amenorrea primaria y ausencia de caracteres sexuales secundarios. Su madre y abuela materna tuvieron su menarca alrededor de los 13 años. La paciente no es sexualmente activa y no usa anticonceptivos. La altura es <3 percentil y el peso está en el percentil 20. Al examen físico, Tanner 1, los genitales femeninos externos son normales, tiene vello axilar. La β-hCG en orina es negativa. ¿Cuál sería el examen de elección a realizar?
+#A. ECO pélvica
+#B. TSH
+#C. Niveles de testosterona
+#D. ECO abdominal
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214219&authkey=%21ABMEhW5f5NLvqNg&width=990&height=1280
+
+#Un lactante de 9 meses desarrolla una fiebre alta de 39.5°C que se resuelve bruscamente tras 3 días. Luego, surge una erupción morbiliforme que se desplaza desde la cabeza hacia los pies, acompañada de pápulas rojizas en el paladar. La erupción se resuelve en una semana y el estado general del niño sigue siendo bueno. Este patrón clínico es comúnmente provocado por:
+#A. Virus Coxackie A19.
+#B. Parvovirus B19.
+#C. Herpes virus tipo 6.
+#D. Enterovirus
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214220&authkey=%21AGPYTOP6h0ZJVjI&width=990&height=1280
+
+#Martín, 10 años, sin antecedentes patológicos. Llevado al consultorio por otalgia y parálisis facial. Su madre refiere que el paciente ha tenido otalgia derecha durante los últimos 3 días sin fiebre ni pérdida de audición. Le aplicó unas gotas recomendadas en la farmacia para para eliminar la cera del oído, pero no hubo alivio de los síntomas. Hoy, notó una desviación de la comisura labial a la izquierda. Al examen físico, con dificultad para cerrar el ojo derecho y desviación de la comisura labial a la izquierda. La otoscopia derecha muestra erupciones con costras en el conducto auditivo externo. ¿Cuál de las siguientes es la causa más probable de la condición actual de este paciente?
+#A. Infección invasiva por P. aeruginosa 
+#B. Infección neumocócica de la mastoides
+#C. Reactivación de herpes zóster
+#D. Infección fúngica del canal auditivo externo
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214221&authkey=%21ADmour3Wyqf_hFM&width=990&height=1280
+
+#Juan tiene 5 años, no tiene antecedentes patológicos. Llevado a urgencias porque hace 3 días se encuentra confundido y somnoliento. Desde hace seis días, con ictericia escleral. Actualmente consume acetaminofén a diario y por horario, debido a mialgias en miembros inferiores que lo despierta en las noches. Al examen físico, afebril, con 110 lpm, somnoliento, con ictericia mucocutánea, sin movimientos anormales, examen neurológico normal. Se palpa el hígado 4 cm por debajo del reborde costal derecho, doloroso; no hay esplenomegalia. En los paraclínicos iniciales, con: BT 6, BD 3, AST 88, ALT 90, TP, INR 3, AC AgsVHB positivos. El INR persiste igual después de administrar vitamina K. ¿Cuál sería el manejo más apropiado en este paciente?
+#A. Terapia con lamivudina
+#B. Trasplante hepático
+#C. Realizar estudios adicionales
+#D. Terapia con plasma fresco congelado
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214222&authkey=%21AE4VxHdKpDns9L4&width=990&height=1280
+
+#Camila, 23 años, consulta por polaquiuria y disuria desde hace 2 días. Ha tenido 3 episodios similares este año, se resolvieron con antibiótico. Es sexualmente activa con una única pareja estable. Su último encuentro sexual fue hace 5 días. Examen físico: T 36,9°C, FC 65/min y PA 122/65 mmHg. Tiene dolor en hipogastrio a la palpación. El uroanálisis muestra leucocitos y el gram cocos grampositivos, está pendiente el urocultivo. ¿Qué estrategia puede prevenir este cuadro en el futuro?
+#A.	Ingesta diaria de jugo de arándano y cefalexina 250 mg c/24h por 12 semanas
+#B.	La administración de probióticos vaginales postcoitales y nitrofurantoína 100 mg c/24h por 3 meses
+#C.	Administración de ceftriaxona IM a su pareja posterior al coito 
+#D.	Administración de trimetoprim sulfametoxazol 80 mg/400 mg VO dosis única posterior al coito
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214224&authkey=%21AEHH7hDyJ7gel1c&width=989&height=1280
+
+#Pedro, 54 años,  consulta por cuadro de 3 horas de dolor intenso en flanco izquierdo irradiado a fosa ipsilateral. Nunca antes había tenido un dolor similar. Niega náuseas y disuria. Hace 10 años le realizaron una herniorrafia inguinal derecha. Examen físico: está inquieto y diaforético, T 37,2°C, FC 93/min, FR 18/min y PA 135/86 mmHg. El abdomen es blando, con dolor a la palpación en el borde del recto abdominal izquierdo a nivel umbilical. Uroanálisis: pH 4.4, RBC 15/hpf, WBC 3/hpf. Se inicia dipirona IV. La uroTAC reporta cálculo de 11 mm en uréter proximal izquierdo, a 7 mm de pelvis renal, con hallazgos sugestivos de hidronefrosis. ¿Cuál es la mejor conducta?
+#A.	Programar para nefrolitotomía percutánea
+#B.	Programar ureteroscopia retrógrada
+#C.	Iniciar tamsulosina 0.4 mg / día hasta que se expulse el cálculo, máximo 4 semanas
+#D.	Interconsultar a cirugía general y urología para definir nefrostomía percutánea
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214225&authkey=%21ABnhJTIbojmogZY&width=989&height=1280
+
+#Ricardo, 45 años, consulta por dolor en el pene desde hace 2 meses. Ha empeorado en las últimas 2 semanas, especialmente durante la erección. Dice que su pene se curva hacia abajo y no se mantiene erecto durante las relaciones sexuales. Se siente avergonzado por su pene y ha evitado las citas y las relaciones sexuales. Era sexualmente activo con múltiples parejas femeninas. Los signos vitales son normales. Se observa una placa palpable en el tercio distal del pene. ¿Un trastorno de cuál de las siguientes estructuras es el responsable de la afección del paciente?
+#A.	Fascia de Dartos
+#B.	Túnica albugínea
+#C.	El cuerpo esponjoso
+#D.	El cuerpo cavernoso
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214226&authkey=%21ALv0Fv2kydPX7-Y&width=989&height=1280
+
+#Julián, 21 años, asiste a consulta externa de un primer nivel por secreción uretral desde hace ocho días. Niega fiebre, escalofríos, erupción cutánea ni otros síntomas sistémicos. Es sexualmente activo, con varias parejas femeninas y uso irregular del preservativo. Sus signos vitales son normales. La exploración digital externa es normal, no tiene adenopatías ni lesiones inguinales; se observa secreción purulenta por el meato uretral. ¿Cuál es la mejor conducta?
+#A.	Solicitar prueba de detección de ácidos nucleicos (NAAT) para confirmar diagnóstico
+#B.	Ordenar azitromicina 1 g VO dosis única
+#C.	Ordenar ceftriaxona 500 mg IM dosis única
+#D.	Ordenar un tratamiento antibiótico combinado
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214227&authkey=%21AKAluKt9bdCv1Vg&width=989&height=1280
+
+#Masculino de 63 años consulta a urgencias por mareo y fatiga. Se realiza un electrocardiograma con evidencia de una fibrilación auricular con una FC de 84 lpm. 30 minutos después el paciente presenta mareo y dolor torácico. Se realiza un nuevo electrocardiograma con evidencia de fibrilación auricular con FC de 156 lpm. Signos vitales: Temp. de 37°C, PA de 78/55 mmHg y FR de 18 rpm. Al examen físico el paciente se evidencia confundido e incómodo. Los pulsos son palpables. Se establece un acceso IV periférico. ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Realizar cardioversión sincronizada.
+#B.	Administrar metoprolol IV.
+#C.	Realizar maniobras vágales.
+#D.	Administrar amiodarona IV.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214228&authkey=%21AHVBXTOtAJgMXzA&width=989&height=1280
+
+#Femenina de 63 años consulta por 6 meses de disfagia progresiva, inicialmente para sólidos, pero ahora también para líquidos. Refiere sensación de comida “pegada” en la garganta, regurgitación ocasional de alimentos no digeridos, pérdida de peso involuntaria y tos seca persistente de predominio nocturno. Tiene antecedente de infección por H. pylori tratada y resuelta hace 1 año y tabaquismo activo. Refiere consumo ocasional de alcohol (Aprox. 1 vez cada 2 meses). Signos vitales: Temp. de 36.8°C, FC de 76 lpm, PA de 130/78 mmHg y FR de 14 rpm. Al examen físico la cavidad oral es normal, no hay linfadenopatias en cuello y hay un leve dolor en epigastrio.  Se realiza una endoscopia digestiva alta con evidencia de una lesión esofágica. ¿Cuál de los siguientes es un factor de riesgo para la afección de esta paciente?
+#A.	Tabaquismo 
+#B.	Sexo femenino.
+#C.	Consumo crónico de alcohol 
+#D.	Infección por H. pylori.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214230&authkey=%21AJj1B8ua1icHzCs&width=990&height=1280
+
+#Femenina de 44 años es llevada a urgencias por dolor abdominal intenso en cuadrante superior derecho, el cual inició el día de ayer posterior a comer hamburguesas y tomar algunas cervezas. Refiere que el dolor se irradia al hombro derecho. Tiene antecedente de obesidad e HTA en manejo con amlodipino. Signos vitales: Temp. de 38.5°C, FC de 108 lpm, PA de 130/90 mmHg y FR de 18 rpm. Al examen físico hay dolor abdominal en cuadrante superior derecho con signos de Murphy positivo. Destaca un hemograma con leucocitos en 18.000/mm3 y una ecografía con evidencia de distensión de la vesícula biliar, pared engrosada, con edema circundante y colelitiasis. El colédoco es normal. ¿Cuál es el manejo adecuado para este paciente?
+#A.	Administrar tratamiento antibiótico e indicar colecistectomía de urgencia.
+#B.	Consultar a gastroenterología para realización de colangiopancreatografia retrograda endoscópica (CPRE).
+#C.	Realizar una colangioresonancia.
+#D.	Administrar tratamiento antibiótico e indicar colecistectomía tardía.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214231&authkey=%21AFUr1j4mZD612-k&width=990&height=1280
+
+#Masculino de 43 años es llevado a urgencias por recibir una herida por arma de fuego en cuello. Al examen físico se evidencian dos heridas de bala: la primera 2 cm por arriba y por afuera de la escotadura esternal y la otra en la región posterolateral del cuello. El paciente se encuentra estable hemodinamicamente y el resto del examen físico es normal. Se realiza una tomografía computarizada de cabeza, cuello y tórax sin evidencia de signos de lesión laringotraqueal o vascular; sin embargo, hay edema de tejidos blandos en el esófago cervical. El paciente presenta salivación sanguinolenta. ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Indicar nada vía oral y observar por 24 horas.
+#B.	Traslado a quirófano para exploración.
+#C.	Realizar un esofagograma con gastrografin.
+#D.	Realizar una broncoscopia.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214232&authkey=%21AGFhbEc1IjOKexM&width=990&height=1280
+
+#Masculino de 56 años es llevado a urgencias por presentar un estado mental alterado. Su esposa lo encontró en el suelo esta mañana y no pudo despertarlo. La esposa refiere que el paciente se había quejado de dolor abdominal epigástrico desde hace aprox. 5 días y que había presentando deposiciones melenicas. Tiene antecedente de trastorno por consumo de alcohol, enfermedad ulcerosa péptica, HTA, DM y tabaquismo. Signos vitales: Temp. de 37.8°C, FC de 130 lpm, PA de 100/77 mmHg, FR de 22 rpm y SatO2 de 78% al ambiente. Al examen físico las extremidades están frías y sudorosas, el paciente solo responde a estímulos dolorosos. Tiene distensión abdominal, dolor abdominal difuso, signo de rebote y defensa abdominal. Se obtienen 2 accesos IV, se indica oxigeno suplementario y se administrar líquidos. ¿Cuál es el manejo inmediato adecuado para este paciente? 
+#A.	Realizar una ecografía de abdomen total.
+#B.	Realizar una tomografía abdominal y pélvica contrastada.
+#C.	Realizar secuencia de intubación rápida.
+#D.	Indicar ventilación mecánica no invasiva con BPAP.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214233&authkey=%21AKTvTaG21YkxhSk&width=990&height=1280
+
+#Femenina de 64 años es llevada a urgencias por dolor abdominal en cuadrante inferior izquierdo, fiebre y estreñimiento desde hace 4 días. Tiene antecedente de diverticulitis aguda sin complicaciones diagnosticada y tratada de forma conservadora hace 6 semanas. Signos vitales: Temp. de 38.9°C, PA de 110/70 mmHg, FC de 112 lpm y FR de 16 rpm. Al examen físico hay dolor a la palpación en cuadrante inferior izquierdo con signos de defensa abdominal. Dentro del hemograma hay leucocitosis. Una TAC de abdomen evidencia un absceso uniloculado de 5 cm, bien localizado en el cuadrante inferior izquierdo, adyacente a un segmento de divertículos inflamados.  Se obtienen accesos IV y se inician líquidos. ¿Cuál es el manejo inicial adecuado para esta paciente? 
+#A.	Iniciar antibióticos IV e indicar hospitalizar para observación.
+#B.	Realizar laparotomía de urgencia.
+#C.	Iniciar antibióticos IV y solicitar valoración por cirugía para drenaje abierto.
+#D.	Iniciar antibióticos IV y solicitar valoración por radiología intervencionista para drenaje percutáneo.
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214234&authkey=%21AJ_mmbXQGfS_Fh0&width=990&height=1280
+
+#Marisol, de 35 años, con antecedente de histerectomía a los 30 años por miomas uterinos, sin otros antecedentes médicos de relevancia, consultó en el servicio de urgencias de un hospital de tercer nivel por palpitaciones que le generan ansiedad y que, según la paciente, "la indisponen mucho, no las tolera". No refiere otra sintomatología en reposo ni con el esfuerzo. Signos vitales: FC de 75 lpm, PA de 130/80 mm Hg, SpO2 de 98% con FiO2 ambiente. Al examen físico, se observan "ondas A en cañón" a nivel cervical, y en la auscultación cardíaca se aprecia un ritmo irregular debido a latidos prematuros. Paraclínicos con Hb de 14 mg/dl y TSH de 4 µU/mL. Se realiza un electrocardiograma que evidencia lo siguiente:
+¿Cuál es el tratamiento adecuado?
+[Untitled]
+#A. Iniciar manejo con propranolol
+#B. Remitir a la paciente para valoración urgente por cardiología
+#C. Tranquilizar a la paciente
+#D. Iniciar manejo con amiodarona
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214236&authkey=%21ACZmJ5BPCZjCXlY&width=990&height=1280
+
+#Mujer de 29 años consulta por fatiga e irritabilidad progresiva desde hace 2 semanas, posterior a una infección de vías respiratorias superiores. La paciente refiere que ya no presenta tos ni rinorrea, pero la fatiga y la irritabilidad persisten. Además, ha perdido 7 kg en el último mes sin causa aparente. Antecedentes de DM1 y parto sin complicaciones hace 2 meses, no refiere consumo de medicamentos o productos naturistas. Signos vitales: PA de 148/72 mm Hg, FC de 108 lpm y FR de 16 rpm. Al examen físico, la tiroides está agrandada simétricamente y no es dolorosa. Se observa un temblor en las manos. El nivel de TSH es bajo y los niveles de T3 y T4 libres están elevados. Hay una captación baja en la exploración con yodo radiactivo. ¿Cuál de las siguientes es la causa más probable de los síntomas de esta paciente?
+#A. Enfermedad de Graves
+#B. Ingesta exógena de levotiroxina
+#C. Tiroiditis postparto
+#D. Tiroiditis granulomatosa subaguda
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214237&authkey=%21AKVfPplgpFW5EB0&width=990&height=1280
+
+#Isabella, de 22 años, auxiliar de enfermería, con antecedente de VIH positivo desde hace 6 años, sin diagnóstico de SIDA, con adecuada adherencia a la terapia antirretroviral (TAR), consulta para completar el esquema de vacunación requerido por el nuevo hospital donde va a trabajar. Signos vitales dentro de rangos normales y examen físico sin hallazgos anormales. Paraclínicos muestran carga viral indetectable y recuento de células CD4 de 600/µL, mantenido estable durante varios años. En caso de tener un esquema de vacunación incompleto o requerir refuerzos, ¿cuál de las siguientes vacunas está contraindicada en esta paciente?
+#A. Vacuna contra el virus del papiloma humano
+#B. Vacuna antigripal (influenza) de virus inactivados
+#C. No hay contraindicaciones para administrar vacunas
+#D. Vacuna para sarampión, paperas y rubéola
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214238&authkey=%21AGWK85v-3v2Z_y8&width=990&height=1280
+
+#Olga, de 70 años, con antecedentes de hipertensión arterial y enfermedad renal crónica, en manejo con amlodipino y losartán, y una dieta hiposódica, consulta hoy en un hospital de primer nivel para su evaluación de riesgo cardiovascular. Signos vitales: PA de 150/90 mm Hg, FC de 65 lpm y FR de 19 rpm. Al examen físico, con IMC de 30, presenta ingurgitación yugular a 30 grados, sin hallazgos anormales en la auscultación cardiopulmonar, y edema bilateral grado II con fóvea en miembros inferiores. Paraclínicos con creatinina de 2.6 mg/dL (TFG de 24), potasio de 5 mEq/L, sodio de 140 mEq/L y relación albúmina-creatinina en orina de 1500 mg/g.
+¿Cuál es la conducta adecuada?
+#A. Iniciar manejo con espironolactona
+#B. Iniciar manejo con furosemida
+#C. Iniciar manejo con hidroclorotiazida
+#D. Iniciar manejo con carvedilol
+#Respuesta correcta:
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%214239&authkey=%21AA1Se6Kizn-5H74&width=990&height=1280
+
+#Doña Ana de 68 años, con antecedentes de diabetes mellitus tipo 2 de 10 años de evolución e insuficiencia venosa crónica, se presenta a la consulta con quejas de prurito intenso y cambios en la piel de ambas piernas que han ido progresando en los últimos seis meses. Los signos vitales están estables. Además de los cambios típicos de la insuficiencia venosa crónica, el examen dirigido a miembros inferiores muestra placas eczematosas bilaterales con eritema, exudación y, en algunas áreas, descamación, más prominente en la región medial de la pierna. 
+¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Liquen simple crónico
+#B. Eccema asteatósico
+#C. Dermatitis por estasis aguda
+#D. Erisipela
+#Respuesta correcta: C
+#Tema e item: Insufiencia venosa crónica
+Argumento: La presentación clínica de placas eczematosas bilaterales con eritema, exudación y descamación en el contexto de insuficiencia venosa crónica es típica de la dermatitis por estasis aguda (DEA). La DEA es una complicación de la insuficiencia venosa crónica, reconocida por la presencia de edema en zonas dependientes, venas varicosas y cambios tróficos en la piel, como hiperpigmentación, lipodermatoesclerosis y úlceras. La dermatitis por estasis es una reacción inflamatoria que puede ser muy pruriginosa y eritematosa, y puede incluir vesiculación y exudación de la piel. Los síntomas suelen ser bilaterales, aunque pueden ser unilaterales. El tratamiento típicamente incluye ejercicios como caminar o levantamiento de talones y medias de compresión para disminuir la hipertensión venosa y el edema dependiente.
+
+•	El liquen simple crónico es una condición causada por rascado o frotamiento repetitivo. Las condiciones predisponentes incluyen dermatitis atópica, xerosis y trastornos psiquiátricos como el TOC. El liquen simple crónico se manifiesta como placas engrosadas con eritema e hiperpigmentación. También se observan marcas cutáneas exageradas en la superficie de la piel. Los sitios comunes incluyen los genitales, la región posterior del cuello, las muñecas, los tobillos y las piernas inferiores. No se presenta como una reacción cutánea eccematosa aguda con exudación asociada a insuficiencia venosa crónica.
+•	La erisipela se presenta como una lesión dolorosa, eritematosa y de bordes elevados y delimitados que está caliente al tacto, lo cual no es característico en esta paciente. 
+•	El eccema asteatósico o xerótico, también se observa a menudo en las extremidades inferiores de personas mayores. El clima seco y el baño excesivo son factores desencadenantes conocidos. Las lesiones son eritematosas con escamas agrietadas en forma de placa, que a menudo se asemejan al lecho de un arroyo seco. El enrojecimiento y la exudación no son característicos con el eccema asteatósico.
+
+Bibliografía recomendada:
+1. Barstow C, Kassop D. Cardiovascular Disease: Chronic Venous Insufficiency and Varicose Veins. FP Essent. 2019 Apr;479:16-20. PMID: 30995000.
+
+#Mujer de 27 años, G2P1A0, en la semana 21 de un embarazo de bajo riesgo, con una citología reciente que reporta ASC-H (lesión intraepitelial escamosa de alto grado).  ¿Cuál es la conducta más adecuada?
+#A. Programar una conización cervical para extirpar la lesión lo antes posible
+#B. Realizar una colposcopia y, si es necesario, biopsia dirigida para evaluar la extensión y severidad de la lesión.
+#C. Iniciar tratamiento con crioterapia o terapia láser para erradicación de la lesión 
+#D. Esperar hasta el puerperio para realizar cualquier procedimiento diagnóstico o terapéutico
+#Respuesta correcta: B
+#Tema e item: Lesiones preinvasivas del cervix
+Argumento: Cuando te enfrentes a preguntas de examen de residencia médica que involucren alteraciones citológicas en mujeres embarazadas, es crucial recordar que alteraciones significativas como ASC-H (Células Escamosas Atípicas), AGC (Atipias de Células Glandulares), y LIE de alto grado requieren una evaluación cuidadosa y no deben ser objeto de demora en su manejo. Aunque el embarazo puede modificar el enfoque terapéutico, la presencia de estas alteraciones citológicas mayores indica la necesidad de proceder con colposcopia + biopsias dirigidas.
+
+•	La conización está contraindicada en embarazo (salvo que haya alta sospecha de carcinoma invasor). 
+•	La crioterapia no tiene cabida en embarazadas. 
+
+Bibliografía recomendada:
+1. Borrero Franco, M. Casos clínicos interactivos: Lesiones preinvasivas de cérvix. XXX Memorias Curso de Actualización en GyO; 2022.
