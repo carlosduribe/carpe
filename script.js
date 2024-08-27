@@ -56,29 +56,26 @@ function populateQuestionGroups(data) {
 function displayRandomQuestion() {
   var grupoAleatorio = grupos[Math.floor(Math.random() * grupos.length)];
 
-  const contentParts = grupoAleatorio[0].split('/n');
-  const lastPart = contentParts.pop(); // Obtener la última linea
+  const lines = grupoAleatorio[0].split('\n');
 
-  // Verificar si la última parte es un enlace
-  if (lastPart.startsWith("http")) {
-      // Crear elementos para texto e imagen
-      const textSpan = document.createElement('span');
-      textSpan.textContent = contentParts.join(' '); // Texto sin el enlace
-
-      const image = document.createElement('img');
-      image.src = lastPart;
-      image.alt = 'Imagen de la pregunta';
-      image.style.maxWidth = '100%';
-
-      // Limpiar el contenido actual y agregar los nuevos elementos
-      questionStatement.innerHTML = ''; 
-      questionStatement.appendChild(textSpan);
-      questionStatement.appendChild(image);
-  } else {
-      // Si no hay enlace, mostrar el texto completo
+  // Clear existing content
+  questionStatement.innerHTML = '';
+  
+  // Process each line
+  lines.forEach(line => {
+    if (line.trim().startsWith('https')) {
+      // Create an image element
+      const imageElement = document.createElement('img');
+      imageElement.src = line.trim();
+      imageElement.alt = 'Image related to the question';
+      imageElement.style.maxWidth = '100%'; // Optional: Adjust as needed
+  
+      // Append the image
+      questionStatement.appendChild(imageElement);
+    } else {
       questionStatement.textContent = grupoAleatorio[0];
-  }
-;
+    }
+  });
   opcionA.textContent = grupoAleatorio[1];
   opcionB.textContent = grupoAleatorio[2];
   opcionC.textContent = grupoAleatorio[3];
