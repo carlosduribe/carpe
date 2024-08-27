@@ -67,12 +67,10 @@ lines.forEach(line => {
   if (line.trim().startsWith('https')) {
     // Create an image element
     const imageElement = document.createElement('img');
+    questionStatement.appendChild(imageElement);
     imageElement.src = line.trim();
     imageElement.alt = 'Image related to the question';
-    imageElement.style.maxWidth = '100%'; // Optional: Adjust as needed
-
-    // Append the image
-    questionStatement.appendChild(imageElement);
+    imageElement.style.maxWidth = '100%';
   } else {
     // Append the text content
     const textNode = document.createTextNode(line);
