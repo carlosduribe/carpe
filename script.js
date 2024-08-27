@@ -56,26 +56,34 @@ function populateQuestionGroups(data) {
 function displayRandomQuestion() {
   var grupoAleatorio = grupos[Math.floor(Math.random() * grupos.length)];
 
-  const lines = grupoAleatorio[0].split('\n');
+// Split the question statement into lines
+const lines = grupoAleatorio[0].split('\n');
 
-  // Clear existing content
-  questionStatement.innerHTML = '';
-  
-  // Process each line
-  lines.forEach(line => {
-    if (line.trim().startsWith('https')) {
-      // Create an image element
-      const imageElement = document.createElement('img');
-      imageElement.src = line.trim();
-      imageElement.alt = 'Image related to the question';
-      imageElement.style.maxWidth = '100%'; // Optional: Adjust as needed
-  
-      // Append the image
-      questionStatement.appendChild(imageElement);
-    } else {
-      questionStatement.textContent = grupoAleatorio[0];
+// Clear existing content
+questionStatement.innerHTML = '';
+
+// Process each line
+lines.forEach(line => {
+  if (line.trim().startsWith('https')) {
+    // Create an image element
+    const imageElement = document.createElement('img');
+    imageElement.src = line.trim();
+    imageElement.alt = 'Image related to the question';
+    imageElement.style.maxWidth = '100%'; // Optional: Adjust as needed
+
+    // Append the image
+    questionStatement.appendChild(imageElement);
+  } else {
+    // Append the text content
+    const textNode = document.createTextNode(line);
+    questionStatement.appendChild(textNode);
+
+    // Add a line break after each line (except the last one)
+    if (line !== lines[lines.length - 1]) {
+      questionStatement.appendChild(document.createElement('br'));
     }
-  });
+  }
+});
   opcionA.textContent = grupoAleatorio[1];
   opcionB.textContent = grupoAleatorio[2];
   opcionC.textContent = grupoAleatorio[3];
