@@ -56,28 +56,23 @@ function populateQuestionGroups(data) {
 function displayRandomQuestion() {
   var grupoAleatorio = grupos[Math.floor(Math.random() * grupos.length)];
 
-// Split the question statement into lines
 const lines = grupoAleatorio[0].split('\n');
 
-// Clear existing content
 questionStatement.innerHTML = '';
 
-// Process each line
 lines.forEach(line => {
   if (line.trim().startsWith('https')) {
-    // Create an image element
     const imageElement = document.createElement('img');
     questionStatement.appendChild(imageElement);
     imageElement.src = line.trim();
     imageElement.alt = 'Image related to the question';
     imageElement.style.maxWidth = '100%';
   } else {
-    // Append the text content
+
     const textNode = document.createTextNode(line);
     questionStatement.appendChild(textNode);
 
-    // Add a line break after each line (except the last one)
-    if (line !== lines[lines.length - 1]) {
+if (line !== lines[lines.length - 1]) {
       questionStatement.appendChild(document.createElement('br'));
     }
   }
