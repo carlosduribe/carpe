@@ -55,9 +55,9 @@ function populateQuestionGroups(data) {
 
 function displayRandomQuestion() {
   var grupoAleatorio = grupos[Math.floor(Math.random() * grupos.length)];
-  
-  const contentParts = grupoAleatorio[0].split(' ');
-  const lastPart = contentParts.pop(); // Obtener la última parte
+
+  const contentParts = grupoAleatorio[0].split('/n');
+  const lastPart = contentParts.pop(); // Obtener la última linea
 
   // Verificar si la última parte es un enlace
   if (lastPart.startsWith("http")) {
@@ -67,8 +67,8 @@ function displayRandomQuestion() {
 
       const image = document.createElement('img');
       image.src = lastPart;
-      image.alt = 'Imagen de la pregunta'; // Asegúrate de proporcionar un texto alternativo adecuado
-      image.style.maxWidth = '100%'; // Ajustar el tamaño de la imagen si es necesario
+      image.alt = 'Imagen de la pregunta';
+      image.style.maxWidth = '100%';
 
       // Limpiar el contenido actual y agregar los nuevos elementos
       questionStatement.innerHTML = ''; 
