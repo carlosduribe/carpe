@@ -42,9 +42,7 @@ Lectura recomendada:
 
 #Paciente de 78 años, masculino, antecedente de HTA y diabetes tipo 2. Consulta a un primer nivel de atención manifestando disconfort torácico de 3 horas de evolución, sin ningún otro síntoma. Al examen físico no se encuentran hallazgos anormales y se realiza el siguiente EKG de 12 derivaciones. Se decide remitir a un centro de mayor complejidad con capacidad de realizar ICP, el cual se encuentra a 3 horas del primer nivel.
 ¿Qué medicamentos debería iniciar en este paciente antes de realizar la remisión?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled.jpeg)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216894&authkey=%21ALRALd9zxDzxavo&width=921&height=271
 #A. Clopidogrel 75 mg v.o + ASA 300 mg v.o + enoxaparina 1 mg/kg s.c
 #B. Clopidogrel 300 mg v.o + ASA 100 mg v.o + enoxaparina 30 mg i.v
 #C. Clopidogrel 75 mg + ASA 300 mg v.o + enoxaparina 0.75 mg/kg s.c
@@ -167,9 +165,7 @@ Lecturas recomendadas:
 - Rabia, Guía Práctica para la Atención de Personas Agredidas por un Animal Potencialmente Transmisor de Rabia – Instituto Nacional de Salud de Colombia – 2009
 
 #Masculino de 80 años presenta fatiga y mareo. Tiene antecedente de hipertensión arterial e hiperlipidemia por lo que toma atorvastatina, metoprolol y lisinopril. Signos vitales: FC de 48 lpm, FR de 16 rpm y PA de 80/50 mmHg. Al examen físico las mucosas están secas, la región distal de las extremidades está frías y el tiempo de llenado capilar es de 4 segundos. Se toma un electrocardiograma evidenciándose el siguiente trazado. ¿Cuál es el manejo adecuado para este paciente?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%201.jpeg)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216916&authkey=%21AHmQ_Blf3g6VD24&width=849&height=226
 #A.	Iniciar manejo con adenosina.
 #B.	Colocar un marcapasos transcutáneo.
 #C.	Iniciar manejo con amiodarona.
@@ -1100,9 +1096,7 @@ Lecturas recomendadas:
 
 #Don Juan, 51 años, quien ha sufrido un infarto agudo de miocardio recientemente, se somete a un EKG de control posterior a la terapia de reperfusión.
 ¿Cuál es el diagnóstico más probable según el trazado electrocardiográfico?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%202.jpeg)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216905&authkey=%21AI7Pbc4XpKVLhck&width=942&height=348
 #A. Ritmo idioventricular acelerado
 #B. Ritmo de unión
 #C. Torsades de pointes
@@ -2290,9 +2284,7 @@ Bibliografía recomendada:
 - Builes N; et al. Puntos clave en urgencias oncológicas. Enfoque del paciente pediátrico en urgencias, 2023. CES.
 
 #Un paciente de 6 años de edad es llevado a su consulta debido a la aparición de lesiones cutáneas eritematosas bilaterales en las regiones flexoras de codos y rodillas, muy pruriginosas. Dice que este cuadro va y viene desde hace dos años. Se adjunta fotografía. Según la patología que sospecha, ¿Con cuál otra enfermedad tiene asociación?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216893&authkey=%21AAThkUV62uplXOU&width=692&height=315
 #A.	Enfermedad celíaca
 #B.	Asma
 #C.	Hepatitis C
@@ -2459,9 +2451,7 @@ Lecturas recomendadas:
 - Hutchison J, Mahdy H, Hutchison J. Stages of Labor. In: Stat Pearls. Treasure Island. Publishing; 2023 Jan.
 
 #Femenina de 26 años, primigesta, con 39 semanas de gestación, consulta por trabajo de parto activo. Es un embarazo complicado por oligohidramnios leve, detectado hace una semana, el cual se manejó con hidratación. Signos vitales 92 lpm, FR 18 rpm, PA  134/76 mm/Hg. El examen físico evidenció borramiento cervical del 100% y dilatación de 10 cm; el vértice está en la estación 0. Se realiza monitoreo fetal con el siguiente trazado del corazón fetal (Ver imagen).  ¿Cuál es el manejo adecuado para esta paciente?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%201.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216915&authkey=%21AGDv0YAsM2Ohc8w&width=428&height=277
 #A.	Realizar cesárea de emergencia.
 #B.	Realizar reposicionamiento materno y administración de oxígeno.
 #C.	Iniciar administración de tocolíticos.
@@ -2662,9 +2652,7 @@ Bibliografía recomendada:
 - Prevention and Control of Seasonal Influenza with Vaccines: Recommendations of the Advisory Committee on Immunization Practices (ACIP)—United States, 2022-23. CDC. Centers for Disease Control and Prevention, National Center of Immunization and Respiratory Diseases (NCIRD). [https://www.cdc.gov/flu/professionals/acip/summary/summary-recommendations.htm](https://www.cdc.gov/flu/professionals/acip/summary/summary-recommendations.htm).
 
 #Luis, 2 años. Llevado a urgencias por un cuadro de tos persistente desde hace 30 minutos, que inició mientras se encontraba jugando con algunos juguetes nuevos. La madre refiere que al inicio presentó un episodio de llanto excesivo, pero logró calmarlo. Al examen físico, alerta, estable hemodinámicamente, sin ningún tipo de alteraciones. Se muestran radiografías del tórax. De acuerdo a lo evidenciado, ¿Cuál es el tratamiento más apropiado?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%202.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216904&authkey=%21ADEJGHPdY7vLkAA&width=946&height=482
 #A.	Realizar rx de tórax en serie.
 #B.	Revisión en 48 horas.
 #C.	Observación intrahospitalaria.
@@ -7571,9 +7559,7 @@ Lectura recomendada:
 
 #Doña Claudia de 51 años, sin antecedentes de interés, consulta al servicio de Urgencias por palpitaciones persistentes. El electrocardiograma realizado se muestra a continuación.
 ¿Cuál es el diagnóstico más probable?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%203.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216908&authkey=%21AMWFc4IBc6a9znw&width=921&height=487
 #A. Fibrilación auricular
 #B. Flúter auricular
 #C. Taquicardia auricular
@@ -8678,13 +8664,11 @@ Lectura recomendada:
 
 
 #Mujer, 28 años, G1P0, 10 sem de gestación. Asiste al primer control prenatal. Examen físico: FC 75/min y PA 110/74 mmHg. ECO: embarazo compatible con una gestación de 10 sem. ¿Cuál conjunto de valores de laboratorio es más probable que muestren los estudios de esta paciente?
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216896&authkey=%21AC92oCr0LkA2hnU&width=606&height=160
 #A. A
 #B. B
 #C. C
 #D. D
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%204.png)
-
 #Respuesta correcta: A
 #Tema e ítem: cambios fisiológicos del embarazo - Diagnóstico.
 
@@ -9133,9 +9117,7 @@ Lectura recomendada:
 
 #Masculino de 26 años, consultó por palpitaciones episódicas durante los últimos 2 meses. Refiere que a veces su corazón "da un vuelco". Antecedente de exposición y uso de cigarrillo con IPA de 5. Además, refiere padre con fibrilación auricular e infarto de miocardio. Signos vitales dentro de límites normales. Al examen físico pulso regular, sin hallazgos anormales. Los estudios séricos, incluidos los electrolitos y la concentración de creatinina, están dentro de los límites normales. Se realiza un EKG que evidencio lo siguiente en  DII.
 ¿Cuál es el manejo o conducta a seguir con este paciente?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%205.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216895&authkey=%21AOxjC0T7HaoEt-Q&width=824&height=197
 #A. Abandonar el tabaquismo
 #B. Realizar angiografía coronaria
 #C. Colocación de un marcapasos permanente
@@ -9198,9 +9180,7 @@ Lectura recomendada:
 
 #Masculino de 31 años, es traído al servicio de Urgencias tras presentar por primera vez un episodio de pérdida de la consciencia de 30 segundos de duración, con recuperación espontánea y sin déficit neurológico. Al examen físico se encuentran signos vitales estables, sin hallazgos relevantes a la exploración. Se realiza el siguiente electrocardiograma.
 ¿Cuál de los siguientes es el diagnóstico más probable?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%206.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216898&authkey=%21ALr--ALwdT8SAaM&width=921&height=618
 #A. Taquicardia por reentrada nodal.
 #B. Bloqueo AV 2do grado Mobitz 1.
 #C. Bloqueo AV 2do grado Mobitz 2.
@@ -9869,7 +9849,7 @@ Lectura recomendada:
 #Don Fernando de 51 años, sin antecedentes de interés, es llevado a urgencias por la hija, posterior a evento de pérdida del estado de conciencia mientras estaban en la playa. Al interrogatorio refiere que el evento duró 40 segundos aproximadamente, y no relata movimientos corporales, no refiere pérdida del control de esfínteres. Además, comentó que posterior al cuadro, el paciente volvió a su estado basal de forma casi inmediata. Se realizó un electrocardiograma que se muestra a continuación.
 ¿Cuál de los siguientes hallazgos se evidencia en el electrocardiograma?
 
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%207.png)
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216897&authkey=%21AAkBFd75-PK5gvg&width=1280&height=274
 
 #A. Bloqueo auriculoventricular de primer grado
 #B. Ritmo sinusal normal
@@ -10280,9 +10260,7 @@ Lectura recomendada:
 
 #Don Fernando de 51 años, sin antecedentes de interés, es llevado a urgencias por la hija, posterior a evento de pérdida del estado de conciencia mientras estaban en la playa. Al interrogatorio refiere que el evento duró 40 segundos aproximadamente, y no relata movimientos corporales, no refiere pérdida del control de esfínteres. Además, comentó que posterior al cuadro, el paciente volvió a su estado basal de forma casi inmediata. Se realizó un electrocardiograma que se muestra a continuación.
 ¿Cuál de los siguientes hallazgos se evidencia en el electrocardiograma?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%207.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216897&authkey=%21AAkBFd75-PK5gvg&width=1280&height=274
 #A. Bloqueo auriculoventricular de primer grado
 #B. Ritmo sinusal normal
 #C. Síndrome del seno enfermo
@@ -10566,9 +10544,7 @@ Lectura recomendada:
     - Tavera A. Parto Pretérmino. La visión del Residente. 2020
 
 #Mujer de 65 años de edad con antecedentes de diabetes mellitus tipo 2, hipertensión arterial, obesidad y dislipidemia, que acudió al servicio de Urgencias por cuadro de dolor precordial opresivo desencadenado en reposo, de menos de 30 minutos de duración. A su llegada a urgencias, el dolor se ha aliviado. Se realiza el electrocardiograma que se muestra en la imagen. ¿Qué arteria coronaria cree que está afectada en esta paciente?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%208.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216907&authkey=%21ALLxe8eAvc71hJo&width=1280&height=702
 #A.	Arteria coronaria derecha proximal.
 #B.	Arteria descendente anterior proximal.
 #C.	Arteria circunfleja proximal.
@@ -11397,9 +11373,7 @@ Lectura recomendada:
 
 #Judy de 27 años, G2P1 con 32 semanas de gestación, sin otro antecedente de interés, consultó por 24 horas de disminución de la actividad fetal, comentó que previamente sentía entre 10 y 12 movimientos por hora y ahora de 7 a 8 por hora. Signos vitales Tº de 37,2 °C, PA de 108/60 mm Hg, FC: 88 lpm y SO2 de 96% al ambiente. Al examen pélvico, el feto se encuentra en posición transversal, con frecuencia cardíaca fetal de 134 lpm. Se realizó una prueba de monitoreo fetal sin estrés durante 14 minutos.
 ¿Cuál de las siguientes es la estrategia de manejo más apropiada?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%209.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216899&authkey=%21AJDRbXFOOQL6Hc4&width=1280&height=254
 #A. Administrar oxitocina intravenosa
 #B. Ampliar el tiempo de duración del monitoreo fetal sin estrés 20 minutos
 #C. Proporcionar tranquilidad a la madre
@@ -13751,9 +13725,7 @@ Lectura recomendada:
 
 #Don Javier de 55 años, sin antecedentes levantes, ingresa al servicio de Urgencias con disconfort torácico, diaforesis intensa y palpitaciones persistentes de dos horas de evolución. Al ingreso se encuentra pálido, FC 165 lpm, FR 24 rpm, SatO2 89% a aire ambiente, sin hallazgos relevantes a la exploración física. Se toma EKG de 12 derivaciones.
 ¿Cuál sería la conducta terapéutica adecuada a seguir?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2010.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216919&authkey=%21ALbZcWbENkLtgzE&width=1280&height=1146
 #A. Maniobras vágales
 #B. Maniobras vágales seguido de bisoprolol 2.5 mg VO
 #C. Cardioversión sincronizada
@@ -13779,9 +13751,7 @@ Lectura recomendada:
 
 #Doña Ana de 57 años, quien consulta al servicio de Urgencias del HSVF con un día de evolución de palpitaciones y disnea progresiva de medianos esfuerzos. Entre sus antecedentes personales destaca un historial de hipertensión arterial primaria y dislipidemia mixta en manejo actual con losartán + amlodipino y atorvastatina. Trae reporte de un ecocardiograma TE reciente realizado de manera ambulatoria el cual concluye como hallazgos una valvulopatía mitral moderada y dilatación auricular izquierda de 6.5 cm. Al examen físico se evidencia un primer ruido hiperfonético en área mitral con chasquido de apertura después del segundo ruido. Se le realiza el siguiente electrocardiograma.
 ¿Cuál de las siguientes afirmaciones es cierta?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2011.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216920&authkey=%21AGSbyp6XT7c28xY&width=1280&height=632
 #A. Requiere inicio de anticoagulación con Warfarina y un INR objetivo entre 3.5-4
 #B. No requiere iniciar anticoagulación
 #C. Requiere inicio de anticoagulación con Warfarina y un INR objetivo entre 2-3
@@ -14657,9 +14627,7 @@ Lectura recomendada:
 
 #Alejandro de 82 años, con antecedente de hospitalización previa hace 4 meses por cuadro clínico de angina inestable, por lo que se le colocó con éxito un stent liberador de fármaco en la arteria coronaria descendente anterior izquierda, y con orden de doble terapia antiplaquetaria al alta, pero por temas administrativos no pudo adquirir la medicación. Actualmente, está en tratamiento con lisinopril, atorvastatina y metoprolol. Consulta ahora por cuadro clínico de dolor torácico agudo de sensación 9/10, referido a mandíbula, acompañado de náuseas y emesis. Al examen físico estable termodinámicamente. Se realizó un electrocardiograma que muestra lo siguiente (parte de abajo del mensaje)
 ¿Cuál de las siguientes condiciones clínicas es más probable que haya causado el cambio en el estado clínico de este paciente?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2012.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216914&authkey=%21AB9Srsb8VrS1pwQ&width=650&height=318
 #A. Trombosis del stent
 #B. Rotura del músculo papilar
 #C. Rotura del tabique ventricular
@@ -14857,9 +14825,7 @@ Lectura recomendada:
     1. Sattar Y, Alraies MC. Ventricular Aneurysm. [Updated 2022 Nov 14]. In: StatPearls [Internet]. Treasure Island (FL)
 
 #Masculino de 42 años es llevado a urgencias 20 minutos posterior a dolor torácico intenso, diaforesis, disnea y palpitaciones. Tiene antecedente de uso de cigarrillo desde hace 24 años con consumo regular de cocaína. Signos vitales: FC 110 lpm, PA de 178/106 mmHg y FR de 24 rpm. Al examen físico está pálido, pupilas dilatadas con reacción lenta a la luz. Un ECG evidencia taquicardia y elevación del segmento ST en DII, DIII y aVF. El paciente pierde el conocimiento, no se palpan pulsos. El monitor cardiaco evidencia el siguiente trazado. ¿Cuál es el manejo inicial adecuado para este paciente?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2013.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216917&authkey=%21ANvKw8sSTw7R04Y&width=921&height=513
 #A.	Administrar lidocoina.
 #B.	Realizar cardioversión eléctrica no sincrónica.
 #C.	Administrar amiodarona.
@@ -14876,9 +14842,7 @@ Lectura recomendada:
     - ACLS/BLS – AHA 2020
 
 #Femenina de 55 años pierde el conocimiento en el servicio de urgencias una hora luego de ser ingresada por dolor torácico agudo y diaforesis. No hay pulsos y se inician compresiones torácicas. Tiene antecedente de DM-2 y CA de mama tratado quirúrgicamente hace 4 años. Antes del ingreso, la paciente venia en un largo viaje en autobús de visitar a su hermana. Sus medicamentos incluyen tamoxifeno, atorvastatina, metoprolol, metformina e insulina. Se muestra el ritmo cardiaco. ¿Cuál es el manejo apropiado para esta paciente?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2014.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216913&authkey=%21ALXvxTKVYwtLz_Q&width=920&height=145 
 #A.	Realizar desfibrilación.
 #B.	Realizar angiografía coronaria.
 #C.	Manejo con epinefrina IV.
@@ -16020,9 +15984,7 @@ Lectura recomendada:
 
 #Don Andrés de 65 años, consulta al servicio de Urgencias por historial de varias semanas de disnea de esfuerzo, progresiva. Tiene antecedente de hipertensión arterial desde hace 20 años e historial de tabaquismo fuerte durante 30 años, abandonado hace 4 años. Refiere que la disnea inició con esfuerzos moderados mientras caminaba varias cuadras inclinadas hacía su casa, pero que en la ultima semana se ha presentado con esfuerzos mínimos como afeitarse, bañarse o caminar de su cuarto a la sala de su casa, siendo el último episodio en horas de la mañana con 15 minutos de duración. Niega otra sintomatología asociada. Actualmente se encuentra en tratamiento con enalapril, amlodipino y rosuvastatina. Al examen físico se encuentra un paciente tranquilo, buen estado general, FC 85 lpm, PA 110/80 mh, FR 19 rpm, SatO2 95% a aire ambiente. Se auscultan crepitos bilaterales bibasales. Laboratorios: troponinas negativas. Se realiza el siguiente electrocardiograma.
 ¿Cuál de los siguientes es el diagnóstico más probable en Don Juan?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2015.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216918&authkey=%21AKS2uIbjtPzD5_I&width=1207&height=634
 #A. Embolia pulmonar
 #B. Disección aortica
 #C. Pericarditis aguda
@@ -16888,21 +16850,14 @@ A Ernesto se le decide iniciar manejo con líquidos endovenosos, suspender la v�
 
 #Don Juan de 56 años, con antecedente de hipertensión arterial estadio II en manejo con amlodipino 5 mg/día y losartán 50 mg c/12h. Consulta al servicio de Urgencias por discomfort torácico de características no anginosas. Se realiza el siguiente electrocardiograma:
 ¿Cuál es el diagnóstico electrocardiográfico de Don Juan?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2016.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216910&authkey=%21AHAd5VbbIxJ9c_A&width=921&height=492   
 #A. Bloqueo de rama izquierda
 #B. Bloqueo AV 2do grado Mobitz 1
 #C. Sindrome de Wellens
 #D. Bloqueo de rama derecha
 #Respuesta correcta: A
-#Tema e ítem: Bloqueo de rama derecha - Criterios diagnósticos
+#https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216909&authkey=%21AGEL1qxxRFxodxY&width=720&height=1280
     
-    Argumento:
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2017.png)
-    
-
 #Masculino de 71 años es llevado a urgencias por cuadro clínico de 1 hora de evolución caracterizado por amaurosis fugaz y monoplejia de miembro superior derecho de aparición repentina los cuales resolvieron en 15 minutos de forma espontánea. Refiere que ahora se siente bien. Tiene antecedente de hipertensión arterial. Signos vitales dentro de lo normal. Al examen neurológico presenta fuerza muscular 5/5 y sensibilidad normal. La glucosa sérica y el ECG son normales. ¿Cuál de los siguientes se encuentra indicado en esta paciente?
 #A.	Realizar resonancia magnética cerebral.
 #B.	Realizar ecografía doopler carotidea.
@@ -17632,9 +17587,7 @@ Lectura recomendada:
 
 #Catalina de 21 años, consulta al servicio de Urgencias por palpitaciones persistentes. Refiere que ha tenido varios episodios en el pasado que han cesado, pero actualmente se ha mantenido. Refiere estar estresada por su trabajo y preparativos para su boda. Al ingreso presenta PA 120/70 mmHg, FC 190 lpm, SatO2 96%. Se muestra ansiosa. Se realiza el siguiente el electrocardiograma:
 ¿Cuál es el diagnóstico más probable?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2018.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216912&authkey=%21ANOyybGm_ZOZtkQ&width=584&height=384
 #A. Fibrilación auricular con conduccion aberrante
 #B. Flutter aricular
 #C. Sindrome de Wolf-Parkinson-White
@@ -18706,9 +18659,7 @@ Lectura recomendada:
 1. Lisa Strate. Approach to acute lower gastrointestinal bleeding in adults. Available on Uptodate Advanced 2024.
 
 #Femenina de 54 años consulta por 2 episodios de hematoquecia el día de hoy. Tiene antecedentes de migraña por lo que toma verapamilo de forma profiláctica. Se encuentra estable. Signos vitales: FC de 81 lpm y PA de 120/80 mmHg. El examen cardiopulmonar es normal. Al examen rectal hay sangre franca al dedo del examinador. Paraclínicos séricos: HB de 10.4 g/dL, Leu: 5000/mm3, plaquetas 175.000, TPT de 35 seg. Se le realiza un electrocardiograma (Ver imagen). ¿Cuál es el paso a seguir con respecto a los resultados del electrocardiograma de esta paciente?
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2019.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216906&authkey=%21AATIeZtKcven3xE&width=474&height=170
 #A.	Iniciar atropina.
 #B.	Iniciar adenosina.
 #C.	Colocar un marcapasos.
@@ -19190,9 +19141,7 @@ Lectura recomendada:
 1. Peña, LM. Zuluaga, AF. Protocolos de manejo del paciente intoxicado – Capitulo Accidente ofídico Bothropico y Lachésico (Pag 153). Medellín: Facultad de Medicina, Universidad de Antioquia; 2017.
 
 #Mujer de 35 años, bailarina, ingresa al servicio de Urgencia por cuadro de dolor torácico opresivo, continuo, de 2 días de evolución. Niega otros sintomas asociado. Al examen físico se encuentran signos vitales estables, ruidos cardiacos ritmico, R1 único, sístole silente, R2 único, diástole silente. Se realiza electrocardiograma:
-
-![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2020.png)
-
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216911&authkey=%21ALaSFQmY4WXTt_0&width=1166&height=727
 #A. Síndrome de Tietze – Iniciar diclofenaco
 #B. Síndrome coronario agudo sin elevación del ST – Iniciar antiagregación + anticoagulación
 #C. Pericarditis aguda – Iniciar colchicina + ibuprofeno
@@ -20379,9 +20328,7 @@ Ministerio de Salud y Protección Social. Resolución 207 de 2024, 13 de Febrero
     - Gallego P. Ramírez J. Dolor torácico potencialmente mortal. Medellín. Curso de actualización medicina interna XXI. Universidad de Antioquia. 2021.
 
 #Diego de 54 años, con antecedente de diabetes tipo dos, hipertensión arterial y consumo de cigarrillo con IPA de 20, consulta ahora por una hora de dolor en hemitórax izquierdo, de carácter opresivo, sin referirse a otro segmento. El cuadro se acompaña de diaforesis y disnea. Signos vitales FC 59 lpm, FR 18 rpm, PA de 85/56 mm Hg. Al examen físico, palidez generalizada, frialdad distal, murmullo vesicular conservado y ruidos cardiacos rítmicos sin sobreagregados. Sin otro hallazgo anormal. Se realiza un electrocardiograma que muestra lo siguiente (foto al final). ¿Cuál de las siguientes conductas es la más adecuada para el manejo de este paciente?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2021.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216902&authkey=%21AKrjSGIBV82nAKY&width=500&height=261
 #A. Bolo de solución salina al 0.9%
 #B. Atropina intravenosa
 #C. Morfina intravenosa
@@ -21317,9 +21264,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
 
 #Angela de 33 años, con antecedente de consumo de cigarrillo con IPA de 14 y antecedente familiar de madre que falleció por un IAM a los 60 años, consultó a urgencias por 2 horas de evolución de palpitaciones de forma intermitente. Refiere que cada episodio ha tenido una duración de 10 minutos. No refiere ningún dolor torácico. Signos vitales T° de 37,0 °C, FC de 190 lpm, PA de 104/76 mm/Hg. Al examen físico murmullo vesicular conservado. Auscultación cardíaca sin soplos, ni fricciones, ni galopes. Se realiza un electrocardiograma (Anexa foto en la parte de abajo). ¿Cuál es la conducta inicial adecuada a seguir?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2022.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216903&authkey=%21AAhNhWbAWfNlj1c&width=1174&height=516
 #A. Realizar maniobras vagales
 #B. Administración de adenosina intravenosa
 #C. Indica angioplastia coronaria
@@ -21354,9 +21299,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
 
 #Hernán de 76 años, con antecedente de hipertensión arterial, DM2, gota y consumo de cigarrillo con un IPA de 30 (dejó de fumar hace 5 años). Consultó para seguimiento postoperatorio de 6 meses, de cirugía de derivación de las arterias coronarias (no tuvo complicaciones) por enfermedad coronaria. El paciente refiere que el dolor torácico de esfuerzos se ha resuelto por completo posterior a la cirugía. No informa palpitaciones, disnea, ni síncope. Al examen físico, pulso irregular. La incisión quirúrgica del tórax está bien cicatrizada. Auscultación cardiopulmonar sin soplos. No hay edema periférico. Se realiza un electrocardiograma de control que evidencia lo siguiente (se anexa foto en la parte de abajo). ¿Cuál es la conducta de manejo adecuada para este paciente?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%2023.png)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216901&authkey=%21AL2Uahbx53ZFQMc&width=1068&height=521
 #A. Realizar una ablación de la vía lenta del nódulo auriculoventricular
 #B. Inicio de acetato de flecainida
 #C. Indica terapia anticoagulante oral
@@ -21374,9 +21317,7 @@ Si se asume que todos los antiagregantes tienen la misma eficacia y similar segu
     
 
 #Luis David de 68 años con antecedente de hipercolesterolemia en manejo con atorvastatina de 40 mg y diabetes mellitus tipo 2 no insulino requiriente, consultó por cuadro clínico de 2 horas de evolución, caracterizado por dolor esternal de carácter opresivo de intensidad 8/10 en la EAD, asociado a diaforesis y náuseas. Comentó que el dolor inició de forma súbita mientras el paciente veía Netflix. Signos vitales con FC de 80 lpm, PA de 128/84 mm/Hg, FR de 22 rpm. Al examen físico, paciente con abundante panículo adiposo, murmullo vesicular conservado, sin agregados, con ruidos cardiacos rítmicos, sin agregados. Se realiza un electrocardiograma inicial el cual no evidencia anormalidades y se mide troponinas ultrasensibles, las cuales están aumentadas 6 veces el valor de referencia. A los 25 minutos de ingresado el paciente refiere aumento del dolor, se repite el electrocardiograma (anexa foto abajo). ¿Cuál es la conducta adecuada a seguir?
-    
-    ![Untitled](Preguntas%20Carpe%2029df5a68b4a74ed089408f600950c739/Untitled%203.jpeg)
-    
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216900&authkey=%21AJwjgv-cLt-vJow&width=650&height=240
 #A. Administración de fondaparinux
 #B. Administración de Clopidogrel
 #C. Administración de Prasugrel
@@ -22637,7 +22578,7 @@ Bibliografía recomendada:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%213825&authkey=%21ACWz0IUYi1vgg58&width=989&height=1280
 
 #Femenina de 19 años consulta con un electrocardiograma que se realizó de manera ambulatorio debido a que su padre murió a los 48 años de causas desconocidas y está preocupada por ello. El electrocardiograma se muestra en la imagen 1. Tiene antecedentes de síndrome de ovario poliquístico, hipotiroidismo, obesidad y depresión. Está medicada con levotiroxina 100 mcg/día, sertralina 50 mg/día y un anticonceptivo oral combinado. Signos vitales: 120/80 mmHg y frecuencia cardíaca de 75 lpm. El examen físico es normal. Las pruebas tiroideas son normales. ¿Cuál es el manejo adecuado?
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216922&authkey=%21ADYmZvXHzoxaC_0&width=725&height=336
 #A.	Realizar un ecocardiograma.
 #B.	Realizar monitoreo cardiaco ambulatorio de 24 horas.
 #C.	Iniciar betabloqueador.
@@ -22655,7 +22596,7 @@ Bibliografía recomendada:
 
 #Usted se encuentra evaluando una paciente en sala de reanimación la cual presenta palpitaciones en el pecho desde hace 1 hora. Niega disnea, dolor torácico, mareo o perdida del conocimiento. No tiene antecedentes de importancia. Signos vitales con FC de 190 lpm, FR de 18 rpm y PA de 130/80 mmHg. Se toma un ECG el cual se evidencia en la imagen 2. Se realizan maniobras de Valsalva modificada sin mejoría del cuadro. 
 ¿Cuál es el paso a seguir en el manejo de esta paciente? 
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216923&authkey=%21ADuWRHHWH3CkWvA&width=695&height=322
 #A.	Administrar adenosina IV.
 #B.	Realizar cardioversión eléctrica.
 #C.	Administrar metoprolol IV.
@@ -23021,7 +22962,7 @@ Bibliografía recomendada:
 
 #Varón de 68 años, con antecedente de cáncer de próstata con metástasis óseas, actualmente en tratamiento con quimioterapia + radioterapia. Acude al centro de salud de primer nivel refiriendo disnea súbita de inicio hace una hora y tos seca.  Examen físico: ansioso, PA 120/70 mh, FC 118 lpm, FR 27 rpm, SatO2 88%, ruidos cardiacos aumentados en intensidad, taquicárdicos, concordantes con el pulso, murmullo vesicular conservado. Se realiza el siguiente EKG: 
 ¿Cuál es el diagnóstico más probable? 
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216924&authkey=%21ALd_rDz4MYZ1C3M&width=1600&height=884
 #A. Disección coronaria espontánea
 #B. Trastorno de ansiedad
 #C. Embolismo pulmonar
@@ -23040,7 +22981,7 @@ Bibliografía recomendada:
 
 #Mujer de 25 años, previamente sana, acude a consulta por presentar un episodio de palpitaciones de inicio súbito. Las palpitaciones comenzaron mientras estaba descansando en casa, sin relación aparente con esfuerzo físico, estrés emocional o consumo de alcohol o cafeína. No refiere dolor torácico, disnea, mareos ni síncope. Se realiza el siguiente EKG: 
 ¿Cuál es el diagnóstico más probable? 
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216925&authkey=%21AOKfGDYv5C5qdDY&width=920&height=492
 #A. Taquicardia sinusal
 #B. Fibrilación auricular 
 #C. Taquicardia del nódulo AV por reentrada
@@ -23188,6 +23129,7 @@ Teniendo en cuenta el caso anterior, ¿Cuál sería el manejo antibiótico adecu
 
 #Masculino de 70 años consulta a urgencias por disnea de esfuerzo progresiva desde hace 2 semanas. Tiene antecedente de hipertensión arterial y tabaquismo. Refiere que el cuadro inicia con disnea al subir las escaleras pero que ahora la presenta incluso al cepillarse los dientes. Antes de consultar presentó 2 episodios similares de duración de 20 minutos. Niega dolor torácico. Al momento se encuentra en reposo sin síntomas. Signos vitales: FC de 80 lpm, PA de 105/70 mmHg, FR de 20 rpm y SatO2 de 96%. Al examen físico hay crépitos bibasales a la auscultación pulmonar.  La troponina inicial de este paciente es negativa. Se evidencia el siguiente electrocardiograma:
 ¿Cuál es el diagnostico más probable en este caso?
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216926&authkey=%21AMaMtrJu1Tk_ivs&width=921&height=505
 #A.	EPOC exacerbado.
 #B.	Angina inestable.
 #C.	Infarto agudo del miocardio sin elevación del ST.
@@ -23458,6 +23400,7 @@ Bibliografía recomendada:
 
 #Femenina de 50 años con antecedente de HTA consulta por diarrea y vómitos desde hace 3 días y debilidad generaliza y espasmos musculares desde ayer. Refiere poca tolerancia a la vía oral durante este tiempo, sin embargo, su medicación (Hidroclorotiazida) se ha cumplido. Signos vitales: Temp. de 37.2°C, FC de 60 lpm, FR de 12 rpm y PA de 100/60 mmHg. Al examen físico se evidencia cavidad oral seca y turgencia de la piel reducida. Paraclínicos: Na+ de 130 meq/L, K+ de 2 meq/L y Cr de 1.8 mg/dL. Se obtiene el siguiente electrocardiograma:
 ¿Cuál es el manejo adecuado para esta paciente?
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216927&authkey=%21AMihRrS6dJKbIEk&width=921&height=534
 #A.	Indicar reposición de potasio vía oral. 
 #B.	Realizar monitorización cardiaca.
 #C.	Iniciar infusión de solución salina al 0.9%.
@@ -24112,7 +24055,7 @@ Fuente bibliográfica:
 
 #Don Juan de 55 años, ingresa en la Unidad de Cuidados Intensivos debido a un cuadro de insuficiencia respiratoria severa secundario a exacerbación aguda de la EPOC. Se realiza el siguiente EKG: 
 ¿Cuál es el diagnóstico electrocardiográfico más probable? 
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216928&authkey=%21ABK3HulCbhtKh8o&width=1280&height=582
 #A. Taquicardia sinusal
 #B. Taquicardia auricular multifocal 
 #C. Fibrilación auricular con respuesta ventricular alta
@@ -24163,7 +24106,7 @@ Fuente bibliográfica:
 
 #María Antonia, una paciente de raza negra de 35 años con antecedente de lupus eritematoso sistémico, consultó por dolor lancinante en el hemitórax izquierdo de inicio agudo (hace 6 horas) asociado a disnea. Refiere que el dolor mejora con la sedestación y se exacerba con la inspiración profunda y la tos. Signos vitales dentro de rangos normales. Al examen físico, no hay ingurgitación yugular, no se observan deformidades torácicas, movimientos anormales ni pulsaciones visibles en la región precordial. No se detectan soplos ni frémitos en la región precordial. Se ausculta un roce pericárdico en la región paraesternal izquierda, que se escucha mejor al inclinar a la paciente hacia adelante. El murmullo vesicular está conservado sin sobreagregados. Se toma un electrocardiograma que reporta lo siguiente:
 ¿Cuál de los siguientes es la conducta correcta?
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216929&authkey=%21AIP8JSUHDbRB3B4&width=1081&height=560
 #A. Iniciar enoxaparina 60 mg subcutáneo cada 12 horas.
 #B. Iniciar ibuprofeno 600 mg V.0 q8h + colchicina 0,5 mg/día
 #C. Dar carga de ácido acetil salicílico y 75 mg de clopidogrel.
@@ -24230,8 +24173,7 @@ Fuente bibliográfica:
 
 
 #Femenina de 59 años presenta un síndrome coronario agudo con elevación del ST de cara anterior. La paciente recibió manejo con tenecteplasa intravenosa hace aprox. 8 horas. Signos vitales: FC de 69 lpm, PA de 140/80 mmHg y SatO2 del 95% con oxigeno ambiente. Al examen físico hay estertores finos en ambas bases pulmonares, no hay soplos cardiacos y tiene edema grado I en extremidades inferiores. Se evidencian los electrocardiogramas antes y después de la trombólisis. El ecocardiograma revela una FEVI del 32% con acinesia anteroseptal y apical, regurgitación mitral leve. Las enzimas cardiacas y los péptidos natriuréticos están elevados. ¿Cuál es el manejo principal adecuado en esta paciente? 
-![Untitled]
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216935&authkey=%21ANqYzfsoyxOAEaM&width=714&height=756
 #A.	Realizar angiografía coronaria por TAC.
 #B.	Realizar una prueba de esfuerzo en 2 semanas.
 #C.	Realizar cateterismo cardiaco + angiografía coronaria.
@@ -24543,7 +24485,7 @@ Fuente bibliográfica:
 
 #Marisol, de 35 años, con antecedente de histerectomía a los 30 años por miomas uterinos, sin otros antecedentes médicos de relevancia, consultó en el servicio de urgencias de un hospital de tercer nivel por palpitaciones que le generan ansiedad y que, según la paciente, "la indisponen mucho, no las tolera". No refiere otra sintomatología en reposo ni con el esfuerzo. Signos vitales: FC de 75 lpm, PA de 130/80 mm Hg, SpO2 de 98% con FiO2 ambiente. Al examen físico, se observan "ondas A en cañón" a nivel cervical, y en la auscultación cardíaca se aprecia un ritmo irregular debido a latidos prematuros. Paraclínicos con Hb de 14 mg/dl y TSH de 4 µU/mL. Se realiza un electrocardiograma que evidencia lo siguiente:
 ¿Cuál es el tratamiento adecuado?
-[Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216930&authkey=%21AMDIwufXiNzxOU0&width=940&height=423
 #A. Iniciar manejo con propranolol
 #B. Remitir a la paciente para valoración urgente por cardiología
 #C. Tranquilizar a la paciente
@@ -24617,7 +24559,7 @@ Bibliografía recomendada:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216775&authkey=%21AMSmesfP8cPz-2E&width=990&height=1280
 
 #Óscar, 40 años, es llevado a urgencias 20 minutos después de ser encontrado inconsciente en el piso del baño. Está alerta. Refiere que tuvo palpitaciones y mareo antes de desmayarse. Tiene HTA y DT2. Sus signos vitales son normales y no hay hallazgos anormales al examen físico. La glucometría le dio 85 mg/dl. Se muestra un ECG. ¿Cuál de las siguientes es la causa subyacente más probable de los hallazgos de este paciente?
-![Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216931&authkey=%21ADdAsQwOl2lQ9Qc&width=921&height=526
 #A.	Un nodo AV disfuncional
 #B.	Focos ectópicos ventriculares
 #C.	Vía auriculoventricular accesoria
@@ -24899,7 +24841,7 @@ Bibliografía recomendada:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216872&authkey=%21ABu9Nb6_fjXFtSE&width=990&height=1280
 
 #Jerónimo, 5 años y medio, previamente sano y asiste a todos los controles de crecimiento y desarrollo. Es llevado a urgencias luego de caer hace media hora mientras cruzaba el “pasamanos” en un parque, cayó sobre el tapete del parque y sufrió trauma en codo derecho, con posterior dolor, edema, limitación funcional y sangrado. Los signos vitales están normales. Se observa el codo con deformidad y en 20° de flexión. Tiene una herida en pliegue antecubital de 0.5 centímetros, circular, con sangrado activo, sin exposición ósea. Se muestra la radiografía de codo. ¿Cuál es la mejor conducta?
-[Untitled]
+https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216932&authkey=%21ADH66I2siOQDjuM&width=1290&height=575
 #A. Tiene una fractura abierta grado I supracondílea, requiere férula braquipalmar a 90° y remisión urgente a ortopedia infantil
 #B. Tiene una fractura Gartland III abierta, requiere cefazolina 2 g c/8h, lavado, afrontamiento de herida, antitetánica, férula braquiopalmar en 20° de flexión y remisión a ortopedia
 #C. Tiene una fractura abierta grado II, requiere cefalotina 1 g c/6h, férula braquiopalmar en 20° de flexión y remisión
