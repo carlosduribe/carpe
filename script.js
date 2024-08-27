@@ -55,8 +55,30 @@ function populateQuestionGroups(data) {
 
 function displayRandomQuestion() {
   var grupoAleatorio = grupos[Math.floor(Math.random() * grupos.length)];
+  
+  const contentParts = grupoAleatorio[0].split(' ');
+  const lastPart = contentParts.pop(); // Obtener la última parte
 
-  questionStatement.textContent = grupoAleatorio[0];
+  // Verificar si la última parte es un enlace
+  if (lastPart.startsWith("http")) {
+      // Crear elementos para texto e imagen
+      const textSpan = document.createElement('span');
+      textSpan.textContent = contentParts.join(' '); // Texto sin el enlace
+
+      const image = document.createElement('img');
+      image.src = lastPart;
+      image.alt = 'Imagen de la pregunta'; // Asegúrate de proporcionar un texto alternativo adecuado
+      image.style.maxWidth = '100%'; // Ajustar el tamaño de la imagen si es necesario
+
+      // Limpiar el contenido actual y agregar los nuevos elementos
+      questionStatement.innerHTML = ''; 
+      questionStatement.appendChild(textSpan);
+      questionStatement.appendChild(image);
+  } else {
+      // Si no hay enlace, mostrar el texto completo
+      questionStatement.textContent = grupoAleatorio[0];
+  }
+;
   opcionA.textContent = grupoAleatorio[1];
   opcionB.textContent = grupoAleatorio[2];
   opcionC.textContent = grupoAleatorio[3];
