@@ -24954,3 +24954,208 @@ https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216932&authkey=%21ADH66I2
 #Respuesta correcta:
 #https://onedrive.live.com/embed?resid=2CC078BE4A32D93B%216890&authkey=%21AHnzIUZ29IaU8q0&width=989&height=1280
 
+#Sandra, 41 años, asiste preocupada al médico porque estuvo asistiendo a consulta particular. Le detectaron la presión arterial alta hace una semana. También ha estado experimentando fatiga y debilidad muscular durante el último mes. No tiene antecedentes médicos de importancia. Su presión arterial es de 169/94 mmHg en la visita de hoy. El examen físico no muestra anormalidades. Trae unos paraclínicos extrainstitucionales que reportan una concentración de potasio de 3,2 mEq/L. La relación entre la concentración plasmática de aldosterona y la actividad de la renina plasmática está significativamente elevada. La TAC abdominal revela masas en las glándulas suprarrenales bilaterales. ¿Cuál es la mejor conducta?
+#A.	Iniciar eplerenona  50 mg cada 24h y amlodipino 5 mg cada 24h
+#B.	Administrar enalapril 5 mg 1 vez al día y clortalidona 25 mg cada 24h
+#C.	Remitir a medicina interna por HTA resistente
+#D.	Ordenar sacubitrilo-valsartán es 100 mg dos veces al día
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTJPMSj8d8Dv4mQ4?embed=1&width=1980&height=1280
+
+#Claudia, 38 años, consulta a urgencias por dolor y enrojecimiento ocular derecho de 4 días de evolución que ha ido empeorando progresivamente, dice que el dolor es de predominio nocturno. También refiere sensación de cuerpo extraño en el ojo. Examen físico: T 37°C, FC 100/min, FR 20/min y PA 138/88 mmHg. La agudeza visual es 20/50 en el ojo derecho y 20/25 en el izquierdo. Tiene aparente inyección conjuntival, fotosensibilidad y lagrimeo. El dolor empeora con los movimientos oculares.  Tiene isocoria normorreactiva. ¿Cuál de las siguientes características adicionales es más probable que esté presente?       
+#A.	Episodios eméticos recientes
+#B.	Múltiples parejas sexuales y relaciones de riesgo
+#C.	Traumatismo craneal reciente
+#D.	Tenosinovitis
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTPXE1VPa-xPmMVX?embed=1&width=1973&height=1280
+
+#Pedro, 55 años, es llevado a urgencias por confusión. El acompañante niega fiebre, emesis, diarrea y dolor epigástrico. Su última colonoscopia fue hace 5 años y se caracterizaba por pólipos benignos, que posteriormente fueron resecados. Tiene HTA, dislipidemia, ERGE y DT2. Toma alcohol, alrededor de media de aguardiente diaria desde hace 15 años. Examen físico: T 37°C, FC 80/min, FR 20/min y PA 135/85 mmHg, IMC 20 kg/m2. Se observa distensión abdominal y matidez desplazante. Tiene temblores y deterioro de la memoria reciente y remota. La prueba de sangre oculta en heces es positiva. ¿Cuál es el mecanismo de acción del agente farmacológico más apropiado en él? 
+#A.	Reducir el pH del colon
+#B.	Inhibición de la bomba H+/ATPasa de las células parietales
+#C.	Fomentar la colonización con bacterias resistentes a los ácidos y no productoras de ureasa.
+#D.	Inhibición de la vasodilatación esplácnica
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTTDtN53SENBdlWF?embed=1&width=1976&height=1280
+
+#María, 33 años, consulta por 10 semanas de malestar epigástrico y pirosis. La paciente también refiere tos nocturna y aclaramiento faríngeo frecuente. Niega disfagia, melenas, hematemesis, vómitos ni pérdida de peso involuntaria. No tiene antecedentes médicos de relevancia. El IMC es de 31 kg/m2. Los signos vitales están dentro de los límites normales. Al examen físico se observa eritema faríngeo y dolor epigástrico a la palpación. ¿Cuál de los siguientes es el mejor paso siguiente en la evaluación y el tratamiento de esta paciente?  
+#A.	Iniciar famotidina 20 mg cada 12 h por 8 semanas junto a 2 cucharadas de hidróxido de aluminio entre comidas
+#B.	Modificaciones del estilo de vida con seguimiento programado dentro de 6 meses
+#C.	Iniciar ensayo con pantoprazol 40 mg diarios
+#D.	Ordenar endoscopia superior (EGD) con biopsias
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTajqMiZO1Bjq4I-?embed=1&width=1976&height=1280
+
+#Felipe, 58 años, se encuentra en el postoperatorio de una desarticulación de rodilla por trauma grave en accidente de tránsito. Por una hemoglobina de 6.4 mg/dL, está recibiendo una transfusión de glóbulos rojos. A los 30 min comienza a presentar disnea, tos y opresión torácica. Tiene HTA y DM2. Examen físico: T 38,7°C, FC 110/min, FR 28/min, PA 90/50 mmHg y SATO2 88%. Está ansioso. A la auscultación de los pulmones se escuchan estertores bilaterales. No hay edema en las extremidades inferiores. ¿Cuál de los siguientes es el mejor paso a seguir en el tratamiento?  
+#A.	Detener la transfusión de sangre e iniciar metilprednisolona 60 mg más un bolo de 40 mg de furosemida 
+#B.	Continuar de transición. De persistir el cuadro, administrar 0.5 mg de adrenalina intramuscular, si tras 3 dosis no se mejora, continuarla en infusión
+#C.	Continuar de transición e iniciar piperacilina tazobactam 4.5 gr IV cada 6 horas
+#D.	Comentar a UCI por requerimiento de ventilación mecánica
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTdd05qL9YmoGY7m?embed=1&width=1976&height=1280
+
+#Para estudiar la eficacia de alteplasa frente a tenecteplasa en pacientes con accidente cerebrovascular isquémico agudo, se recoge la incidencia de hemorragia intracraneal durante las primeras 48 horas post-administración del tratamiento. 
+¿De qué tipo de estudio epidemiológico se trata?
+#A. Transversal
+#B. Cohortes
+#C. Casos y controles
+#D. Ensayo clínico
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTk7RVOx3eJ8Dh5T?embed=1&width=989&height=1280
+
+#Paciente femenina remitida a consulta de endocrinología por amenorrea primaria, desarrollo mamario normal, ausencia de vello púbico, genitales externos femeninos con vagina, y resultados de un perfil hormonal que muestra FSH: 4 mUI/mL [VNR: 4-13], LH: 5 mUI/mL [VNR: 1-9], estradiol 22 pg/mL [VNR: 30-400] y testosterona 550 ng/dL [VNR hombres: 300-1,000; mujeres: 15-70].
+¿Cuál de las siguientes opciones corresponde al diagnóstico más probable?
+#A. Síndrome de Turner.
+#B. Síndrome de Rokitansky-Küster-Hauser.
+#C. Síndrome de Morris.
+#D. Síndrome de Swyer.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTrOElZjOKZYv2aa?embed=1&width=989&height=1280
+
+#Paciente femenina quien consulta por presentar prurito intenso desde hace quince días asociado a aparición de múltiples pápulas pequeñas de color eritematovioláceo, con forma poligonal y superficie apanada. Las lesiones se encuentran predominantemente en la región anterior de las muñecas, de las piernas y la región lumbar. Se observan también lesiones reticuladas blanquecinas en la mucosa bucal, particularmente en la zona interna de las mejillas.
+¿Cuál de las siguientes opciones es el diagnóstico más probable?
+#A. Micosis fungoide
+#B. Lupus eritematoso discoide
+#C. Liquen plano.
+#D. Ptiriasis rosada
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTvvJQDrFFYQ2Ru-?embed=1&width=989&height=1280
+
+#Varón de 20 años, es traído al servicio de urgencias dolor abdominal y vómitos persistentes. Paraclínicos al ingreso: glucosa plasmática 498 mg/dl, pH 6,8, HCO3- 5,7 mEq/l, Na +125 mEq/l, K+ 6.2 mEq/l, cetonuria (+). 
+#A. Iniciar LEV, insulina rápida IV, + bicarbonato 1/6 molar y 2 ampollas de katrol en cada 500 ml de LEV 
+#B. Iniciar LEV, insulina rápida IV y bicarbonato 1/6 molar
+#C. Iniciar LEV, insulina rápida s.c y bicarbonato 1/6 molar y y 2 ampollas de katrol en cada 500 ml de LEV
+#D. Iniciar LEV, insulina rápida S.C, + bicarbonato 1/6 molar
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvTy4dr0bEY4emkBC?embed=1&width=989&height=1280
+
+#Mujer de 51 años, es llevada a consulta por su hermana por dolor en rodilla izquierda tras una caída mientras caminaba por el parque, sin traumatismo evidente. Refiere que esa caída se debe a su vecino, con quien no tiene buena relación y que “realiza ceremonias con el propósito de transferirle malas energías”. Refiere que no era necesario ser traída a consulta, ya que ella sola podía tratarse en casa, y que no necesita ninguna ayuda. Durante la consulta, se nota que la paciente viste múltiples piezas de ropa de variados colores. Tiene antecedentes de hipertensión arterial en manejo con losartan y amlodipino, pero refiere que no los toma porque no confía en el contenido de los medicamentos. En el test mental se evidencia una paciente con afecto plano y contacto visual limitado.
+¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Trastorno esquizotípico
+#B. Trastorno paranoide
+#C. Trastorno esquizoide
+#D.  Esquizofrenia
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvT3VRIKCR6llIUO3?embed=1&width=1970&height=1280
+
+#Paciente masculino de 31 años consulta al verse preocupado ya que su madre recientemente fue diagnosticada de un cáncer de colon estadio I el cual le extirparon. Su madre tiene 65 años. Se encuentra ansioso por comenzar lo antes posible con la tamización por su antecedente familiar. Niega dolor abdominal, perdida de peso o sangrado rectal. No hay antecedentes de síndrome genéticos asociado a cáncer colorrectal en la familia ¿Cuál el método de tamizaje adecuado para este paciente? 
+#A.	Iniciar tamizaje con colonoscopia a los 40 años
+#B.	Iniciar tamizaje con sangre oculta en heces a los 50 años.
+#C.	Iniciar tamizaje con colonoscopia a los 50 años.
+#D.	Iniciar tamizaje con colonoscopia a los 55 años.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvT82n1J141qytK5r?embed=1&width=1970&height=1280
+
+#Masculino de 62 años se sometió a una colonoscopia indicada como método de tamizaje para cáncer colorrectal. En ella se encuentran 2 pólipos que se resecaron por completo sin complicaciones. La prueba de patología evidencia pólipos hiperplásicos de los cuales el más grande mide 11 mm. El paciente no tiene antecedentes familiares de poliposis o cáncer de colon. ¿En que intervalo se debe realizar una nueva colonoscopia para el seguimiento de este paciente?
+#A.	Se debe realizar una nueva colonoscopia en 5 años
+#B.	Se debe realizar una nueva colonoscopia en 3 años
+#C.	Se debe realizar una nueva colonoscopia en 1 año
+#D.	Se debe realizar una nueva colonoscopia en 10 años.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUCdTmAX424IWKuB?embed=1&width=1237&height=1600
+
+#Femenina de 27 años consulta por la presencia de una masa en su seno izquierdo que notó hace 2 semanas. Su FUM fue hace 3 semanas. Una de sus tías fue diagnosticada de cáncer de ovario a los 55 años de edad. Es fumadora y bebe alcohol frecuentemente. Signos vitales: Temp. de 36°C, FC de 76 lpm, FR de 15 rpm y PA de 110/60 mmHg. Al examen físico, se palpa una masa firme, firme. Rígida e indolora en el cuadrante superior externo. No hay hallazgos adicionales. ¿Cuál es el paso adecuado en el manejo de esta paciente?  
+#A.	Realizar pruebas del gen BRCA.
+#B.	Realizar ecografía de mama.
+#C.	Realizar mamografía.
+#D.	Brindar tranquilidad y control en 2 semanas.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUFZayp2ZAv03Vqg?embed=1&width=1237&height=1600
+
+#Femenina de 35 años solicita asesoramiento para la detección de cáncer de mama, ya que a su hermana le diagnosticaron el cáncer a los 40 años y a su madre a los 42. A ambas se les detectaron mutaciones en el gen BRCA1. Su menarquia fue a los 13 años y no tiene hijos. Su examen físico y de mamas es normal. Se le calcula un riesgo estimado de cáncer de mama del 31.3%. Se le plantea la realización de mastectomía profiláctica bilateral con reconstrucción mamaria, sin embargo, refiere que no es una opción viable en este momento. ¿Cuál es la estrategia de tamizaje adecuada para esta paciente? 
+#A.	Realizar ecografía anual de las mamas.
+#B.	Realizar mamografía anual a partir de los 40 años.
+#C.	Realizar resonancia magnética anual de las mamas. 
+#D.	Puede iniciar tamizaje de rutina a los 50 años.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvULy4VNukW9aQ-GL?embed=1&width=1237&height=1600
+
+#Masculino de 62 años consulta por presentar nicturia y una micción débil. Refiere que los síntomas iniciaron hace aprox. 1 año y han empeorado progresivamente. Ahora se despierta de 3 a 5 veces cada noche para orinar. Tiene antecedente de HTA manejada con hidroclorotiazida y lisinopril. Ha fumado durante los últimos 30 años. Signos vitales normales. Al examen rectal digital se evidencia una próstata difusamente agrandada con un nódulo firme, no doloroso en el lóbulo posterior derecho. El uroanálisis es normal. El antígeno prostático específico (PSA) es de 6.5ng/ml (Normal < 4) ¿Cuál es el manejo apropiado para este paciente? 
+#A.	Medir nuevamente los niveles de PSA en 2 años.
+#B.	Biopsia de próstata guiada por ecografía transrectal.
+#C.	Realizar tomografía computarizada de abdomen y pelvis.
+#D.	Realizar prostatectomía simple.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUP4wcHgKRe4hv9Y?embed=1&width=1237&height=1600
+
+#Simona, 4 años, con antecedentes de episodios recurrentes de sinusitis que han requerido manejo antimicrobiano. Se fatiga fácilmente y tiene dificultades para seguir el ritmo de otros niños en su guardería. Sus padres la han visto delgada, pero tiene buen apetito y come 5-8 comidas completas al día. Tiene de 4-5 evacuaciones intestinales diarias con heces voluminosas, malolientes y flotantes. Además, hace aproximadamente un mes, inició con síntomas roncopatía en las noches. Al examen físico, en P15 y P3 de estatura y peso respectivamente, con signos vitales normales, conjuntivas pálidas y roncus dispersos en ambos hemitórax. ¿Cuál de las siguientes es la causa más probable del retraso del crecimiento de esta paciente?
+#A. Fibrosis quística
+#B. Insuficiencia pancreática exocrina
+#C. Reacción inflamatoria intestinal al gluten
+#D. Ascariosis
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUWpzrAXtRN7O5cy?embed=1&width=989&height=1280
+
+#Aníbal, 13 años, con antecedentes de prematuridad e ITU a repetición desde los dos años (aprox 1-2 veces por año). Consulta por 3 días de fiebre, disuria y polaquiuria. Signos vitales normales, con dolor a la palpación suprapúbica. En el uroanálisis, con esterasa leucocitaria, nitritos positivos y proteínas +.
+Teniendo en cuenta los antecedentes de este paciente, ¿cuál de los siguientes diagnósticos es la causa subyacente más probable de ITU recurrentes?
+#A.	Infección crónica por U. urealyticum 
+#B.	Divertículos en vejiga
+#C.	Reflujo vesicoureteral 
+#D.	Enfermedad granulomatosa crónica
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUYruD2xhDR5350g?embed=1&width=989&height=1280
+
+#Estefanía, un año.  Es llevada a urgencias por cuadro aproximadamente 20 minutos de evolución de alteración del estado de consciencia. Hace 1 hora, sus padres la encontraron con una pastilla blanca parcialmente disuelta en la boca. No se atragantó con la pastilla y sus padres se la quitaron de inmediato. Poco después, se durmió. Sus padres no pudieron despertarla después una hora de siesta, por lo que la llevaron al servicio de urgencias.
+Al examen físico, afebril, 6 rpm, SatO2 92%. Solo se alerta al dolor, tiene miosis y un patrón respiratorio lento y superficial. Se realizan pruebas toxicológicas, un perfil metabólico completo, un hemograma completo y gases arteriales. Se documenta una intoxicación por un opioide. Se encuentra el siguiente resultado en los gases arteriales: pH 7.3, PCO2 60, pO2 75, HCO3 29. ¿Cómo describiría este trastorno ácido-base?
+#A.	Acidosis respiratoria primaria sin alcalosis metabólica compensatoria
+#B.	Acidosis respiratoria con alcalosis metabólica compensatoria 
+#C.	Acidosis metabólica y respiratoria primarias
+#D.	Acidosis metabólica primaria con alcalosis respiratoria compensatoria
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUc6ZmhIJZ1tQy0m?embed=1&width=1976&height=1280
+
+#Santiago tiene 6 años. Hace 2 días se golpeó la nariz contra una pared, presentó epistaxis posteriormente, que se autolimitó. Se le ha administrado ibuprofeno para el manejo del dolor. Al examen físico, con edema moderado en dorso nasal y equimosis, con dolor pero sin crepitaciones a la palpación y sin desviación del tabique nasal. Se evidencia un hematoma en el tabique nasal, con abundante rinorrea y congestión bilateral que hace que los cornetes sean difíciles de visualizar. ¿Cuál es el mejor paso a seguir en el en el tratamiento de este paciente?
+#A.	Rx de huesos nasales propios
+#B.	Signos de alarma y seguimiento en 7 días
+#C.	Remitir a ORL
+#D.	Realizar incisión y drenaje
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUiwbZKwfc-J8MgK?embed=1&width=989&height=1280
+
+#Stephany, 35 años. Primigestante de 10 semanas de gestación, acude para revisión de unos exámenes de laboratorio positivos para hepatitis C: anticuerpos y ARN. Trae además AgsHB y VIH negativos. La paciente mantiene una relación monógama con su esposo. Se siente bien y no presenta síntomas de enfermedad hepática. Al examen físico, con dos angiomas aracniformes en la parte anterior del tórax. ¿Cuál es el consejo más adecuado para dar a esta paciente respecto a la lactancia materna?
+#A.	Continuar lactancia materna solo después de iniciar el tratamiento con terapia antiviral
+#B.	Extraer la leche materna durante las dos primeras semanas del parto y luego amamantar normalmente
+#C.	Iniciar alimentación con leche de fórmula desde el nacimiento
+#D.	Dar lactancia materna
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUlRIefqEM8yV3rV?embed=1&width=989&height=1280
+
+#Orlando, un hombre de 45 años que trabaja en una fundición de hierro, tiene antecedentes de lumbalgia crónica y trastorno depresivo mayor, y asiste a su consulta anual obligatoria de medicina laboral. Durante la evaluación, Orlando menciona que ha experimentado constipación durante varios meses y que ha recibido una advertencia de su jefe de que, debido a su lumbalgia persistente, corre el riesgo de perder su trabajo si no mejora. Sus signos vitales son: T: 36.5 °C, FC 64 lpm, PA 94/70 mmHg, FR 15 rpm y SO2 98% a FiO2 ambiente. En el examen físico, se observan pupilas mióticas, piel seca, bradilalia, y disminución de los ruidos peristálticos sin signos de dolor abdominal o irritación peritoneal. El sistema osteomuscular no presenta alteraciones. Dado este cuadro clínico, ¿cuál de las siguientes sustancias, conocida por causar toxicidad crónica en entornos laborales y consumo prolongado, sería más probable detectar en un análisis de drogas en orina?
+#A. Alprazolam
+#B. Anfetaminas
+#C. Oxicodona
+#D. Fenciclidina (PCP)
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUvh6pfu99zlk8jt?embed=1&width=990&height=1280
+
+#Fernando de 85 años con antecedente de hipertensión arterial y diabetes tipo 2 es llevado a urgencias por su hija por afasia de inicio súbito que inició hace una hora mientras desayunaba.  Signos vitales FC: 76 lpm y PA de 165/90 mm Hg. Al examen físico, el paciente presenta un lenguaje apraxico, agramatico, y telegráfico con dificultad para repetir secuencias de palabras; puede seguir instrucciones simples. Presenta parálisis facial derecha y pérdida de la fuerza en hemicuerpo derecho superior sin comprometer miembros inferiores. ¿Cuál de las siguientes es la etiología probable de la clínica del paciente?
+#A. Oclusión de la arteria cerebral media derecha.
+#B. Oclusión de la arteria cerebral media izquierda
+#C. Rotura de malformación de la arteria cerebral posterior izquierda
+#D. Oclusión de la arteria cerebelosa posteroinferior derecha
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvUwjukIln8u2W5ui?embed=1&width=1973&height=1280
+
+#Nubia, de 37 años, con antecedentes de hipertensión arterial y consumo de 20 cigarrillos al día, consulta al programa de anticonceptivos de su EPS. La paciente comenta que desea tener un método anticonceptivo por un período de 14 meses mientras termina su doctorado en política y posteriormente planea concebir un hijo cuando ya se gradúe. Durante la anamnesis, comentó que su última menstruación fue hace 15 días, sin dolor ni sangrado desproporcionado, y negó ITS. No se hallaron anomalías en el examen físico y la prueba de embarazo es negativa. ¿Cuál de las siguientes es la forma de anticoncepción más adecuada para esta paciente?
+#A. DIU de cobre
+#B. Anillo vaginal con estrógeno y progesterona
+#C. Anticonceptivos orales combinados
+#D. Acetato de medroxiprogesterona de depósito
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvU1oK9bs6Jjfm3nL?embed=1&width=1964&height=1280
+
+#Eunice, de 70 años, con antecedentes de hipertensión arterial no controlada (no toma la medicación) y tabaquismo activo con IPA de 20, consulta a urgencias por 1 hora de dolor torácico intenso y lancinante que se irradia a la espalda. Signos vitales: PA de 214/140 de forma bilateral en miembros superiores, FC de 108, FR de 20 rpm y SO2 96% al ambiente. El examen físico evidenció una paciente álgida y ansiosa. El ECG muestra taquicardia sinusal con hipertrofia ventricular izquierda. La radiografía de tórax revela un mediastino ensanchado. La angiografía por TC del tórax reporta una doble luz separada por un colgajo intraluminal en la aorta que se extiende desde la arteria subclavia izquierda hasta la aorta abdominal. No hay compromiso de la aorta ascendente. ¿Cuál es la conducta más adecuada en el tratamiento de Eunice?
+#A. Verapamilo
+#B. Labetalol IV
+#C. Nitratos intravenosos
+#D. Indicación quirúrgica urgente
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvU7uUM9aSguGpiVk?embed=1&width=1980&height=1280
+
+#Guillermo, de 60 años, con antecedentes de diabetes tipo 2 insulino-requirente sin complicaciones micro y macrovasculares, asma e hipertensión arterial. La medicación actual consiste en el uso de metformina, empagliflozina, insulina glargina, linagliptina, enalapril, nifedipino y albuterol a necesidad. Sin antecedentes toxicológicos de importancia. Consulta por 3 semanas de tos seca, sin comentar otra sintomatología asociada. Signos vitales con PA de 134/70 mmHg. Al examen físico, sin hallazgos anormales en la evaluación cardiopulmonar. Los paraclínicos reportan creatinina sérica de 1,2 mg/dL y potasio de 4,9 mEq/L. ¿Cuál es la conducta adecuada para solventar el motivo de consulta del paciente?
+#A. Beclometasona nasal
+#B. Ciproheptadina
+#C. Educar que es un evento idiopático que se autolimita
+#D. Iniciar manejo con losartán en vez de enalapril
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvU8KlSDw6RNsL-UM?embed=1&width=990&height=1280
