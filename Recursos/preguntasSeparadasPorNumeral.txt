@@ -25368,3 +25368,206 @@ Al examen físico, afebril, 6 rpm, SatO2 92%. Solo se alerta al dolor, tiene mio
 #D.	Dar piridoxina oral
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAsvynsd1Rp74gHp4KG?embed=1&width=2466&height=1600
+
+#Masculino de 32 años consulta por aumento de tamaño escrotal indoloro desde hace 2 meses. No hay antecedentes de trauma testicular. Al examen físico se evidencia un nódulo duro, inseparable del testículo derecho. Se evidencia una ecografía escrotal en donde se evidencia una lesión hipoecoica homogénea de 3 cm que surge del testículo derecho. El testículo izquierdo es normal. Se realizan paraclínicos con los siguientes resultados: Alfafetoproteina negativa, b-hCG negativa y LDH aumentada. ¿Cuál es el manejo adecuado para este paciente?
+#A.	Repetir la ecografía testicular en 6 semanas.
+#B.	Realizar una tomografía computarizada de tórax, abdomen y pelvis.
+#C.	Realizar una biopsia percutánea de la lesión.
+#D.	Realizar orquiectomía inguinal derecha.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvy0tRHThGkgtqm3h?embed=1&width=1237&height=1600
+
+#Femenina de 52 años consulta por cuadro de 3 semanas de telorrea espontanea por la mama izquierda. La secreción suele ser incolora, pero suele tornarse serosanguinolenta en ocasiones. No hay dolor mamario, ni masas, fiebre o perdida de peso. Su ultima mamografía fue hace 10 meses y fue normal. Sus signos vitales son normales. Al examen físico de la mama izquierda, la piel se encuentra sin cambios, no se palpan masas. Se puede extraer manualmente líquido serosanguinolento del pezón. ¿Cuál es el manejo apropiado para esta paciente? 
+#A.	Realizar resonancia magnética de la mama.
+#B.	Realizar biopsia con aguja Trucut.
+#C.	Realizar mamografía + ecografía.
+#D.	Realizar galactografía.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvy7BhTJk2QQ7QzrQ?embed=1&width=1237&height=1600
+
+#Masculino de 24 años consulta por varios episodios eméticos y arcadas fuertes en numerosas ocasiones durante las últimas 6 horas. Refiere haber visto sangre en el último vómito. Sus signos vitales son normales. El paciente se encuentra despierto y orientado. El examen físico es completamente normal. Se obtienen paraclínicos con cuadro Hb de 15.2 g/dL, Leu 13.500/mm3, Ionograma sin alteraciones, AST de 28U/L, FA de 57U/L, Bilirrubina total de 1.0 mg/dL. ¿Cuál de las siguientes probablemente revelaría una historia clínica detallada?
+#A.	Prurito.
+#B.	Uso de AINEs.
+#C.	Procedimiento endoscópico reciente.
+#D.	Consumo excesivo reciente de alcohol.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvy-rbb9AxNFTegmy?embed=1&width=1237&height=1600
+
+#Masculino de 25 es llevado a urgencias luego de ser apuñalado en la pared torácica izquierda. Signos vitales: Temp. de 37°C, FC de 135 lpm, PA de 80/35 mmHg, FR de 24 rpm y SatO2 de 91% con mascarilla facial de alto flujo. A la valoración el paciente sigue órdenes y pregunta por su madre. Al examen físico, la auscultación pulmonar es normal, hay disminución de los ruidos cardiacos y las venas yugulares están ingurgitadas. Se realiza una eco-FAST. ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Iniciar líquidos IV y realizar compresiones torácicas.
+#B.	Iniciar protocolo de transfusión masiva.
+#C.	Realizar una TAC de tórax, abdomen y pelvis.
+#D.	Traslado a quirófano inmediato.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzAtr6HIOUUPC-p8?embed=1&width=1237&height=1600
+
+#Masculino de 70 años presenta hipotensión luego de ser sometido a una laparotomía exploratoria secundario a una hernia inguinal estrangulada. Durante la cirugía el acceso intravenoso periférico se perdió por lo que se colocó un catéter venoso central subclavio izquierdo. Signos vitales: Temp. de 37°C, FC de 114 lpm, FR de 26 rpm, PA de 79/40 mmHg y SpO2 del 86% con oxigeno ambiente. Al examen físico, el paciente presenta disnea, tráquea desviada a la derecha, ruidos cardiacos velados. No hay ruidos pulmonares en el vértice izquierdo. El vendaje quirúrgico abdominal evidencia secreción serosanguinolenta escasa, el abdomen está doloroso a la palpación en los sitios de incisión. ¿Cuál de las siguientes pruebas confirmaría el diagnostico subyacente? 
+#A.	Radiografía de tórax.
+#B.	Lactato sérico.
+#C.	Ecografía abdominal.
+#D.	Gases arteriales.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzGeHDHEkIJNUXcc?embed=1&width=1237&height=1600
+
+#Bernardo, de 30 años, soldado profesional que sufre una herida por metralla, lo que le provoca una amputación traumática por encima de la articulación del codo izquierdo. Dado lo anterior, se coloca un torniquete para controlar la hemorragia arterial y se decide trasladar al paciente al hospital. Al llegar, usted encuentra a un paciente alerta y orientado en las tres esferas, con signos vitales: FC de 150 lpm, FR de 20 rpm y PA de 90/50 mmHg. Glasgow 15/15, se evidencian múltiples heridas por metralla en las extremidades superiores e inferiores, y una amputación del antebrazo proximal izquierdo. Se intenta ubicar un catéter intravenoso de gran calibre en la fosa antecubital derecha; sin embargo, a pesar de múltiples intentos, no se puede establecer un acceso intravenoso adicional. ¿Cuál es la conducta adecuada a seguir?
+#A. Establecer un acceso venoso central
+#B. Establecer acceso intraóseo inmediatamente
+#C. Ubicar un acceso intraóseo después de asegurar un catéter intravenoso periférico
+#D. Reemplazar el torniquete con un vendaje compresivo
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzMuMJThjWTfip7H?embed=1&width=1237&height=1600
+
+#César, de 28 años, ingresó a urgencias tras una colisión contra un árbol a gran velocidad mientras iba de copiloto. Signos vitales: FC de 52 lpm, FR de 18 rpm, PA de 74/34 mmHg y SO2 96%. Al examen físico, el paciente está sobre una camilla rígida, con collar cervical bien colocado. Las pupilas son isocóricas y normorreactivas. No tiene tono rectal y no puede percibir el tacto del examinador por debajo de la línea del pezón; además, no puede mover las extremidades inferiores. Llenado capilar <2 seg y extremidades eutérmicas. Se administra un bolo de solución salina y se vuelven a tomar los signos vitales, los cuales muestran que la frecuencia cardíaca y la presión arterial no han cambiado. ¿Cuál es el siguiente paso a seguir con César en cuanto al manejo agudo?
+#A. Iniciar infusión de noradrenalina.
+#B. Iniciar el protocolo de transfusión masiva.
+#C. Solicitar una tomografía computarizada de cabeza, tórax, abdomen y pelvis.
+#D. Proporcionar exclusivamente líquidos intravenosos de mantenimiento.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzScVk5UpkL0SGzH?embed=1&width=2454&height=1600
+
+#Hugo, de 80 años, en su cuarto día postoperatorio de reparación de fractura de cadera, es llevado a urgencias por un cuadro de agitación y desorientación. Su esposa refiere que ha tenido que ser inmovilizado varias veces tras intentar salir de su habitación. Signos vitales: Tº 37,0 °C, FC 72 lpm, PA 141/84 mmHg. Al examen neurológico, muestra falta de atención y ausencia de signos de focalización neurológica. Está orientado en persona, pero no en lugar ni tiempo. Durante el examen, el paciente intenta salir de la habitación tras retirarse el acceso intravenoso y se vuelve violento. No puede ser redirigido verbalmente, por lo que se le imponen restricciones suaves. Los paraclínicos no muestran alteraciones y la tira reactiva de orina no presenta anomalías. ¿Cuál es la conducta más adecuada a seguir con Hugo?
+#A. Realizar urocultivos para completar estudios en orina.
+#B. Administrar Lorazepam
+#C. Administrar haloperidol
+#D. Realizar una tomografía computarizada de craneo
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzWuEEHYuaP8l-OC?embed=1&width=1237&height=1600
+
+#Andrea, de 25 años, G1P0 con 36 semanas de gestación, consulta por 2 horas de dolor pélvico progresivo acompañado de náuseas y 2 episodios eméticos. Refiere haber presentado disuria hace tres días, la cual resolvió espontáneamente. Signos vitales: Tº de 39.8 ºC, FC de 125 lpm, FR de 33 rpm y PA de 130/70 mmHg. Al examen físico, se evidencia dolor abdominal difuso sin presencia de contracciones. En la vaginoscopia se observa líquido maloliente sin sangre en la cúpula vaginal. El cuello uterino no está borrado ni dilatado. Paraclínicos revelan leucocitosis de 17,000. El monitoreo fetal muestra una frecuencia cardíaca fetal de 148 lpm, con variabilidad y ausencia de desaceleraciones. ¿Cuál es la estrategia de manejo más apropiada para Andrea?
+#A. Administrar ampicilina, gentamicina y metronidazol intravenosos e inducir el parto.
+#B. Administrar azitromicina oral e inducir el parto.
+#C. Administrar ampicilina y gentamicina intravenosos e inducir el parto.
+#D. Inducir el parto inmediatamente.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzatsjx1-2ScwOec?embed=1&width=1237&height=1600
+
+#Josefina, de 35 años, con antecedente de trastorno depresivo mayor y dos eventos previos de ideación suicida, es llevada a urgencias por su hija tras la ingestión de un limpiador de cañerías hace 3 horas, que tiene un pH de 13. Se desconoce la cantidad de líquido ingerido. Los signos vitales están dentro de los rangos normales.Al examen físico, la paciente presenta sialorrea, abdomen blando con dolor a la palpación en el epigastrio, sin signos de irritación peritoneal. No se evidencian lesiones en la orofaringe. Se realiza una esofagoduodenoscopia que reporta eritema y edema de la mucosa esofágica, con áreas de ulceración superficial, pero sin evidencia de hemorragia ni necrosis. ¿Cuál es la conducta adecuada a seguir?
+#A. Realizar lavado gástrico
+#B. Administrar carbón activado
+#C. Observación clínica y suspender vía oral
+#D. Administración de metilprednisolona, ampicilina/sulbactam y redirigir a cirugía urgente
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzc_bf7112v1sUtY?embed=1&width=1237&height=1600
+
+#Carlos, 29 años, consulta por 2 meses de disnea intermitente leve y tos seca. Al paciente se le diagnosticó asma intermitente leve cuando era niño basándose en los síntomas y solía usar salbutamol cuando jugaba al aire libre o practicaba deportes. El paciente no ha usado un inhalador en diez años. Los signos vitales están dentro de los límites normales. La auscultación pulmonar muestra sibilancias difusas y disminución del movimiento del aire bilateralmente. El recuento de glóbulos blancos séricos es de 7000/mm3 y la hemoglobina es de 14,5 g/dl. ¿Qué hallazgos de la prueba de función pulmonar serían más probables en este paciente?  
+#A.	Disminución del VEF1 tras la administración de metacolina
+#B.	Capacidad de difusión del monóxido de carbono del 75%
+#C.	Aumento del VEF1 de 400 mL a 420 mL tras la administración de salbutamol
+#D.	Bucle de flujo-volumen aplanado en inspiración y espiración
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzlmzw4dSLHRTfjA?embed=1&width=2478&height=1600
+
+#Julián, 25 años, es llevado a urgencias por disnea que comenzó de forma abrupta hace dos horas. Niega tos. No tiene antecedentes médicos de relevancia y no toma medicamentos. Bebe una cerveza y fuma 2 paquetes de cigarrillos al día. Examen físico: peso 80 kg, talla 1.90 mts, IMC 22, T 36,5°C, FC 96/min, PA 123/78 mmHg, FR 20/min y la SatO2 es del 94 % al aire ambiente. El electrocardiograma muestra un ritmo sinusal. ¿Cuál de los siguientes hallazgos del examen físico es más probable que se observe en este paciente?
+#A.	Estertores bibasales
+#B.	Edema bilateral con fóvea en las extremidades inferiores
+#C.	Disminución de la presión arterial sistólica de 15 mmHg durante la inspiración
+#D.	Hiperresonancia a la percusión en el lóbulo superior derecho
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzq5-EY_MUpSWqQL?embed=1&width=2469&height=1600
+
+#Sandra, 48 años, consulta por cuadro de 2 meses de estreñimiento. Ha aumentado su ingesta de agua, sin mejoría. Se siente más fatigada de lo habitual. Ha aumentado 5 kg en los últimos 3 meses. Padece TAB y HTA. Examen físico: T 37°C, FC 62/min, FR 18/min y PA 122/82 mmHg. La piel de los codos y las rodillas se ve seca y escamosa. Paraclínicos: TSH de 9,1 mIU/L y T4 libre de 0,71 ng/dL. Los anticuerpos de peroxidasa tiroidea y los anticuerpos de tiroglobulina son negativos. ¿Cuál de las siguientes es la causa más probable de la afección de esta paciente?  
+#A.	Infiltración del tejido cerebral por granulomas
+#B.	Destrucción autoinmune del tejido tiroideo
+#C.	Destrucción autoinmune de los vasos sanguíneos
+#D.	Uso de estabilizador del ánimo
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzu5xFBe9rBrPWqi?embed=1&width=2477&height=1600
+
+#David, 28 años, consulta a urgencias por fatiga extrema que se ha prolongado durante varias semanas. Hace 8 meses se le diagnosticó infección por VIH y comenzó un tratamiento antirretroviral combinado, refiere ser adherente al manejo, no lo ha dejado ni un solo día. Niega otros antecedentes de importancia médica. Examen físico: T 37°C, PA 132/84 mmHg, FC 98/min y FR 16/min. La auscultación cardiopulmonar es normal. No hay presencia de adenopatías. Paraclínicos: Hb 9.1 g/dL, leucos 800/mm3, CD4 + 399/mm3 plaquetas 50.000/mm3. ¿Cuál es la mejor conducta?
+#A.	Iniciar clozapina
+#B.	Administrar filgrastim
+#C.	Ordenar azitromicina
+#D.	Prescribir trimetoprima-sulfametoxazol
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvzwb0sQ86CzCAuoy?embed=1&width=2470&height=1600
+
+#Claudia, 45 años, consulta a urgencias por fiebre, hemoptisis y disnea. Es fumadora con IPA 20 y es usuaria de drogas intravenosas. Examen físico: T 38,6°C, PA 98/69 mmHg, FC 112/min y FR 28/min, SATO2 90% al aire ambiente. Tiene máculas eritematosas no dolorosas dispersas sobre las palmas y las plantas. Además, un soplo holosistólico tricuspídeo grado 4/6 y ruidos respiratorios disminuidos en ambas bases. Paraclínicos: leucos 18,000/mm3, PCR 5 mg/dL. El EKG muestra taquicardia sinusal. En la TAC de tórax se observan múltiples infiltrados alveolares. Se envían hemocultivos y se inician líquidos intravenosos con una respuesta adecuada de la presión arterial. ¿Cuál es la mejor conducta?
+#A.	Solicitar un ecocardiograma transesofágico e iniciar antibiótico según hemocultivos
+#B.	Administrar cefepime y heparina IV
+#C.	Administrar vancomicina y solicitar un ecocardiograma transesofágico
+#D.	Administrar meropenem e interconsultar a cirugía cardiotorácica.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvz0N6jNe3B167BWV?embed=1&width=2470&height=1600
+
+#Mujer de 41 años, sin antecedentes de interés, consulta por la aparición de lesiones progresivas en las espinillas de ambos miembros inferiores, asociadas a hiperhidrosis, pérdida de peso e irritabilidad. Al examen físico destaca FC 110 lpm, PA 110/80. Se evidencian placas de aspecto leñoso, indoloras y color rojizo en la región anterolateral de las espinillas, sin otros hallazgos relevantes a la exploración. 
+¿Qué prueba solicitaría inicialmente? 
+#A. IGF-1
+#B. Hb1Ac 
+#C. Anticuerpos contra VHC
+#D. TSH
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvz8wLYVrap6uZbwj?embed=1&width=1237&height=1600
+
+#Varón de 34 años, previamente sano, acude al servicio de Urgencias por presentar lesiones no pruriginosas en palmas y plantas, las cuales no había notado previamente, asociada a malestar general y episodios febriles no cuantificados en casa. Al examen físico presenta signos vitales estables, se evidencian lesiones maculopapulosas palmo plantares y un exantema de tonalidad rosada clara en la zona del tronco. También se palpan adenopatías cervicales no dolorosas, sin otros hallazgos a la explotación. Considerando el caso de la paciente, ¿Cuál de las siguientes serologías permite apoyar el diagnóstico?
+#A. VDRL (+), FTA-Abs (-).
+#B. VDRL (-), FTA-Abs (-).
+#C. VDRL (-), FTA-Abs (+).
+#D. VDRL (+), FTA-Abs (+).
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0BlAy6dO2n4tnpn?embed=1&width=1237&height=1600
+
+#Varón de 27 años, es traído al servicio de urgencias por presentar fiebre persistente de más de un día de evolución y mal estado general de forma progresiva. Al ingreso presenta cifras tensionales bajas, desorientado en las tres esferas. Tiene antecedente esplenectomía tras accidente de bicicleta hace 1 año. 
+¿Qué agente etiológico no se implica con frecuencia en este cuadro?
+#A. Haemophillus influenzae tipo b
+#B. Neisseria spp
+#C. Streptococcus viridans.
+#D. Streptococcus pneumoniae.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0F_mExG4ZUXDDnF?embed=1&width=1237&height=1600
+
+#Varón de 51 años, con diagnóstico de pancreatitis aguda necrotizante, hospitalizado desde hace tres semanas en la UCI. Actualmente recibiendo nutrición parenteral con vía central desde hace dos semanas. Inicia con fiebre de nueva aparición. Y disminución abrupta de la agudeza visual en el ojo izquierdo. 
+#A. Retinitis por citomegalovirus
+#B. Endoftalmitis por Pseudomonas
+#C. Trombosis de la vena central de la retina
+#D. Endoftalmitis por Candida
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0LPXi6dfVrkAD-W?embed=1&width=1237&height=1600
+
+#Masculino de 51 años, sin antecedentes de interés, traído a Urgencias por su esposa por historial de fiebre de varios días de evolución con deterioro reciente del nivel de conciencia y ataxia. En el examen físico se evidencia rigidez de nuca, nistagmus y parálisis facial central. 
+¿Cuál de las siguientes es la causa más probable de su cuadro clínico? 
+#A. E. coli 
+#B. VHS-2
+#C. L. monocytogenes
+#D. N. meningitis
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0Mjiua3FlJYGzIV?embed=1&width=2470&height=1600
+
+#Patricia de 30 años con antecedente de legrado hace 4 años por un aborto e hipertensión crónica manejada en el embarazo con labetalol.  Ahora es evaluada a las 2 horas postparto por sangrado vaginal profuso acompañado de coágulos, que empapan las sábanas, se calcula pérdidas aproximadas de 1200ml. Este fue su 7° parto vaginal, hace un año tuvo un parto vaginal espontáneo y sin complicaciones con una pérdida de sangre estimada de 250 ml. Signos vitales PA de 148/102 mm/Hg, FC de 110 lpm. Al examen pélvico, fondo uterino blando. El segmento uterino está distendido con coágulos de sangre. ¿Qué medicamento está contraindicado en Patricia?
+#A. Oxitocina
+#B. Metilergonovina
+#C. Ácido tranexámico 
+#D. Misoprostol
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0WpYK8WNPW9WglX?embed=1&width=2470&height=1600
+
+#Juliana de 29 años, con antecedente de G1P0 hoy con 7 semanas de gestación consulta por 1 semana de náuseas y emesis persistentes, refiere automedicación con piridoxina y doxilamina para sus síntomas sin describir mejoría. No refiere dolor abdominal ni sintomatología urinaria; no obstante, le preocupa que no es capaz de tolerar la ingesta de sólidos o líquidos vía oral. Signos vitales con Tº de 37 °C, FC 108 lpm, FR 21 rpm y PA de 102/60 mmHg. El peso actual es de 70 kg y previo al embarazo era de 75 kg . Al examen físico, mucosas secas, con piel seca. Sin hallazgo anormal a nivel cardiopulmonar y abdominal. ¿Cuál de los siguientes hallazgos adicionales complementa el diagnóstico de hiperémesis gravídica?
+#A. Cetonuria
+#B. BUN elevado
+#C. Elevación de AST y ALT
+#D. Hipomagnesemia
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0Ygn7P25_rrNsfk?embed=1&width=2478&height=1600
+
+#Martha de 36 años primigestante, con antecedente de migrañas con aura, para las cuales utiliza butalbital, acetaminofeno y cafeína, con buen alivio. Ahora con 35 semanas de edad gestacional, ingresó al servicio de obstetricia por malestar general. Hasta el momento, el embarazo ha sido sin complicaciones. Signos vitales Tº 36.7 °C,  FC 90 lpm, FR 17 rpm y PA de 150/90 mmHg. La frecuencia cardíaca fetal es de 140 lpm y la relación proteína/creatinina es de 0.4. La paciente tolera la ingesta oral y su examen y signos vitales permanecen estables durante cuatro horas. ¿Cuál de los siguientes hallazgos indicarían la necesidad de inducir el parto inmediatamente?
+#A. Disminución de los reflejos tendinosos profundos.
+#B. Dolor torácico post ingesta alimentaria
+#C. Crepitaciones pulmonares
+#D. Cefalea unilateral asociada a fotofobia que responda a la medicación
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0ezFPu04o18RFje?embed=1&width=2474&height=1600
+
+#Adíela de 55 años con antecedente de menopausia hace 4 años, consultó por cuadro clínico de 3 meses de dolor vulvar ocasional y prurito en área genital. Refiere automedicación con clotrimazol sin mejoría de los síntomas.  Al interrogar sobre condiciones asociadas no comenta vida sexual activa ni uso de jabones o detergentes nuevos. Los signos vitales están dentro de los límites normales. Al examen físico hay pápulas y placas violáceas de superficie plana en la piel vulvar, con un patrón reticulado fino y blanco en la superficie <1mm. Se toma biopsia ¿Cuál es el diagnóstico más probable que espera usted le reporte la biopsia según la clínica de Adiela?
+#A. Liquen simple crónico
+#B. Liquen plano
+#C. Liquen escleroso
+#D. Psoriasis
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0g3761Ra0Ld79oU?embed=1&width=1237&height=1600
+
+#Adíela de 55 años con antecedente de menopausia hace 4 años, consultó por cuadro clínico de 3 meses de dolor vulvar ocasional y prurito en área genital. Refiere automedicación con clotrimazol sin mejoría de los síntomas.  Al interrogar sobre condiciones asociadas no comenta vida sexual activa ni uso de jabones o detergentes nuevos. Los signos vitales están dentro de los límites normales. Al examen físico hay pápulas y placas violáceas de superficie plana en la piel vulvar, con un patrón reticulado fino y blanco en la superficie <1mm. Se toma biopsia. Teniendo en cuenta su sospecha diagnóstica ¿Cuál de las siguientes sería la probable opción terapéutica adecuada?
+#A. Hidrocortisona
+#B. Propionato de fluticasona
+#C. Valerato de betametason
+#D. Propionato de clobetasol
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0nmY3MOsJQ6maNA?embed=1&width=2481&height=1600
