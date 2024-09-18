@@ -25159,3 +25159,212 @@ Al examen físico, afebril, 6 rpm, SatO2 92%. Solo se alerta al dolor, tiene mio
 #D. Iniciar manejo con losartán en vez de enalapril
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAsvU8KlSDw6RNsL-UM?embed=1&width=990&height=1280
+
+#Infante de ocho meses, actualmente asintomático, con antecedentes de estancia en UCI neonatal de un mes por prematuridad. Al examen físico se evidencia en buen estado general, adecuada evolución del peso y la talla. Muestra pulsos arteriales intensificados y un soplo continuo es audible en la zona infraclavicular izquierda. 
+¿Cuál de los siguientes diagnósticos es el más probable?
+#A. Tetralogía de Fallot.
+#B. Comunicación interauricular.
+#C. Comunicación interventricular.
+#D. Conducto arterioso persistente.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvw1drP00nu5bgujq?embed=1&width=989&height=1280
+
+#Mujer de 63 años con diagnóstico de cáncer de ovario en tratamiento con quimioterapia. Consulta en Urgencias por dolor, tumefacción y edema del miembro inferior derecho.
+¿Cuál es la prueba más rentable para confirmar el diagnóstico sospechado?
+#A. Dimero D. 
+#B. Ecodoppler venoso
+#C. Angiotomografía de miembros inferiores
+#D. Flebografía ascendente
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvw7GFhIB1HfhnOk-?embed=1&width=989&height=1280
+
+#Varón de 53 años, motociclista, es ingresado al servicio de urgencias tras un accidente de tráfico en el que sufrió múltiples fracturas en las costillas derechas. Al momento de la valoración se encontraba consciente con dificultad leve para respirar. A las 24 horas, se observa que el paciente desarrolla taquipnea y desorientación. Aun con las fracturas costales, la radiografía de tórax inicial no mostró hallazgos anormales. Gasometría arterial: pH 7.48, PO2 49 mmHg, y PCO2 28 mmHg.
+¿Cuál sería el próximo paso para guiar el diagnóstico en este caso?
+#A. Solicitar dimero D
+#B. Realizar angioTAC pulmonar
+#C. Revalorar al paciente con un nuevo examen físico.
+#D. Colocar un tubo de tórax inmediatamente.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvw9vs1BuXjxGukhm?embed=1&width=989&height=1280
+
+#Varón de 60 años, fumador crónico, acude a urgencias por disnea de inicio súbito. Al ingreso se encuentra murmullo vesicular disminuido en el hemitórax derecho, acompañado de matidez a la percusión y fremito vocal disminuido ipsilateral.  Además, se nota que la tráquea está desviada hacia el lado derecho.
+¿Cuál de los siguientes diagnósticos es el más probable?
+#A. Derrame pleural derecho 
+#B. Neumotórax derecho 
+#C. Cuerpo extraño en el bronquio principal derecho
+#D. Atelectasia pulmonar derecha
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxCKsao5AXW_A_uJ?embed=1&width=989&height=1280
+
+#Varón de 69 años es hospitalizado debido a un ataque isquémico transitorio. El ECG, holter de ritmo, eco TT y ecografía carotídea son normales. La TC de cráneo muestra signos de que el paciente tuvo un accidente cerebrovascular en el pasado. Laboratorios: CT 198 mg/dL, LDL 110 mg/dL, HDL 40 mg/dL, TG 280 mg/dL. Se inicia doble antiagregación por 21 días, y se educa sobre cambios en el estilo de vida.
+¿Cuál de los siguientes tratamientos adicionales es el más indicado?
+#A. Rosuvastatina 10 mg/día
+#B. Rosuvastatina 10 mg/día + ezetemibe 10 mg/día
+#C. Rosuvastatina 40 mg/día 
+#D. Rosuvastatina 40 mg/día + ezetemibe 10 mg/día + iCPK9
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxGZPo6wojtEAXuU?embed=1&width=989&height=1280
+
+#Pedro, 60 años, asiste a urgencias por dolor intenso en el tobillo derecho que lo despertó mientras dormía. Niega viajes y traumas recientes. Padece fibrilación auricular, HTA y ERC. Recibe enalapril, hidroclorotiazida, carvedilol, dabigatrán. Examen físico: T 37°C, FC 90/min, FR 18/min y PA 140/75 mmHg. Al examen físico con limitación para la marcha, aparenta derrame articular de tamaño moderado en el tobillo derecho con eritema y calor circundantes. Paraclínicos: Hb 13 g/dL, leucos 9000/mm3, PCR 3 mg/dL, VSG 14 mm/h, Cr 3,5 mg/dl. La microscopía de líquido sinovial reportó cristales birrefringentes negativos en forma de aguja. ¿Cuál es la mejor conducta?
+#A.	Administrar triamcinolona 60 mg IM cada 2 días por 3 dosis
+#B.	Ordenar naproxeno 500 mg cada 8 horas por 5 días
+#C.	Iniciar colchicina 1.2 mg VO, a la hora siguiente 0.6 mg
+#D.	Iniciar alopurinol 100 mg día
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxPq6nO5UJkbdlmu?embed=1&width=990&height=1280
+
+#Marta, 83 años, consulta a urgencias por fiebre, náuseas, emesis y diarrea profusa desde antier. Hace 8 días se le dió alta, desarrolló una neumonía. Examen físico: T 37,8°C, FC 102/min, FR 20/min y PA 133/85 mmHg. Está angustiada, con signos de deshidratación moderados. Tiene dolor abdominal leve y difuso a la palpación. Paraclínicos: Hb 13.2 g/dL, leucos 15.100/mm3, neutros 79%. Una TAC de abdomen reporta engrosamiento colónico. ¿Cuál de las siguientes terapias pudo haber desencadenado el cuadro?
+#A.	Trimetoprima-sulfametoxazol 160/800 cada 12 horas
+#B.	Levofloxacina 750 mg cada 24 horas
+#C.	Vancomicina 1 gr cada 8 horas
+#D.	Amikacina 1 gr cada 24 horas
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxTzJvFhzvUwKqjW?embed=1&width=1974&height=1280
+
+#Felipe, 61 años, tiene HTA. Consulta por dolor lumbar y en rodilla derecha que empeora con el movimiento, ha tomado ibuprofeno, con parcial mejoría. Su IMC es de 31 kg/m2. Tiene un rango de movilidad limitado en la rodilla, la cual se asocia a crepitación. Niega dolor a la palpación de la columna vertebral del paciente. Paraclínicos: Hb 15.1 g/dL, leucos 4800/mm3, Cr 0.9 mg/dL, Calcio 9.1 mg/dL, AST 17 U/L, ALT 12 U/L. La electroforesis de proteínas plasmáticas revela un recuento elevado de inmunoglobulina monoclonal. ¿Cuál es la mejor conducta?
+#A.	Remitir a hematología para definir inicio de quimioterapia de inducción
+#B.	Remitir a alto nivel de complejidad para realizar de trasplante autólogo de células hematopoyéticas
+#C.	Iniciar plasmaféresis
+#D.	Realizar nuevo seguimiento en 6 meses
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxXZTgGuYgQ3BlIT?embed=1&width=1977&height=1280
+
+#Óscar, 61 años, es fumador, con IPA de 37. Consulta a urgencias con dificultad respiratoria progresiva y tos desde hace 4 días. Tiene EPOC, ha recibido albuterol con mayor frecuencia últimamente. Examen físico: T 37,3°C, PA 138/91, FC 130/min, FR 24/min y SATO2 85%. Está alerta, con uso de músculos respiratorios accesorios. En la auscultación pulmonar, hay sibilancias bilaterales difusas. Paraclínicos: pH de 7,25, PaCO2 de 55 mmHg, PaO2 de 62 mmHg y un HCO3 de 24 mEq/L. ¿Cuál es la mejor conducta?  
+#A.	Iniciar ventilación con presión positiva
+#B.	Realizar secuencia de intubación y ventilación mecánica
+#C.	Ordenar corticosteroides intravenosos
+#D.	Administrar antibiótico empírico
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxaqrEhfWUeSISxS?embed=1&width=1970&height=1280
+
+#Guillermo, 55 años, consulta por malestar general durante los últimos dos días. Ha tenido fiebre con escalofríos que han empeorado, asociado a mialgias y disuria. Tiene antecedentes de trastorno afectivo bipolar e hiperplasia prostática benigna, recibe litio y terazosina. Examen físico: T 38,1°C, FC 80/min, FR 16/min y PA 135/80 mm Hg. Está pálido y diaforético. Su abdomen inferior está sensible a la palpación, sin rebote ni defensa. ¿Cuál es la mejor conducta?
+#A.	Ordenar un urocultivo
+#B.	Ordenar un hemocultivo y reactantes de fase aguda
+#C.	Realizar ecografía abdominal y medir niveles de litio
+#D.	Realizar un tacto rectal
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxchqxdKH6ss-WdZ?embed=1&width=1976&height=1280
+
+#Femenina de 11 años es llevada a urgencias posterior a sufrir una laceración de 3 cm x 3 cm con bordes triangulares en el antebrazo derecho luego de presentar una caída. Al examen físico, se ve un colgajo de piel y los bordes se pueden aproximar fácilmente. La herida no contiene restos visibles. El resto del examen físico es normal. Antes de suturar la herida, ¿Cuál es el método de limpieza adecuado a usar en este paciente?
+#A.	Realizar una irrigación suave utilizando una solución diluida de clorhexidina.
+#B.	Sumergir la herida en solución salina normal.
+#C.	Realizar irrigación a presión con solución salina al 0.9%
+#D.	Sumerja la herida en una solución diluida de clorhexidina.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxlNC_FtX8z8snZJ?embed=1&width=989&height=1280
+
+#Masculino de 75 años es llevado a urgencias por dolor torácico intenso y disnea desde hace 5 horas. Hace 6 días, se cayó en el baño y desde entonces había presentado un dolor leve en hemitórax izquierdo. Se ve pálido y ansioso. Signos vitales: Temp. de 36.5°C, FC de 108 lpm, FR de 30 rpm y PA de 110/60 mmHg, Saturación de O2 en 88% al ambiente. Al examen físico, hay disminución del murmullo vesicular y matidez a la percusión en la base pulmonar izquierda. Hay un hematoma de 3 cm en la región inferior del hemitórax izquierdo. Una Rx de tórax evidencia fractura del 8° y 9° arco costal izquierdo, con un aumento de la opacidad del pulmón izquierdo y desviación traqueal a la derecha. ¿Cuál es el manejo apropiado para este paciente? 
+#A.	Realizar toracostomía con aguja en el segundo espacio intercostal a nivel de la línea medioclavicular.
+#B.	Realizar toracocentesis con aguja en el octavo espacio intercostal en la línea axilar posterior.
+#C.	Realizar toracotomía de urgencia.
+#D.	Realizar inserción de un tubo a tórax en el quinto espacio intercostal en la línea axilar media.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxoZcknhF-YopOhX?embed=1&width=989&height=1280
+
+#Masculino de 48 años sin antecedentes consulta por ictericia progresiva, dolor epigástrico y prurito generalizado desde hace 3 semanas. Refiere perdida del apetito, náuseas y heces acolicas. Los paraclínicos evidencian bilirrubina total en 10.6 mg/dL, bilirrubina directa de 9.8 mg/dL y FA de 450 U/L. Una ecografía de abdomen evidencia dilatación de los conductos biliares y pancreáticos y una masa sólida hipoecoica de 3 cm con márgenes irregulares en la cabeza del páncreas ¿La elevación de que marcados se asocia con la condición de este paciente? 
+#A.	CA 125
+#B.	CA 19-9
+#C.	Glucagón.
+#D.	Alfafetoproteína.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxtaBnRJqwyZw9x3?embed=1&width=989&height=1280
+
+#Femenina de 66 años, G3P3, consulta por cuadro de 1 mes de malestar abdominal, dificultad para evacuar completamente y prurito anal. Su ultima evacuación fue hace 2 días. Tiene antecedentes de DM2. Todos sus hijos nacieron por parto vaginal. Signos vitales son normales. Al examen físico el abdomen es blando, no doloroso. Al hacer fuerza, se evidencia una masa roja blanda, no dolorosa, de aprox. 6 cm que sobresale del ano; en la cual se evidencian pliegues concéntricos en el tejido que sobresale. El tono del esfínter rectal está reducido. ¿Cuál es el manejo adecuado para este paciente?
+#A.	Rectopexia.
+#B.	Indicar realizar ejercicios para el suelo pélvico.
+#C.	Realizar quimioradiación.
+#D.	Realizar ligadura con bandas elásticas.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvxwIJ1Sn904nZX4i?embed=1&width=989&height=1280
+
+#Femenina de 45 años consulta por 2 años de dolor torácico que se exacerba posterior al comer y disfagia progresiva a sólidos y líquidos, con regurgitación ocasional de alimentos. Ha perdido 4 kg desde hace 6 meses. Sus signos vitales y examen físico son normales. Se realiza un test con bario esofágico con evidencia de dilatación del esófago proximal con estenosis de la unión gastroesofágica y vaciamiento de bario retardado. Una endoscopia de vías digestiva alta evidencia una mucosa gástrica y esofágica normal sin evidencia de obstrucción mecánica. La manometría esofágica muestra una presurización panesofágica simultánea y descoordinada con una relajación incompleta del esfínter esofágico inferior. ¿Cuál es el manejo apropiado para esta paciente? 
+#A.	Administrar nitroglicerina sublingual.
+#B.	Realizar dilatación esofágica neumática.
+#C.	Aplicar inyecciones esofágicas de toxina botulínica.
+#D.	Administrar omeprazol vía oral.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvx3edDEvXiKFz3Y5?embed=1&width=1236&height=1600
+
+#Varón de 61 años. Consulta debido a la aparición de múltiples adenopatías indoloras, detectadas hace varios meses. Niega otros síntomas asociados, como fiebre, sudoración nocturna o pérdida de peso. Tiene antecedente de HTA en manejo con losartán + amlodipino. En el examen físico, mide 1.75 cm, pesa 78 kg, PA 130/80 mmHg, FC 76 latidos por minuto. Se palpan adenopatías con consistencia gomosa en las regiones cervical, inguinal y axilar bilaterales, de tamaño variable entre 1 y 3 cm. El resto del examen físico no muestra alteraciones. Los paraclínicos son normales.
+¿Cuál sería la conducta a seguir en este paciente?
+#A. Realizar tomografía por emisión de positrones (PET) con FDG de tórax y abdominopélvica
+#B. Realizar biopsia escisional abierta de ganglio cervical
+#C. Realizar tomografía computarizada (TAC) simple de tórax y abdomen
+#D. Realizar aspiración con aguja fina de un ganglio cervical
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvx-WJ1dFTblXcjEE?embed=1&width=1236&height=1600
+
+#Mujer de 30 años, acude a cita de control dos meses después su primer parto, el cual transcurrió sin complicaciones. Refiere cuadro clínico de una semana de evolución caracterizado por fatiga, sudoración excesiva, irritabilidad, intolerancia a la actividad física prolongada, pérdida de 6 kg de peso y temblor dista. Refiere que hace 2 semanas presentó un resfriado que se resolvió sin problemas. Tiene antecedente de diabetes tipo 1. En el examen físico, la PA es de 146/75 mmHg, FC 110 latidos por minuto, y la FR 17 respiraciones por minuto. Se encuentra un aumento simétrico del tamaño de la glándula tiroides sin dolor ni nódulos palpables. RCRs, murmullo vesicular conversado. Paraclínicos: TSH de 0,01 µU/mL, T4 libre de 2,9 ng/dL, VSG normal, Ac antiTPO (-), TSH-R-Ab (-). La gammagrafía tiroidea revela un bocio difuso hipocaptante.
+¿Cuál de los siguientes diagnósticos es el más probable?
+#A. Enfermedad de graves 
+#B. Tiroiditis de Riedel 
+#C. Tiroiditis subaguda granulomatosa 
+#D. Tiroiditis indolora silente
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvyDtoNut9WHI2I6l?embed=1&width=1237&height=1600
+
+#Niño de 6 años es llevado a urgencias por haber tragado un objeto desconocido según la madre. No presenta síntomas, no tiene dificultad para tragar, y se encuentra tranquilo. Sus signos vitales son normales, y el examen físico no revela ninguna anomalía. Una radiografía de tórax muestra un clavo alojado en el tercio medio del esófago.
+#A. Inducir emesis para expulsión del cuerpo extraño.
+#B. Realizar nueva radiografía en 24 horas.
+#C. Realizar extracción endoscópica.
+#D. Administrar polietilenglicol.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvyEzo-aGqFOw0zSJ?embed=1&width=1237&height=1600
+
+#Un neonato a término, hijo de madre primigesta, alimentado con lactancia materna, presenta ictericia que se extiende hasta la base de los brazos y las piernas en el tercer día de vida. En los análisis realizados destaca una hiperbilirrubinemia14 mg/dL, a expensas de la indirecta. La madre presenta grupo O- y el padre A+. El neonato es A+ con resultado positivo en el test de Coombs directo.
+¿Cuál es su diagnóstico presuntivo?
+#A. Isoinmunización Rh
+#B. Deficiencia de Glucosa-6-Fosfato Deshidrogenasa (G6PD)
+#C. Isoinmunización ABO
+#D. Ictericia por lactancia materna
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvyKVCbhYx_nUNyNU?embed=1&width=1236&height=1600
+
+#Mujer de 19 años, quien consulta por presentar cuadro clínico de tres semanas de evolución consistentes en insomnio, disminución en la necesidad de dormir, hiperbulia, hiporexia, ideas delirantes de grandeza.  Tiene antecedente de episodios depresivos, los cuales nunca han sido valorados o tratados. Dice que su estado de ánimo durante estas dos semanas ha mejorado mucho y que podría quedarse ‘’toda la noche sin dormir’’ y realizar sus actividades durante el día sin ningún inconveniente. También refiere que tiene planes para diseñar una aplicación donde se pueda acceder a internet incluso desde la selva y lanzarse a la alcaldía de la ciudad de Medellín.  Al examen físico presenta signos vitales estables, y el test mental muestra un paciente con estado de ánimo elevado, verborrea, distractibilidad, dificultad para concentrarse en lo que se le pregunta. 
+¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Trastorno de la personalidad histriónico 
+#B. Trastorno bipolar 
+#C. Trastorno por déficit de atención con hiperactividad
+#D. Esquizofrenia
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvyMzBM_elgb8Jq84?embed=1&width=1237&height=1600
+
+#Paulina, 3 años, sin antecedentes. La madre refiere que le preocupa que su hija tiene una hernia umbilical, que a veces le duele. Al examen físico, se evidencia un defecto aponeurótico umbilical, de 1 cm de diámetro, con contenido protruido, que reduce manualmente, sin signos de incarceración o estrangulación. ¿Cuál cree usted que sería el manejo más apropiado?
+#A. Cirugía ambulatoria porque es dolorosa
+#B.	Cirugía ambulatoria por el tamaño
+#C.	Manejo expectante hasta los 4-5 años
+#D.	Cirugía urgente por el dolor
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvyWEy7Cf32hadz_j?embed=1&width=1237&height=1600
+
+#Josefa, 14 años. Llega a consulta externa con su padre para que evalúen su baja estatura. Al nacer, tuvo un peso normal y durante la adolescencia tuvo una baja estatura; actualmente mide 177 cm. Actualmente, está en el P2 de altura y en P35 de peso. Es estadio 2. No tiene vello púbico ni axilar. En una rx de mano izquierda muestra una edad ósea de 11 años . ¿Cuál de los siguientes es el paso más adecuado?
+#A.	Cariotipo genético
+#B.	ECO pélvica
+#C.	Seguimiento
+#D.	RMN cerebral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvyaOJIepXeS6vZl7?embed=1&width=1237&height=1600
+
+#Estefanía, 14 años. Tiene antecedentes de dermatitis atópica crónica y presenta dermatitis refractaria en las fosas ante cubitales. Tiene lesiones eritematosas agudas, supurativas y con costras, y se observan algunas pústulas en los bordes de la piel afectada. Adyacentes a las placas eccematosas hay lesiones erosionadas que tienen drenaje purulento. Actualmente, el paciente está usando un glucocorticoide tópico de potencia media (ungüento de triamcinolona al 0,1%), difenhidramina a necesidad para el prurito y un emoliente después del baño. ¿Cuál sería el tratamiento mas adecuado para esta paciente?
+#A.	Iniciar inhibidor tópico de la calcineurina 
+#B.	Obtener cultivos de una pústula
+#C.	Aumentar potencia de glucocorticoide tópico
+#D.	Realizar biopsia de una de las lesiones
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvycViJV6LuCZPjw9?embed=1&width=1237&height=1600
+
+#Una recién nacida a término por parto vaginal espontáneo sin complicaciones, presentó un Apgar de 8 y 9 al minuto y a los 5 minutos de vida, respectivamente. Su peso al nacer fue de 3700 gramos. Al examen físico, sin alteraciones. La madre de la bebé es una mujer de 25 años, con antecedentes de diabetes tipo 1 bien controlada, con grupo sanguíneo B, Rh positivo, con pruebas negativas para el virus de la hepatitis B, sífilis, VIH y estreptococo del grupo B. Es inmune a la rubéola. Además de los niveles de glucosa, ¿cuál de las siguientes pruebas de detección tiene más probabilidades de ser anormal para esta bebé en las primeras horas de vida?
+#A.	Hematocrito
+#B.	Ecocardiograma 
+#C.	Bilirrubinas
+#D.	Tamizaje auditivo
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvygbdYzEDQGYSxBK?embed=1&width=989&height=1280
+
+#Rafael tiene 4 años, sin antecedentes patológicos, con PAI al día. Lo lleva la madre a su consulta por un cuadro de una semana de fatiga, fiebre, escalofríos y artralgias difusas. Sus síntomas mejoraban con la administración con acetaminofén. Al examen físico% con signos vitales estables, palidez mucocutánea generalizada. Se toman paraclínicos: Hb 10, VCM 65, ADE 14%, HbA2 6%. En el extendido de sangre periférica se evidencian eritrocitos hipocrómicos microcíticos, algunos de los cuales tienen un centro teñido oscuro y un borde periférico, separados por un anillo pálido. ¿Cuál de los siguientes es el paso más apropiado en el tratamiento de este paciente?
+#A.	Dar tranquilidad con signos y síntomas de alarma
+#B.	Dar hidroxiurea oral
+#C.	Iniciar suplementación con hierro
+#D.	Dar piridoxina oral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAsvynsd1Rp74gHp4KG?embed=1&width=2466&height=1600
