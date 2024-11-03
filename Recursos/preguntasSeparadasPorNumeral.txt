@@ -25798,3 +25798,167 @@ DAS28-ESR: Disease Activity Score-28 for Rheumatoid Arthritis with ESR
 #D. Solicitar procalcitonina para definir egreso con antibioticoterapia oral
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAszGZgN1v1f0M2nvNt?embed=1&width=1237&height=1600
+
+#Paciente femenina de 18 años consulta por cuadro de 30 minutos de evolución caracterizado por disnea mientras se encontraba comiendo en un restaurante. Tiene antecedente de asma y eczema. Signos vitales: Temp. de 37°C, FC de 112 lpm, PA de 90/64 mmHg, FR de 26 rpm y SatO2 del 89% con O2 ambiente. La paciente puede decir oraciones completas, pero utiliza músculos accesorios. Se auscultan sibilancias bilaterales. Hay una erupción urticarial en extremidades superiores bilaterales. ¿Cuál es el manejo adecuado para esta paciente? 
+#A.	Administrar difenhidramina IV.
+#B.	Administrar salbutamol nebulizado.
+#C.	Realizar intubación orotraqueal.
+#D.	Administrar epinefrina IM.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGg2PNMhQzxAi_qz?embed=1&width=989&height=1280
+
+#Masculino de 60 años es llevado a una revascularización coronaria programada. En el POP se complica con falla renal aguda, edema de pulmón y FA. Un intento de extubar al paciente en su 4° día fracasa. Desarrolla fiebre de 38.3°C. Un hemograma evidencia leucocitos en 16.000/mm3. La radiografía de tórax evidencia consolidaciones en lóbulos superior y medio del pulmón derecho. Se obtienen cultivos con evidencia de bacilos gramnegativos oxidasa positivos que no fermentan lactosa. Se inicia manejo con piperacilina/tazobactam. ¿Cuál es el objetivo de agregar tazobactam al régimen antibiótico de este paciente? 
+#A.	El tazobactam actúa sinérgicamente con la piperacilina.
+#B.	El tazobactam disminuye la escisión de la piperacilina por las bacterias.
+#C.	El tazobactam facilita la unión de la piperacilina al sitio de acción.
+#D.	La piperacilina disminuye el aclaramiento renal de la piperacilina.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGk0qU3rOQo9Xw4D?embed=1&width=989&height=1280
+
+#Femenina de 59 años es llevada a urgencias posterior a un trauma craneoencefálico leve. La paciente refiere dolor intenso y difuso. Tiene antecedente de trombocitopenia inmunitaria e hipertensión, actualmente en tratamiento con amlodipino. Signos vitales: Temp. de 37°C, FC de 98 lpm, FR de 18 rpm y PA de 100/75 mmHg. Al examen físico hay un hematoma en cuero cabelludo izquierdo y dos equimosis en antebrazo izquierdo. Paraclínicos: Hb de 10.2 gr/dL, Leu: 5.000/uL, PLT de 17.000/uL, TP 12 seg, TPT 22 seg e INR 1.0. Una TAC de cráneo simple evidencia una hemorragia intracraneal temporal izquierda externa. Se transfunden plaquetas y se consulta a neurocirugía. ¿Cuál es el tratamiento adecuado para este paciente? 
+#A.	Iniciar glucocorticoides e inmunoglobulina IV.
+#B.	Realizar craneotomía.
+#C.	Trasfundir plasma fresco congelado.
+#D.	Indicar Romiplostin.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGpA8JZPyfUNe99b?embed=1&width=989&height=1280
+
+#Femenina de 67 años es llevada a urgencias en contexto de fatiga creciente, anorexia y escalofríos desde hace 2 días. Tiene antecedente de cáncer mama en tratamiento quimioterapéutico (Ultima hace 4 días). Signos vitales: Temp. de 39°C, FC de 110 lpm, FR de 22 rpm, PA de 95/60 mmHg y SatO2 del 98% con oxigeno ambiente. Al examen físico, la paciente se encuentra fatigada y tiene mucosas secas. Un hemograma evidencia neutropenia grave. Se indican líquidos IV y paracetamol, se obtienen hemocultivos y paraclínicos rutinarios. ¿Cuál de los siguientes es el tratamiento antibiótico adecuado para esta paciente? 
+#A.	Administrar ceftriaxona.
+#B.	Administrar vancomicina.
+#C.	Administrar cefepima.
+#D.	Administrar ampicilina/sulbactam.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGvS9pWM7ai2TEtJ?embed=1&width=989&height=1280
+
+#Femenina de 30 años consulta por 1 mes de astenia, adinamia e irritabilidad, la cual se exacerba desde hace 2 semanas lo cual limita sus actividades diarias. Tiene antecedente de DM tipo 1 en manejo con insulina y tuvo un resfriado común hace 2 semanas el cual autoresolvió. Ha perdido unos 8kg en las últimas 4 semanas.  Tuvo un parto vaginal hace 2 meses sin complicaciones. Signos vitales: Pa de 145/75 mmHg, FC de 100 lpm, FR de 17 rpm, IMC de 25. Al examen físico, presenta aumento difuso de la tiroides, no es dolorosa a la palpación. Presente temblor distal. Paraclínicos: TSH 0.01 Y T4L 2.8. La gammagrafía tiroidea muestra hipocaptación. ¿Cuál es el diagnostico más probable? 
+#A.	Enfermedad de Graves
+#B.	Tiroiditis subaguda
+#C.	Tiroiditis posparto
+#D.	Hipofisitis linfocitaria
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGxMb5dabcrICaiF?embed=1&width=989&height=1280
+
+#Niño de 15 meses, es llevado a consulta por una masa abdominal que se hizo más notorio cuando comenzó a caminar hace 2 semanas. Aumenta al llorar y desaparece cuando está acostado. Nació a las 39 semanas de gestación por cesárea. Ha cumplido todos los hitos del desarrollo. Ha sido amamantado desde su nacimiento. Parece sano y activo. Los signos vitales están dentro de los límites normales. La exploración muestra una masa abdominal media de 1 cm, no dolorosa y fácilmente reducible. El resto del examen no muestra anomalías. ¿Cuál de las siguientes es la mejor conducta?
+#A. Tranquilidad y observación
+#B. Programar para cirugía inmediata
+#C. Realizar ecografía abdominal
+#D. Cirugía electiva 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszG1d8S4-WqjXYnIR?embed=1&width=1237&height=1600
+
+#Martha de 84 años, con enfermedad de Alzheimer, es llevada a consulta por su hijo para un examen de seguimiento. La paciente vive con su hijo. Él informa que cada vez es más difícil cuidar de ella, dado que hay momentos en los que no lo reconoce. La paciente duerme de 6 a 8 horas durante el día y está cada vez más agitada y confundida por la noche. Cuando suena el teléfono cree que está en el consultorio del dentista y se pone muy ansiosa. Ella no se ha caído. No ha salido de casa desde hace semanas, excepto para dar breves paseos. Los signos vitales están dentro de los límites normales. La exploración física no muestra anomalías. ¿Cuál de las siguientes recomendaciones es la más adecuada en este momento?
+#A.	Ordenar quetiapina
+#B.	Administrar lorazepam
+#C.	Medidas de higiene del sueño
+#D.	Iniciar haloperidol 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszG6aXikiFIfWXQAe?embed=1&width=2466&height=1600
+
+#Humberto de 47 años, sin antecedentes de interés, consultó por incontinencia urinaria y fecal de 6 horas de evolución, refiere que previo al cuadro clínico presentó hace 6 horas caída desde gran altura (4 mts) en una obra de construcción y sufrió heridas en espalda y los muslos, para lo cual no consultó al médico y se auto medicó AINES. Signos vitales Tº 36,9 °C, FC de 80 lpm y PA de 132/84 mm Hg. Al examen físico, dolor a la palpación en la columna lumbar y debilidad bilateral simétrica en las extremidades inferiores. Los reflejos tendinosos profundos son 3+ en los tobillos y 2+ en las rodillas. El tono rectal está disminuido. La ecografía abdominal muestra una vejiga distendida. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A.	Síndrome de cola de caballo
+#B.	Síndrome del cono medular
+#C.	Compromiso exclusivo del nervio ciático
+#D.	Accidente cerebrovascular cerebeloso
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszG-PZpnPq4Zrz7HW?embed=1&width=2466&height=1600
+
+#Varón de 21 años, previamente sano, consultó por dolor en la muñeca de 1 hora de evolución. El paciente estaba jugando fútbol cuando cayó hacia adelante sobre su mano derecha y su muñeca extendida. Signos vitales dentro de rangos normales. Al examen físico, edema y dolor a la palpación en mano derecha, junto con limitación de movimiento del mismo lado y presencia de deformidad en “dorso de tenedor”. La radiografía de la misma extremidad revela fractura del radio distal con angulación dorsal del fragmento distal del radio.  ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Fractura de escafoides
+#B. Fractura de Colles
+#C. Fractura del boxeador
+#D. Fractura Smith
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHCsnH9FHrVRK07_?embed=1&width=2466&height=1600
+
+#Laura de 17 años, sin antecedentes médicos de interés, consultó por historia de acné de 3 años en el rostro y tórax anterior. No refiere prurito ni descamación. Le preocupa la posibilidad de que le queden cicatrices en la cara y nunca ha buscado tratamiento. Signos vitales dentro de límites normales. Al examen físico IMC de 23 kg/m2, y evidencia de varios comedones abiertos en la cara y el pecho. ¿Cuál de los siguientes es el tratamiento inicial más adecuado?
+#A.	Antibióticos orales
+#B.	Peróxido de benzoilo tópico
+#C.	Anticonceptivos orales combinados
+#D.	Isotretinoína oral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHEc0qppuh5uBPW0?embed=1&width=2466&height=1600
+
+#Varón de 61 años con dolor torácico opresivo de una hora de evolución. Al ingreso está diaforético, ansioso, PA 88/62 mmHg, FC 115 lpm, con distensión venosa yugular, pero sin pulso paradójico. A la auscultación los ruidos cardiacos disminuidos, sin presencia de soplos, murmullo vesicular conservado sin agregados.  Se realiza EKG que evidencia elevación del segmento ST de 2.1 mm en derivadas de cara inferior, así como una elevación de 0.7 mm en derivación precordial V1. 
+#A. Ruptura del septum interventricular:
+#B. Infarto de ventrículo derecho 
+#C. Tromboembolismo pulmonar
+#D. Taponamiento cardiaco 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHJgCX09YxH_VxQj?embed=1&width=2470&height=1600
+
+#Varón de 42 años en seguimiento desde hace ocho meses por un nódulo tiroideo único de 1.8 cm, hipoecogénico, localizado en el lóbulo tiroideo derecho, con un informe de punción aspirativa con aguja fina (PAAF) guiada por ecografía, clasificado como Bethesda II. En la consulta de seguimiento, el paciente comenta molestias al deglutir y sensación de presión en el cuello. La ecografía reciente muestra un aumento en el tamaño del nódulo, con dimensiones actuales de 2.9 cm en su mayor dimensión. 
+¿Cuál es la conducta más apropiada entre las siguientes?
+#A. Considerar hemitiroidectomía o tiroidectomía total tras la realización de una punción con aguja fina
+#B. Continuar seguimiento con nueva ecografía en seis meses
+#C. Remitir a oncología para inicio de quimioterapia + radioterapia
+#D. Considerar hemitiroidectomía o tiroidectomía total tras la realización de una gammagrafía tiroidea 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHPtSW6T4hKs2DPi?embed=1&width=1237&height=1600
+
+#Mujer de 48 años, acude al servicio de urgencias por presentar fiebre de 39.5 °C desde hace 24 horas, dolor intenso en la región anterior del cuello, enrojecimiento de esa zona y disfonía. Refiere que, el día de ayer se realizó una punción con aguja fina por un nódulo tiroideo solitario de 2.3 cm sin ninguna complicación. Laboratorios: TSH y T4L normales, hemograma con leucocitosis de 15.000/m3 (N: 78%). 
+¿Cuál será el diagnóstico más probable?
+#A. Tiroiditis aguda bacteriana 
+#B. Tiroiditis de Riedel
+#C. Carcinoma anaplásico de tiroides
+#D. Tiroiditis silente 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHQ-6YCPg9x3JOnr?embed=1&width=2470&height=1600
+
+#Varón de 51 años, diagnosticado de infección por VIH (grupo B-2), ingresa por cefalea global, astenia y febrícula. Los familiares refieren también alteraciones en la conducta. Se realiza punción lumbar que evidencia liquido incoloro con células 245: 76% linfocitos, glucosa 45 mg/dL, proteínas 182 mg/dL, ADA 58 UI/l. Ambas pruebas, la tinción de Ziehl-Neelsen y la tinta china, dieron negativo. 
+¿Qué opción terapéutica le parece más apropiada?
+#A. Ceftriaxona + vancomicina + ampicilina + dexametasona
+#B. Aciclovir + dexametasona
+#C. Rifampicina + isoniacida + pirazinamida + etambutol + dexametasona
+#D. Anfotericina B 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHVsCe35VgQQo5fF?embed=1&width=1237&height=1600
+
+#Don Juan de 72 años, con antecedente de estenosis aortica, quien ha presentado episodios recurrentes de hemorragia digestiva baja durante las últimas dos semanas. Niega fiebre, dolor abdominal altos u otra clínica asociada.
+¿Cuál es el diagnóstico más probable?
+#A. Enfermedad diverticular
+#B. Ulcera péptica 
+#C. Angiodisplasia de Colon
+#D. Cáncer de colón
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHYLXdSmnr-BIAmB?embed=1&width=1237&height=1600
+
+#Milton, 11 años. Refiere 1 mes de dolor localizado en la pierna derecha. Se le ha administrado ketorolaco por la noche para que logre conciliar el sueño, pero el dolor no ha mejorado. Al examen físico, hay dolor marcado a lo largo del tercio medio del fémur derecho. En la rx se evidencian lesiones líticas en la diáfisis del fémur derecho y una corteza circundante cubierta por varias capas de hueso nuevo. En la biopsia se reportan pequeñas células azules redondas. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Osteosarcoma
+#B. Condroblastoma
+#C. Sarcoma de Ewing
+#D. Osteocondroma
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHdYGXUQScW1GU6j?embed=1&width=1963&height=1280
+
+#Sebastián tiene 5 años, no tiene ningún antecedente patológico. PAI incompleto para la edad (última vacunación a los dos meses). Hace 10 días le diagnosticaron varicela. Sus padres lo llevan a consulta porque durante los últimos 2 días ha tenido dificultades para caminar erguido, además se ha caído varias veces y no puede subir escaleras sin ayuda. Al examen físico, clasificación nutricional adecuada, signos vitales sin alteraciones. Orientado en las 3 esferas. Marcha tambaleante y de base amplia, con evidencia de vesículas costrosas dispersas con máculas hipopigmentadas y excoriaciones en curación. Es bradilálico, con discurso segmentado y pausas notables entre sílabas. ¿Cuál de los siguientes es el hallazgo adicional más probable en este paciente?
+#A.	Temblor intencional
+#B.	Prueba de romberg positiva
+#C.	Arreflexia de extremidades inferiores
+#D.	Respuesta plantar extensora
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHibAst549RYKp-J?embed=1&width=1975&height=1280
+
+#José tiene 2 semanas. Lo lleva la mamá al consultorio por ictericia mucocutánea. Dice que desde que salió del hospital lo observa así, sin mejoría. Nació a término. Sus padres no quisieron que le pusieran vacuna de hepatitis B porque la mamá tenía suficientes anticuerpo, pesó 3300 kg. El niño recibe lactancia materna exclusiva y tiene diuresis adecuada, con 3-4 deposiciones diarias, de color amarillo claro. Al examen físico, pesa 3500 kg. Lleva paraclínicos: BT 10, BD 7. Sin elevación de transaminasas. ¿Cuál de los siguientes es el mejor siguiente paso en el tratamiento de la patología del paciente?
+#A. ECO hepática y de vías biliares
+#B. Aumento en la frecuencia de lactancia materna
+#C. Vacunar de inmediato contra la hepatitis B
+#D. Suspender lactancia materna
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHkHWY4AeAwRr4by?embed=1&width=1987&height=1280
+
+#Gestante de 38 semanas, con AgsVHB positivo en su último control prenatal. Ella pregunta sobre las pautas a seguir con su hijo y si lo puede lactar. ¿Cuál sería su respuesta?
+#A. Se debe administrar la vacuna de la hepatitis B y a las 72 horas la inmunoglobulina. Puede lactarlo.
+#B. Se debe administrar la inmunoglobulina primero y a las 24 horas la vacuna. Puede lactarlo.
+#C. Se debe administrar la inmunoglobulina y la vacuna. Se da leche de fórmula.
+#D. Se debe administrar la inmunoglobulina y la vacuna. Puede lactarlo.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHodWjxmx46_FBbO?embed=1&width=989&height=1280
+
+#Sebastián, 13 años. Los padres refieren que el paciente desde la infancia ha tenido infecciones respiratorias recurrentes. Hace un mes recibió su último tratamiento antibiótico por el séptimo episodio de sinusitis en lo que va del año. Tiene esteatorrea, siempre ha tenido bajo peso, a pesar de que come muy bien. Al examen físico, se encuentra en p3 de peso. En la rinoscopia anterior, se observan múltiples pólipos nasales. ¿Qué otra alteración es muy probable encontrar en este paciente?
+#A.	Vaso deferente ausente
+#B.	Hipersensibilidad a la aspirina
+#C.	Deficiencia selectiva de IgA
+#D.	Situs inversus
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszHvB6Eoe3FmyPtYx?embed=1&width=1975&height=1280
