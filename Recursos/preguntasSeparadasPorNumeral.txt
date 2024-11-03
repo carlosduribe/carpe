@@ -26168,3 +26168,208 @@ DAS28-ESR: Disease Activity Score-28 for Rheumatoid Arthritis with ESR
 #D. Hematoma lobar de gran extensión en un paciente neurológicamente estable y con síntomas mínimos.
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAszRVSZyfzhs6mVHp1?embed=1&width=1237&height=1600
+
+#Masculino, neonato de 3 horas de nacido, quien presenta tres episodios de vómito bilioso. Nació de un embarazo de 36 semanas complicado con polihidramnios. Su madre ha fumado y tiene antecedente de consumo de cocaína. Sus signos vitales son normales. Al examen físico es abdomen superior está distendido y los ruidos intestinales son hipoactivos. Una rx de abdomen evidencia 3 burbujas de gas en la parte superior sin gas distal. ¿Cuál es el diagnostico más probable?
+#A. Atresia yeyunal.
+#B. Atresia duodenal.
+#C. Enterocolitis necrotizante.
+#D. Estenosis hipertrófica del píloro.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRfkPLb445EJ1jQt?embed=1&width=989&height=1280
+
+#Masculino de 5 años presenta una erupción cutánea localizada desde hace 4 días. Inicialmente eran unas pequeñas manchas redondas en el pie izquierdo que progresaron a pústulas con apariencia ligeramente húmeda.  La erupción pica levemente y duele. Su hermana también ha desarrollado lesiones similares. Sus signos vitales son normales. Al examen físico hay 4 pápulas y pústulas en el dorso del pie izquierdo, cubiertas con una costra amarilla transparente.  ¿Cuál es el manejo adecuado para este paciente?
+#A. Amoxicilina oral.
+#B. Mupirocina tópica.
+#C. Permetrina tópica.
+#D. Aciclovir oral.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRjiSL8RzGneGwb9?embed=1&width=989&height=1280
+
+#Femenina de 25 años, G2P1, asiste a consulta de control prenatal de su embarazo actual. Tiene un embarazo de 28 semanas, refiere sentirse bien y ha aumentado de peso de forma adecuada. Niega sangrado, amniorrea o contracciones uterinas y refiere sentir movimientos fetales diarios. Terminó su relación con el padre del bebé. Presenta paraclínicos de su primer trimestre en los que destaca: Tipo de sangre: A negativo, anticuerpos contra glóbulos rojos negativos, Urocultivo negativo e inmunidad contra rubeola negativa. ¿Cuál es el manejo de adecuado para esta paciente según su edad gestacional?
+#A. Vacunación contra la rubéola.
+#B. Realizar un nuevo urocultivo.
+#C. Realizar cultivo rectovaginal para Streptococcus del grupo B.
+#D. Administrar inmunoglobulina anti-D.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRmi1u8ckoHc4aCz?embed=1&width=989&height=1280
+
+#Niño de 7 años, es llevado a consulta por su madre, quien refiere que habla muy extraño ya que no sabe pronunciar letras como la rr-r-d-t-l-s, lo cual impide una articulación correcta de fonemas que lleven esas letras.  Tiene una escala del desarrollo normal.
+¿Cuál es el diagnóstico más probable? 
+#A. Disfemia
+#B. Disglosia
+#C. Disartria
+#D. Disfasia
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRrMPjxMUX5dwxdd?embed=1&width=1237&height=1600
+
+#Femenina de 1 año, es traída a consulta por su padre porque presenta sus piernas arqueadas. Esto ha empeorado desde que empezó a caminar. Nació a término, por parto vaginal sin complicaciones. Al examen físico, no presenta signos de dolor, se observan rangos de movilidad articular completos en caderas, rodillas y tobillos, sin derrames articulares. Las piernas tienen la misma longitud. Cuando el niño está de pie con los pies juntos, hay una flexión tibiofemoral lateralizada que provoca una separación entre las rodillas. El resto de la exploración es normal. 
+¿Cuál es el mejor paso a seguir en el tratamiento de este paciente?
+#A. Radiografías bilaterales de las piernas
+#B. Ortesis de pierna y fisioterapia
+#C. Tranquilización y observación
+#D. Suplementos de vitamina D y calcio
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRsRx0pEYNh2ZKDb?embed=1&width=989&height=1280
+
+#Gustavo de 65 años, consulta a urgencias posterior a accidente de tránsito, donde perdió la conciencia por un breve periodo de tiempo, posterior a impacto con bolsa de airbag. Desde que recuperó la conciencia, el paciente ha tenido parestesias y debilidad marcada en ambas extremidades superiores; sin embargo, puede mover las extremidades inferiores con normalidad. Antecedente de osteoartritis y espondilosis cervical. Signos vitales, PA de 132/74 mmHg, FC de 94 lpm. La radiografía de columna cervical sólo evidencia lesiones compatibles con artritis degenerativa leve. ¿Cuál es el diagnóstico más probable?
+#A. Síndrome del cordón anterior
+#B. Síndrome de Brown-Séquard 
+#C. Síndrome del cordón central 
+#D. Síndrome del cordón posterior 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRykCbHEimMut1BN?embed=1&width=2463&height=1600
+
+#María de 32 años acude a consulta psiquiátrica con antecedentes de episodios de depresión mayor desde los 20 años. Recientemente ha experimentado una recaída severa con síntomas de anhedonia, pérdida de peso significativa, insomnio terminal, ideación suicida recurrente y sentimientos de inutilidad. Su historia clínica revela intolerancia a la sertralina y fracaso en la terapia con venlafaxina y bupropión. Actualmente, presenta una respuesta parcial a la mirtazapina y no ha tenido episodios de manía. ¿Cuál es el siguiente paso más adecuado en el manejo farmacológico?
+#A. Agregar litio al tratamiento actual
+#B. Iniciar tratamiento con clozapina
+#C. Cambiar a terapia con electroconvulsiva (TEC)
+#D. Añadir aripiprazol como tratamiento adyuvante
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszR3SnuZVZo4axkzT?embed=1&width=2463&height=1600
+
+#Carlos, de 65 años, con antecedentes de hipertensión controlada, se presenta con síntomas de obstrucción urinaria de inicio progresivo, disminución en la fuerza del chorro urinario y nicturia frecuente. El PSA sérico es de 2.5 ng/mL, y la exploración rectal revela una próstata aumentada de tamaño sin nódulos. La ecografía prostática muestra un volumen de 55 cc. ¿Cuál es el manejo más adecuado?
+#A. Tamsulosina
+#B. Finasteride
+#C. Terapia combinada con tamsulosina y finasteride
+#D. Prostatectomía transuretral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszR7xama6Y6pICLAD?embed=1&width=2464&height=1600
+
+#Patricia, de 33 años, consulta por un cuadro de distimia persistente en los últimos dos meses, acompañado de insomnio de conciliación y polifagia. Refiere haber tenido dos episodios previos hace tres meses, caracterizados por exaltación y euforia, durante los cuales dormía solo tres horas, pero se sentía enérgica; cada episodio tuvo una duración de cuatro meses. A pesar de estos cambios, relata haber recibido un ascenso y cumplir con sus obligaciones. En el examen del estado mental, se observa un afecto embotado. Niega pensamientos suicidas y el uso de drogas ilícitas. ¿Cuál es el diagnóstico más probable?
+#A. Trastorno bipolar tipo II
+#B. Trastorno depresivo persistente
+#C. Trastorno ciclotímico
+#D. Trastorno depresivo mayor con características atípicas.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszR_XnMNkVgLJTnZU?embed=1&width=2468&height=1600
+
+#Luisa de 9 meses, sin antecedentes de interés, es llevada a urgencias por su padre posterior a presenciar evento convulsivo de su hija, acompañado de cuadro de 3 días de fiebre y otorrea. Además, refiere síntomas similares hace 3 semanas que modularon con uso de acetaminofén. Signos vitales Tº 39,3 °C. Al examen físico, eritema y dolor a la palpación en la región postauricular derecha y al desplazamiento lateral e inferior del pabellón auricular. La otoscopia muestra una membrana timpánica abultada y turbia con supuración purulenta. Paraclínicos que reportan: Leucocitos 15.800 y PCR 30. 
+¿Cuál de las siguientes es la conducta adecuada?
+#A. Insertar tubo de miringotomia
+#B. Terapia tópica con ciprofloxacina
+#C. Resonancia magnética cerebral. 
+#D. Terapia con amoxicilina oral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSD1CHzumlCw1e-Y?embed=1&width=2468&height=1600
+
+#Masculino de 85 años con antecedente de HTA e hiperlipidemia consulta por dolor torácico y disnea desde hace 2 horas. Desde hace 10 años ha tenido episodios anginosos que mejoraban con el reposo. Signos vitales: FC de 94 lpm, FR de 22 rpm y PA de 130/80 mmHg. Se realiza un electrocardiograma (Ver imagen 1). Se inicia manejo con oxígeno, morfina, nitroglicerina, aspirina y metoprolol. El paciente refiere sentirse débil y la presión arterial cae a 92/54 mmHg. ¿Cuál es la causa más probable de la hipotensión?
+#A.	Aspirina.
+#B.	Metoprolol.
+#C.	Morfina.
+#D.	Nitroglicerina.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSIOBm4AlQdGIRLh?embed=1&width=989&height=1280
+
+#Masculino de 68 años con antecedente de HTA es llevado a urgencias por estado mental alterado y disnea. Su acompañante refiere que dejó de tomar sus medicamentos antihipertensivos. Signos vitales: Temp. de 37°C, FC de 110 lpm, PA de 220/120 mmHg, FR de 20 rpm y SatO2 del 96% con cánula nasal a 5L/min. Al examen físico el paciente se encuentra orientado solo en persona, a la auscultación se evidencian crépitos pulmonares bilaterales. El fondo de ojo revela papiledema. Se realiza un ECG con evidencia de hipertrofia ventricular izquierda sin elevaciones o depresiones del ST o anomalías en la onda T. Paraclínicos con evidencia de Cr de 2.5 mg/dL (1.7 mg/dL de creatinina basal) y hematuria en el uroanálisis. ¿Cuál es el manejo inmediato adecuado para este paciente? 
+#A.	Administrar labetalol IV.
+#B.	Realizar secuencia de intubación rápida.
+#C.	Realizar tomografía de cráneo simple.
+#D.	Administrar lisinopril vía oral.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSMGU8XJqdslqD6U?embed=1&width=989&height=1280
+
+#Masculino de 65 años consulta por cuadro clínico de 1 día de evolución dado por dolor en miembro inferior derecho, progresivo, 8/10 en escala del dolor. Tiene antecedente de diabetes, HTA y enfermedad arterial periférica, en tratamiento con metformina, clortalidona, atorvastatina, cilostazol, ASA. Signos vitales: FC 110 lpm e irregular, PA 110/75 lpm, FR 20 rpm Al examen físico el miembro inferior derecho presenta temperatura local disminuida, coloración cianótica, sensibilidad conservada, amplitud de movimiento pasivo conservado, pulso poplíteo y tibial ausentes. Un electrocardiograma evidencia ausencia de ondas P y R-R irregular. ¿Cuál es el manejo inicial más apropiado?
+#A.	Administrar alteplasa IV 
+#B.	Realizar angiografía 
+#C.	Administrar heparina no fraccionada IV
+#D.	Iniciar apixaban VO
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSRfxbJLlR4y-v0Q?embed=1&width=989&height=1280
+
+#Masculino de 62 años es llevado a urgencias por hemiparesia e hipoestesia derecha desde hace 30 minutos. Al momento de la evaluación los síntomas están resueltos. Tiene antecedentes cardiovasculares de importancia. Sus signos vitales son normales. Se ausculta un soplo carotideo izquierdo. El resto de examen físico y neurológico es normal. El ECG es normal. La TAC de cráneo es normal. La ecografía doopler evidencia estenosis del 45% de la arteria carótida izquierda y 15% de la derecha. ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Realizar un ecocardiograma transtorácico.
+#B.	Iniciar terapia antiagregante plaquetaria. 
+#C.	Iniciar alteplasa intravenosa.
+#D.	Indicar colocación de Stent carotideo.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSWGahCoBxxYlyPO?embed=1&width=989&height=1280
+
+#Femenina de 30 años es llevada a urgencias luego de ser mordida por su gato. Recibió todas las vacunas en su infancia, pero no ha recibido más desde entonces. Sus signos vitales son normales. Al examen físico hay 4 heridas punzantes en su mano izquierda con leve edema, pero sin eritema. Los movimientos se encuentran conservados. La herida se limpia con yodopovidona y se irriga con solución salina. ¿Cuál es el manejo adecuado para esta paciente? 
+#A.	Tomar cultivos de la herida.
+#B.	Administrar amoxicilina- Ac. clavulánico VO.
+#C.	Cierre quirúrgico de la herida.
+#D.	Administrar vacuna antirrábica.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSZfceWXDf60Ysxs?embed=1&width=989&height=1280
+
+#María, de 65 años, con antecedentes de hipertensión y diabetes tipo 2, acude a urgencias con dolor abdominal en fosa iliaca izquierda de 3 días de evolución, asociado a fiebre de 38.5 °C y estreñimiento. A la exploración, presenta abdomen doloroso a la palpación profunda en el cuadrante inferior izquierdo, sin signos de irritación peritoneal. La tomografía computarizada (TC) abdominal muestra divertículos en el colon sigmoide con un absceso pericólico de 4 cm y evidencia de engrosamiento de la pared colónica. ¿Cuál es el siguiente paso en el manejo de esta paciente?
+#A. Realizar drenaje percutáneo del absceso y manejo con antibióticos de amplio espectro
+#B. Indicar resección de colon sigmoide con anastomosis primaria
+#C. Manejo conservador con antibióticos intravenosos y observación
+#D. Realizar sigmoidectomía con colostomía de Hartmann
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSfkJAFe5SfSzLlY?embed=1&width=1237&height=1600
+
+#Yuliza de 52 años, con antecedente de pancreatitis biliar aguda hace 5 semanas manejada con CPRE y colecistectomía, junto con antecedente de consumo de alcohol diario. Ahora consultó por 5 días de dolor epigástrico, fiebre, náuseas y malestar general. Signos vitales Tº 38,7 °C, FR de 18 rpm, FC 120 lpm y PA 100/70 mm Hg. Al examen físico, dolor abdominal a la palpación en epigastrio, presencia de 3 cicatrices por laparoscopia con buena evolución, sin otro hallazgo anormal. Paraclínicos que reportan: Hb 10 g/dl, Leucocitos en 15.800/mm3, Fosfatasa alcalina 70 U/L, AST 22 U/L, ALT 19 U/L, GGT 55 U/L, Bilirrubina 1 mg/dl, glucosa 105 mg/dl, amilasa 220 U/L y Lipasa 365 U/L. Una ecografía abdominal evidenció una colección de líquido quístico con paredes irregulares y tabiques en el páncreas. ¿Cuál es el diagnóstico más probable?
+#A. Un absceso pancreático
+#B. Un pseudoquiste pancreático
+#C. Una colangitis
+#D. Una pancreatitis aguda
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszShE02I2eHWu5qLe?embed=1&width=1237&height=1600
+
+#Carlos, de 30 años, ingresa a urgencias con una herida penetrante en el cuello en la zona II, producto de un asalto. Signos vitales con presión arterial de 120/80 mmHg, frecuencia cardíaca de 90 lpm y saturación de oxígeno de 98% en aire ambiente. Al examen físico, está alerta y orientado, presenta sangrado activo en región cervical Zona II de cara lateral derecha de 2 cm, que ha sido controlado con presión directa. No era pulsátil, no tenía Thrill ni soplo el sangrado. No hay disnea, no herida soplante, no disfonía, no hemoptisis, ni estridor, ni enfisema subcutáneo. No hay salida de sangre por la herida, no sangrado rutilante por cavidad oral, no odinofagia, no enfisema subcutáneo, no disfagia. Se canaliza al paciente, se pasan  LEV en bolo, se administra ácido tranexámico, ¿Cuál es la conducta adecuada a seguir?
+#A. Realizar una exploración quirúrgica inmediata del cuello
+#B. Realizar angiotomografía de cuello y tórax
+#C. Indicar laringoscopia directa
+#D. Observar en la sala de emergencias con control del sangrado
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSnEjS-sfQ58jetX?embed=1&width=2465&height=1600
+
+#Masculino de 50 años, consultó por 6 horas de dolor intenso en la parte inferior del tórax. El dolor se refiere a escápula izquierda y se asocia con náuseas y 2 episodios de emesis sin sangre. Antecedente de hipertensión arterial, tabaquismo y consumo de alcohol. Signos vitales Tº de 38,5 °C, FC de 110 lpm, PA de 90/60 mm/Hg. Al examen físico, murmullo vesicular conservado, ruidos cardiacos rítmicos, sin soplos asociados. Se encontró abdomen distendido, con dolor epigástrico y defensa abdominal, sin rebote y peristaltismo disminuido. Paraclínicos con Hb de 14,5 g/dL, leucocitos 5.100, amilasa 160 U/L y lipasa 880 U/L. Un ekg reporta taquicardia sinusal. ¿Cuál es el diagnóstico más probable?
+#A. Infarto agudo de miocardio
+#B. Pancreatitis aguda
+#C. Enfermedad por úlcera péptica
+#D. Isquemia mesentérica
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSrhf6DE6FeB7R1q?embed=1&width=1237&height=1600
+
+#Un hombre de 28 años es traído al servicio de urgencias tras sufrir una herida por arma blanca en el área precordial. En la evaluación inicial, el paciente se encuentra hemodinámicamente estable, con TA de 120/80 mmHg, FC de 95 lpm, FR de 18 rpm y Tº de 36.8 °C. El examen físico revela una herida de aproximadamente 2 cm en la región precordial sin sangrado activo. Se realiza un ECOFAST que muestra líquido en la ventana pericárdica, sin evidencia de líquido en las demás ventanas abdominales. ¿Cuál es la conducta más adecuada a seguir en este momento?
+#A. Realizar un seguimiento en observación con ECOFAST seriado 
+#B. Llevar al paciente a quirófano para una toracotomía de emergencia 
+#C. Realizar pericardiocentesis y luego monitorizar en observación 
+#D. Realizar una toracotomía en la sala de urgencias
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSt6IRP6KENyCjdD?embed=1&width=2476&height=1600
+
+#Julia, 8 años, sin antecedentes patológicos. Es llevada por su madre a la consulta, refiriendo cuadro clínico de diaforesis persistente, intolerancia al calor y temblor distal en reposo en extremidades superiores. Al examen físico, normotensa, taquicárdica, con saturación normal. Sin bocio o nódulos palpables. Trae función tiroidea: TSH 0.2, T4L 3.5 y TRAbs positivos. ¿Cuál sería el paso a seguir con Julia?
+#A.	Solicitar ECO de tiroides
+#B.	Solicitar gammagrafía tiroidea
+#C.	Iniciar metimazol y propranolol
+#D.	Iniciar propiltiouracilo y propranolol
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszSxEfkd2hA4sNYZi?embed=1&width=989&height=1280
+
+#Luisa tiene 12 años y es llevada a urgencias por otalgia izquierda severa, otorrea y leve prurito desde ayer, cuando regresó de vacaciones de una finca. Al examen físico, afebril,  FC 76 lpm y la PA de 110/75 mm Hg. El examen muestra dolor a la palpación del trago y un conducto auditivo externo rojo y edematoso. La prueba de Weber lateraliza al oído izquierdo y la prueba de Rinne es negativa. En el oído derecho, la prueba de weber no lateraliza y la prueba de Rinne es positiva. ¿Cuál de las siguientes es la causa más probable de los síntomas de esta paciente?
+#A. S. pneumoniae
+#B. P. aeruginosa
+#C. Aspergillus
+#D. Varicela Zoster
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszS0_PSqHqJA1T8Jh?embed=1&width=989&height=1280
+
+#Melany, 3 años. Es llevada a su consulta para seguimiento después de haber sido atendida en el urgencias por una enfermedad febril, ya resuelta. Durante ese evento, se realizó un uroanálisis con evidencia de proteinuria 3+.
+Al examen físico: 88/56 mm Hg, FC 98 lpm, FR 30, SatO2 98%. Trae un nuevo uroanálisis con 3+ de proteínas y trazas de sangre, densidad 1,015 y pH 6,0.
+¿Cuál de los siguientes pasos es el más apropiado para evaluar la proteinuria de esta paciente?
+#A.	Realizar ECO renal
+#B.	Ordenar proteinuria en orina de 24 horas
+#C.	Medir relación proteinuria/creatinuria 
+#D.	Solicitar urocultivo
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszS78q8oFD9Pm9CCW?embed=1&width=989&height=1280
+
+#Javier, 15 años. Acude al servicio de urgencias por presentar rectorragia con sangre roja brillante durante las últimas 24 horas. Por lo demás, se encuentra bien, no ha presentado sintomatología adicional. Al examen físico, afebril, taquicárdico, normotenso en decúbito supino e hipotenso en bipedestación. de molestias gastrointestinales ni ha perdido peso. Se realiza un tacto rectal confirmando la presencia de sangre de color rojo brillante. No hay fístulas ni abscesos. Se realizan laboratorios: Hb 8, plaq 220.000, pruebas de coagulación sin alteraciones. Se realiza una EDS que es normal. ¿Cuál de los siguientes diagnósticos es más probable en este caso?
+#A.	Divertículo de Meckel
+#B.	Tumor del estroma gastrointestinal
+#C.	Enfermedad de Crohn 
+#D.	Colitis ulcerativa
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszS8VFNr3QJObN-lp?embed=1&width=989&height=1280
+
+#Simón, 7 años con antecedentes de enfermedad de células falciformes, en manejo con hidroxiurea y ácido fólico. Es llevado a urgencias por cuadro clínico de 3 días de evolución de fatiga, mialgias y fiebre. Al examen físico, decaído, con T 39.3°C, taquicárdico, con conjuntivas pálidas. Se realizan paraclínicos: 10,3 y el recuento de leucocitos es de 14.100. Se administran LEV y se solicitan hemocultivos. ¿Cuál de los siguientes es el siguiente paso más apropiado en el tratamiento?
+#A.	Levofloxacina
+#B.	Vancomicina
+#C.	Prednisolona
+#D.	Ceftriaxona
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszTBOPRhqUg9hJ60F?embed=1&width=1938&height=1265
