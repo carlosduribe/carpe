@@ -25962,3 +25962,209 @@ DAS28-ESR: Disease Activity Score-28 for Rheumatoid Arthritis with ESR
 #D.	Situs inversus
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAszHvB6Eoe3FmyPtYx?embed=1&width=1975&height=1280
+
+#Femenina de 80 años es llevada a urgencias en contexto de cuadro clínico de 1 semana de evolución caracterizado por disnea progresiva, tos y fiebre. Tiene antecedente de cardiopatía isquémica, HTA y demencia leve. Signos vitales: Temp. de 38.9°C, FC de 115 lpm, PA de 75/50 mmHg, FR de 32 rpm y SatO2 del 93% con cánula nasal a 4 litros. Al examen físico, se auscultan crépitos en campo pulmonar inferior derecho.  Paraclínicos con evidencia de leucocitosis, hiperlactatemia y lesión renal aguda. Rx de tórax con evidencia de opacidad en lóbulo pulmonar inferior derecho. Se inician Hartman a 2L en bolo y se inicia ceftriaxona y azitromicina, pero persiste hipotensa y con un lactato elevado. La ecocardiografía al lado de la cama evidencia una función sistólica del ventrículo izquierdo levemente deprimida y una vena cava inferior dilatada sin cambio de calibre con la respiración. ¿Cuál de las siguientes intervenciones serian adecuadas en este caso?
+#A.	Administrar un bolo adicional de 30 cc/kg de Hartman.
+#B.	Agregar metronidazol IV.
+#C.	Iniciar dobutamina.
+#D.	Iniciar norepinefrina.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszH3xdcdlITq0fHeP?embed=1&width=1237&height=1600
+
+#Masculino de 67 años con antecedente de DM consulta por que hace 4 semanas le tomaron la PA encontrándose en valores de 144/88 mmHg. Desde entonces realizó modificaciones en su estilo de vida, pero en múltiples mediciones en casa, su PA se ha mantenido constantemente en rango de 150/90 mmHg. Se encuentra en manejo con metformina. Se realizan dos lecturas de PA en el consultorio con 5 min de diferencia: 152/90 mmHg y 145/86 mmHg. Se creatinina sérica es de 1.6, con una relación albúmina/creatinina urinaria de 240 mg/g. Su electrocardiograma evidencia un ritmo sinusal sin hipertrofia ventricular izquierda. Además de las modificaciones en su estilo de vida. ¿Cuál de los siguientes es el manejo más adecuado? 
+#A.	Un alfa-bloqueador.
+#B.	Un IECA
+#C.	Un inhibidor de canales de calcio.
+#D.	Un diurético tiazídico. 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszH5_jgqBoJNLZ0n0?embed=1&width=1237&height=1600
+
+#Femenina de 76 años consulta a urgencias en contexto de inapetencia, náuseas y debilidad. Tiene antecedente reciente de una masa pulmonar sospechosa de malignidad, enfermedad arterial coronaria, ICC con FEVI del 35% e HTA. La paciente se evidencia taquicárdica, con membranas mucosas secas, no hay distensión venosa yugular ni edema periférico. Paraclínicos: Nitrógeno ureico: 35 mg/dL (N: 10 – 20), Creatinina: 1.6 mg/dL (N: 0,6 – 1.1.), Calcio: 13.8 mg/dL (N: 9.0 – 10-5), Albumina: 3.2 g/dL (N: 3.5 – 5.5), hormona paratiroidea: 9pg/mL (N: 10 – 60). ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Indicar 250 ml/h de SSN 0.9% + furosemida 20 mg IV ahora.
+#B.	Indicar 150 ml/h de SSN 0.9% + furosemida 20 mg IV si se desarrolla sobrecarga.
+#C.	Indicar 200 ml/h de SNN 0.45% + furosemida 20 mg IV si se desarrolla sobrecarga.
+#D.	Indicar 200 ml/h de SNN 0.9% + clorotiazida 500 mg si se desarrolla sobrecarga.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszH_1Ft_aFpY2nJkY?embed=1&width=1237&height=1600
+
+#Masculino de 62 años se presenta en contexto de cuadro de larga data de disnea de esfuerzo progresiva y ortopnea. Niega dolor torácico. Tiene antecedente de tabaquismo, obesidad e HTA. Su PA es de 160/90 mmHg y el resto de signos vitales son normales. Al examen físico se auscultan sibilancias leves en ambos campos pulmonares y edema de miembros inferiores. Su péptido natriurético cerebral N-terminal de 560 pg/dL. Un electrocardiograma evidencia hipertrofia ventricular izquierda con agrandamiento auricular izquierdo. Una radiografía de tórax evidencia cardiomegalia leve y cefalización de los vasos pulmonares. Se indica la realización de una espirometría. ¿Cuál de los siguientes estudios se encuentra indicado en este caso? 
+#A.	Ecocardiograma.
+#B.	Cateterismo cardíaco con angiografía coronaria.
+#C.	TAC de tórax de alta resolución sin contraste.
+#D.	Angiografía pulmonar por TC. 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQBCHqrgrBCN1HD0?embed=1&width=1237&height=1600
+
+#Masculino de 31 años, consulta al programa control de diabetes. Tiene antecedente de un episodio reciente (hace 5 semanas) de cetoacidosis diabética sin etiología identificada, siendo dado de alta con esquema basal. Refiere cambios en su plan alimentario y perdida de 5 kg de peso desde el alta con disminución gradual de la dosis de insulina. También menciona que su madre y hermana han sido diagnosticados de DM2. Registra glucometrías con glicemias en ayunas entre 95-98 mg/dL y postprandial de 110 mg/dL. Al examen físico presenta signos vitales estables, IMC 30, moderado panículo adiposo de distribución central y acantosis nigricans. Trae reporte de analítica: Hb1Ac 5.8%, péptido C 3,2 ng/mL (VR: 0,8-3,1 ng/mL), glicemia en ayunas 105 mg/dL, anticuerpos Anti GAD negativos. Se decide suspender el esquema basal.  ¿Cuál de los siguientes tratamientos debe ser iniciado en este paciente? 
+#A.	Dapaglifozina
+#B.	Continuar con el plan alimentario actual y cita de control en 1 mes
+#C.	Glimepiride
+#D.	Metformina
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQEGaJ3pEy_vsc_Q?embed=1&width=1237&height=1600
+
+#Recién nacido de 12 horas de vida por parto vaginal a las 38 semanas, sin complicaciones. Se encuentra hospitalizado en conjunto con su madre y tiene prevista el alta en 12 horas más, de acuerdo con evolución. Tiene SaO2 en mano derecha de 95% en mano derecha y de 96% en pie derecho. ¿Cuál sería la conducta a seguir?
+#A.	Repetir pulsoximetrías en 12 horas o antes del alta
+#B.	Repetir pulsoximetrías en 1 hora 
+#C.	No repetir pulsoximetría, solicitar ecocardio
+#D.	No repetir pulsoximetría, no requiere manejo adicional
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQKxl2YSjQrMFWo-?embed=1&width=989&height=1280
+
+#Usted se encuentra en un hospital de tercer nivel y llega un traslado primario desde Cauca Viejo con Sofía de 3 años, con diagnóstico de dengue grave. La madre refiere que la paciente inició desde hace 5 días con fiebre objetiva de hasta 40°C, sin otra sintomatología. A los dos días, inició con vómito, dolor abdominal intenso y continuo, cefalea e hiporexia marcada, por lo cual al día siguiente la llevó al hospital local. Se realizó prueba de IgM para dengue la cual fue positiva, con AST y ALT elevadas. Al ingreso, hipotensa, taquicárdica, buena perfusión distal, petequias en extremidades. ¿Cuál es el manejo inicial en esta paciente?
+#A. Tomar función hepática completa para evaluar falla hepática
+#B. Hospitalizar e iniciar líquidos de mantenimiento por dengue con signos de alarma
+#C. Hospitalizar e iniciar líquidos intravenosos a 10 ml/kg/hora por dengue con signos de alarma
+#D. Iniciar bolo de 20 ml/kg y evaluar respuesta
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQNC4ep7KmpNHuEG?embed=1&width=1969&height=1280
+
+#Lauren, 15 meses, sin antecedentes patológicos. Asiste a guardería. Ingresa a urgencias por cuadro de emesis y diarrea. Sus síntomas comenzaron hace 3 días, con aprox. 4-8 episodios eméticos al día y con 4-5 episodios de deposiciones líquidas al día, sin sangre. Refiere que consume lactancia materna a libre demanda y algo de agua en el día, sin ingesta de sólidos. Los padres desconocen diuresis porque el pañal se contamina con heces. Al examen físico, 10 kg, FC 170 lpm, FR 50 rpm, PA 85/50 mmHg, afebril. Se encuentra adinámica, con mucosas secas y llenado capilar de 5 segundos. Sus extremidades están frías y moteadas. Se realizan exámenes: Hb 16, GB 8000, Plaq 250.000, electrolitos sin alteraciones, función renal conservada, glicemia 100 mg/dL. Se realiza cateterismo urinario, no se obtiene salida de orina. ¿Cuál sería el manejo inicial más apropiado para Lauren?
+#A.	80 cc/hora de SS 0.9%
+#B.	1 L de SS 0.9% IV en bolo
+#C.	200 mL de sales de rehidratación oral para admon en 1 hora
+#D.	200 mL de SS 0.9% IV en bolo
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQRhZelnmDR7S0t2?embed=1&width=989&height=1280
+
+#Dionisia, sin antecedentes, 10 meses de edad. Es llevada a urgencias por aparición de equimosis periorbitarias que aparecieron hace 16 horas. Además, los padres refieren 4 semanas de evolución de fiebre objetiva de 38.5 °C. Se encuentra taquicárdica, febril, con abdomen distendido, doloroso a la palpación, con masa intraabdominal palpable que se extiende desde el lado derecho de su abdomen hasta justo a la izquierda de la línea media. Se solicitó RMN, HLG, tiempos de coagulación, ionograma y ácido úrico. ¿Qué examen nos ayudaría a hacer el diagnóstico?
+#A. LDH elevada
+#B. Alfafetoproteína sérica elevada
+#C. Catecolaminas elevadas en suero y orina
+#D. CA-125 elevado
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQXg8zPp9YJuNgLY?embed=1&width=989&height=1280
+
+#Silvana, 14 años. Acude al médico con su padre por talla baja. Refiere sentirse bien, pero está preocupada porque todos sus amigos son más altos que ella. Su peso al nacer fue normal. El padre refiere que tuvo una estatura baja durante su adolescencia y actualmente mide 177 cm. Al examen físico, la paciente está por debajo de -3DE en talla y entre 0 y +1 DE de peso. Es Tanner 2. Trae un carpograma, con evidencia de una edad ósea de 11 años. ¿Cuál considera el paso a seguir para el diagnóstico?
+#A. HLG, electrolitos, función renal, TSH
+#B. HLG, TSH y cariotipo
+#C. HLG, VSG, electrolitos, TSH, función renal y ECO pélvica
+#D. Solo seguimiento
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQbs0rGno6N3m8a7?embed=1&width=989&height=1280
+
+#Maria José de 27 años, primigestante con gestación de 42 + 6 semanas sin complicaciones hasta el momento con resultado reciente de estreptococos del grupo B negativo, asiste a valoración prenatal.  Signos vitales Tº 37.2 ºC, FC 90 lpm, FR 16 rpm y PA 127/86 mm/Hg. Al examen físico útero blando y no doloroso, sin evidencia de contracciones. Se realizó una monitoria fetal que no evidencia actividad uterina y reporta una frecuencia cardíaca tranquilizadora sin evidencia de desaceleraciones. La ecografía transabdominal muestra al feto en presentación cefálica, movimientos fetales normales, un índice de líquido amniótico de 4 cm y calcificaciones de la placenta. ¿Cuál es la conducta adecuada a seguir?
+#A. Realizar una cesárea de urgencia
+#B. Inducir el parto
+#C. Realizar una amnioinfusión transabdominal
+#D. Indica manejo expectante y seguimiento con monitoreos fetales
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQdXmUo_udrpCgg0?embed=1&width=1973&height=1280
+
+#Claudia de 27 años, G2P1 con 32 semanas de gestación, sin otro antecedente de interés, consultó por 24 horas de disminución de la actividad fetal, comentó que previamente sentía entre 10 y 12 movimientos por hora y ahora de 7 a 8 por hora. Signos vitales Tº de 37,2 °C, PA de 108/60 mm Hg, FC: 88 lpm y SO2 de 96% al ambiente. Al examen pélvico, el feto se encuentra en posición transversal, con frecuencia cardíaca fetal de 134 lpm. Se realizó una prueba de monitoreo fetal sin estrés durante 14 minutos en la que se evidenció una frecuencia cardíaca fetal (FCF) normal de aprox. 130 lpm con variabilidad fisiológica, con 4 aceleraciones en 14 minutos y sin desaceleraciones.  ¿Cuál es la conducta adecuada a seguir?
+#A. Indica realizar cesárea de emergencia
+#B. Ampliar el tiempo de duración del monitoreo fetal sin estrés 20 minutos
+#C. Tranquilizar a la madre y continuar con la atención prenatal de rutina
+#D. Repetir la prueba sin estrés cada 7 días.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQiFg_9llCjGwQAC?embed=1&width=1967&height=1280
+
+#Laura, una paciente de 35 años, G1P0, con 28 semanas de gestación, acude a consulta debido a episodios recurrentes de dolor abdominal bajo acompañado de sensación de pesadez pélvica en las últimas 24 horas. No presenta sangrado vaginal, fiebre ni disuria. Al examen físico, su abdomen es compatible con el embarazo de 28 semanas, sin signos de irritación peritoneal, con actividad uterina irregular no dolorosa. La ecografía realizada muestra una placenta de inserción anterior sin signos de desprendimiento y una longitud cervical de 22 mm. La frecuencia cardíaca fetal es de 140 lpm con movimientos fetales normales. La paciente no presenta contracciones regulares, pero tiene historia de tabaquismo activo, y no ha recibido aún la dosis de corticoides para maduración pulmonar fetal.
+¿Cuál es la conducta adecuada a seguir en este caso?
+#A. Reposo absoluto en cama y monitorización diaria de la actividad fetal
+#B. Hospitalización y administración de betametasona 12 mg cada 24 horas durante 48 horas
+#C. Realización de cerclaje cervical para prevención de parto prematuro
+#D. Hospitalización y administración de dexametasona 6 mg cada 12 horas durante 24 horas
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQlFWNV1yP6_gXwN?embed=1&width=2458&height=1600
+
+#Valentina de 34 años, con antecedente de linfoma no Hodgkin tratado con quimioterapia hace 5 años, sin antecedente familiar u otro médico de importancia. Ahora consultó por amenorrea de 3 meses, refiere que comenzó a tener períodos irregulares hace un año y ahora sin menstruación. No refiere cefalea, cambios visuales, galactorrea, pérdida de cabello o fatiga. Signos vitales PA de 120/80 mm/Hg y FC de 78 lpm. En el examen físico, la tiroides es de grado 0 según la clasificación de la OMS, sin presencia de masas. Mucosa vaginal seca y un útero móvil pequeño, en anteversión, sin masas anexiales. Una prueba de embarazo es negativa. ¿Cuál de los siguientes hallazgos de laboratorio es más probable que esté presente en ella?
+#A. FSH elevada, LH elevada, Prolactina normal, TSH normal
+#B. FSH disminuida, LH disminuida, Prolactina normal, TSH normal
+#C. FSH normal, LH normal, Prolactina normal, TSH normal
+#D. FSH disminuida, LH disminuida, Prolactina elevada, TSH elevada
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQp4Wpw8X7IASLbA?embed=1&width=2458&height=1600
+
+#Juliana de 15 años, con antecedente sangrado menstrual abundante desde la menarquia hace 2 años, planifica con anticonceptivos orales combinados y no es sexualmente activa. Ahora consultó por sangrado menstrual abundante y salida de un coágulo de sangre del tamaño de una “pepa de aguacate”. Refiere que la menstruación comenzó esta mañana y lleva empapando un tampón y una compresa cada 30 a 60 minutos durante las últimas 8 horas. Además, comentó astenia, adinamia y cefalea. Signos vitales FC 80 lpm, PA 120/80 mmHg. Al examen físico, en la especuloscopia se extrae un gran coágulo de sangre de la vagina y se observa un flujo lento pero constante de sangre roja brillante que sale del orificio cervical. Paraclínicos reportan: Hb de 10.1 g/dl, plaquetas de 210,000, TP de 12 seg (10-13 seg), INR 1.0 (0.8-1.1) y TTP 30 seg (Normal de 21 a 35 seg). Una ecografía transabdominal sin hallazgo anormal. ¿Cuál de los siguientes es el paso inicial más adecuado en el tratamiento para ayudar a controlar el sangrado de esta paciente?
+#A. Administración de estrógenos equinos conjugados vía oral.
+#B. Indicar una embolización de la arteria uterina.
+#C. Uso de balón de Bakri.
+#D. Reducción gradual de la dosis de los anticonceptivos orales combinados
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQurOaWPGurn2nSR?embed=1&width=2450&height=1600
+
+#Doña Milena de 66 años con antecedentes de asma y gota tofácea (con dos crisis documentadas), acude a consulta por diagnóstico reciente de hipertensión arterial. Su presión arterial es de 160/88 mmHg. En estudios previos, se ha detectado estenosis de la arteria renal sobre riñón único. 
+¿Cuál sería el medicamento antihipertensivo de elección en este caso?
+#A. Losartán 
+#B. Hidroclorotiazida  
+#C. Enalapril 
+#D. Amlodipino 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQytYWAYC4quX6Ov?embed=1&width=2461&height=1600
+
+#Varón de 17 años, asintomático, en quien se detecta anemia leve durante un chequeo médico de rutina. A la exploración física, se observa ictericia escleral, esplenomegalia y palidez. Sus antecedentes familiares incluyen casos de litiasis biliar en edades tempranas. 
+¿Cuál sería el diagnóstico más probable? 
+#A. Deficiencia de ácido fólico y/o vitamina B12.
+#B. Deficiencia de glucosa-6-fosfato deshidrogenasa (G6PD)
+#C. Esferocitosis hereditaria.
+#D. β-talasemia menor. 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQ11pF1FyGbyaK7K?embed=1&width=2463&height=1600
+
+#Una paciente de 65 años, Doña Ana, acude a Urgencias por un dolor abdominal súbito en el cuadrante inferior izquierdo, seguido horas después por la salida de sangre roja rutilante por el recto. Tiene antecedentes de hipertensión arterial en manejo con losartán + amlodipino. En el examen físico los signos vitales son normales, abdomen blando, no distendido, con sensibilidad a la palpación en fosa iliaca izquierda, sin signos de irritación peritoneal. Al tacto rectal se evidencia una discreta cantidad de sangre roja rutilante en el canal rectal. Laboratorios: leucocitos, 12.100/m3, BUN 25 mg/dL, sin otros hallazgos relevantes. TAC abdominopélvico:  engrosamiento segmentario del colon descendente y sigmoides.
+¿Cuál es el diagnóstico más probable? 
+#A. Colitis ulcerativa
+#B. Diverticulitis aguda
+#C. Colitis isquémica
+#D. Colitis infecciosa Por C. difficile
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQ4pdjUelU8XUjeW?embed=1&width=2474&height=1600
+
+#Mujer de 36 años, sin antecedentes relevantes, consulta por cefalea progresiva de dos meses de evolución, descrita como holocraneal, punzante e intensa (especialmente por las mañanas) y que alivia al automedicarse con AINEs. Refiere que los episodios de cefalea suelen acompañarse en ocasiones de visión borrosa y episodios transitorios de amaurosis fugaz bilateral. El examen fisico muestra signos vitales estables. IMC 34. El examen neurológico es normal. La oftalmoscopia revela papiledema bilateral. 
+¿Qué examen confirmará definitivamente el diagnóstico?
+#A. TAC de cráneo contrastada.
+#B. Resonancia magnética cerebral.
+#C. Punción lumbar.
+#D. EcoDoppler de arterias carótidas y vertebrales.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszQ-0aIyjygelFJ39?embed=1&width=2464&height=1600
+
+#Varón de 31 años, quien es traído al servicio de urgencias bajo la sospecha de ingestión de una sustancia cáustica. A la valoración inicial presenta taquicardia, taquipnea, desaturación, diaforesis profusa y un bajo nivel de conciencia. Se observan estigmas de quemaduras en los labios y en la mucosa oral. Se solicita valoración urgente por anestesiología para manejo ideal de la vía aérea. 
+¿Cuál sería la conducta más apropiada que debe realizar el anestesiólogo? 
+#A. Oxigenación previa, inducción de secuencia rápida e intentar la intubación con asistencia de videolaringoscopio
+#B. Obtener acceso a la vía aérea utilizando una cricotiroidotomía percutánea.
+#C. Ventilación no invasiva antes de intentar una intubación endotraqueal.
+#D. Oxigenación previa, inducción de secuencia rápida y laringoscopia directa.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRB7lJ7B4rUBslRU?embed=1&width=2468&height=1600
+
+#Doña Eusebia de 59 años, anticoagulada por fibrilación auricular, ahora en POP +1 día de hemicolectomía derecha por cáncer de colon, cursa con 5 horas de dolor lumbar progresivo y dificultad para mover los miembros inferiores. Signos vitales Tº 37,2 °C, FC de 100 lpm y PA de 130/90 mm Hg. Al examen físico, sitio de catéter epidural bien ubicado sin signos inflamatorios o infecciosos, fuerza 1/5 en escala de Daniels en miembros inferiores, reflejos tendinosos profundos ausentes en ambas extremidades y ausencia de respuesta al tacto desde el ombligo para abajo. Los paraclínicos reportan Hb de 11,2, PCR 2, leucocitos de 6.000 y plaquetas de 215.000. Se realizó RNM que reportó lesión epidural hiperintensa que ocupa espacio a nivel de las vértebras T11-L1 en vista T2. ¿Cuál es la conducta a seguir?
+#A. Observar la evolución de la paciente en 24 horas.
+#B. Realizar descompresión quirúrgica.
+#C. Administrar vancomicina y cefepime.
+#D. Realizar aspiración guiada por TC
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRFKMrYmn8kHbgpV?embed=1&width=2464&height=1600
+
+#Martín de 26 años, sin antecedentes de interés, llevado a urgencias posterior a trauma craneoencefálico con arco de portería de fútbol. Sus compañeros de equipo mencionan que no respondió después del incidente, pero recuperó el conocimiento después de 15 minutos. Signos vitales Tº de 37,1 °C, FC de 78 lpm, FR 17 rpm y PA 148/87 mm Hg. Al examen físico, paciente con glasgow 14/15, orientado en persona, espacio y lugar, tiene un área de inflamación de los tejidos blandos sobre la región temporal izquierda. Se realizó una TAC que evidenció una hiperdensidad en forma de lente biconvexa en la región frontotemporal izquierda. Después de regresar de la TAC, el paciente presenta un puntaje de Glasgow de 8/15, anisocoria y una frecuencia respiratoria de 8 rpm, por lo que fue intubado. ¿Cuál de las siguientes es la conducta adecuada?
+#A. Repita la tomografía computarizada de la cabeza
+#B. Administrar dexametasona
+#C. Realizar craneotomía urgente
+#D. Realizar resonancia magnética cerebral 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRIP6oHM4PxrvQ0D?embed=1&width=2471&height=1600
+
+#Varón de 80 años, sin antecedentes de interés, es llevado a urgencias por 1 día de cefalea difusa e incapacidad de comprender el habla. No ha presentado traumas o caídas. Los signos vitales están dentro de los límites normales. Al examen neurológico afasia fluente, sin sentido del contenido del habla y con incapacidad para repetir frases. Se realizó una tomografía computarizada de la cabeza simple que evidenció una hemorragia aguda en el lóbulo temporal izquierdo y varias hemorragias pequeñas y antiguas en los lóbulos occipitales bilaterales. ¿Cuál de las siguientes es la causa más probable de los síntomas neurológicos de Santiago?
+#A. Lipohialinosis vascular de las paredes de los vasos cerebrales
+#B. Una malformación vascular rota
+#C. Encefalopatía hipertensiva
+#D. Angiopatía amiloide cerebral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszROzpe6yeepkYY32?embed=1&width=2464&height=1600
+
+#Camilo de 18 años, sin antecedentes de interés, consultó junto a sus padres por 3 semanas de fatiga, pérdida de apetito e irritabilidad. Los padres de Camilo refieren que hace seis meses falleció su abuelo, con quien era muy cercano. Además, cuando regresa a casa de la escuela, se va directamente a la cama y duerme entre 11 y 12 horas cada noche. También dejó de entrar con el equipo de fútbol y ha tenido un mal desempeño académico recientemente. Los signos vitales están dentro de los límites normales. En el examen del estado mental, evita hacer contacto visual, pero coopera con el examen. Su afecto es limitado y describe un estado de ánimo irritable. Se distrae fácilmente y le cuesta concentrarse en una conversación prolongada. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Trastorno depresivo mayor
+#B. Trastorno de adaptación con estado de ánimo deprimido
+#C. Depresión con características atípicas
+#D. Trastorno de ansiedad generalizada
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRQolfx17oK828pm?embed=1&width=2476&height=1600
+
+#Varón de 57 años con hemorragia intraparenquimatosa cerebral. ¿Bajo qué escenarios NO se recomienda el tratamiento quirúrgico?
+#A. Hematoma lobar significativo que causa un deterioro neurológico progresivo
+#B. Hemorragia intraventricular que provoca hidrocefalia y contribuye al deterioro neurológico.
+#C. Hematoma cerebeloso mayor de 30 mm que comprime el cuarto ventrículo y provoca disminución del nivel de conciencia.
+#D. Hematoma lobar de gran extensión en un paciente neurológicamente estable y con síntomas mínimos.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszRVSZyfzhs6mVHp1?embed=1&width=1237&height=1600
