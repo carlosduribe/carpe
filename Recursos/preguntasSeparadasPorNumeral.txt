@@ -25596,3 +25596,205 @@ DAS28-ESR: Disease Activity Score-28 for Rheumatoid Arthritis with ESR
 #D. Insuficiencia cardíaca
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAswg-9eib3oDR_jW8u?embed=1&width=1237&height=1600
+
+#Masculino de 22 años consulta por dolor facial agudo y severo en región peri-orbitaria derecha y en la sien desde hace 2 horas. Refiere que el dolor inició de forma progresiva y que ha ido empeorando lentamente. Además, indica que siente la oreja derecha “llena de algodón” y presenta rinorrea. Ha tenido episodios similares previamente, que a menudo ocurres varios días seguidos en un mismo mes. ¿Cuál es el tratamiento inicial más apropiado?
+#A.	Iniciar oxigeno por cánula nasal de alto flujo.
+#B.	Iniciar carbamazepina.
+#C.	Iniciar amitriptilina.
+#D.	Iniciar ketorolaco
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszE5gWA5U51e-IW9K?embed=1&width=1237&height=1600
+
+#Masculino de 26 años es llevado a urgencias por un estado mental alterado. Su acompañante informa que el paciente se desplomó y desarrolló rigidez rítmica y movimientos espasmódicos que duraron dos minutos. Antes de llegar a urgencias se encontraba confundido y combativo. Tuvo un episodio similar previo al ingreso. Signos vitales: Temp. de 37°C, FC de 100 lpm, FR de 28 rpm y PA de 120/80 mmHg. Saturación de 97% con O2 ambiente. El paciente se encuentra somnoliente, abre los ojos ante estímulos dolorosos. Al examen físico hay una abrasión en lengua. El resto de examen físico es normal. Paraclínicos: Na+: 138 mEq/L, K*: 4.2 mEq/L, Cl: 95 mEq/L, Examen toxicológico negativo, Glucometría: 58 mg/dL, Hb 14 gr/dL. ¿Cuál es el manejo inmediato indicado en este paciente?
+#A.	Realizar una tomografía de cráneo simple.
+#B.	Indicar diazepam IV.
+#C.	Indicar tiamina IV + dextrosa.
+#D.	Realizar intubación orotraqueal.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszE97dTg7RN2NTaYl?embed=1&width=1237&height=1600
+
+#Masculino de 75 años es llevado a urgencias por un cuadro de 2 días de evolución caracterizado por cefaleas y vómitos asociado a irritabilidad, cefalea, dolor ocular y fotofobia. Signos vitales: Temp. de 38.8°C, FC de 90 lpm y PA de 137/85 mmHg. Saturación del 97% con O2 ambiente. Al examen físico el paciente se encuentra letárgico, el fondo de ojo evidencia papiledema bilateral, la flexión del cuello provoca una flexión involuntaria de las rodillas y caderas. Se obtienen hemocultivos, se administran antibióticos empíricos y corticoides. ¿Cuál es el paso a seguir en el manejo de este paciente?
+#A.	Realizar intubación orotraqueal.
+#B.	Realizar punción lumbar.
+#C.	Realizar un electroencefalograma.
+#D.	Realizar una tomografía de cráneo simple.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFBhQtgBL-v0NaAX?embed=1&width=1237&height=1600
+
+#Masculino de 64 años es llevado a urgencias posterior a una crisis convulsiva. Al ingreso refiere cefalea y fosfenos. Signos vitales: Temp. de 39°C, PA de 95/55 mmHg y FC de 110 lpm. Tiene antecedente de linfoma difuso de células B gigantes en manejo quimioterapéutico. Una TAC de cráneo es normal y una punción lumbar confirma el diagnostico de meningitis bacteriana. El hemocultivo evidencia bacilos grampositivos. ¿Cuál es el manejo antibiótico más adecuado?
+#A.	Ampicilina.
+#B.	Ceftriaxona.
+#C.	Ciprofloxacina.
+#D.	Clindamicina.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFFdBm3XHyAAItOq?embed=1&width=1237&height=1600
+
+#Femenina de 41 años con antecedente de epilepsia es llevada a urgencias por actividad convulsiva. Hace 3 días ha presentado diarrea y hoy se sintió débil y presentó el episodio convulsivo. Al llegar a urgencias se evidencian convulsiones tónico clónicas. Se encuentra en manejo con levetiracetam. Signos vitales: Temp. de 36°C, FC de 100 lpm, FR de 10 rpm y PA de 130/80 mmHg. Una glucometría es normal. La administración de Midazolam IV yugula la convulsión. ¿Cuál de las siguientes pruebas confirmaría la causa de su nueva crisis convulsiva? 
+#A.	Niveles séricos de levetiracetam.
+#B.	TAC de cráneo simple.
+#C.	Coprocultivo.
+#D.	Examen toxicológico.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFJZL6x009ArZCkn?embed=1&width=1237&height=1600
+
+#César de 75 años, con barthel de 40 puntos, con antecedente de cáncer de colon en etapa avanzada en manejo paliativo con morfina y fentanilo, dado el dolor intenso asociado a su diagnóstico. Ahora está ingresado en un centro de cuidados paliativos. En el momento no refiere dificultades con sus deposiciones, comentó que come 3 comidas al día y defeca 3 veces por semana. De resto no comenta sintomatología y refiere dolor en el momento bien controlado. Los signos vitales están dentro de los límites normales y los hallazgos del examen físico son normales. ¿Cuál es la conducta terapéutica indicada para César?
+#A. Administrar glicerina
+#B. Indica uso de sorbitol
+#C. Ordena citrato de magnesio
+#D. Se debe usar laxante sen (o senna)
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFOLMX-ftfyBas4H?embed=1&width=2473&height=1600
+
+#Anderson de 5 años, en postoperatorio de apendicectomía por apendicitis aguda, llevado por su madre por disnea, tos y dolor torácico intenso. La madre de Anderson refiere hospitalización hace un año por dactilitis de miembro superior e inferior. Signos vitales Tº 38.6 °C, FR 28 rpm, SO2 97% a FiO2 ambiente. Al examen físico con ictericia sublingual y en escleras, herida quirúrgica post apendicectomía sin eritema ni drenaje purulento. Con sibilancias a la auscultación pulmonar. Tiene una Hb del ingreso de 10 g/dl y resto de paraclínicos luego de 48 horas que reportan Hb de 8 g/dl, Leucocitos 8.000, Bilirrubina total de 4 y bilirrubina indirecta de 3.5, LDH de 600 U/L. Una radiografía de tórax muestra un infiltrado en el lóbulo superior izquierdo. Además de la fluidoterapia, los antibióticos intravenosos y la analgesia.  ¿Cuál es la conducta más adecuada a seguir?
+#A. Transfusión de concentrados de glóbulos rojos
+#B. Terapia con hidroxiurea
+#C.  Realizar exanguinotransfusión
+#D. Administrar Dexametasona
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFTjyiydEWGdgvsP?embed=1&width=1237&height=1600
+
+#Olga de 48 años, con antecedente de hospitalización por infección viral de tracto respiratorio superior asociado a un cuadro de hipoacusia en el oído derecho, ahora consultó por vértigo constante que en las últimas horas se ha asociado a náuseas y emesis, junto a inestabilidad al caminar. No refiere nistagmus. Signos vitales dentro de rangos normales. Al examen físico, la maniobra de Dix-Hallpike evidencio un nistagmo unidireccional del lado derecho. La prueba de impulso cefálico evidencia movimientos sacádicos. El resto del examen neurológico es normal. ¿Cuál es el diagnóstico más probable? 
+#A.	Un vértigo postural paroxístico benigno.
+#B.	Una Laberintitis
+#C.	Una enfermedad de Meniere
+#D.	Un síndrome de Ramsay Hunt.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFWp55iKPNF5E4BM?embed=1&width=2470&height=1600
+
+#Paula 35 años, con antecedente de erupción vesicular en zona axilar hace un año, consultó a urgencias por dolor de dos semanas de evolución en mejilla izquierda, punzante y dura de 30 a 60 segundos. Los episodios ocurren varias veces al día y se desencadenan al cepillarse los dientes, e incluso al hablar o comer. Los signos vitales se encuentran dentro de límites normales y el examen neurológico no revela déficits motores o sensoriales evidentes. No hay alteraciones en los reflejos faciales ni en los nervios craneales. No se observan erupciones cutáneas. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A.	Cefalea en racimo
+#B.	Neuralgia trigeminal
+#C.	Neuralgia posherpética
+#D.	Arteritis de Horton
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFaf_H3voNePLtUt?embed=1&width=1237&height=1600
+
+#Doña Gloria de 60 años, con antecedente de migrañas y depresión, consulta junto a su esposo a urgencias por cuadro de confusión durante las últimas 2 horas. Su esposo refiere que estaban en el supermercado cuando súbitamente ella no podía recordar por qué estaba allí, ni cómo había llegado. No ha tenido ningún traumatismo craneoencefálico. Sus signos vitales están dentro de los límites normales. Al examen neurológico, alerta, orientada en persona y espacio, pero no en tiempo, con capacidad de seguir órdenes y mantener la atención. Recuerda 3/3 de los objetos inmediatamente y recuerda 0/3 de los objetos a los 5 minutos. El resto del examen no muestra anomalías. ¿Cuál es el diagnóstico más probable?
+#A. Amnesia global transitoria
+#B. Delirio
+#C. Amnesia disociativa
+#D. Enfermedad de Alzheimer
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFdmmJkmeuPAKcDR?embed=1&width=1237&height=1600
+
+#Ofelia, de 37 años, con antecedentes de infección por VIH, sin recibir manejo con terapia HAART y con un último recuento de CD4+ de 80/mm³ hace un mes, consultó a urgencias por 5 días de disartria, odinofagia y fiebre objetiva de 39 °C. Al interrogatorio, refiere que no tolera sólidos ni líquidos y siente una sensación de “comida atascada” en la región posterior de la faringe. Signos vitales: Tº de 39 °C, PA de 130/70 mmHg y FC de 90 lpm. Al examen físico se evidencian manchas blancas en la mucosa orofaríngea, además de adenomegalias bilaterales en el componente cervical, no adheridas a planos profundos y dolorosas a la palpación. ¿Cuál es la conducta terapéutica adecuada a seguir con Ofelia?
+#A. Fluconazol
+#B. Azitromicina
+#C. Anfotericina B
+#D. Ceftriaxona
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFhugvQ2OKusUGhx?embed=1&width=2462&height=1600
+
+#Mauricio, de 38 años, asiste a su consulta ambulatoria con psiquiatría. Tiene antecedentes de esteatohepatitis alcohólica, hepatitis C, consumo de múltiples sustancias psicoactivas y ansiedad. Refiere que, a pesar de su adherencia al manejo con sertralina, sigue presentando episodios recurrentes de hiperventilación y experiencias extracorporales, comentando que no puede controlar los ataques de pánico. Los signos vitales están dentro de los límites normales y el examen físico no presenta anomalías. ¿Cuál de los siguientes medicamentos se debe utilizar con precaución al tratar la afección clínica de este paciente?
+#A. Alprazolam
+#B. Diazepam
+#C. Lorazepam
+#D. Oxazepam
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFmlPESTV7480YDZ?embed=1&width=2479&height=1600
+
+#Fernando de 66 años sin antecedentes médicos de interés es llevado a urgencias debido a dolor en el hombro derecho posterior a una caída. El paciente refiere estaba montando bicicleta por un sendero cuando recibió un golpe accidental y cayó sobre su hombro y la mano derecha extendida. No comenta otros traumas ni pérdida del conocimiento. Los signos vitales están dentro de los límites normales. El examen físico muestra a un hombre sosteniendo su brazo derecho con su mano izquierda. Hay dolor y edema en el húmero proximal.  Una radiografía evidencia una fractura transversa del cuello quirúrgico del húmero, sin evidencia de otras lesiones en el miembro superior derecho. ¿Cuál de las siguientes acciones se verá afectada?
+#A. Abducción y aducción de los dedos 
+#B. Abducción del brazo a la altura del hombro 
+#C. Extensión de codo, muñeca y dedos.
+#D. Flexión y supinación del antebrazo 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFqu8O5PTDaNt6eL?embed=1&width=2471&height=1600
+
+#Dario de 32 años, con antecedente de consumo de sustancias psicoactivas, consultó por dolor torácico de inicio súbito, en hemitórax izquierdo, de característica 10/10 (EAD). Signos vitales PA 160/90 mmHg, FC de 125 lpm regular, y FR de 20 rpm. Al examen físico paciente agitado y diaforético, con pupilas midriáticas, mucosa nasal atrófica. La auscultación cardiopulmonar sin hallazgos anormales. Un ECG con depresión del segmento ST e inversión de la onda T en las derivaciones V4-V6. El primer conjunto de enzimas cardíacas normales. La radiografía de tórax sin anormalidades. ¿Cuál es el tratamiento adecuado de este paciente?
+#A. Solicitar cateterización cardiaca 
+#B. Iniciar Diazepam intravenoso
+#C. Iniciar metoprolol intravenoso
+#D. Observación estrecha y seguimiento
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFvxmmhxvyWiv9Qw?embed=1&width=2476&height=1600
+
+#Pablo de 16 años consultó a urgencias por lesión en el ojo izquierdo secundaria a impacto por cuerpo extraño mientras podaba césped, refiere sensación de cuerpo extraño, dolor, epifora y disminución de la visión en el ojo. Sin antecedentes médicos relevantes. El padre del paciente refiere inyección conjuntival pero al examen físico, no se visualizó ningún cuerpo extraño. Durante la estancia en urgencias, el paciente se presenta con evidente malestar y mantiene el ojo izquierdo cerrado. ¿Cuál de los siguientes hallazgos es más sugestivo de perforación aguda del globo ocular en este paciente?
+#A. Presencia de opacidad Corneal
+#B. Presencia de una pupila fija en forma de lágrima
+#C. Presencia de hipopion
+#D. Presencia de equimosis periorbitaria
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszFxYwKP0y5OZD-ZB?embed=1&width=2460&height=1600
+
+#Recién nacido de 36 semanas de gestación, por parto vaginal espontáneo, con adecuada adaptación neonatal. Gestación sin complicaciones. Se toma muestra de TSH del cordón umbilical, con un resultado de 10 µUl/mL. ¿Cuál sería el paso a seguir? 
+#A.	Iniciar tratamiento con levotiroxina
+#B.	Repetir la muestra a las 72 horas de vida
+#C.	Repetir la muestra a las 2 semanas de vida
+#D.	Está normal, no requiere seguimiento
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszF0bCVc1r6ngtJOt?embed=1&width=989&height=1280
+
+#Juan José, 3 años, con antecedentes de asma bien controlada. Es llevado a urgencias porque fue encontrado en el baño de su casa, con alteración del estado de consciencia y oliendo a enjuague bucal. Los únicos medicamentos que hay en la casa son acetaminofén, salbutamol y un antihipertensivo que está guardado bajo llave. Al examen físico, T 35°C, FC 98 lpm, FR 10 rpm, PA 100/68 mmHg, satO2 96% al aire ambiente. Tiene una puntuación de 6 en la escala de coma de Glasgow. Sus pupilas son de 4 mm, lentamente reactivas y sus extremidades están frías. Además de estabilizar las vías respiratorias y establecer un acceso venoso, ¿cuál de los siguientes pasos es el más apropiado para este niño?
+#A.	Realizar una glucometría
+#B.	Iniciar descontaminación con carbón activado
+#C.	Tomar niveles de etanol
+#D.	Administrar naloxona
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszF7W5rpTLs3C-qS-?embed=1&width=989&height=1280
+
+#Andrés, 16 años, sin antecedentes referidos. Inició con dolor en el dedo anular derecho tras lesionarse mientras jugaba fútbol anoche. Sintió un chasquido cuando su dedo quedó atrapado en la camiseta de su oponente cuando al intentar derribarlo. Tiene dolor a la palpación y edema en la cara volar de la articulación interfalángica distal (IFD) del dedo afectado. Puede extender la articulación IFD, pero no puede flexionarla activamente. No tiene déficit neurovascular. En la rx, se evidencia una fractura por avulsión de la falange distal del dedo afectado. ¿Qué manejo le daría a esta lesión?
+#A.	Aplicar hielo, compresión, elevación y ejercicios de rango de movimiento tempranos
+#B.	Entablillar la IFD en extensión
+#C.	Sindactilizar 3 y 4 dedo
+#D.	Entablillar IFD e IFP en ligera flexión
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszF_vVTrIm9v-Wli9?embed=1&width=989&height=1280
+
+#Yuliana, 14 años, con antecedentes de lupus eritematoso sistémico. Acude a su consulta, refiriendo que durante los últimos meses, sus períodos menstruales han sido más abundantes de lo habitual y se le forman hematomas con facilidad durante las prácticas de fútbol. También señala gingivorragia posterior al cepillado. Niega otros síntomas asociados. Al examen físico, se evidencia una erupción roja fina, puntiforme, que no palidece, en las piernas, los brazos y el paladar blando. Tiene varios hematomas en la parte anterior de ambas piernas. Se realiza un uroanálisis, con evidencia de + sangre y ++ proteínas. ¿Cuál de los siguientes diagnósticos es más probable en esta paciente?
+#A.	Síndrome de Von Willebrand
+#B.	Anticoagulante lúpico
+#C.	Trombocitopenia grave
+#D.	Deficiencia del factor VII
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGCk5UCUKoL5fQCI?embed=1&width=989&height=1280
+
+#Luis tiene 12 años. Es llevado a urgencias por un dolor testicular intenso después de recibir un trauma contuso en un partido de fútbol. Al examen físico, taquicárdico, sudoroso, con facies de dolor, manifiesta náuseas intensas. ¿Cuál sería la primera medida a tomar?
+#A. Anamnesis y examen físico
+#B. Ingreso hospitalario inmediato y observación
+#C. Indicar manejo analgésico ambulatorio y cita de revisión
+#D. ECO doppler testicular de urgencia.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGFaKNcex7ERak1l?embed=1&width=1237&height=1600
+
+#Varón de 51 años, sin antecedentes médicos de interés, quien es traído a urgencias por cuadro de tres semanas de evolución caracterizado por cefalea global, persistente, astenia y febrícula que ocurre principalmente en las horas de la tarde o al anochecer. Los familiares refieren que presenta momentos de confusión alternante y un progresivo estado de somnolencia. Al examen físico presenta T 38.2 ºC, rigidez de nuca y signos meníngeos dudosos. Se observa paresia del VI nervio craneal izquierdo. Laboratorios: hemograma y perfil metabólico normal. La radiografía de tórax revela un leve engrosamiento de la pleura en el vértice pulmonar derecho. Se realiza punción lumbar que evidencia PA 165 mmhg, proteínas 152 mg/dL, glucosa 52 mg/dL, leucocitos 282: 75% monucleares. Tanto la tinción de Gram como la de Ziehl-Neelsen y el test de aglutinación con látex son negativas. Entre las siguientes opciones, ¿cuál es el diagnóstico más probable?
+#A. Encefalitis herpética 
+#B. Meningitis viral
+#C. Meningitis tuberculosa
+#D. Meningitis bacteriana
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGKoPWWvv1DGK_Pi?embed=1&width=1237&height=1600
+
+#Varón de 41 años, ingresa al servicio de urgencias con cuadro de cinco semanas de evolución caracterizado por debilidad progresiva en hemicuerpo derecho, disartria y alteraciones en la visión. Tiene antecedente de infección por VIH con recuento de CD4 en 28 células/μL y ha decidido no iniciar TAR por decisión propia. Al examen físico presenta signos vitales estables. En la exploración neurológica, el paciente se encuentra confuso, desorientado en tiempo y espacio, presenta hemiparesia derecha y hemianopsia homónima derecha. La RM celebral contrastada evidencia lesiones bilaterales, hipodensas, localizadas en la sustancia blanca periventricular parieto-occipital, sin realce tras la administración de contraste y sin evidencia de desplazamiento significativo de estructuras circundantes. 
+¿Cuál de los siguientes es el diagnóstico más probable?
+#A. Toxoplasmosis
+#B. Linfoma primario del sistema nervioso central
+#C. Leucoencefalopatía multifocal progresiva
+#D. Glioma de alto grado
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGNLt7aPhc_YXV6Z?embed=1&width=1237&height=1600
+
+#Varón de 28 años, quien acude a urgencias enrojecimiento del ojo derecho, acompañado de secreción amarilla espesa y sensación de cuerpo extraño. Niega dolor asociado. Refiere que la secreción se acumula rápidamente después de limpiarse el ojo, y que sus párpados están pegados al despertar. Utiliza lentes de contacto regularmente. Al examen físico, se observa inyección conjuntival difusa en el ojo derecho, secreción mucopurulenta abundante y edema leve de los párpados. No se evidencian úlceras corneales y la agudeza visual es normal. Además de suspender el uso de lentes de contacto, ¿Cuál de los siguientes es el tratamiento adicional más adecuado?
+#A. Olopatadina colirio 2% una gota cada 12 horas 
+#B. Polimixina B 6,000 UI/mL + dexametasona 0.1% + neomicina 0.35% colirio una gota cada 6 horas 
+#C. Ciprofloxacina colirio 0,3% una gota cada 4 horas 
+#D. Tobramicina 0.3 + dexametasona 0.1% colirio una gota cada 4 horas
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGQGRkpmLIr8tyRB?embed=1&width=1237&height=1600
+
+#Varón de 65 años, sin antecedentes de interés, evaluado por historial de ocho semanas de fatiga progresiva y pérdida del apetito. El examen físico es normal. Laboratorios: Hb 9.2 g/dL, Cr 1.5 mg/dL, Na+ 129 mEq/L, K+ 3.8 mEq/, Cl 100 mEq/L, osmolaridad sérica 292 mOsm/kg H2O, Ca ++ 10.9 mg/dL, albumina 2.8 g/dL, proteínas totales 9.7 mg/dL (VR: 6-8.3), osmolaridad urinaria 242 mOsm/kg H2O, Na+ urinario 46 mEq/L. Con base en los datos clínicos y de laboratorio, ¿Cuál es la causa más probable de la hiponatremia en este paciente? 
+#A. Polidipsia psicógena
+#B. Síndrome de secreción inadecuada de ADH. 
+#C. Hipercalcemia
+#D. Mieloma múltiple
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGVER8O1YoX33THS?embed=1&width=1237&height=1600
+
+#Varón de 73 años, hospitalizado hace tres días por neumonía adquirida en la comunidad. El manejo comenzó con ceftriaxona + claritromicina, pero esta última fue suspendidas tras un resultado negativo de antígeno urinario para Legionella. En el examen físico actual presenta PA 130/75 mmHg, T 36.8 °C, SatO2 97% a aire ambiente, FC 72 lpm, FR 15 rpm. Se auscultan crepitantes en base pulmonar izquierda. La evolución clínica del paciente es favorable, con capacidad para alimentarse y mantener hidratación oral adecuada. Laboratorios: Hb 13 g/dL, leucocitos 7.200/m3 (al ingreso 14.200), PLT 350.000/m3. La radiografía de tórax inicial mostro patrón alveolar en el lóbulo inferior derecho sin otros hallazgos.
+¿Cuál sería la conducta más apropiada en este caso?
+#A. Solicitar nueva rx de tórax para definir egreso con antibioticoterapia oral
+#B. Continuar hospitalización con ceftriaxona hasta completar cinco días 
+#C. Suspender ceftriaxona, dar egreso e iniciar amoxicilina vía oral 
+#D. Solicitar procalcitonina para definir egreso con antibioticoterapia oral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszGZgN1v1f0M2nvNt?embed=1&width=1237&height=1600
