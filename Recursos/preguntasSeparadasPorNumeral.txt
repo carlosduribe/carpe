@@ -26253,6 +26253,7 @@ DAS28-ESR: Disease Activity Score-28 for Rheumatoid Arthritis with ESR
 #https://1drv.ms/i/s!AjvZMkq-eMAszSD1CHzumlCw1e-Y?embed=1&width=2468&height=1600
 
 #Masculino de 85 años con antecedente de HTA e hiperlipidemia consulta por dolor torácico y disnea desde hace 2 horas. Desde hace 10 años ha tenido episodios anginosos que mejoraban con el reposo. Signos vitales: FC de 94 lpm, FR de 22 rpm y PA de 130/80 mmHg. Se realiza un electrocardiograma (Ver imagen 1). Se inicia manejo con oxígeno, morfina, nitroglicerina, aspirina y metoprolol. El paciente refiere sentirse débil y la presión arterial cae a 92/54 mmHg. ¿Cuál es la causa más probable de la hipotensión?
+https://1drv.ms/i/s!AjvZMkq-eMAszSG_yun52nDQn_Yg?embed=1&width=534&height=291
 #A.	Aspirina.
 #B.	Metoprolol.
 #C.	Morfina.
