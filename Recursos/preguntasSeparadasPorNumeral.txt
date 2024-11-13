@@ -26374,3 +26374,168 @@ Al examen físico: 88/56 mm Hg, FC 98 lpm, FR 30, SatO2 98%. Trae un nuevo uroan
 #D.	Ceftriaxona
 #Respuesta correcta:
 #https://1drv.ms/i/s!AjvZMkq-eMAszTBOPRhqUg9hJ60F?embed=1&width=1938&height=1265
+
+#Martha con antecedente de cáncer de cuello uterino metastásico, enfermedad renal crónica avanzada y constipación, en manejo con sulfato ferroso, docusato y senna. Ahora consulta por astenia y adinamia, por lo cual se realiza un hemograma al ingreso que reporta un empeoramiento de su anemia normocítica normocrómica respecto a estudios previos. El nuevo perfil ferrocinético reporta: 
+Un nivel de ferritina de 52 ng/mL (10-200), una saturación de transferrina del 7 % (15-45) y un nivel de hemoglobina de 8,3 g/dL. ¿Cuál es la conducta adecuada a seguir de forma inicial? 
+#A. Iniciar terapia con hierro intravenoso
+#B. Iniciar eritropoyetina subcutánea
+#C. Solicitar transfusión de hemoderivados
+#D. Aumentar la dosis que recibe de hierro oral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUQU6-i1xFQzjxJh?embed=1&width=2466&height=1600
+
+#Felipe, varón de 54 años, con antecedentes de hipertensión controlada con amlodipino y enfermedad renal crónica estadio 3. Consulta en urgencias por presentar disnea progresiva desde hace 3 días, ortopnea y edema de miembros inferiores. Refiere aumento de su presión arterial en días recientes. A la exploración física, presenta PA 165/100 mmHg, FC 95 lpm, saturación de oxígeno de 91% en reposo, crépitos en ambas bases pulmonares y edema en miembros inferiores hasta las rodillas. La analítica revela: creatinina 2.1 mg/dL, potasio 5.2 mEq/L, y NT-proBNP elevado. En el electrocardiograma (ECG) se observa hipertrofia ventricular izquierda. La ecocardiografía muestra fracción de eyección del 40%, dilatación ventricular izquierda y disfunción diastólica. ¿Cuál es la conducta más adecuada a seguir en este paciente?
+#A.  Iniciar tratamiento con carvedilol y mantener observación estrecha 
+#B. Administrar furosemida intravenosa y ajustar el manejo en función de la respuesta 
+#C. Iniciar tratamiento con captopril y titulación rápida para el control de la presión arterial 
+#D. Referir a unidad de terapia intensiva para inicio de terapia de reemplazo renal
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUW-ylHrrQXJOPUD?embed=1&width=2466&height=1600
+
+#Joaquín, un hombre de 65 años con antecedentes de hipertensión y diabetes tipo 2 mal controlada. Acude a urgencias por presentar náuseas, vómito persistente, astenia y adinamia y calambres musculares. Refirió reducción en la cantidad de orina en los últimos días. Su presión arterial es de 145/90 mmHg y su frecuencia cardíaca es de 95 lpm. En los exámenes de laboratorio destaca: potasio sérico de 6.5 mEq/L, creatinina de 4.8 mg/dL (su creatinina basal era de 1.2 mg/dL), pH de 7.25 y bicarbonato de 15 mEq/L. El electrocardiograma muestra ondas T picudas y ausencia de P visibles. ¿Cuál es la primera medida terapéutica que se debe implementar en este paciente?
+#A. Iniciar hemodiálisis de emergencia
+#B. Administrar bicarbonato de sodio intravenoso
+#C. Administrar calcio gluconato intravenoso
+#D. Iniciar insulina y dextrosa intravenosa
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUYTz1gDZDwkp7CG?embed=1&width=2466&height=1600
+
+#María, una mujer de 50 años, con antecedente familiar de madre con artritis reumatoide y diabetes, ahora acude a consulta por dolor articular de seis meses de evolución, predominantemente en las articulaciones de las manos, muñecas y rodillas, que se intensifica por las mañanas con rigidez de aproximadamente dos horas. Ha notado fatiga y pérdida de peso sin causa aparente. En su examen físico, se observan varias articulaciones interfalángicas proximales y metacarpofalángicas inflamadas. Los estudios de laboratorio muestran factor reumatoide positivo, anticuerpos anti-CCP positivos, VSG elevada, PCR elevada y anemia normocítica. ¿Cuál es la intervención terapéutica inicial más adecuada para esta paciente?
+#A. Administrar hidroxicloroquina
+#B. Indica uso de metotrexato
+#C. Se ordenan antiinflamatorios no esteroides
+#D. Se indican corticoides orales a bajas dosis
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUebKHveYoLjbNK8?embed=1&width=2466&height=1600
+
+#Don Juan de 59 años, natural de Girardota, con antecedente de diabetes tipo 2 e hipertension no adherente a manejo farmacologico. Hace 1 mes consultó por cuadro clínico de déficit sensitivo en miembro superior e inferior derecho, primer episodio, diagnosticado como ACV isquémico por neurología. Refiere que está recuperando la sensibilidad en dichas regiones, pero que en ocasiones experimenta un dolor tipo lancinante, que incluso exacerba con un estímulo táctil leve. Examen físico: signos vitales estables. El examen neurológico muestra hemianestesia e hiperestesia al tacto leve en hemicuerpo derecho, atetosis en mano derecha y fuerza muscular 5/5 en ambos MS y MI.
+¿En cuál de las siguientes estructuras se presentó el evento isquémico?
+#A. Glándula pineal.
+#B. Putamen
+#C. Mesencefalo
+#D. Tálamo
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUjj3FTPq8kkea2j?embed=1&width=1237&height=1600
+
+#Luis Felipe, 6 años es llevado a su consulta por cuadro clínico de 2 semanas de evolución de fiebre objetiva y dolor en el muslo derecho que le hace cojear. Ella cree que puede haberse lastimado durante la práctica de fútbol. Su hermana mayor tiene lupus eritematoso sistémico. Tiene el PAI al día. Al examen físico, con buen aspecto, T 38.2°C, FC 100/min, FR 18/min y PA 110/70 mm Hg. Se evidencia edema en el tercio superior del muslo derecho,  con dolor a la palpación, calor y eritema leve localizado, el rango de movimiento está limitado por el dolor. Tiene una marcha antálgica del lado derecho. Trae paraclínicos: GB 12.300, VSG 40 mm/h, rx de cadera y fémur, sin alteraciones. RMN de la extremidad inferior derecha muestra señales T2 aumentadas y T1 disminuidas en el fémur derecho con elevación perióstica, múltiples áreas osteolíticas en la metáfisis femoral y edema de médula ósea. ¿Cuál sería el paso a seguir de acuerdo con su sospecha diagnóstica?
+#A.	Iniciar cefazolina IV 
+#B.	Artrocentesis
+#C.	Biopsia ósea del fémur
+#D.	Osteotomía femoral
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUkGT2YZlaTVfG-A?embed=1&width=989&height=1280
+
+#Stefan tiene 7 años y es traído a urgencias por 3 días de fiebre, cefalea, otalgia bilateral y odinofagia. No ha tenido secreción nasal ni tos. Hace un año presentó los mismos síntomas y le iniciaron amoxicilina, pero después de desarrollar una erupción cutánea, edema facial y disnea, se le cambió a un medicamento diferente. Tiene PAI al día. Se encuentra con T 38,9 °C, FC 140, FR 28. Se evidencia una lengua de color brillante con papilas prominentes, úvula eritematosa y una amígdala derecha edematosa cubierta por una membrana blanquecina. Se palpan adenopatías cervicales anteriores. ¿Cuál de los siguientes es el siguiente paso más apropiado en el tratamiento?
+#A.	Claritromicina
+#B.	Penicilina benzatínica
+#C.	Cefixima
+#D.	AINES y seguimiento
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUo8i0xaLvFl59g3?embed=1&width=989&height=1280
+
+#Julieta, 4 años, es llevada al servicio de urgencias por su padre debido a sialorrea abundante y dolor abdominal que comenzó inmediatamente después de beber de una botella de limpiador de desagües hace 30 minutos. La paciente tuvo un episodio emético de camino al hospital. Tiene dolor para deglutir y parece incómoda. El examen oral muestra un eritema leve de la epiglotis y salivación abundante. ¿Cuál de las siguientes complicaciones a largo plazo es más probable en esta paciente?
+#A.	Membranas esofágicas
+#B.	Estenosis esofágicas
+#C.	Esófago de Barret
+#D.	Perforación esofágica
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUtHOc6hjIj7qnL5?embed=1&width=989&height=1280
+
+#Mauricio de 17 años ingresa en la UCIP tras presentarse en urgencias con taquicardia, hipotensión y disnea, con sospecha de sepsis. Se inicio manejo con LEV y antibióticos IV. A su llegada a la UCIP, refiere disnea y opresión en el pecho, que dice que mejora cuando se sienta hacia adelante. Tiene FC 150, PA 75/40, SatO2 99%; con mala perfusión distal y llenado capilar de 5 segundos. ¿Cuál sería el tratamiento?
+#A.	Infusión de noradrenalina
+#B.	Nuevo bolo de LEV
+#C.	Infusión de milrinone
+#D.	Pericardiocentesis 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszUw2HnFyZ5PhGZSA?embed=1&width=989&height=1280
+
+#Un recién nacido de sexo masculino, con peso de 3175 g, nace a las 39 semanas de gestación de una mujer primigrávida de 29 años después de un parto vaginal espontáneo. Las puntuaciones de Apgar son 8 y 9 a los 1 y 5 minutos, respectivamente. A la auscultación, se evidencia un soplo continuo similar a una máquina. Un ecocardiograma muestra una estructura con flujo sanguíneo entre la arteria pulmonar y la aorta. Esta estructura es más probablemente un derivado de ¿cuál de las siguientes?
+#A.	4to arco aórtico
+#B.	3er arco aórtico
+#C.	6to arco aórtico
+#D.	2do arco aórtico
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszU1aroQ59sdKD8ET?embed=1&width=989&height=1280
+
+#Femenina de 58 años. Antecedente de CA de mama diagnosticado en su abuela a la edad de 64 años. Trae reporte de mamografía con BI-RADS 3. ¿Cuál es la conducta a seguir según este resultado?
+#A. Solicitar punción con agua fija.
+#B. Seguimiento en 12 meses con mamografía.
+#C. Solicitar punción con aguja gruesa.
+#D. Seguimiento en 6 meses.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszU41xSH-QpNQVhk6?embed=1&width=1237&height=1600
+
+#Mujer de 45 años, antecedente diagnóstico de fibromialgia, consulta al programa de control. Refiere que ha realizado de manera disciplinada ejercicio durante los últimos 6 meses, pero resalta que el dolor generalizado persiste dificultando la conciliación del dueño junto con la fatiga intensa y episodios depresivos intermitentes.
+¿Cuál de los siguientes medicamentos debe ser iniciado en esta paciente?
+#A. Naproxeno
+#B. Morfina de liberación prolongada 
+#C.  Prednisona
+#D. Duloxetina
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszU_B3uocDiU2-U3S?embed=1&width=1237&height=1600
+
+#Hombre de 35 años, ingresa al servicio de Urgencias en compañía de un vecino porque ingirió dos cajas de 16 tabletas de un medicamento que no logra recordar el nombre. Tiene antecedente de trastorno bipolar tipo 1, usuario activo de cannabis, toma 10-12 cervezas día por medio. A su ingreso los signos vitales muestran una FC 120/m, temperatura de 39.1 °C, presión arterial de 145/91 mmHg, SatO2 95% con máscara facial con FiO2 a 40%. A la exploración física se observa un paciente confuso con agitación psicomotriz, midriasis, visión borrosa, diplopía, mucosas y piel secas con hiperemia, ruidos cardiacos rítmicos, murmullo vesicular conservado.
+¿Cuál de las siguientes es la causa más probable de su cuadro clínico?
+#A. Delirium tremens por abstinencia alcohólica
+#B. Intoxicación por carbonato de litio
+#C. Intoxicación por por difenhidramina
+#D. Intoxicación por sertralina
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszVCr4v0tOHTo60q3?embed=1&width=1237&height=1600
+
+#Niño de 7 años es llevado a urgencias ya que hoy despertó con dolor de cadera izquierda por lo cual cojea al caminar. Tuvo un episodio de infección respiratoria alta hace 10 días la cual ya resolvió. Su crecimiento es adecuado. Sus signos vitales son normales. Al examen físico la cadera se encuentra ligeramente abducida y rotada externamente. No hay otras alteraciones. El hemograma y la VSG son normales. Una ecografía de cadera evidencia aumento de líquido dentro de la articulación, pero la radiografía de cadera es normal. ¿Cuál es el diagnostico más probable?
+#A. Sinovitis transitoria.
+#B. Enfermedad de Legg-Calvé-Perthes.
+#C. Artritis séptica.
+#D. Osteomielitis.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszVHGcpXwKFR1zLZl?embed=1&width=1237&height=1600
+
+#Varón de 8 años, es traído a Urgencias por letargia y orina oscura.  No ha presentado dolor abdominal, fiebre, disuria, polaquiuria ni tenesmo vesical. Al examen físico, T 37,4°C, edema periorbitario. El resto del examen físico es normal. Los resultados de laboratorio son los siguientes:Hemoglobina 12.8 g/dl, BUN 26 mg/dl, Creatinina 2.1 mg/dl; Uroanálisis: GB 1-2/hpf, Proteínas 1+, GR 20-30/hpf y cilindros de glóbulo rojos. La concentración sérica de C3 es baja y la de C4 es normal. ¿Cuál es el diagnóstico más probable en este paciente?
+#A. Nefropatía por IgA.
+#B. Enfermedad por cambios mínimos.
+#C. Glomeruloesclerosis focal segmentaria
+#D. Glomerulonefritis postinfecciosa
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszVI5ac6GVkicggwn?embed=1&width=1237&height=1600
+
+#Femenina de 33 años es llevada a urgencias por presentar varios episodios sincopales. Al momento se encuentra con taquilalia y con habla de contenido sin sentido. La paciente es mala informante. Se evidencia una historia clínica con evidencia de hospitalizaciones psiquiátricas frecuentes y una prescripción de litio y antipsicóticos. La paciente se encuentra estable hemodinámicamente y persiste así hasta que se presencia otro episodio sincopal. Se encuentra respirando y su pulso es palpable. Se obtiene un ECG. ¿Cuál es el manejo de primera línea en este momento?
+https://1drv.ms/i/s!AjvZMkq-eMAszVM-ESnv3nCs2Z-c?embed=1&width=793&height=360
+#A.	Administrar sulfato de magnesio mediante bolos IV.
+#B.	Activar código azul y realizar cardioversión sincrónica.
+#C.	Iniciar líquidos IV e medir niveles séricos de litio.
+#D.	Indicar estimulación cardiaca transvenosa 
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszVR0UjNss_3qWW0c?embed=1&width=1237&height=1600
+
+#Masculino de 58 años consulta a cardiología tras sufrir un síndrome coronario agudo con evidencia de obstrucción de la arteria descendente anterior izquierda por lo que se le colocó un stent liberador de fármacos. El paciente se ha sentido bien desde el procedimiento y actualmente se encuentra asintomático. Esta en manejo con atorvastatina, aspirina y enalapril. Signos vitales: Temp. de 37°C, FC de 64 lpm, FR de 12 rpm y PA de 163/76 mmHg. El examen físico es normal.  Se añade carvedilol al tratamiento. ¿Cuál es el efecto clínico de la administración de este medicamento? 
+#A.	Disminución de la FC y broncodilatación.
+#B.	Aumento de la FC y broncodilatación.
+#C.	Disminución de la FC y disminución de la liberación de renina.
+#D.	Vasoconstricción y aumento de la resistencia vascular sistémica.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszVU1MX03KMWIoCyR?embed=1&width=1237&height=1600
+
+#Femenina de 83 años es llevada a urgencias por disnea desde hace 3 días asociado a fiebre, tos con producción de esputo e inapetencia. Durante su valoración se deteriora, se torna confusa, somnolienta e incrementa la disnea. Tiene antecedente de HTA, ERC- III y FA paroxística en manejo con Warfarina. Signos vitales: Temp. de 38.4°C, FC de 156 lpm, PA de 72/40 mmHg, FR de 30 rpm y SatO2 84% con oxigeno a 10L. Al examen físico hay crépitos en ambas bases pulmonares. Sus extremidades están frías y tiene edema de MI grado I. El electrocardiograma evidencia una FA con respuesta ventricular rápida a 162 lpm. Se inicia manejo para la sepsis. ¿Cuál de las siguientes intervenciones es adecuada para esta paciente?
+#A.	Administrar metoprolol IV para control de FC, seguido de hidratación IV y soporte vasopresor.
+#B.	Realizar cardioversión sincronizada inmediata.
+#C.	Realizar cardioversión sincronizada inmediata si no se observan trombos en la aurícula izquierda por ecocardiografía transesofágica. 
+#D.	Iniciar infusión de amiodarona.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszVay2dhTVUef7krA?embed=1&width=1237&height=1600
+
+#Paciente femenina de 35 años se encuentra en UCI en contexto de un tromboembolismo pulmonar proximal. Al momento sus signos vitales son: FC de 120 lpm, FR de 22 rpm, PA de 80/40 mmHg. ¿Cuál es el manejo inicial adecuado para esta paciente? 
+#A.	Indicar trombólisis sistémica con activador tisular de plasminógeno.
+#B.	Indicar un filtro de vena cava inferior.
+#C.	Extracción del trombo mediante cateterismo.
+#Respuesta correcta:
+#D.	Heparina IV.
+#https://1drv.ms/i/s!AjvZMkq-eMAszVcbDGozurqLSIw5?embed=1&width=1237&height=1600
+
+#Masculino de 81 años consulta a una cita de rutina. El paciente refiriere vacilación para iniciar la micción y un chorro débil; sin embargo, esto no lo incomoda, niega nicturia, incontinencia o disuria. Sus signos vitales son normales. Al examen físico el tono rectal es normal y su glándula prostática está moderadamente agrandada y firme. Paraclínicos: Cr de 0.7 mg/dL, PSA de 0.8 ng/mL (Normal 0,0 – 4,0). El uroanálisis es normal. Una ecografía posmiccional de la vejiga evidencia un volumen residual de 50 ml (Normal < 100 ml). ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Observar sin tratamiento.
+#B.	Iniciar finasteride.
+#C.	Iniciar tamsulosina. 
+#D.	Iniciar tadalafilo.
+#Respuesta correcta:
+#https://1drv.ms/i/s!AjvZMkq-eMAszVilDCfqXOH7YX5B?embed=1&width=1237&height=1600
