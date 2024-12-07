@@ -26660,3 +26660,167 @@ https://1drv.ms/i/s!AjvZMkq-eMAszVM-ESnv3nCs2Z-c?embed=1&width=793&height=360
 #D. Ordenar medición de factor reumatoide en suero
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQSgMyTG01RaQbuyFy-ExvnyAVRTchpL9NOl3hyYJrQlsAQ?width=1237&height=1600
+
+#Masculino de 58 años consulta por dolor abdominal intenso de un día de evolución. Tiene antecedente de alcoholismo, con varias admisiones previas por intoxicación etílica. Doce horas posteriores a su ingreso presenta disnea. Signos vitales: Temp. de 38.3°C, FC de 120 lpm, FR de 30 rpm y PA de 100/60mmHg. Satura a 85% con oxigeno ambiente. Al examen físico hay crépitos pulmonares difusas, dolor epigástrico y un hematoma periumbilical. Se decide intubar y ventilar al paciente. Se toman gases arteriales con una FIO2 de 0.4: pH 7.2, PO2 61 mmHg, PCO2 de 40 mmHg, HCO3- 18 mEq/L. Una radiografía de tórax evidencia opacidades bilaterales difusas. ¿Cuál es la caua más probable de los síntomas respiratorios de este paciente? 
+#A.	Embolia pulmonar.
+#B.	Insuficiencia cardíaca congestiva.
+#C.	Síndrome de distrés respiratorio agudo.
+#D.	Neumonía de origen nosocomial.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQiXiMK8Fs_RJZFH_2qD3KQAa9sj_x9wkecenDebIxhi3E?width=1237&height=1600
+
+#Masculino de 25 años es llevado a urgencias por quemaduras de segundo y tercer grado que cubren el 30% de la superficie corporal. El paciente se encuentra alerta y activo. Signos vitales: Temp. de 36°C, FC de 62 lpm, FR de 18 rpm y PA de 100/70 mmHg. Satura a 98% con oxigeno por cánula nasal a 12L/min. Se administran líquidos IV, antibióticos IV y tópicos y analgésicos IV en la unidad de cuidados intensivos. Setenta y cuatro horas después, el paciente presenta dificultad respiratoria. El paciente requiere intubación de secuencia rápida. ¿La administración de succinilcolina durante la intubación probablemente daría como resultado cuál de las siguientes complicaciones en este paciente?
+#A.	Hipertermia maligna.
+#B.	Arritmia cardíaca.
+#C.	Depresión respiratoria.
+#D.	Broncoespasmo.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRI2rYd8EVtS45ITPnEYgvhAfHTx5TAheZBl-FF9V0RkOE?width=1237&height=1600
+
+#Masculino de 52 años es llevado a urgencias por dolor epigástrico intenso, dolor torácico izquierdo que se irradia a espalda y que inició después de despertarse. Refiere varios episodios de vómitos. El día de ayer se le realizó una esofagogastroduodenoscopia. Tiene antecedente de cardiopatía isquémica + angioplastia coronaria hace 3 años. Se encuentra en tratamiento con aspirina, clopidogrel, metoprolol, enalapril y rosuvastatina. Signos vitales: Temp. de 37°C, FC de 140 lpm, FR de 20 rpm y PA de 100/60 mmHg en extremidades superiores y 108/68 mmHg en extremidades inferiores. SatO2 del 98%. Al examen físico se ausculta un S4 en el precordio, además de crepitación en el tórax. Hay dolor epigástrico. Paraclínicos: troponina negativa. Un ECG evidencia taquicardia sinusal. Un ECG de 12 derivaciones muestra taquicardia sinusal con cambios inespecíficos del segmento ST-T. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A.	Pancreatitis aguda.
+#B.	Perforación esofágica.
+#C.	Disección aórtica.
+#D.	Infarto agudo de miocardio.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQS2_yPmE9k7QIE7On_Pd8GPATkQ3ukNTLnBChyovtInbIk?width=1237&height=1600
+
+#Masculino de 29 años consulta por cefalea que se presenta cada 6 semanas después de realizar turnos en la noche. Refiere que la cefalea es unilateral, dura varios minutos, se presenta en múltiples ocasiones en el día y posteriormente desaparece. Además, la describe como pulsátil, produce epífora, congestión nasal, rinorrea unilateral y que se asocia a disconfort e inquietud. Niega antecedentes de importancia. En este momento sus signos vitales y examen físico son normales. ¿Cuál es el diagnostico más probable?
+#A.	Cefalea del trigémino autonómica episódica.
+#B.	Migraña con aura.
+#C.	Migraña sin aura.
+#D.	Cefalea tensional. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRLPnP53mjTTagI8WeAHP4wARfhAPAunLMUbgT7BQS2ULU?width=1024
+
+#Hombre de 53 años, antecedente de migraña, consulta por cuadro de inicio abrupto de cefalea intensa, persistente, fotofobia y vómitos, que inició durante el acto sexual con su pareja hace 1 hora. Describe la cefalea como ‘’diferente e insoportable’’ a sus crisis migraña habitual. Al examen físico se muestra intranquilo, PA: 150/95 mmhg, localiza estimulo nociceptivo, pupilas isocóricas y fotorreactivas. Paraclínicos dentro de los rangos de referencia.  ¿Cuál sería la conducta a seguir? 
+#A.	Administrar sumatiptán
+#B.	Realizar TAC simple de cráneo 
+#C.	Realizar punción lumbar
+#D.	Realizar RNM de cráneo
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ1xpMaxNsYTLFlsvIhoN2nAXnfCzN8Gq0tFYI1WLEZXZs?width=990&height=1280
+
+#Varón de 25 años, habitante de la calle, es evaluada tras ser encontrada inconsciente tirada en una acera. Cuenta con antecedentes de hospitalización por intoxicaciones recientes con heroína, tratadas exitosamente con naloxona. Laboratorios: Hb 12.8 g/dL, leucocitos 7,500/µL, plaquetas 250,000/µL, reticulocitos 1.2%, Cr 3.9 mg/dL (valores previos en rango de 0.7 -1.0 mg/dL en ingresos anteriores). Uroanálisis: Hb 4+, y sedimento urinario inactivo. 
+¿Qué opción, entre las siguientes, permitirá identificar con mayor certeza la causa de la lesión renal aguda del paciente?
+#A. Excreción fraccional de sodio (EFNa)
+#B. Ecografía renal y de vías urinarias
+#C. CPK
+#D. Test de Coombs directo
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQiYCuTTuVfQramW-Zlk9elAaXOTUnYOfFRRH6UDyV_A1o?width=1969&height=1280
+
+#Varón de 55 años, trasladado al servicio de urgencias debido a que un familiar lo nota como ‘’confundido. Tiene historial de diabetes tipo 2, diagnosticada hace un año por su médico de atención primaria y quien le formuló unas ‘’pastillas’’ para controlar su glucemia (según refiere familiar). A su llegada, el paciente muestra taquicardia y desorientación en tiempo, espacio y persona, sin déficit motor o sensorial aparente. La glucometría es 29 mg/dL. Los paraclínicos básicos son normales.  Entre las siguientes afirmaciones, ¿cuál es la verdadera?
+#A. Si el paciente toma glimepirida o glibenclamida, se ingresa para corregir la hipoglucemia y requiere hospitalización por 36 horas para vigilancia 
+#B. Si el paciente toma glibenclamida, se ingresa para corregir la hipoglucemia y se da el alta a las seis horas si esta se resuelve
+#C. Si el paciente toma glimepirida o glibenclamida, se ingresa para corregir la hipoglucemia y requiere hospitalización por 72 horas para vigilancia
+#D. Si el paciente está tomando glimepirida, tiene riesgo alto de sufrir un evento cerebrovascular agudo 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSOPHwuhi3rRbdvCWwRIZLwASMtOr7p8PmE_iA_fQ8ummg?width=989&height=1280
+
+#Mujer de 61 años, ingresa al servicio de Urgencias por cuadro clínico de tres de evolución dado por fiebre alta (de hasta 38,5 ºC), malestar, malestar general y erosiones dolorosas en cavidad oral y región genital.  A la exploración presenta una erupción cutánea generalizada cuyas características se pueden apreciar en la imagen. Al ingreso se encuentra taquicárdica, hipotensa y a la exploración se evidencia una erupción cutánea compuesta máculas de bordes eritematosos, forma redondeada, con áreas centrales violáceas que en algunos casos evolucionan hacia formación de ampollas. Laboratorios: PCR elevada a 85 mg/L, VSG en 70 mm/h, transaminasas (ALT 120 U/L, AST 102 U/L) y Cr 2.5 mg/dL. 
+¿Cuál es el diagnóstico más probable?
+#A. Exantema fijo medicamentoso.
+#B. Pénfigo vulgar.
+#C. Síndrome de Stevens-Johnson.
+#D. Eccema diseminado 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSKQi4lt41bT40uHqDMi9OoAc4bPR8gc8VzNDHBgL2V220?width=1969&height=1280
+
+#Varón de 39 años sin antecedentes personales de interés. Consulta por lumbalgia de 4 semanas de evolución, de predominio nocturno y que mejora con la actividad física. Refiere además la presencia de febrícula persistente y disminución del apetito durante las últimas dos semanas. Menciona que su hermano padece espondilitis anquilosante HLA-B27 (+). Refirió respuesta parcial al uso de naproxeno 500 mg cada 12 horas. Laboratorios: Hemoglobina 12,2 g/dL, VCM 91 fL, leucocitos 11.800/mm³ (80% neutrófilos, 12% linfocitos), plaquetas 321.000/mm³, PCR 47 mg/L, VSG 57 mm/h. La Rx de columna lumbosacra evidencia borramiento de los platillos vertebrales en el espacio L3-L4.
+¿Qué tratamiento elegiría como el más adecuado en este momento?
+#A. Hospitalizar e iniciar pulsos intravenosos de metilprednisolona seguidos de una reducción gradual de las dosis
+#B. Tratamiento ambulatorio con otro AINEs y omeprazol 
+#C. Hospitalizar e iniciar antibióticos intravenosos 
+#D. Hospitalizar, cambiar a otro AINEs, y solicitar radiografía sacroilíaca comparativa 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQxj9WNKrEdQIfZvPP0TUtYARbDUMFb6WldgYKXPlj7uWg?width=1969&height=1280
+
+#Varón de 45 años, quien refiere historial de episodios de dolor periocular izquierdo, descrito como intenso, punzante y de alta intensidad, durante los cuales tiene una gran sensación de nerviosismo y se le enrojece dicho ojo.  Dichos episodios ocurren en grupos, siempre a las 3:30 a.m., con una duración aproximada de 60-160 minutos. Con base a los anteriores datos, ¿Qué tratamiento profiláctico debería iniciarse como primera opción?
+#A. Carbonato de litio 300 mg cada 12 horas VO
+#B. Topiramato 25 mg cada 12 horas VO
+#C. Verapamilo 80 mg cada 8 horas VO 
+#D. Indometacina 25 mg cada 8 horas VO
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ27TQJcKt2RIWl1ek4tsYnAbA4RuW_ZoZvCxf0YoMHLVo?width=989&height=1280
+
+#Andrés de 18 años, sin antecedentes médicos relevantes, consultó por cuadró clínico de 2 días de evolución caracterizado por inyección conjuntival y dolor ocular izquierdo posterior a recibir golpe con un balón de fútbol hace 4 días. El paciente refiere que en el momento del trauma experimentó dolor en todo el lado izquierdo del rostro durante unos minutos, pero este desapareció por completo. Refiere que apenas puede mantener el ojo abierto en condiciones de luz intensa por lo que está usando gafas de sol. Al examen físico, el ojo derecho con agudeza visual 20/20 y en el izquierdo de 20/70. Aunque el ojo afectado es difícil de examinar debido a la fotofobia, se observa una córnea clara y eritema en el limbo esclero corneal. El iris parece normal, pero la pupila del ojo afectado es más pequeña que la del ojo contralateral. Sin otros hallazgos anormales. ¿Cuál de los siguientes diagnósticos es más probable en este caso?
+#A. Hifema
+#B. Iritis
+#C. Neuropatía óptica traumática
+#D. Abrasión corneal 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSUiWxj74oiTqmAlMIdgBKoAUlIh-uFuX5VJlBI6St--Mo?width=2471&height=1600
+
+#Gerardo de 46 años, con antecedente de sarcoidosis diagnosticada a los 18 años, la cual ha permanecido estable sin necesidad de tratamiento, sin otro antecedente médico relevante, consultó ahora por inyección conjuntival en el ojo derecho desde hace una semana. Refiere fotofobia y dolor ocular 3/10 EAD. Al interrogar niega traumatismo, enfermedades recientes, uso de lentes de contacto o síntomas sistémicos. No refiere enfermedades oculares previas, aunque menciona episodios ocasionales de inyección conjuntival en la última década, para los cuales no buscó atención médica. Al examen físico, en ojo derecho con disminución de la agudeza visual, a su vez con miosis unilateral derecha, inyección conjuntival con predominio periquerático, la córnea es de color blanquecina y la presión intraocular está dentro de rango de normalidad. En la cámara anterior se aprecian células visibles en el humor acuoso. ¿Cuál es el diagnóstico más probable en este caso?
+#A. Glaucoma agudo de ángulo cerrado
+#B.  Abrasión corneal
+#C. Uveítis anterior
+#D. Episcleritis
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQrEGO36iWlTqFUuDjHjthQAYIhzH5g7_Moa-qWeB-ogjM?width=2471&height=1600
+
+#Eugenia de 94 años, con barthel 60/10 pero sin deterioro cognitivo, acude a consulta de control de enfermedades crónicas dado tiene antecedente de insuficiencia cardíaca congestiva FEVI 38%, fibrilación auricular, hipertensión, diabetes tipo 2 y antecedente de cáncer de piel. En la consulta, se observa adulto mayor frágil. Al examen físico con múltiples cicatrices pequeñas de excisiones previas por el historial cáncer de piel. Además, se identifica una lesión cutánea asintomática de 8 mm en región paraesternal derecha, que la paciente refiere ha estado presente durante varios años con progresión mínima. Se discute la posible naturaleza de la lesión y se le ofrece realizar una biopsia o derivarla a un dermatólogo para posible tratamiento. Sin embargo, Eugenia prefiere evitar intervenciones médicas adicionales o nuevas citas, aunque está dispuesta a seguir las recomendaciones médicas. ¿Cuál es la conducta más apropiada para Eugenia?
+#A. Se debe realizar la biopsia de la lesión y remisión a dermatología
+#B. Se indica aplicar fluorouracilo en crema
+#C. Se indica aplicar imiquimod 
+#D. Se propone realizar observación y seguimiento en consulta de la lesión
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRbpXVLZTbrRISaF33xdqGNAc8YULq07ct9CJ_gp1nebgQ?width=2451&height=1600
+
+#Dario de 67 años, consultó por lesión en región nasal de 1 año de evolución, la cual ha aumentado de tamaño lentamente. No refiere dolor ni prurito asociado. Antecedente de hipertensión arterial y uso de cámaras solares con regularidad para mantener aspecto “bronceado”. Signos vitales dentro de rangos normales. Al examen físico, se evidenció una úlcera con costras, con una depresión central, acompañado de un borde sobreelevado y enrollado traslúcido, con telangiectasias en su superficie y de consistencia firme, sin adenopatías ni otro hallazgo anormal. ¿Cuál es el diagnóstico de este paciente?
+#A. Carcinoma cutáneo de células escamosas
+#B. Hemangioma en forma de cereza
+#C. Carcinoma de células basales
+#D. Queratoacantoma
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRaKMeeiA05Q73JwvU64fkFAUfbgIvnkgBPmDUQ7ta5PUc?width=2451&height=1600
+
+#Martín de 60 años, con antecedentes de HTA, DT2, consulta por un episodio de dolor ocular derecho grave, que ha durado 48 horas. El paciente refiere que el dolor comenzó después de un accidente en el que se le introdujo un palo de escoba en el ojo, comentó al inicio experimentó irritación ocular, pero la molestia aumentó progresivamente, asociándose a fotofobia y dificultad para mantener el ojo abierto. En la consulta, se observa un ojo rojo, con inyección conjuntival intensa, especialmente en la zona periquerática. El paciente también refiere que tiene una secreción ocular espesa y amarillenta. El examen físico revela un área de opacidad en la córnea central, sin pérdida de la integridad corneal. La agudeza visual en el ojo derecho está reducida a 20/50, mientras que en el ojo izquierdo es 20/20. La presión intraocular en el ojo afectado es normal. No hay signos de hipema, pero se observa un leve edema en los párpados y un aumento de la sensibilidad en la zona corneal. ¿Cuál es el tratamiento antibiótico más adecuado para este paciente?
+#A. Ciprofloxacino 0.3%, una gota cada hora durante las primeras 24 horas, luego una gota cada 2 horas durante 5 días.
+#B. Levofloxacino 0.5%, una gota cada 2 horas durante las primeras 48 horas, luego cada 4 horas por 5 días.
+#C. Ofloxacino 0.3%, una gota cada 30 minutos durante las primeras 48 horas, luego una gota cada 2 horas por 5 días.
+#D. Moxifloxacino 0.5%, una gota cada hora durante las primeras 72 horas, luego cada 4 horas durante 7 días.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTVVmDw6AojTIwSqZtLqebFAa2SoFtzgABpwoZYzyXM4z0?width=2480&height=1600
+
+#Femenina de 25 años, G1P0, con 10 semanas de gestación. Consulta por flujo vaginal de mal olor. La especuloscopia revela un flujo gris, poco denso, homogéneo, abundante, sin eritema ni edema en las paredes vaginales ni en la vulva. No hay sensibilidad cervical ni anexial. En el frotis vaginal en SSN se observan células guía, sin leucocitos asociado a un test de aminas positivo. ¿Cuál es la mejor conducta para esta paciente?
+#A.	Iniciar Metronidazol 500 mg VO cada 12 h por 7 días.
+#B.	Administrar Azitromicina 1 g VO DU.
+#C.	Confirmar diagnóstico con medición de pH vaginal y retrasar manejo hasta 2do trimestre.
+#D.	Iniciar Metronidazol óvulos 500 mg, 2 veces por semana por 4 meses.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQS_fJj8GoVPQLPXURhaqUnJAfFSvqspU0jdQD_q-Knts8g?width=1982&height=1272
+
+#Femenina de 24 años, G1P0A0. Fue diagnosticada con VIH hace un año, desde entonces comenzó una terapia antirretroviral combinada (TARc), la cual suspendió hace 2 semanas cuando se enteró que estaba embarazada. Paraclínicos actuales: CD4 500/µL, Carga viral VIH-1 880/mL. La ecografía confirma un embarazo intrauterino de 5 semanas. ¿Cuál es la mejor conducta para esta paciente?
+#A.	TARc + zidovudina intraparto por > 500 copias/mL. 
+#B.	Monoterapia materna con zidovudina intraparto.
+#C.	Continuar TARc previa, evaluando seguridad y resistencia.
+#D.	No requiere prueba de resistencia, Inicio inmediato de la TARc previa.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRepmPLKxmDSJrH6ff2030hAcDX_85zJkyVXy6N-QUylVs?width=1970&height=1280
+
+#Femenina de 36 años, G3P2A0, con 38 semanas de gestación. Consulta por amniorrea y contracciones regulares y dolorosas cada 2 min. Se observa un grupo de vesículas claras con base eritematosa en el labio menor derecho, irregulares, confluentes y muy dolorosas. Tiene 6 cm de dilatación, borramiento del 100% y estación cero. ¿Cuál es la mejor conducta?
+#A.	Administrar Indometacina 50 mg VO iniciales, luego 50 mg cada 6 h VO de mantenimiento. 
+#B.	Iniciar Aciclovir 400 mg VO cada 8 h.
+#C.	Iniciar Valaciclovir 1 g VO cada 12 h + continuar parto + PCR y cultivos de HSV al neonato. 
+#D.	Realizar un parto por cesárea de manera inmediata.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQKWZndPAUlQbgQn9gZyk1aAa6sTuMFn7x_EM9jNzlfLK4?width=1974&height=1280
+
+#Femenina de 27 años G3P2 con embarazo de 41 semanas ingresa con trabajo de parto activo. Tiene antecedente de asma. De lo contrario, su embarazo y embarazos anteriores han sido sin complicaciones. La vía de entrega fue vaginal. Poco después inicia con sangrado vaginal abundante con coágulos. Signos vitales: Temp. de 37.2°, FC de 90 lpm, FR de 17 rpm y PA de 130/72 mmHg. Al examen físico el útero está blando y grande a la palpación. Paraclínicos: Hb de 10.8 g/dL, HTO de 32.3%, Leu: 9.000/mm3. PLT de 140.000 mm3. TP de 14 seg y TPT de 38 seg. El sangrado persiste a pesar del masaje uterino bimanual y la administración de oxitocina. ¿Cuál es el manejo adecuado para este paciente?
+#A.	Realizar ligadura de arteria uterina.
+#B.	Realizar taponamiento uterino.
+#C.	Realizar histerectomía.
+#D.	Administrar ácido tranexámico.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTH8U9tp3RsTpx-3ALUTbnWAX4838oW245e16j3PqtH3ks?width=1965&height=1280
+
+#Femenina de 36 años con embarazo de 8 semanas consulta por sangrado vaginal y dolor pélvico leve hace 1 hora. Sus signos vitales son normales. Al examen físico el orificio cervical externo está cerrado y la altura uterina se considera normal para la edad gestacional. La ecografía transvaginal muestra un embarazo intrauterino con actividad cardiaca fetal normal. ¿Cuál es el manejo apropiado para esta paciente?
+#A.	Manejo expectante con ecografías de control.
+#B.	Realizar dilatación y curetaje.
+#C.	Iniciar manejo con progestina.
+#D.	Realizar cerclaje cervical.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRynsuCF_BFSpWZwe-3SGEIAT9JVI4VtdexpxS2WCN5tKI?width=1974&height=1280
+
