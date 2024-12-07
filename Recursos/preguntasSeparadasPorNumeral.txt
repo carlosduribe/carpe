@@ -26938,7 +26938,7 @@ https://1drv.ms/i/s!AjvZMkq-eMAszVM-ESnv3nCs2Z-c?embed=1&width=793&height=360
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQS2kVkGVFpRRom5aoj8i5FiATPGlLUBIy1V8RV00CDec60?width=1978&height=1280
 
-# Te encuentras en una consulta de control y desarrollo de una niña de 13 años, sana, que se aplicó recientemente la primera dosis de la vacuna contra Virus del Papiloma Humano (VPH). La madre, al finalizar la revisión, pregunta cuándo debe administrarse la siguiente dosis. 
+#Te encuentras en una consulta de control y desarrollo de una niña de 13 años, sana, que se aplicó recientemente la primera dosis de la vacuna contra Virus del Papiloma Humano (VPH). La madre, al finalizar la revisión, pregunta cuándo debe administrarse la siguiente dosis. 
 ¿Cuál sería la respuesta correcta? 
 #A. La segunda dosis se aplica un mes después de la primera.
 #B. La segunda dosis se aplica tres meses después de la primera.
@@ -27036,3 +27036,211 @@ https://1drv.ms/i/s!AjvZMkq-eMAszVM-ESnv3nCs2Z-c?embed=1&width=793&height=360
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQQR6E0L-Z14T4_PN8hd-FAEAeWPvoNOR__Y54GkvwPs5t4?width=1237&height=1600
 
+#Mujer de 49 años, sin antecedentes relevantes, consulta por amenorrea de un año de evolución. Refiere sofocos ocasionales y niega otros síntomas. El examen físico no muestra hallazgos significativos. El panel metabólico es normal y la prueba de embarazo resultó negativa.
+¿Cuál es la conducta más apropiada?
+#A. No es necesario llevar a cabo más estudios.
+#B. Solicitar TSH y FSH/LH
+#C. Solicitar TSH y prolactina
+#D. Solicitar TSH, FSH/LH y prolactina 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQNPOdJgnm8QZlVm7L1Oh_3Ab0PqdErx1HmlsZSqIQE-5w?width=1237&height=1600
+
+#Varón de 65 años, quien consulta al Servicio de Urgencias por dolor y tumefacción progresiva en rodilla derecha de dos semanas de evolución. Refiere consumo ocasional de AINEs con alivio parcial. Cuenta con un antecedente de osteoartritis avanzada y fue intervenido quirúrgicamente con una artroplastia total de rodilla derecha hace seis meses. Examen físico: Tª 37,1 ºC, FC 92lpm, frecuencia respiratoria 17 rpm, PA 120/75 mmHg.  A la exploración de la rodilla afectada se evidencia un pequeño derrame, sin eritema, moderado dolor que impide cualquier maniobra exploratoria, y aumento de temperatura local con cicatriz en línea media que muestra una adecuada resolución cicatricial. Laboratorios: Hb 12.5 g/dL, leucocitos 9.200/m3, PLT 250.000/m3, VSG 45 mm/h, PCR 1.5 mg/dl. 
+¿Cuál de las siguientes es la causa más probable de su cuadro clínico?
+#A. S. epidermidis
+#B. N. gonorrhoeae
+#C. Salmonella spp
+#D. Pseudomonas aeruginosa
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQzIkzTa0mIQJLuhdxi3ioUASTOyDICSH4KJoAvJwTNBWw?width=2461&height=1600
+
+#Varón de 62 años en seguimiento en el programa de control, con antecedente de fibrilación auricular persistente diagnosticada hace más de un año, tratada con amiodarona para el control del ritmo. Previo al inicio del tratamiento con amiodarona, el perfil tiroideo se encontraba dentro de rangos normales. En el examen físico presenta signos vitales estables, exceptuando la FC que es de 115 lpm e irregular. El resto de la exploración física es normal. Perfil tiroideo: TSH < 0.01 μU/mL, T4L 3.7 ng/dL. El EKG evidencia. El electrocardiograma muestra hallazgos compatibles con FA. 
+¿Cuál de las siguientes pruebas sería la más apropiada para confirmar el diagnóstico sospechado?
+#A. Gammagrafía tiroidea
+#B. Medir anticuerpos antitiroideos (antitiroglubulina y antiperoxidasa) circulante.
+#C. TAC cervical
+#D. Ecografía doppler tiroidea
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQy4aXLlvGJRIBrSu3XY_2TAe07MhcXnKfMBWaj3FYTVhI?width=2477&height=1600
+
+#Hombre de 66 años, consulta al servicio de urgencia por haber presentado una hora atrás un episodio de 10 minutos de duración de hipoestesia y parestesias faciobraquial izquierda. Al llegar al SU, los síntomas habían desaparecido por completo. Tiene antecedentes de hipertensión y diabetes tipo 2 en tratamiento actual con metformina/linagliptina y losartán/hidroclorotiazida. Examen físico: PA 140/85 mmHg.  El examen físico y neurológico es normal. No tenía soplos carotídeos. Perfil metabólico normal. El EKG muestra ritmo sinusal. La TAC simple de cráneo es normal. La ecodoppler carotídea revela una estenosis del 30 % en ambas arterias carótidas y flujo normal en las arterias vertebrales. Además de iniciar estatinas, 
+¿Cuál de las siguientes opciones representa el manejo adicional más indicado?
+#A. Rivaroxabán
+#B. Clopidogrel
+#C. Aspirina + clopidogrel
+#D. Aspirina + clopidogrel + rivaroxabán 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ6YM_Rk5sVTrebPdg8D7PcAcyFTvl_qMwwuY3POiyt6rQ?width=2469&height=1600
+
+#Una prueba de ELISA para VIH muestra un valor predictivo negativo del 93%. ¿Cómo se debe interpretar este resultado en un paciente con una prueba negativa?
+#A. De cada 100 resultados negativos, 93 corresponderán a personas sanas.
+#B. De cada 100 personas sanas, en 93 de ellos el resultado de la prueba será negativo.
+#C. De cada 100 enfermos, en 7 de ellos el resultado de la prueba será negativo.
+#D. De cada 100 resultados positivos, 7 de ellos corresponderán a enfermos.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRXSnVftThxSqcedTxVzT2qAZ24Kn0NpoN67mx3DHLvn44?width=1237&height=1600
+
+#Femenina de 25 años es llevada a urgencias posterior a un accidente de tránsito. Iba en el asiento delantero de un automóvil cuando chocan por detrás a otro. Al momento la paciente se encuentra alerta, refiere dolor en ambas rodillas y en la cadera derecha. Signos vitales: Temp. de 37°C, FC de 116 lpm, FR de 19 rpm y PA de 130/79 mmHg. Al examen físico hay dolor a la palpación en ambas rotulas e ingle derecha. La pierna derecha está ligeramente acortada, flexionada, aducida y rotada internamente. El resto del examen físico es normal. 
+¿Cuál es el diagnóstico más probable? 
+#A.	Fractura de cuello femoral.
+#B.	Luxación anterior de la cadera.
+#C.	Luxación posterior de la cadera.
+#D.	Fractura de diáfisis femoral.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTuVrk6DZiYQpGONbAMRQynAeNnplKaU6nVdZR0xY92j_g?width=1979&height=1280
+
+#Femenina de 25 años es llevada a urgencias posterior a un accidente de tránsito. Iba en el asiento delantero de un automóvil cuando chocan por detrás a otro. Al momento la paciente se encuentra alerta, refiere dolor en ambas rodillas y en la cadera derecha. Signos vitales: Temp. de 37°C, FC de 116 lpm, FR de 19 rpm y PA de 130/79 mmHg. Al examen físico hay dolor a la palpación en ambas rotulas e ingle derecha. La pierna derecha está ligeramente acortada, flexionada, aducida y rotada internamente. El resto del examen físico es normal. 
+Una radiografía de cadera confirma la luxación posterior de cadera de esta paciente. Se descartan fracturas. ¿Cuál de los siguientes es el tratamiento adecuado para esta paciente? 
+#A.	Observación y reducción abierta electiva.
+#B.	Reducción abierta de emergencia.
+#C.	Observación y reducción cerrada electiva.
+#D.	Reducción cerrada de emergencia.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTCzKsfLaW9QYWMFyrIsrevAam-vs3Gji3atEZZGixFPQQ?width=989&height=1280
+
+#Femenina de 13 años es llevada a urgencias media hora después de caerse de un caballo. La madre refiere que la paciente perdió el conocimiento durante al menos 15 segundos. La paciente refiere dolor en el hombro izquierdo, flanco izquierdo y cadera izquierda. No tiene antecedentes, sin embargo, ha presentado faringitis, fatiga y fiebre desde hace 1 semana. Signos vitales: FC de 105 lpm y PA de 95/60 mmHg. Al examen físico hay abrasiones en la parte superior del brazo izquierdo, sin signos de fractura o dislocación. Hay dolor abdominal y signos de defensa en el cuadrante superior izquierdo. Paraclínicos: Hb de 9.8 g/dL, Leu: 5600/mm3 y PLT de 145.000/mm3. Una ecografía abdominal evidencia líquido intraabdominal libre en bolsa de Douglas. ¿Cuál es la causa más probable de los hallazgos ecográficos de esta paciente? 
+#A.	Perforación de intestino delgado.
+#B.	Hematoma hepático.
+#C.	Laceración pancreática.
+#D.	Ruptura esplénica. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR-2MctHFdWSql3lrncs-GXAVhSwyHMSIq3D57IswYvI6Y?width=989&height=1280
+
+#Femenina de 37 años es llevada a urgencias 15 minutos después de caerse por las escaleras. La paciente se encuentra con disnea, dolor en hemitórax derecho, hombro derecho e hipocondrio derecho. Signos vitales: Temp. de 37°C, FC de 115 lpm, FR de 20 rpm y PA de 85/45 mmHg. Al examen físico se evidencian múltiples equimosis en hemitórax derecho. Hay dolor a la palpación sobre la pared torácica derecha y el cuadrante superior derecho del abdomen. El resto del examen fisico es normal. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A.	Laceración esplénica.
+#B.	Neumotórax a tensión.
+#C.	Hematoma hepático.
+#D.	Hematoma duodenal.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTf9anIK2uTRa5jHK7hKN9tAdUAXFp8-wI8jmma0CAZC3E?width=989&height=1280
+
+#Masculino de 67 años es llevado a urgencias luego de verse involucrado en un accidente de tránsito. El paciente se queja de dolor bilateral en la cadera y a nivel suprapúbico. Sus signos vitales son normales y se encuentra estable hemodinámicamente. Al examen físico, la prueba de compresión pélvica es positiva, se evidencia sangre en el meato uretral y hay equimosis escrotal. Al tacto rectal se evidencia una próstata bolotable alta. Una radiografía simple evidencia fractura pélvica. ¿Cuál de los siguientes es el paso a seguir en la evaluación de este paciente?
+#A.	Realizar una uretrografía retrógrada.
+#B.	Colocar una sonda vesical de Foley.
+#C.	Realizar una cistostomía suprapúbica.
+#D.	Realizar un uroanálisis.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRRwBBJiWBqSbeTQT9pbHDkAf5E3Zoq6rlj49t-Cuw-TXM?width=989&height=1280
+
+#Emma, 4 años de edad, con PAI completo para la edad, previamente sana. Inicia con 10 días de evolución de congestión nasal, fiebre objetiva diaria de hasta 40°C, rinorrea hialina, tos húmeda y malestar general. Acude a urgencias por desaturación a 85% al aire ambiente. Al examen físico, taquicárdica, taquipnéica, con murmullo vesicular abolido en campo pulmonar izquierdo. En rx de tórax, con consolidación en lóbulo superior izquierdo, con áreas sugestivas de necrosis, con IgM para M. pneumoniae positiva. ¿Qué manejo antibiótico iniciaría? 
+#A. Azitromicina + Ampicilina/Sulbactam
+#B. Ceftriaxona + Clindamicina
+#C. Azitromicina + Vancomicina
+#D. Ceftriaxona + Vancomicina                                                                                                                                                                   
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRkMv6SYSwLQ49-2ktvDggmASGjszt2ELqAGpetUGzdI7c?width=2477&height=1600
+
+#Julián, 14 años, con antecedentes de obesidad. Empezó este año en un colegio nuevo y refiere bullying constante, con problemas en su rendimiento escolar. Su índice de masa corporal es de 41 kg/m2. La madre pregunta si la cirugía bariátrica podría ser una opción razonable para su hijo, De las siguientes, la información MÁS precisa que el médico puede proporcionar es que: 
+#A. Los adolescentes con un índice de masa corporal de 40 kg/m o más deben tener una afección comórbida para ser considerados para la cirugía bariátrica.
+#B. La cirugía de banda gástrica ajustable laparoscópica es el procedimiento de elección en la población adolescente.
+#C. Los cambios en el estilo de vida y la espera vigilante brindan resultados similares a la cirugía bariátrica en adolescentes con obesidad severa.
+#D. Los resultados óptimos de la cirugía bariátrica para pacientes pediátricos ocurren en entornos clínicos multidisciplinarios.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQGmRG-sKdNQa7Udm-mdKV8Aap3OzMUQAVNTRTjuEF4xbg?width=1237&height=1600
+
+#Salomé tiene 5 semanas de vida, de 1100 g, nacida a las 24 semanas de gestación con peso de 850 g, se encuentra en UCIP. La madre le pregunta por qué no se le ha realizado todavía un examen de detección de retinopatía, pues ha leído que el primer examen ocular de detección debe realizarse a las 4 semanas de edad. La niña nunca ha sido intubada. Inicialmente requirió ventilación mecánica no invasiva, con presiones inspiratorias máximas de 18 cmH2O, y ha estado con CPAP durante los últimos 10 días. Inicialmente, su requerimiento máximo de FiO2 fue del 60%, pero en su mayoría ha sido del 21% al 28%. No ha presentado ninguna comorbilidad ni complicaciones de su prematuridad.  De las siguientes, la respuesta MÁS precisa a la pregunta de la madre es que:
+#A. El primer examen ocular se realizará a las 6 semanas de edad
+#B. El primer examen ocular se realizará cuando su peso sea de 2 kg
+#C. El primer examen ocular se realizará a las 31 semanas de edad posmenstrual 
+#D. Este examen ocular no está indicado en Salomé
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT1mLBB5D0jRaatVO8k1hn4AQTFwtnu8QskXdsUV9gkGgk?width=2461&height=1600
+
+#Ismael tiene 3 años. Actualmente en proceso de trasplante de riñón, debido a una enfermedad renal terminal secundaria a displasia renal. La cirugía se realizará en 8 semanas; su madre será la donante. El paciente recibirá medicamentos inmunosupresores a largo plazo (tacrolimus y micofenolato de mofetilo) para prevenir el rechazo después del trasplante. La madre refiere PAI completo. Al examen físico, sin alteraciones. De las siguientes, la vacuna MÁS apropiada para administrarle a este niño hoy es:
+#A. H. influenzae tipo B
+#B. Polio IM
+#C. Triple viral
+#D. Varicela  
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRmtkp-QbZHT65eC_aHmJx7AXqPJv3I8eEXFVAF2-EJSx0?width=1237&height=1600
+
+#Rosario, 4 años, sin antecedentes patológicos. Es llevada a su consulta debido a que hace 10 meses, inicia con deposiciones infrecuentes (cada 7-10 días) y dolor con la defecación. Las heces son de gran diámetro, está usando pañal y se niega a usar el baño. Sus padres han notado que retiene activamente las heces. Durante los días previos a defecar, experimenta distensión abdominal e hiporexia. Ha tomado polietilenglicol 3350 de manera intermitente durante los últimos meses, lo que le provoca diarrea. Al examen físico, con distensión abdominal leve, se palpa fecaloma en hipogastrio. ¿Cuál sería el manejo más adecuado?
+#A.	Iniciar fibra para consumo diario
+#B.	Reforzar el entrenamiento de esfínteres 
+#C.	Dosis altas de PEG 
+#D.	Desimpactación manual
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQS4BVbi2JNvSYTYcWx6Rw_CAfErIK3QCylJegNAxM78UPA?width=1237&height=1600
+
+#Masculino de 51 años consulta por dolor intenso en flanco derecho desde hace 8 horas. Tiene antecedente de HTA y diabetes. Signos vitales: Temp. de 36°C, FC de 89 lpm, FR de 17 rpm y PA de 130/80 mmHg. Al examen físico hay dolor a la palpación en ángulo costovertebral derecho. Un uroanálisis evidencia hematuria. Se realiza un urotac con evidencia de un cálculo de 7 mm en el uréter distal derecho sin hidronefrosis. Se inicia manejo analgésico y líquidos IV.  ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Hidroclorotiazida.
+#B.	Tamsulosina.
+#C.	Diltiazem.
+#D.	Amoxicilina + Ac. Clavulánico. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSOsCchLLxjR5fRtPiZfqVoAe0M_eLkisL317bsOZwyLms?width=1237&height=1600
+
+#Femenina de 66 años sin antecedentes, consulta por cuadro clínico de 3 días de fiebre, tos y dolor en hemitórax derecho. Signos vitales: Temp. de 38.8°C y FR de 24 rpm. Al examen físico hay matidez a la percusión, aumento del frémito táctil y egofonía en el campo pulmonar inferior derecho. El resto de examen físico es normal. ¿Cuál es la causa más probable de estos hallazgos? 
+#A.	Colapso de un segmento pulmonar.
+#B.	Líquido en el espacio pleural.
+#C.	Consolidación en un segmento pulmonar.
+#D.	Aire en el espacio pleural. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTfkhaJz7g9Q55gDv-9MXdqAXkMKGlwSSct_uhdpl_B8rk?width=1237&height=1600
+
+#Femenina de 3 años es llevada a urgencias por su madre hace 30 min después de la aparición repentina de falta de aire, dolor abdominal y urticaria. Los síntomas comenzaron 5 minutos después de que comiera un sándwich de mantequilla de maní. Signos vitales: FR de 36 rpm y PA de 84/50 mmHg. Al examen físico hay estridor a la auscultación del tórax. La paciente se intuba y se inició ventilación mecánica. Se inició reanimación con líquidos IV y farmacoterapia adecuada. ¿El fármaco administrado a esta paciente tiene cuál de los siguientes efectos sobre las células del marcapasos cardíaco durante un potencial de acción?
+#A.	Aumento de la afluencia de Na + en la fase 4.
+#B.	Disminución de la afluencia de Na + en la fase 0.
+#C.	Aumento del eflujo de K + en la fase 4.
+#D.	Disminución del eflujo de K + durante la fase 3.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRIPXiPle7QQYVw1uIQ0oejATj_Zqs7TRtVVSjH2UuZg1w?width=1237&height=1600
+
+#Femenina de 40 años consulta por la presencia de una ‘’masa’’ en el lado derecho del cuello que notó desde hace 1 semana. Niega síntomas y no tiene antecedentes de importancia. Signos vitales: Temp. de 37°C, FC de 88 lpm y PA de 116/74 mmHg. El examen físico evidencia un pequeño nódulo en el lado derecho del cuello que se mueve al tragar. Una ecografía evidencia una lesión nodular tiroidea del lóbulo derecho de 0.8 cm con microcalcificaciones centrales y márgenes irregulares. ¿Cuál es el paso apropiado a seguir en el abordaje diagnóstico de esta paciente?  
+#A.	Realizar punción de la lesión por aguja fina.
+#B.	Realizar gammagrafía tiroidea.
+#C.	Medir TSH 
+#D.	TAC de cuello.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTk5b7K49SdQYUcHp4w9P0uAYKJZErvhm21nL3lTrpVkss?width=1237&height=1600
+
+#Masculino de 69 años es llevado a urgencias por epigastralgia intensa y vómitos desde hace 30 minutos. Signos vitales: FC de 55 lpm, FR de 30 rpm y PA de 90/50 mmHg. Al examen físico el paciente está diaforético con distensión venosa yugular. Se toma un electrocardiograma con elevación del ST en DII, DIII y aVF, asociado a un bloqueo AV de tercer grado. Usted espera encontrar compromiso del siguiente vaso:  
+#A.	Arteria coronaria izquierda.
+#B.	Arteria coronaria derecha.
+#C.	Arteria descendente anterior.
+#D.	Arteria circunfleja izquierda.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTQugPbRzkERaTMX6kWMpbCAXR-Z14NMBYuGuur73WaMvY?width=1237&height=1600
+
+#Paciente de 22 años asiste a consulta preconcepcional considerando ya que está considerando su primer embarazo. Como único antecedente de interés refiere epilepsia bajo tratamiento activo. Actualmente toma ácido fólico 0.4 mg/día. 
+¿Cuál es la estrategia más apropiada para el manejo de micronutrientes en este caso?
+#A. Medir hierro y ácido fólico sérico.
+#B. Aumentar la dosis de ácido fólico a 4 mg/día
+#C. No es necesario realizar un manejo adicional.
+#D. Medir Vitamina B12 sérica.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTLHqisVH6OQ6FEtz1Ou2W7Ae3HOcHBH-352IPK83JVvms?width=989&height=1280
+
+#Mujer secundigesta con antecedente de parto a las 38.5 semanas, con un recién nacido masculino de 2.400 gramos. Presenta informe ecográfico del tercer trimestre realizado a las 33.5 semanas, evidenciándose un feto vivo en presentación podálica, dorso anterior, en el percentil 7, con Doppler fetal normal, placenta normoinserta en cara posterior y líquido amniótico adecuado (ILA: 10 cm).
+¿Cuál sería el diagnóstico y la conducta a seguir? 
+#A. Feto pequeño para la edad gestacional - Indicación de vigilancia ecográfica.
+#B. Feto con restricción del crecimiento intrauterino - Se recomienda seguimiento ecográfico.
+#C. Feto con restricción del crecimiento intrauterino - Se indica maduración pulmonar y finalización de la gestación mediante inducción.
+#D. Feto pequeño para la edad gestacional - Se indica maduración pulmonar y finalización de la gestación mediante inducción.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTY2xi2EucOSJiFsK_FU2pKAe0nxDBeZXpmmlJiwM8S-nM?width=989&height=1280
+
+#Mujer de 25 años con antecedentes de hirsutismo y acné que busca iniciar anticoncepción hormonal combinada. ¿Cuál de los siguientes progestágenos no sería una opción adecuada para su tratamiento?
+#A. Drosperinona
+#B. Norgestimato
+#C. Levonogestrel
+#D. Noretindrona 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTLXc5szYfmTazVclVaLKc1AQopbjkzw5pyvcSURVAuEzo?width=989&height=1280
+
+#Femenina de 31 años, G1P0A0C0, consulta al servicio de urgencias por cuadro de 2 días de evolución de disuria, polaquiuria y urgencia miccional. Actualmente en su novena semana de gestación. Refiere infecciones urinarias bajas postcoitales recurrentes como antecedente, con el episodio más reciente hace cuatro meses. No tomas medicamentos, exceptuando micronutrientes. Exploración física y signos vitales dentro de parámetros normales. El uroanálisis reporta > 10 leucocitos/hpf, esterasa leucocitaria y nitritos positivos. 
+¿Cuál de las siguientes es la conducta más adecuada?
+#A. Solicitar al laboratorio que no descarte la muestra, ya que se requiere para urocultivo e iniciar posteriormente ciprofloxacino 
+#B. Solicitar al laboratorio que no descarte la muestra, ya que se requiere para urocultivo e iniciar posteriormente amoxicilina/ac. Clavulánico 
+#C. Iniciar tratamiento nitrofurantoina, independientemente de que el laboratorio haya descartado la muestra para urocultivo. 
+#D. Iniciar tratamiento trimetoprima-sulfametoxazol, independientemente de que el laboratorio haya descartado la muestra para urocultivo. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQMP7_6odc8RYGIFMz6m65RAV1qB8LvBWsv8IASw6qmet8?width=1975&height=1282
+
+#La vacuna tetravalente del VPH (Gardasil) protege frente a los serotipos responsables de lesiones preneoplásicas. ¿Cuál de los siguientes serotipos no está incluido en su cobertura?
+#A. 11
+#B. 16
+#C. 6 
+#D. 31
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTGYpBOW26bSbvSvOMnxhKoAWVRmKhEiXpz8FB18EoeQRI?width=989&height=1280
