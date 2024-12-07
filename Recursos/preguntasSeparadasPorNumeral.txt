@@ -26824,3 +26824,215 @@ https://1drv.ms/i/s!AjvZMkq-eMAszVM-ESnv3nCs2Z-c?embed=1&width=793&height=360
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQRynsuCF_BFSpWZwe-3SGEIAT9JVI4VtdexpxS2WCN5tKI?width=1974&height=1280
 
+#Femenina de 27 años es llevada a urgencias luego de caerse desde una bicicleta hace aprox. 1 hora. La paciente presentó un trauma craneoencefálico con pérdida de la conciencia durante unos minutos, con posterior recuperación espontanea. Ahora tiene náuseas, episodios eméticos (2 en los últimos 30 min) y cefalea. No tiene antecedentes de importancia. Signos vitales: Temp. de 37°C, FC de 50 lpl, FR de 10 rpm y PA de 160/90 mmHg. Se encuentra orientada y en el examen físico destaca un hematoma temporal derecho. Durante la observación presenta un episodio convulsivo yugulado con midazolam y es trasladada a UCI. ¿Cuál es el diagnostico más probable? 
+#A.	Hematoma subdural.
+#B.	Hematoma epidural.
+#C.	Hemorragia subaracnoidea. 
+#D.	Hemorragia parenquimatosa.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSgPPW4s7yPS5tnfo-0JtIiAUegMBW7KriA1tai7nZFvEs?width=989&height=1280
+
+#Masculino de 25 años es llevado a urgencias por un estado de respuesta mínima. Tiene antecedente de alcoholismo y consumo de drogas ilícitas. Al llegar a urgencias, no responde a las órdenes y retira las extremidades al dolor. Signos vitales: FC de 90 lpm, FR de 8 rpm y PA de 130/90 mmHg, SatO2 del 95% con oxigeno por mascara de no reinhalación. Al examen físico la piel está fría y seca, con marcas de pinchazos en brazos y piernas. Las pupilas son de 1 mm y reacciones lentamente a la luz. Glucosa sérica es de 80 mg/dL. ¿Cuál es el manejo inmediato adecuado para este paciente? 
+#A.	Naloxona.
+#B.	Fentanilo.
+#C.	Flumazenil.
+#D.	Naltrexona. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTuqnaoVZQAQo-2tZViMT94AWrnCZjjxItdmTd5sUWWvM4?width=989&height=1280
+
+#Femenina de 52 años consulta por cuadro de convulsión tónico-clónica generalizada hace 20 minutos. Tiene antecedente de VIH en manejo con dolutegravir, lamivudina y tenofovir con mala adherencia. Se encuentra letárgica y confundida. El examen neurológico no evidencia anomalías. Hay linfadenopatía generalizada. Su recuento de CD4+ es de 89 células/uL. La TAC de cráneo contrastada evidencia lesiones realzadas en anillo en los ganglios basales y sustancia blanca subcortical. Una preparación de LCR con tinta china es negativa. ¿Cuál es el diagnostico más probable? 
+#A.	Encefalopatía por VIH.
+#B.	Leucoencefalopatía multifocal progresiva.
+#C.	Linfoma primario del sistema nervioso central.
+#D.	Toxoplasmosis cerebral.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRQbxmiByYsQo76FiSnavetAZ88PJ5WZwE5cMxrxprUNig?width=989&height=1280
+
+#Masculino de 54 años consulta por dificultad para tragar alimentos sólidos y líquidos desde hace 1 mes. Durante los últimos 5 meses también ha presentado debilidad en manos y piernas, lo cual ha dificultado su trabajo. Al examen físico hay atrofia de la lengua, fuerza muscular disminuida en extremidades superiores e inferiores derechas con rigidez muscular en la extremidad inferior izquierda. Los reflejos tendinosos profundos son 1+ en extremidades superior e inferior derecha, 3+ en la extremidad superior izquierda y 4+ en extremidad inferior izquierda. El reflejo plantar muestra una respuesta extensora en el pie izquierdo. La sensibilidad al tacto ligero, al pinchazo y a la vibración está intacta. ¿Cuál de los siguientes es el diagnóstico más probable?
+#A.	Miastenia gravis.
+#B.	Esclerosis lateral amiotrófica.
+#C.	Degeneración combinada subaguda de la médula espinal.
+#D.	Espondilosis cervical con mielopatía.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR-D7t6192ERKkieVquYZiWAcoH2CmPUZOtkPUDEfmUq3Y?width=989&height=1280
+
+#Femenina de 61 años es llevada a urgencias ya que fue encontrada gritando en la estantería de una biblioteca pública hace 30 minutos. La paciente se evidencia desarreglada e inquieta. Sus signos vitales son normales. Al examen mental presenta taquilalia con interrupciones abruptas ocasiones y cambios frecuentes de tema. Coopera, pero requiere redirección continua. Se encuentra desorientada. Repite frecuentemente "Escucho al sol diciéndome que fui elegida para salvar el universo". El resto de examen físico y paraclínicos séricos y toxicológicos son normales. ¿Cuál es el manejo farmacológico adecuado para esta paciente? 
+#A.	Haloperidol IV.
+#B.	Ketamina IV.
+#C.	Alprazolam VO.
+#D.	Risperidona VO.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ5xySa2zCeT5d_KSGsbbmVAdvnUqRa_749F5EAOeyMBGc?width=989&height=1280
+
+#Juan tiene 2 años y acude a una cita médica. Tiene antecedentes de infecciones recurrentes del oído y otitis media crónica con efusión. Sus padres están preocupados por su falta de habilidades lingüísticas. Refieren que habla aproximadamente 10 palabras y balbucea sonidos secuenciales que son en su mayoría ininteligibles. Sus hitos motores y sociales son apropiados para su edad. Sus padres son bilingües y hablan inglés y español en casa. Juan tiene 2 hermanos sanos, un hermano de 5 años que recibió terapia del habla y una hermana de 8 años. Sus parámetros de crecimiento y los hallazgos del examen físico son normales. De los siguientes, el factor de riesgo MÁS significativo para la condición de este niño es: 
+#A.	El antecedente de otitis media crónica con efusión
+#B.	Padres bilingües
+#C.	Historia familiar de retraso del lenguaje
+#D.	Ser el hermano menor 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRN0d8OWNzZTaf6TB849i7FAfgL00elfO8nlM6pLUyRhWY?width=2467&height=1600
+
+#Abraham, 17 años, llevado por los bomberos a urgencias después de ser rescatado de un incendio en su casa. Estuvo dentro de la casa en llamas durante 30 minutos, atrapado en una habitación. Refiere disnea, cefalea y visión borrosa. Al examen físico, taquicárdico, con fuerte olor a humo, con quemaduras en manos y brazos, con membranas levemente eritematosas, con tos y uso de músculos accesorios; a la auscultación con crépitos en ambos campos pulmonares. Se inicia O2 por cánula nasal, LEV y se monitoriza. De los siguientes, ¿Cuál es el MEJOR paso a seguir con este paciente?
+#A.	Gases arteriales
+#B.	Rx tórax
+#C.	Vigilar oximetrías
+#D.	Ionograma 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSqeXkB6MTRTIEkzQX5k_xRAXY_trDH_mJ-DyAnjFy76zM?width=1236&height=1600
+
+#Ximena, 2 años, llevada a urgencias por taquipnea hace dos días. La madre refiere que el día anterior acudieron a urgencias a otro hospital y se diagnosticó una infección de  vías respiratorias superiores de origen viral. Su madre afirma que durante la última semana, ha presentado polaquiuria. Al examen físico, taquicárdica, taquipnéica, afebril, peso de 10,2 kg (2,3 kg menos que en una visita cita previa, hace un mes), con mucosas secas, con signos de dificultad respiratoria, con respiraciones rápidas y profundas. Sus membranas mucosas parecen secas. El resto de los hallazgos de su examen físico no son destacables. ¿Cuál sería el mejor paraclínico para diagnosticar la patología que sospecha en esta paciente? 
+#A.	Rx de tórax
+#B.	Uroanálisis y urocultivo
+#C.	Panel viral respiratorio
+#D.	Panel metabólico básico y gases arteriales 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQb_za9SXM-Ra0nmhlmKTddASEuy79l5ynI_P0O9jsFqlk?width=1236&height=1600
+
+#Maribelle tiene 12 años, sin antecedentes patológicos. Es llevada a su consulta por amenorrea primaria. Su madre tuvo la menarquia a los 11 años y su hermana mayor a los 12 años. La paciente es bailarina y practica 5 días a la semana. Su madre informa que tiene buen apetito. Los signos vitales de la niña son normales para su edad, tiene un peso por debajo de -3DE y una talla en -3DE y en las gráficas de seguimiento se observa que siempre se ha encontrado en estos carriles; mamas Tanner 1 y vello púbico Tanner 2. Tiene además vello axilar. De los siguientes, ¿Cuál es el diagnóstico MÁS probable?
+#A.	Retraso constitucional del crecimiento y el desarrollo
+#B.	Síndrome de Mayer-Rokitansky
+#C.	Síndrome de Turner
+#D.	Anorexia nerviosa
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR03H2gqcULTLTdpM75oxtoAaP1F9ug2VXlGzOunxvGwnI?width=1236&height=1600
+
+#Richard, 2 años, llevado al médico porque sus padres observan una alteración en su desarrollo. Dicen que no se interesa por los objetos que los demás le presentan en un plano cercano y al apuntarle o señalarle algo del ambiente, no lo mira. Cuando lo llaman por el nombre, no gira ni mira a la persona que le está hablando. Cuando sus primos van a la casa a visitarlo, no le gusta jugar con ellos y prefiere estar solo. De acuerdo a la patología que sospecha, ¿Cuál es la escala inicial más apropiada para la tamización en este paciente?
+#A. Criterios de DSM-V para trastorno del espectro autista
+#B. Test de M-CHAT: Cuestionario de Autismo en la Infancia- Modificado
+#C. Test de Goodenough
+#D. Test de VALE
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQmdBsEh-vMS6pu6yxm06lTAdA6a7jhX_wGELg8p2oqIyQ?width=2468&height=1600
+
+#Mujer de 45 años, quien acude a consulta por insistencia de su esposo quien refiere que no oye bien desde hace un tiempo. Como datos relevantes, el paciente refiere episodios de tinnitus desde hace tres años sin vértigo asociado. Niega exposición a ambientes ruidosos, toma de medicamentos. A la exploración física, se identificó una posible pérdida auditiva en el oído derecho mediante la prueba de la voz susurrada. La otoscopía descarta presencia de cerumen impactado u otras causas obstructivas en el conducto auditivo externo, con membranas timpánicas de aspecto normal. La acumetría evidencia Rinne positivo y Weber hacia el oído izquierdo. 
+¿Cuál de las siguientes es la causa más probable de la pérdida auditiva en este paciente?
+#A. Pérdida auditiva neurosensorial en el oído izquierdo
+#B. Pérdida auditiva conductiva, oído derecho
+#C. Pérdida auditiva neurosensorial, oído derecho
+#D. Pérdida auditiva conductiva, oído izquierdo 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRSaBFgwBOWT7blJnIeSZNuAe6-XoKzZoqtsLcEU5BqIiw?width=1974&height=1280
+
+#Varón de 61 años, quien se encuentra en su quinto día de hospitalización tras presentar su primer episodio de exacerbación de su EPOC. Actualmente en proceso de alta hospitalaria. Tiene esquema de vacunación al día y abandonó el habito de fumar hace siete años. En tratamiento actual con LABA diario, salbutamol inhalado a demanda de rescate y corticoides orales, los cuales se suspenderán antes del alta. Examen físico: signos vitales estables, SatO2 88% a aire ambiente. A la auscultación destaca una disminución del murmullo vesicular con sibilancias espiratorias en ambos campos pulmonares. El hemograma es normal. Gases arteriales (al momento del alta): pH 7.43, PCO2: 42 mm Hg, PO2: 53 mm Hg. Entre las siguientes opciones, ¿cuál es la más indicada como tratamiento adicional?
+#A. Comprobar que el paciente realiza correctamente la técnica inhalatoria y ajustar el tratamiento inhalado con LABA/LAMA/GCI
+#B. Iniciar pauta de oxigenoterapia crónica domiciliaria.
+#C. Prescribir N-acetilcisteína oral.
+#D. Comprobar que el paciente realiza correctamente la técnica inhalatoria y ajustar el tratamiento con LABA/ GCI
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSpRvke0JuZSKhsJ6OKFiXmAVOoSu2h7X9D1pBBku_ukbs?width=989&height=1280
+
+#Mujer de 42 años es evaluada por anemia descubierta durante un examen de rutina. Niega antecedentes personales o familiares de interés. Actualmente planifica con anticonceptivos orales. El examen físico es normal. Laboratorios: Hb 8.8 g/dL, VCM 102 fl, Vit B12 175 pg/mL, Ac anticélulas parietales (+), Ac antifactor intrínseco (+). Considerando la información anterior y el diagnóstico establecido, ¿cuál sería la prueba más adecuada para realizar ahora?
+#A. Gammagrafía con tecnecio
+#B. Colonoscopía
+#C. Ecografía abdominal 
+#D. Endoscopia alta 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSIgeJq9vTiTap10vbxVNWpAVmVRwUKKOAHksehwbVJWAU?width=989&height=1280
+
+#Varón 72 años es traído a consulta por su hija debido a episodios recurrentes de confusión, alucinaciones visuales y dificultad para realizar actividades diarias. En el último año, ha tenido episodios de movimientos o comportamientos asociados a los sueños mientras dormía. Al examen físico los signos vitales son normales y la exploración detallada es anodina, salvo una leve rigidez en ambas extremidades superiores. En la RM cerebral no se observan signos de enfermedad vascular relevante, solo hallazgos relacionados con el envejecimiento. 
+¿Cuál es el diagnóstico más probable? 
+#A. Demencia por enfermedad de Parkinson
+#B. Demencia frontotemporal
+#C. Demencia con cuerpos de Lewy
+#D. Demencia por enfermedad de Alzheimer
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQS2kVkGVFpRRom5aoj8i5FiATPGlLUBIy1V8RV00CDec60?width=1978&height=1280
+
+# Te encuentras en una consulta de control y desarrollo de una niña de 13 años, sana, que se aplicó recientemente la primera dosis de la vacuna contra Virus del Papiloma Humano (VPH). La madre, al finalizar la revisión, pregunta cuándo debe administrarse la siguiente dosis. 
+¿Cuál sería la respuesta correcta? 
+#A. La segunda dosis se aplica un mes después de la primera.
+#B. La segunda dosis se aplica tres meses después de la primera.
+#C.  La segunda dosis se aplica seis meses después de la primera.
+#D. No se debe proporcionar una segunda dosis
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTrgUAtwZCJSb9dmrKPz1KaAc0_MP0Ma8X_z9JPcbTV0lQ?width=1237&height=1600
+
+#Varón de 75 años, quien se encuentra en el servicio de hospitalización bajo el contexto de neumonía adquirida en la comunidad. Tiene diagnóstico previo de demencia y está en tratamiento únicamente con donepezilo. Actualmente está en manejo con ceftriaxona + claritromicina y desde urgencias se le ordenó colocarle una sonda vesical. Acude al llamado de enfermería quien le refiere que el paciente se encuentra con signos vitales estables, pero lo nota desorientado. El examen neurológico muestra deterioro cognitivo sin signos de inatención ni evidencia de déficits neurológicos focales. 
+¿Cuál de las siguientes medidas es la más indicada para prevenir el delirium en esta paciente?
+#A. Iniciar quetiapina 25 mg q12h 
+#B. Proceder de inmediato a la contención mecánica para prevenir daños mayores y continuar con vigilancia de signos vitales
+#C. Ordenar retirar la sonda vesical
+#D. Indiciar Lorazepam 2 mg antes de dormir
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRd8zKPvxMnQIVz26L-n1HIAayr3hTTOhk0ZZLNUM_VqwU?width=1977&height=1280
+
+#Una paciente de 24 años acude a consulta acompañada de su madre, ya que admite provocarse vómitos de manera frecuente como método para controlar su peso. 
+¿Cuál de las siguientes características es menos probable que se observe?
+#A. Alcalosis metabólica 
+#B. Hipocaliemia
+#C. Hipoamilasemia
+#D. Erosiones de esmalte dental 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSwyolskIgOTLKDEg-XSEb1AfV9ddeIhv1h6neCXgp_AeQ?width=1981&height=1280
+
+#Varón de 45 años, acude a urgencias por presentar vómitos, dolor punzante en la región frontal derecha y enrojecimiento ocular con visión borrosa en el ojo derecho desde hace 4 horas. En el examen físico, la pupila derecha se encuentra midriática y arreactiva. La presión intraocular se registra en 39 mm Hg. 
+¿Cuál es el diagnóstico más probable? 
+#A. Uveítis anterior
+#B. Queratitis herpetiforme
+#C. Escleritis
+#D. Glaucoma de ángulo cerrado 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ4I0pC7j0XToEysQ_-HjYIAeKa8UU90sj9Jk16CpO0KZY?width=2452&height=1600
+
+#Mujer de 35 años. Acude a urgencias por tumefacción en miembro inferior izquierdo de dos días de evolución. Actualmente se encuentra planificando con anticonceptivos orales combinados. A la exploración física se observa edema con fóvea en la extremidad inferior izquierda hasta la rodilla. El Eco-Doppler venoso de miembros inferiores: ocupación de vena poplítea femoral superficial y femoral profunda del miembro inferior izquierdo por material ecogénico con mala compresibilidad de dichos vasos. El ACO es suspendido y se educa sobre otras alternativas. La paciente expresa su interés en un manejo ambulatorio. 
+¿Cuál de las siguientes es el tratamiento más adecuado?
+#A. Warfarina
+#B. Dabigatrán
+#C. Rivaroxaban
+#D. Edoxabán
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT6yYOt_4kMTr_PnAol8DdiAQQUdjWAM_X2fJqx3GUNxlw?width=990&height=1280
+
+#Mujer de 31, acude al servicio de urgencias refiriendo sentirse cansada. Niega antecedentes patológicos de interés. Refiere ser vegana, corredora de maratones y montañistas, por lo cual se ha estado preparando cada día por medio estos últimos dos meses corriendo hasta 15 km.  Sus menstruaciones son de tipo 4-5/28-30, de cantidad algo abundante, sin coágulos y sin dolor. Laboratorios: Hb de 9.2 g/dl, reticulocitos de 2.8%, VCM de 89 fL, plaquetas 340.000/mm3, LDH 490 U/L, ferritina de 180 ng/ml (VRN: 15-150), hierro total de 90 mcg/dl (VRN: 60-170), haptoglobina de 25 mg/dl (30-200). Uroanálisis: Hb 4+ y sedimento urinario inactivo. 
+¿Cuál es el diagnóstico más probable? 
+#A. Anemia ferropénica 
+#B. Anemia hemolítica extravascular
+#C. Anemia por déficit de vitamina B12.
+#D. Anemia hemolítica intravascular
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSxXylnwbEHR69J1reCv3OvATEqyVMQVNCPrArmyvM3ICg?width=1991&height=1282
+
+#Don Juan de 55 años, previamente sano, acude a consulta porque desde hace tres meses ha estado presentado halitosis progresiva, sensación de ‘’atoro’’, en especial para los sólidos y regurgitación intermitente de alimentos no digeridos. Niega otros síntomas asociados. Tiene antecedente de reflujo gastroesofágico en manejo con IBP diario. Su última endoscopia de vías digestivas altas realizada hace un año fue normal. El examen fisico es anodino.
+¿Cuál de las siguientes es la conducta adecuada con esta paciente?
+#A. Realizar endoscopia de vías digestivas altas
+#B. Realizar manometría esofágica
+#C. Realizar pH-metría esofágica ambulatoria
+#D. Realizar esofagografía con contraste
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTZAAVGm_JTRoE8FZzhjupbATBZR2nd7K1Xt63qtlx_wZM?width=990&height=1280
+
+#Mujer de 29 años consulta por amenorrea y sensación de fatiga. Relata un antecedente de parto vaginal hace tres meses, seguido de una hemorragia posparto que precisó transfusión de sangre y legrado de urgencia. Actualmente está tomando anticonceptivos orales combinados desde hace dos meses, con una semana de píldoras placebo. Previo al inicio de la amenorrea, la paciente tenía ciclos menstruales regulares de 4 días con sangrado moderado, pocos coágulos. El examen pélvico revela un flujo vaginal claro en toda la cúpula, mientras que el útero es pequeño y antevertido. La prueba de embarazo es negativa, con niveles normales de FSH y TSH. Considerando el diagnóstico presuntivo, ¿cuál debería ser el próximo paso en el manejo? 
+#A. Iniciar manejo sintomático con propranolol.
+#B. Remitir a endocrinólogo para iniciar terapia de reemplazo hormonal.
+#C. Considerar cambiar a otro método anticonceptivo 
+#D. Programar para histeroscopia.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTh1tUQsz17T7fU8bKBQRemAXuBzN1buOJYhEIxBESWyQ0?width=1237&height=1600
+
+#La ciudad de Cali ha registrado una mayor cantidad de casos de viruela símica (mpox) que Cartagena entre 2022 y 2024. Se desea realizar un estudio con el objetivo de establecer si la ubicación de la ciudad está relacionada con la diferencia en incidencia de mpox. 
+¿Qué tipo de estudio epidemiológico sería el adecuado realizar?
+#A. Ecológico 
+#B. Casos y controles
+#C. Cohortes
+#D. Transversal
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTROHlKebVLQ7SSxM28wsrqAaWWnmNoU0PpxgC0V8TxtZ8?width=2477&height=1600
+
+#Mujer de 34 años acude para recibir orientación en anticoncepción. Ha estado utilizando preservativos de manera regular, pero desea un método más confiable. Presenta menstruaciones regulares, con un sangrado abundante de hasta 5-7 días que requiere el uso adicional de tampones. Tiene antecedentes de trombosis venosa profunda recurrente. No consume tabaco, alcohol ni otro tipo de sustancias. Examen físico: PA 130/75 mm Hg y FC 81/min, IMC 22 kg/m2. Paraclínicos: Hb 10.2 g/dL, Hto 30%, Plaquetas 340.000/mm3, leucocitos 5.100/mm3.
+¿Cuál es la opción anticonceptiva más adecuada para la paciente?
+#A. Anillo vaginal combinado
+#B. DIU liberador de progestina
+#C. Parche anticonceptivo combinado
+#D. DIU de cobre
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTyyys48xO6Sp6dwORuTPvOAVoSrRt3nJUlPOBSW0T6dR0?width=1237&height=1600
+
+#Un niño de 11 años acude a consulta por dolor persistente en la rodilla derecha y problemas para caminar que han progresado durante varios meses. En la última semana, el dolor ha aumentado de intensidad, es constante, no se irradia y empeora por la noche, sin mejoría con el uso de analgésicos de venta libre. Examen físico: afebril, marcha antálgica, rodilla edematosa, eritematosa y con una masa blanda e inmóvil sobre la rodilla derecha. Laboratorios: leucocitos 13,700/mm³ y VSG 39 mm/h. La radiografía evidencia lesión lítica central en el fémur distal con estratificación cortical, aspecto de "capullillo" y extensión al tejido blando.
+¿Cuál es el diagnóstico?
+#A. Mieloma múltiple
+#B. Fibrosarcoma
+#C. Osteoma osteoide
+#D. Sarcoma de Ewing
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQR6E0L-Z14T4_PN8hd-FAEAeWPvoNOR__Y54GkvwPs5t4?width=1237&height=1600
+
