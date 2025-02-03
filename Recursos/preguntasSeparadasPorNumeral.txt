@@ -27666,3 +27666,128 @@ https://1drv.ms/i/c/2cc078be4a32d93b/IQQjnxDBZDL7QIA5hF-mGoaXAbElolUVHs5L2d6lert
 #D. Realizar prueba de ADN VPH
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQTJbJMFYvcNSZmk_odjJQlcAXqqAsxBO3IsfXVn_qGb2NM?width=1237&height=1600
+
+#Usted es médico asistencial de un consultorio de reumatología y valoran a una paciente de 40 años con diagnóstico reciente de artritis reumatoide. Presenta 2 meses de dolor articular y tumefacción progresiva en manos, muñecas y articulaciones metatarsofalángicas. Su único tratamiento actual es un anticonceptivo oral combinado con etinilestradiol y levonorgestrel. En el examen físico, se observa tumefacción y sensibilidad en múltiples articulaciones pequeñas de las manos, muñeca izquierda, tobillo y pie derechos. Las radiografías muestran osteopenia yuxtaarticular sin erosiones. Paraclínicos: hemoglobina 11.2 g/dL, leucocitos 5800/μL, plaquetas 425,000/μL.
+¿Cuál es el manejo inicial más adecuado para esta paciente?
+#A. Leflunomida, AINEs y glucocorticoides a dosis altas
+#B. Metotrexato, ácido fólico y glucocorticoides a dosis bajas
+#C. Rituximab, AINEs y glucocorticoides a dosis bajas
+#D. Hidroxicloroquina, AINEs y glucocorticoides a dosis bajas
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT9y0M4yvK0SKrhTKHj6UQZAa2ZLle0LfaDlLEIU0nZ8TI?width=2467&height=1600
+
+#Mujer de 76 años es llevada a urgencias por rectorragia y decaimiento físico. Refiere evacuaciones con sangre marrón oscuro, acompañadas de dolor abdominal tipo cólico en las últimas 12 horas. En la exploración inicial, PA 96/42 mmHg, FC irregular de 102 lpm, abdomen blando con dolor en el hemiabdomen inferior. Tras reanimación con 1500 ml de LEV, PA 112/62 mmHg y FC 78 lpm. Se hospitaliza y se inicia protocolo de preparación para colonoscopia en las próximas 24-48h. Antecedentes: hipertensión, dislipidemia, enfermedad coronaria y fibrilación auricular. Hace 10 días, se realizó colonoscopia con remoción de dos pólipos adenomatosos (8 mm y 10 mm) en colon transverso, sin complicaciones. Medicación: apixabán 5 mg BID, ASA 100 mg/día, bisoprolol 5 mg/día y rosuvastatina 20 mg/día. Hemoglobina: 10.7 g/dL.
+¿Cuál es la conducta más adecuada en esta paciente? 
+#A. Suspender ASA y anticoagulante  
+#B. Suspender el anticoagulante
+#C. Continuar ASA y suspender el anticoagulante con administración de antídoto específico
+#D. Suspender el anticoagulante y administrar antídoto específico
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRuABjPwlw5SKGn5ure8vhZAQMsaClm2W2algVllFORQmw?width=2462&height=1600
+
+#Varón de 35 años es evaluado en el servicio de urgencias tras presentar dos episodios de pérdida de conciencia y caídas ocurridos en un período de diez días. Indica no recordar el primer evento, pero el último fue descrito por su amigo. Su amigo, quien lo acompaña, describe que en el episodio el paciente emitió un grito, desarrolló rigidez corporal generalizada y se desplomó hacia atrás mientras caminaba. En el suelo, tuvo movimientos sincronizados de las extremidades durante 60-90 segundos, seguido de somnolencia y respiración lenta. Permaneció en un estado de alerta disminuida durante varios minutos y fue recuperando gradualmente la lucidez al llegar al servicio de urgencias quince minutos después, donde se encuentra clínicamente estable. 
+¿Cuál de las siguientes es el diagnóstico más probable?
+#A. Crisis mioclónica
+#B. Evento psicógeno no epiléptico
+#C. Crisis tónico-clónica generalizada
+#D. Síncope cardiogénico 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRee47YPellR6wTlqZ4pjUwAaet1bY8VutJGb6EoDiOrf4?width=1236&height=1600
+
+#Hombre de 51 años, usuario de drogas intravenosas, es hospitalizado por osteomielitis vertebral evidenciada mediante resonancia magnética con contraste, acompañada de hemiparesia en ambos miembros inferiores e incontinencia fecal. No ha presentado episodios de retención urinaria aguda. Se inicia antibioticoterapia empírica con vancomicina + piperacilina/tazobactam en espera de resultados de hemocultivos. En el día 5 de hospitalización, desarrolla una lesión renal aguda no oligúrica. El uroanálisis revela cilindros granulares marrones.
+¿Cuál es la causa más probable de la lesión renal aguda en esta paciente?
+#A. Nefropatía inducida por contraste
+#B. Glomerulonefritis infecciosa  
+#C. Nefritis intersticial aguda
+#D. Vancomicina
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTfwF8HrAFOT5mezBCL0gRDAeJW4VDg_1Tu9U_s1agTS18?width=1236&height=1600
+
+#Mujer de 41 años, acude a consulta de control con dermatología por hidradenitis supurativa en región axilar izquierda (RAI), la cual desarrolló hace dos años y diagnosticada hace cuatro meses. Se encuentra en manejo con doxiciclina oral, clindamicina tópica al 1% y sulfato de zinc, sin observar mejoría notable en su evolución clínica. Fumadora crónica y bebedora social. En el examen físico, los signos vitales son estables y el índice de masa corporal (IMC) es de 29. A nivel de la RAI se evidencia múltiples nódulos inflamatorios, abscesos interconectados por fístulas y cicatrices fibróticas. Además de recibir asesoramiento conductual para cesación de tabaco/alcohol, tratamiento farmacológico y remisión a nutrición para orientación en pérdida de peso, ¿Cuál de los siguientes es el tratamiento adicional más adecuado? 
+#A. Fototerapia con UVB-banda estrecha
+#B. Acitretina
+#C. Adalimumab
+#D. Metformina
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTtck5tnVWfR7TQZM4Vnm8HAcg5-HJQF6o_kwCzFKKozoY?width=2466&height=1600
+
+#Masculino de 28 años, albañil, consulta por una masa blanda e indolora en el escroto el cual ha ido aumentando de tamaño durante los últimos meses. La masa se hace más prominente cuando se pone de pie y tose, pero desaparece al acostarse. Niega otros síntomas. Sus signos vitales son normales. Al examen físico se evidencia una masa blanda e indolora a nivel escrotal que reduce fácilmente al canal inguinal. La masa se hace más prominente al ponerse de pie, al realizar la maniobra de Valsalva y no transilumina con la luz. ¿Cuál es el diagnostico más probable? 
+#A.	Hernia inguinal directa. 
+#B.	Hidrocele comunicante.
+#C.	Hernia inguinal indirecta.
+#D.	Varicocele.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTGHOU-7sJFT66jIGR8rT_5AXOdVju9bWq9N8IrEOxAtbs?width=989&height=1280
+
+#Masculino de 26 años, sin antecedentes, consulta posterior a un accidente de tránsito. Refieren los paramédicos que se encontró obnubilado por lo que requirió IOT. Recibió 1.5 L de cristaloides en el camino. Signos vitales al ingreso: 88/52 mmHg y FC de 128 lpm. Al examen físico hay múltiples contusiones: región frontal izquierda, miembro superior izquierdo, tórax, abdomen y pelvis, pero sin evidencia de hemorragia externa. La tráquea es medial. Los ruidos respiratorios bilaterales y ruidos cardiacos son normales. El abdomen es blando a la palpación. El tono muscular es normal. El eco-FAST no evidencia líquido libre en pericardio o intraperitoneal. ¿Cuál de las siguientes es la causa más probable de la inestabilidad hemodinámica de este paciente?
+#A. Insuficiencia suprarrenal.
+#B. Hemorragia intracraneal.
+#C. Fractura pélvica.
+#D. Injuria pancreática.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTWIy99So9mR6PK-isMPQjPAfheLeuT5Qn7lGrBMwWS7os?width=1974&height=1280
+
+#Masculino de 42 años presenta 3 meses de dolor torácico subesternal tipo urente posterior a cada comida. Ha probado varios antiácidos de venta libre con leve mejoría. Se realiza una endoscopia digestiva alta que evidencia una irregularidad de la mucosa y ulceración de la unión escamocolumnar por encima del esfínter esofágico inferior. Se toman múltiples biopsias. Cuatro horas después del procedimiento, el paciente presenta dolor subesternal que empeora y se irradia a espalda, junto con una leve disnea.  Signos vitales: Temp. de 37.1°, PA de 110/70 mmHg, FC de 120 lpm y FR de 34 rpm. La radiografía de tórax evidencia un pequeño derrame pleural izquierdo que no estaba presente en una radiografía de tórax tomada hace una semana. Un ECG evidencia taquicardia sinusal. ¿Cuál es la mejor prueba para confirmar el probable diagnostico de este paciente? 
+#A. Repetir la endoscopia de vías digestivas.
+#B. Medir los niveles de amilasa y lipasa en suero.
+#C. Realizar una toracentesis para estudio de líquido del derrame pleural.
+#D. Realizar un esofagograma con contraste soluble.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQS7lCPMrmovT4pFuTwDum5qAT3lFy6n-bkkZzi4s_7xmTw?width=989&height=1280
+
+#Masculino de 40 años es llevado a urgencias luego de ser eyectado por el parabrisas en un accidente de tránsito. El paciente tiene antecedente de fibrilación auricular y está en tratamiento con warfarina, con metas de INR en previas consultas. Signos vitales: PA: 120/68 mmHg, FC: 134 lpm y FR de 22 rpm. Al examen físico se evidencia una fractura expuesta a nivel de tibia derecha con sangrado activo poco controlable. Además de la reanimación hídrica y control local de la hemorragia. ¿Cuál de las siguientes intervenciones podría ser efectiva a la hora de controlar el sangrado?
+#A.	Indicar vitamina K + complejo protrombínico. 
+#B.	Indicar carbón activado, vitamina K y factor VII activado recombinante. 
+#C.	Iniciar vitamina K + sulfato de protramina.
+#D.	Indicar sulfato de protramina + plasma fresco congelado.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRvA2k_NGdXRo71ASLT05LbAWRzNfZH6ZFIE2P9k92cVhI?width=989&height=1280
+
+#Mujer de 21 años, sin antecedentes de interés, consulta por aparición de manchas púrpuras en la piel desde hace 10 días. En la exploración física, los signos vitales son normales. Se identifican petequias múltiples en las extremidades inferiores, sin evidencia de sangrado en mucosas. Los análisis de laboratorio muestran Hb 11.8 g/dL, leucocitos 6700/m³ y plaquetas 25,000/m³. El frotis de sangre periférica señala una morfología eritrocitaria dentro de los parámetros normales, un diferencial leucocitario sin alteraciones, y plaquetas pequeñas de aspecto purpúreo y sin núcleo. Pendiente serología para VIH y VHC. 
+¿Cuál de las siguientes es la conducta más apropiada?
+#A. Transfusión de plaquetas.
+#B. Plasmaféresis
+#C. Solo observación
+#D. Corticoides
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTZXuNhSxbbSLNHKtfCAIJiASbtRGFDZwQWOxhjphBHTjg?width=1974&height=1280
+
+#Alejandro, 8 años de edad. Consulta por fiebre persistente de 7 días de evolución, objetiva, con pico máximo de 40°C, disnea, exantema generalizado maculopapular en tronco, lengua en fresa y dolor abdominal difuso, acompañado de episodios eméticos. Hace 48 horas, inició con artralgias en rodillas y muñecas. La madre refiere que hace 3 semanas presentó una infección respiratoria, con síntomas leves que se resolvieron. Tiene PAI completo para la edad, con 2 dosis de vacunación para COVID19. No requirió hospitalización.  Al examen físico, hipotenso, taquicárdico, con leve taquipnea, febril. En exámenes con leucocitosis, neutrofilia, PCR 20 mg/dL, fibrinógeno 600 mg/dL, dímero D 1200 mg/dL, AST 60, ALT 55, IgM e IgG positivas para COVID19. ¿Cuál considera que es el diagnóstico más probable?
+#A. Neumonía por COVID19
+#B. Síndrome inflamatorio multisistémico (MISC)
+#C. Enfermedad de Kawasaki 
+#D. Síndrome hemofagocítico 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRUtxf0T8xZSZrisUZDh6ihAfWnFwG1KbecdvcZ7wXCLIg?width=2465&height=1600
+
+#Paciente de 6 años sin antecedentes patológicos. Presenta un cuadro de 8 meses de dolor intermitente en la rodilla izquierda, de predominio matutino, acompañado de rigidez al levantarse. La madre ha notado cojera al ponerse de pie después de períodos de reposo. En el examen físico se observa rodilla izquierda edematizada, con calor, derrame articular y contractura en flexión. Con base en el cuadro clínico y los siguientes resultados de laboratorio, ¿cuál marcador se asocia más comúnmente con el riesgo de uveítis en esta paciente con probable artritis idiopática juvenil?
+#A. ANAs 1:640
+#B. PCR 40 mg/L
+#C. Hemoglobina 9.9 g/dL
+#D. Factor reumatoide 68 UI/mL
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTGkyHvx5VKQIh-tYPpm5yRAd3kau3AFLPEs5jTUTW5Ezo?width=1237&height=1600
+
+#Jeremías, 14 años. Llevado a urgencias después de caer sobre su mano derecha extendida mientras practicaba karate. Refiere dolor persistente en el codo derecho, con imposibilidad para la flexión y extensión. Después de evaluarlo, usted diagnostica una luxación posterior del codo. En la rx, sin fracturas. Usted lo reduce y lo inmoviliza. ¿Qué información les daría a los padres y al paciente sobre esta lesión?
+#A. Requiere una inmovilización prolongada del hombro
+#B. Tendrá unos cambios degenerativos de la articulación
+#C. Es probable que requiera manejo quirúrgico
+#D. Tendrá una pérdida de 10° en la extensión terminal del codo
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT12srQxZ6uS4ZFsUhXBzKYASVMaKg0jllbAkoM3nUbTOc?width=1237&height=1600
+
+#Esteban, 13 años, sin antecedentes patológicos, acude por tercera vez en un mes a una consulta prioritaria. En su primera visita, refirió un cuadro de dos días de diarrea sin sangre, acompañado de dolor abdominal y fiebre, por lo que se le diagnosticó gastroenteritis viral. Tras una semana de síntomas persistentes, se realizó un coprocultivo que confirmó el crecimiento de Campylobacter jejuni. Se inició tratamiento con azitromicina, logrando la resolución completa del cuadro clínico. Hoy, 3 semanas después de la resolución de sus síntomas, acude a su consulta por dos días de inyección conjuntival bilateral y dolor articular en rodilla derecha, sin traumas previos. Usted evidencia edema de la rodilla derecha, con un pequeño derrame articular y dolor con los movimientos activos y pasivos, sin evidencia de otros signos inflamatorios. ¿Cuál sería el mejor tratamiento para este paciente?
+#A. Esteroides
+#B. AINES
+#C. Artrocentesis e inicio de antibiótico IV
+#D. Remitir a ortopedia de inmediato
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ39gf39HAfS7xc9sJZmx0dASdEnZ4xU7odeUv1_VBz6ik?width=1237&height=1600
+
+#Julio tiene 15 años. Refiere que hace 3 semanas, inicia con una lesión en tórax anterior, muy pruriginosa. Se aplicó clotrimazol 3 veces al día, sin mejoría. A las dos semanas, aparecieron múltiples lesiones con las mismas características en el abdomen. Al examen físico, se observa una erupción cutánea generalizada en tórax y abdomen, consistente en placas ovaladas y descamativas y algunas pápulas eritematosas. En la espalda, se ve un patrón en árbol de navidad. ¿Cuál considera que es el mejor tratamiento para esta patología?
+#A. Terbinafina tópica
+#B. Continuar clotrimazol tópico
+#C. Difenhidramina oral
+#D. Griseofulvina oral
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ0d__GDbw0SZ6fKr3GbklTAXJzFLeS1A60UbX6jhtxwAY?width=1237&height=1600
