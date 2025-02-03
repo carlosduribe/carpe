@@ -27244,3 +27244,170 @@ Una radiografía de cadera confirma la luxación posterior de cadera de esta pac
 #D. 31
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQTGYpBOW26bSbvSvOMnxhKoAWVRmKhEiXpz8FB18EoeQRI?width=989&height=1280
+
+#Mujer de 31 años, consulta a urgencias por presentar dolor en flanco derecho de inicio abrupto y hematuria macroscópica. En el examen físico, se encuentra afebril, FC 106 lpm y resto de signos vitales dentro de límites normales. Al examen, presenta sensibilidad a la puño percusión en el ángulo costovertebral derecho, con un abdomen blando y no doloroso. En el análisis de orina se observa: hematuria 3+, 2 leucocitos/hpf, nitritos y esterasa leucocitaria negativos, proteínas 1+ y eritrocitos presentes en cantidades incontables. Le realiza un test de embarazo, con resultado positivo. 
+¿Cuál es el estudio diagnóstico más indicado para realizar a continuación?
+#A. TAC helicoidal de abdomen sin contraste
+#B. Ureteroscopia
+#C. Ecografía renal y de vías urinarias
+#D. Rx simple renal y de vías urinarias 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQiFEBbMhJKTLg5A-_c9QEOAdKmp2_fD6iwNBtPXSvnAHY?width=2475&height=1600
+
+#Varón de 61 años, consulta al programa de control. Antecedentes:  hipertensión y enf. renal crónica con tasa de depuración en 27 mL/min. Esta en tratamiento con losartán 100 mg/día; amlodipino 10 mg/día e hidroclorotiazida 25 mg/día. Además, cuenta con un plan de alimentación hiposódica. Durante la exploración física, se registra una presión arterial de 145/90 mm Hg. Se identifica edema pretibial bilateral con fóvea de grado 1+, sin otros hallazgos a la exploración. Laboratorios: Cr 2.6 mg/dL, Na+ 136 mEq/L, K+ 5,3 mEq/L, HCO3 23 mEq/L, relación proteína/creatinina en orina de 1900 mg/g. 
+¿Cuál sería la conducta más adecuada a seguir en este caso?
+#A. Aumentar la dosis de hidroclorotiazida.
+#B. Descontinuar la hidroclorotiazida e iniciar espironolactona como nuevo tratamiento.
+#C. Mantener el tratamiento vigente.
+#D. Descontinuar la hidroclorotiazida e iniciar furosemida como nuevo tratamiento.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTtR4GQDXlnTKfKpDz8PzSfAVrQoEiWPQDmCmHDvYjyK74?width=1237&height=1600
+
+#Mujer de 39 años, quien se encuentra en el servicio de urgencias por colecistitis aguda sin dilatación del conducto biliar común, confirmada por hallazgos clínicos y ecográficos, en manejo actual con ampicilina/sulbactam. En la exploración física, los signos vitales son normales. A la palpación abdominal se observa dolor y defensa en el cuadrante superior derecho. El perfil metabólico se encuentra dentro de los límites normales, excepto por la presencia de leucocitosis con neutrofilia.
+¿Cuál de los siguientes es el tratamiento más adecuado?
+#A. Realizar colecistectomía de emergencia
+#B. Programar para CPRE en 48 horas
+#C. Programar para colecistectomía en dos semanas
+#D. Realizar colecistectomía antes del alta 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT5MGveedm3QoGiEiHwUtm7AQ18wg_jAA8F57wi-pNE9V4?width=1237&height=1600
+
+#Mujer de 31 años, en su novena semana de gestación y sin antecedentes médicos importantes, consulta por intolerancia al calor, temblor distal y palpitaciones. Examen físico: FC 110 lpm, temblor fino en reposo, reflejos OT incrementados y una glándula tiroides difusamente agrandada con soplo audible. Trae laboratorios: TSH 0.001 µU/mL, T4L 4.8 ng/d, y títulos altos de Ac dirigidos al receptor de hormona estimulante del tiroides (TSHR). Además de iniciar propanolol para control de sintomas, 
+¿Cuál es el manejo terapéutico adicional más adecuado?
+#A. Terapia con yodo I-131
+#B. Metimazol
+#C. Tiroidectomía subtotal
+#D. Propiltiouracilo
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ6rxyX1-5aTpQ9rKdGxqizAcGtAI6oBLVxPSJPGHiyQTk?width=1237&height=1600
+
+#Si evaluamos a pacientes con diabetes tipo 2 y comparamos a largo plazo los niveles de hemoglobina glucosilada en aquellos tratados con insulina basal versus aquellos tratados con agonistas del arGLP-1, estamos planteando un estudio de:
+#A. Casos y controles
+#B. Cohortes
+#C. Ensayo clínico aleatorizado
+#D. Transversal
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRwSmaMScGoRaU-2_nOHkdgARpUb20ogK1YcM_3SmdsXoE?width=1237&height=1600
+
+#A una paciente femenina de 35 años con diagnóstico de neumonía le acaban de asegurar la vía aérea mediante intubación orotraqueal y se inicia ventilación mecánica. Inmediatamente se realiza un examen físico en donde se evidencian signos vitales normales y saturación de oxígeno de 94%. La expansión torácica es asimétrica y los ruidos respiratorios están disminuidos en campo pulmonar izquierdo. ¿Cuál es el manejo adecuado para esta paciente? 
+#A.	Colocar un tubo a tórax en el 5° espacio intercostal izquierdo.
+#B.	Retirar el tubo orotraqueal y reintubar.
+#C.	Realizar una toracotomía de emergencia. 
+#D.	Extraer el tubo endotraqueal unos centímetros y revalorar. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRKB4-PfehpR5Un24Kf0JKIARhEKbNyPldNwoF4BehhvUo?width=1978&height=1280
+
+#Masculino de 50 años presenta distensión y dolor abdominal leve y difuso. Tuvo una cirugía de vesícula biliar hace 5 días. Desde entonces niega flatos. Ha recibido manejo antibiótico, morfina y metoclopramida en el posoperatorio. Tiene antecedentes de hipertensión y DT2. Sus signos vitales son normales. Al examen físico se evidencia un abdomen timpánico, distendido con disminución de los ruidos intestinales. No hay signos de irritación peritoneal. Uno de los siguientes factores contribuye al cuadro actual de este paciente: 
+#A.	La administración de metoclopramida.
+#B.	La administración de morfina.
+#C.	Formación de adherencias en el posoperatorio. 
+#D.	Obstrucción por calculo biliar en la válvula ileocecal. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTJXOdVIU7BRZeCbsAGTaN6AUPC8iCtF4QpRe0ShyWBvlc?width=989&height=1280
+
+#En su primer día de posoperatorio de una colectomía abierta, un paciente masculino de 70 años presenta escalofríos. La cirugía transcurrió sin complicaciones. Signos vitales: temperatura de 39°C, FC de 130 lpm, FR de 23 rpm y PA de 90/60 mmHg. Al examen físico se evidencia una incisión mediana que se extiende desde la apófisis xifoides hasta la sínfisis púbica con un área de 5 cm de decoloración púrpura. La palpación abdominal produce dolor intenso y se logra auscultar enfisema subcutáneo. Dentro de los laboratorios destacan leucocitos en 18.000 y VSG en 120 mm/h. ¿Cuál es el paso a seguir en el abordaje de este paciente? 
+#A.	Realizar una radiografía de abdomen.
+#B.	Realizar exploración quirúrgica más desbridamiento.
+#C.	Realizar una tomografía computarizada de abdomen.
+#D.	Iniciar manejo con clindamicina intravenosa. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSOSbb6CnTmTaAlA6wqDJCpAds3_Af-3iIvUG-aUHc2Hs4?width=989&height=1280
+
+#Masculino de 78 años es llevado a urgencias por cefalea intensa desde hace aprox. 3 horas. Tiene antecedente de hipertensión mal controlada y ERC estadio III. Niega consumo de medicamentos desde hace 1 año, además, es fumador activo. Signos vitales: temp. de 37.3°C, FC de 98 lpm, FR de 24 rpm y PA de 210/180 mmHg. El examen físico es normal. El ECG y una radiografía de tórax son normales. Se decide iniciar una infusión de nitroprusiato IV a dosis de 8 mcg/kg/min. Posterior a 5 horas se evidencia una mejoría de la presión arterial. Sin embargo, el paciente refiere mareo, se encuentra confundido y no responde durante la evaluación posterior. Se realiza reanimación inicial. ¿Cuál es el manejo adecuado para este paciente? 
+#A.	Suspender el nitroprusiato y administrar hidroxocobalamina.
+#B.	Realizar un TAC cerebral para evaluar una probable hemorragia.
+#C.	Indicar carbón activado.
+#D.	Continuar con el manejo actual.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTI3fSdSIcXRYPRlsPuCaCmAbZ59oAm4n-ohdpZ9-HsKB4?width=989&height=1280
+
+#Masculino de 56 años es llevado a urgencias posterior a ser encontrando inconsciente en su casa. Su esposa afirma que había tenido síntomas respiratorios superiores similares a una gripe durante los últimos 5 días asociado a polidipsia y poliuria. Tiene antecedente de diabetes e HTA en manejo con metformina, insulina y lisinopril, con poca adherencia al tratamiento durante los 5 días descritos. Signos vitales: temp. de 38.2°C, FC de 110 lpm, PA de 100/70 mmHg, FR de 26 rpm y SatO2 de 84% con oxigeno ambiente. Al examen físico, el paciente no responde a órdenes y gime de manera intermitente, tiene respiración superficial y rápida. Abre los ojos y retira las extremidades ante estímulos dolorosos. Las mucosas están secas. Los ruidos reparatorios están disminuidos en ambos pulmones. ¿Cuál es el manejo inmediato adecuado para este paciente?
+#A.	Iniciar infusión de insulina.
+#B.	Administrar un bolo de líquidos IV. 
+#C.	Realizar intubación orotraqueal.
+#D.	Iniciar antibióticos de amplio espectro.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTNYJRmD0GeSps1DXYJLj-RAc4tWuw2vNVuTmElHDUea2Y?width=989&height=1280
+
+#Ricardo tiene 8 años, con antecedentes de asma persistente moderada, dermatitis atópica leve y rinitis alérgica grave; en manejo con corticosteroides inhalados diarios, un esteroide intranasal diario, un antihistamínico oral antes de acostarse y salbutamol a necesidad. Además, usa emolientes diarios e hidrocortisona ocasionalmente, la última vez hace 2 meses. Hace dos semanas, acudió a consulta externa por exacerbación del asma y se le dio tratamiento con prednisolona por 5 días. Mañana se le realizará un Prick Test. 
+De los siguientes, el factor con MÁS probabilidades de interferir con este test es: 
+#A.	El uso de antihistamínicos orales
+#B.	El uso reciente de esteroides orales
+#C.	La historia de dermatitis atópica
+#D.	El uso de esteroides inhalados
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQgKYQuXv7UQoz9r29wM-2kATWWY5tCtBDNE6jC2zQ_cfY?width=2446&height=1600
+
+#Silvana, 20 meses. Llevada a su consultorio posterior a una revisión con el ORL, quien recomendó colocación de tubos de timpanostomía, debido a que ha presentado 4 episodios de otitis media aguda en los últimos 12 meses, con dos de ellos ocurridos en los últimos seis meses. Los padres desean recibir asesoramiento sobre los riesgos y beneficios del procedimiento. ¿Cuál sería la afirmación más correcta sobre este procedimiento?
+#A.	Disminuye incidencia de OMA
+#B.	Mejora la adquisición del lenguaje
+#C.	Mejora la audición 1-3 meses posterior al procedimiento
+#D.	Posterior al procedimiento, 25% presentan otorrea persistente
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTorju-fPoIQ7TAnsvsrXH9AXZp2Tr7Q80lvPpLHdzqC1k?width=1237&height=1600
+
+#Gonzalo tiene 16 años. Consulta por una semana de evolución de fiebre y cefalea, que iniciaron 9 días después de volver del Amazonas. No recibió quimioprofilaxis antipalúdica durante el viaje. Al examen físico, se observa letárgico, se encuentra febril, sin otros hallazgos. Se toman laboratorios: GB 4300, N 3600, Hb 6%, Plaq 115.000, Na 135, K 4, Cr 0.8, ALT 20, AST 25, BT 1.1, gota gruesa con 3% de parasitemia, con presencia de anillos múltiples en un mismo glóbulo rojo y formas en gametocitos en forma de medialuna. Hemocultivos negativos. ¿Cuál sería el tratamiento más adecuado?
+#A.	Primaquina
+#B.	Artemeter/lumefantrine
+#C.	Cloroquina/primaquina
+#D.	Artesunato/lumefantrine
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRjziiBUPvAR5iMbqkZVAmbAWl0-6gCeem3qjDM511st24?width=1237&height=1600
+
+#Rafael, 2 años, sin antecedentes. Presentó un cuadro clínico de 4 días de evolución de vómito y diarrea acuosa y profusa, con fiebre, dolor abdominal, oliguria e intolerancia a la vía oral. Al examen físico, normotenso, con taquipnea y taquicardia, letárgico, somnoliento, con mucosas secas y extremidades frías. De los siguientes, los parámetros fisiológicos que MEJOR explican los hallazgos de este niño son: 
+#A.	Resistencia vascular sistémica alta, precarga alta y gasto cardíaco bajo
+#B.	Resistencia vascular sistémica alta, precarga baja y gasto cardíaco bajo
+#C.	Resistencia vascular sistémica baja, precarga baja y gasto cardíaco alto
+#D.	Resistencia vascular sistémica baja, precarga baja y gasto cardíaco bajo
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQt7C7LNVr7Tqi3XWiXYcaeAbMxGUqEfQO6x7WSaKv9s2Y?width=2468&height=1600
+
+#Luis, 6 años. Acude a su consulta para una revisión. Hay una nota en la historia clínica que dice que su madre está preocupada por el  comportamiento de su novio actual con su hijo. Antes del examen físico, ella sale para usar el baño. Mientras ella no está, el niño dice que alguien en casa le dio dinero para mantener en secreto que vio su parte privada. Luego señala sus nalgas y dice: "Me tocó ahí anoche". De las siguientes, la pregunta MÁS apropiada para hacerle al niño es: 
+#A. ¿Esto ha ocurrido más de una vez?
+#B. ¿Sabes por qué ha sucedido esto?
+#C. ¿Fue el novio de tu madre el que te toco?
+#D. ¿Qué pasó después?
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTgRXd3iJrJSor7pz-0dUjSAU7Ar8XiHuSSWWLAwUX7a1M?width=2464&height=1600
+
+#Femenina de 39 años llega al servicio de urgencias por presentar edema en las extremidades inferiores desde hace 72 horas, junto con lumbalgia y hematuria macroscópica. Menciona haber notado “espuma” al orinar las últimas semanas. El examen físico es anodino. Laboratorio: Proteinuria de 3.7 gramos en 24 horas, Colesterol total 280 mg/dL, albumina 2.1 g/dL, Cr 0.9, TFG 132 mL/min, BUN 42 mg/dL.
+¿Cuál  de las siguientes opciones diagnósticas es la más adecuada para este paciente?  
+#A. TAC helocoidal de abdomen sin contraste
+#B. Venografía por RM
+#C. Ecografía Doppler de los vasos renales
+#D. Angiografía por TC
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ4k2vY1pG-Spv2RQkYv9QLAbh39AUKDaobTT3kj0jyO-I?width=1236&height=1600
+
+#Mujer de 25 años, sin antecedentes médicos de interés, consulta por cuadro clínico de tres semanas de evolución de dolor cervical anterior, palpitaciones, intolerancia al ejercicio y temblor fino. Refiere que el dolor aumenta al tragar y se irradia hacia los oídos. También comenta que ha estado tomando naproxeno 500 mg VO cada 12 horas durante 2 semanas, recomendado por el farmacéutico de su barrio, sin mejoría en el dolor. Examen físico: T 37.2 ºC, taquicárdico, dolor a la palpación de la tiroides con adenopatías cervicales.  Laboratorio: TSH 0.01 mUI/mL, T4L 2.6 ng/dL.
+¿Cuál es el tratamiento correcto adicional para este paciente?
+#A. Carveridol 50 mg c/12h VO 
+#B. Propanolol 40 mg c/6h VO y prednisolona 40 mg/día VO 
+#C. Metimazol 10 mg/día VO, propanolol 40 mg c/6h VO y prednisolona 40 mg/día VO 
+#D. Propiltiouracilo 50 mg c/12h, propanolol 40 mg c/6h VO y prednisolona 40 mg/día VO 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQYGn468nvYS77GN1OXbwuQAS_CR2e3Hol_3n_81wHO3HA?width=1236&height=1600
+
+#Varón de 67 años, es traído al servicio de urgencias tras presentar debilidad repentina y disminución de la sensibilidad en el lado izquierdo del cuerpo, predominando en el miembro inferior. Tiene antecedentes de hipertensión y DT2, no adherente a manejo farmacologico. Durante la valoración inicial se detecta fibrilación auricular no diagnosticada previamente. En la exploración física se confirma hemiparesia e hipoestesia izquierdas, de predominio crural. De acuerdo con los hallazgos clínicos descritos, ¿cuál arteria presenta mayor probabilidad de oclusión?
+#A. Arteria cerebral posterior derecha
+#B. Arteria basilar
+#C. Arteria cerebral anterior derecha
+#D. Arteria cerebral media derecha
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSvSQJMmX1XTosrZ0-2a9tuAd9fK9bCf5dJCqa8fhMmUCI?width=1236&height=1600
+
+#Una mujer de 60 años consulta en Urgencias por fiebre alta y dolor difuso en el flanco izquierdo. El hemograma muestra leucocitosis de 14,800/μL, neutrofilia del 83%, hemoglobina de 13 g/dL y plaquetas de 230,000/μL. En el uroTAC se identifica una litiasis pseudocoraliforme izquierda y dilatación de las cavidades renales ipsilaterales. En espera del reporte de urocultivo, ¿Qué patógeno es el más probable que se espera encontrar? 
+#A. Citrobacter amalonaticus
+#B. Escherichia coli.
+#C. Salmonella typhi.
+#D. Proteus mirabilis.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSAElQa-hgvRaE29UKLK5QXATC5XMsX51x-tWLoRBHNn9E?width=1236&height=1600
+
+#La Universidad de Antioquia realizó un estudio de seguimiento de 17.000 trabajadores de una industria metalúrgica de la ciudad de Medellín durante 10 años. En este estudio se han identificado 180 casos de cáncer pulmonar. Se desea analizar la asociación entre el desarrollo de cáncer pulmonar y la exposición a humos metálicos tóxicos, cuya evaluación requiere estudios ambientales muy costosos y solo es posible realizarlos en un subgrupo de 360 trabajadores. Para investigar esta asociación, ¿cuál sería el estudio más adecuado en este caso?
+#A. Cohortes
+#B. Casos y controles anidado 
+#C. Ensayo clínico aleatorizado
+#D. Transversal
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRme-MUL-O4SJSYoOj9OmItATyJp30JlyNMf_xwl_77p0s?width=1236&height=1600
