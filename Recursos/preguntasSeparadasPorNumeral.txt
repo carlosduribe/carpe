@@ -28128,6 +28128,7 @@ https://1drv.ms/i/c/2cc078be4a32d93b/IQQjnxDBZDL7QIA5hF-mGoaXAbElolUVHs5L2d6lert
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQSNVndhAtoTR5nVclKmCfllAQIliQJL5qtK5WHE7nGDcVk?width=2475&height=1600
 
 #Noralba, de 37 años, con antecedentes de G3P1C1 (cesárea por estado fetal no tranquilizador), con una gestación actual de 32 semanas, sin otros antecedentes gestacionales o patológicos relevantes, consulta por un cuadro clínico de 1 hora y media de evolución de dolor tipo lancinante de intensidad 8/10 EAD en la región suprapúbica, asociado a náuseas sin emesis. No refiere sangrado vaginal. Al examen físico, la paciente se encuentra álgida y diaforética, con una temperatura de 36.2 °C, presión arterial de 88/55 mmHg, frecuencia cardíaca de 115 latidos por minuto, y extremidades frías y húmedas. A la palpación, el útero se encuentra rígido y doloroso. Al tacto vaginal, se observa un cuello uterino dilatado 1 cm, con borramiento del 30%. El feto se encuentra en presentación cefálica, estación -1, y se obtiene el siguiente monitoreo fetal que solo muestra la FCF:                                                                                                  ¿Cuál es el diagnóstico más probable de Noralba?
+https://1drv.ms/i/c/2cc078be4a32d93b/IQRKKzCjlHmKSa94sWTBJEEkAWS1ix5dWkLApa61s07wwBw?width=362&height=286
 #A. Ruptura uterina
 #B. Placenta ácreta
 #C. Placenta previa
@@ -28412,3 +28413,212 @@ https://1drv.ms/i/c/2cc078be4a32d93b/IQQjnxDBZDL7QIA5hF-mGoaXAbElolUVHs5L2d6lert
 #D. Síndrome de Rokitansky
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQQ4pXrN9xnTRI4RMHOkr9PCASTdreLwyNzd7qlIx1iwGTI?width=1024
+
+#Claudia 30 años, G2P1, con 9 semanas de gestación, acude a su consulta para su primer control prenatal. Refiere que ha presentado algo de náuseas, pero por lo demás se siente bien. Su primer embarazo transcurrió sin complicaciones, con parto por cesárea a las 40 semanas de gestación, por un estado fetal no tranquilizador. Refiere que se encuentra consumiendo todas las vitaminas y tiene PAI al día. Al final de la consulta, Claudia dice que ha estado preocupada por su hijo que ahora tiene 16 meses, pues ha tenido fiebre desde hace 5 días, acompañado de un exantema generalizado que inició en ambas mejillas hace 2 días y desde entonces se ha extendido a todo el cuerpo. ¿Cuál de los siguientes es el siguiente paso más adecuado en el tratamiento?
+#A. Precauciones de aislamiento con el niño para evitar el contagio
+#B. Dar signos y síntomas de alarma, pues es una enfermedad que no conlleva riesgos para el feto
+#C. Administrar IgG intravenosa a la madre para evitar el desarrollo de la enfermedad
+#D. Realizar IgM e IgG específicas del virus a la madre para evaluar estado de inmunidad
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ06m0ehPjlTYc4pBQkoRzMAW3X0Kh6sdACaLJe6C9I_Ds?width=1236&height=1600
+
+#Santiago, 6 años, previamente sano, con desarrollo psicomotor normal y sin antecedentes perinatales de importancia. Su rendimiento escolar es adecuado. Hace dos semanas, la madre notó que, mientras dormía, presentó un episodio de desviación de la comisura labial hacia la derecha, acompañado de sialorrea y dificultad para articular palabras. El episodio duró aproximadamente 2 minutos y se resolvió espontáneamente. Desde entonces, ha presentado tres episodios similares, siempre durante el sueño o al despertar. Al examen físico, sin alteraciones. Al hacerle estudios adicionales a Santiago, ¿Qué esperaría encontrar?
+#A. Complejos punta-onda en regiones centrotemporales. 
+#B. Ondas trifásicas generalizadas
+#C. Patrón de supresión-burst.
+#D. Descargas epileptiformes occipitales con fotosensibilidad.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSiKl5_NkMfQLyQxIh5DTBRAQhNyaYqWJHXZwzuxpQutyw?width=1236&height=1600
+
+#Neonato masculino de 5 días de vida, nacido a término con 38 semanas de gestación, peso al nacer de 2,800 gramos, sin antecedentes de complicaciones perinatales. Su madre, de 25 años, asistió a solo tres controles prenatales y no se realizó tamizaje serológico para sífilis durante el embarazo, ni recibió tratamiento para esta infección. Al tercer día de vida, el neonato presentó lesiones cutáneas maculopapulares en palmas y plantas, rinorrea serosanguinolenta y hepatomegalia, por lo que se realizó una prueba de VDRL en sangre periférica con un título de 1:8. ¿Cuál sería la mejor conducta a seguir?
+#A. Como no sabemos el título de VDRL materno, debemos tomarlo y repetir el VDRL de Juan en dos semanas 
+#B. Es un escenario 1 de sífilis congénita, se debe aplicar penicilina G cristalina intravenosa y realizar estudios de extensión
+#C. Es un escenario 2 de sífilis congénita, se debe aplicar penicilina G procaínica intramuscular en dosis única y realizar estudios de extensión
+#D. Es un escenario 3 de sífilis congénita, se debe aplicar penicilina benzatínica IM y realizar estudios de extensión
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSEzXuU3klqSbtJidwYCDdbASJSGPrQdgvV4rpRIp2RpHQ?width=1236&height=1600
+
+#Sergio tiene 16 años y acude para una consulta de joven sano. Se siente bien. No tiene antecedentes de enfermedades graves y ha tenido un adecuado crecimiento y desarrollo. A la auscultación con soplo sistólico eyectivo grado 3/6 en crescendo-decrescendo a lo largo del borde esternal inferior izquierdo, el cual disminuye en intensidad al ponerse en cuclillas y aumenta cuando realiza la maniobra de Valsalva. ¿Este paciente tiene mayor riesgo de sufrir cuál de las siguientes complicaciones?
+#A. Muerte súbita cardíaca
+#B. Embolia paradójica
+#C. Ruptura de aneurisma cerebral 
+#D. Endocarditis infecciosa
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTcmot2o9YMS7qtPmklk-tEAdxnJFJ5iyUeoHNm9MO09Q4?width=1236&height=1600
+
+#Karina, 9 años, con antecedentes de asma. Acude al servicio de urgencias por disnea de esfuerzo que no respondió a esquema de crisis con salbutamol en la casa. Hace seis semanas, presentó un accidente de tránsito en calidad de peatón con un carro, estuvo en UCIP por 3 días, tuvo 2 fracturas costales del lado derecho y requirió IOT. Al examen físico, afebril, taquicárdica, FR 38 rpm, presión arterial estable; se observan tirajes intercostales y subcostales y se auscultan sibilancias, sin mejoría con un ciclo de salbutamol. Se realiza una nueva rx, sin cambios con respecto a la inicial de hace seis semanas. Usted decide realizar una espirometría, donde se evidencia una curva flujo-volumen aplanada tanto en inspiración como en espiración, con disminución del flujo espiratorio máximo y reducción en los volúmenes pulmonares. ¿Cuál de las siguientes es la causa más probable de su disnea?
+#A. Edema laríngeo
+#B. Traqueomalacia
+#C. Estenosis traqueal
+#D. Parálisis de cuerdas vocales
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRMR9BHPkIwRLCitpSPdy8mAdZRnB8bKed1i4QqK9nmu5w?width=2468&height=1600
+
+#Don Juan de 72 años es evaluado por anhedonia, dificultad para recordar cosas y problemas para conciliar el sueño, presentes desde el fallecimiento de su hijo mayor hace más de un año. Tiene antecedentes de hipertensión, diabetes tipo 2, enfermedad coronaria y EPOC. Manejo actual con metformina/linagliptina, ácido acetil salicílico (ASA), metropolol, losartán y rosuvastatina. Los signos vitales son normales en el examen físico. El paciente aparenta apatía y desinterés durante la interacción clínica. En la escala PHQ-9, el paciente registra un puntaje de 14. La prueba Mini-Cog arroja puntaje de 4 (baja probabilidad de deterioro cognitivo), aunque sus respuestas son tardías. Tras una evaluación dirigida, no se identifican signos ni factores de riesgo suicida en el paciente. Además de la psicoterapia, ¿Cuál de las siguientes es el tratamiento más apropiado?
+#A. Bupoprion
+#B. Mirtazapina
+#C. Sertralina
+#D. Carbonato de litio 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRCK1gkHzLdS46aHbU7C3KqAWrc3ZLnTikjiAjyvRZK7Dk?width=2468&height=1600
+
+#La enfermera de hospitalización solicita que se evalúe un paciente adulto mayor de 71 el cual se encuentra agitado. Fue ingresado hace dos días por una infección urinaria complicada. En las últimas 24 horas, la paciente ha alternado entre estados de agitación y somnolencia, a veces confuso cuando está despierto, y esta noche ha experimentado alucinaciones visuales. No tiene antecedentes de consumo de alcohol, pero si trastorno depresivo mayor en manejo con paroxetina, la cual no toma desde cuatro días. Actualmente está en tratamiento con acetaminofén + oxicodona a bajas a dosis por horario y ampicilina/sulbactam. El examen físico muestra signos vitales estables, leve dolor a la puño percusión derecha. Se encuentra alerta y consciente, pero presenta dificultades para mantener la atención al responder preguntas y su pensamiento es desorganizado.
+¿Cuál sería la conducta más adecuada en este paciente? 
+#A. Suspender la oxicodona e iniciar un análogo de las benzodiazepinas como zolpidem
+#B. Suspender la oxicodona y reiniciar el manejo con paroxetina
+#C. Suspender la oxicodona e iniciar difenhidramina
+#D. Suspender la oxicodona y continuar con el resto de las medidas sin agregar nuevas terapias.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQGQoi0JQq_SKplN0Fdsn7rAStH2XGU9UDlWfVzfkzGI7A?width=1024
+
+#Adolescente de 14 años que acude a consulta con sus padres debido a un estado de ánimo bajo y cambios en su comportamiento en los últimos 2-3 meses. Sus padres refieren que está más irritable, discute frecuentemente con sus amigas y con ellos, y su rendimiento escolar ha empeorado. La paciente se describe como perfeccionista, autoexigente y con baja tolerancia a la frustración. Se siente desanimada porque «todo le molesta». Ha presentado dificultad para conciliar el sueño. Niega pérdida de apetito. En la exploración, muestra buena empatía, expresión facial adecuada y contacto visual normal. Su ánimo es visiblemente bajo y su pensamiento está centrado en su sensación de fracaso y aislamiento social.
+¿Cuál de las siguientes es el tratamiento más apropiado para la paciente?
+#A. Terapia cognitivo conductual (TCC) + ISRS 
+#B. Terapia cognitivo conductual (TCC) + amitriptilina
+#C. Solo TCC
+#D. Terapia cognitivo conductual (TCC) + IRSN
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTz90aM-kDlSp058zmlWufdAeRt76G4X_bYjJkm-3O4Kqk?width=1024
+
+#Mujer de 21 años, acude al servicio de urgencias tras sufrir una fractura cerrada no desplazada del peroné al escalar un edificio sin equipo de seguridad, convencida de que podía llegar a la azotea. Tiene un historial de depresión, pero nunca buscó tratamiento. Actualmente, dice sentirse mucho mejor y afirma que puede estar despierta toda la noche sin problemas para ponerse al día con sus responsabilidades. Está desarrollando un nuevo tipo de criptomoneda que, según ella, "superará al Bitcoin y cambiará la economía global". Ha invertido grandes sumas sin experiencia en el área convencida de que su idea atraerá a millones de inversionistas en cuestión de días. Niega consumo de alcohol u otras sustancias psicoactivas, así como la presencia de ideación suicida. Examen físico normal. Se muestra eufórica y con risas inapropiadas. Dificultad para mantener la atención y fácilmente distraída. Teniendo en cuenta el cuadro clínico de esta paciente, ¿cuál sería el diagnóstico más probable?
+#A. Trastorno límite de la personalidad
+#B. Esquizofrenia 
+#C. Trastorno bipolar tipo I 
+#D. TDAH
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSJEM7fbjXzQrZHLfwU36dUASdCQmv9NV00tR3S5kN7VdE?width=1024
+
+#Mujer de 52 años con antecedentes de esquizofrenia bien controlada con olanzapina. No presenta hábitos tóxicos. En la exploración física, los signos vitales son normales. El índice de masa corporal (IMC) es de 28. La evaluación muestra un afecto plano, con habla normal y pensamientos organizados. La glicemia en ayunas se encuentra en valores normales y los electrocardiogramas previos han mostrado ritmo sinusal sin alteraciones.
+¿Cuál de los siguientes parámetros también debería monitorearse en este paciente?
+#A. Prolactina sérica
+#B. Perfil lipídico 
+#C. Transaminasas
+#D. Biometría hemática completa.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSJ8iIyqq-uRY5UAFtPoTuXAeKfGRVcRSsqgVKfPF-TqOE?width=1024
+
+#Masculino de 63 años consulta a urgencias por vértigo y fatiga. Se realiza un electrocardiograma de con evidencia de fibrilación auricular con una frecuencia cardiaca de 84 lpm. Media hora después, el paciente refiere dolor torácico opresivo. Se realiza un nuevo electrocardiograma con evidencia de una FA de 156 lpm. Signos vitales: Temp. de 37°C, PA de 78/55 mmHg y FR de 18 rpm. Al examen físico el paciente se evidencia incomodo y confundido. ¿Cuál es el manejo adecuado para este paciente? 
+#A. Realizar maniobras vágales.
+#B. Indicar metoprolol IV.
+#C. Indicar amiodarona IV. 
+#D. Realizar cardioversión eléctrica sincrónica. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSyghg61vFaTbPDqmKuIOnaAUdwdeUJfmCan-UXN6pHHcM?width=1024
+
+#Se recibe a un paciente masculino de 55 años en urgencias de un primer nivel por dolor torácico retroesternal opresivo intenso y disnea. El dolor inició hace 3 horas y ha aumentado de intensidad progresivamente. Tiene antecedente de diabetes tipo 2 e hipertensión. Tiene antecedente de una hemorragia epidural hace 2 meses tras un trauma craneoencefálico. Un electrocardiograma evidencia elevación del ST en V1 a V4. El centro con hemodinamia más cercano queda a 3 horas. El paciente recibe carga antiisquémica. ¿Cuál es el manejo adecuado para este paciente? 
+#A. Continuar con tratamiento médico. 
+#B. Traslado inmediato para intervención coronaria percutánea. 
+#C. Indicar agente fibrinolítico de forma inmediata. 
+#D. Programar al paciente para una prueba de esfuerzo.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT_kvXRYR9sRK9YQhq_9HHJAZ64h7fg-k2JxKsSu3KQdE8?width=1024
+
+#Masculino de 61 años consulta a urgencias por dolor torácico retroesternal opresivo, disnea, fiebre y escalofríos desde hace 2 semanas. Refiere además inapetencia y pérdida de peso desde hace 1 mes. Además, se queja de malestar con cefaleas intermitentes, mialgias y sudores nocturnos durante este mismo período. Tiene antecedente de enfermedad renal crónica estadio II e hipertensión. Se encuentra en tratamiento con enalapril e hidroclorotiazida. Signos vitales: Temp. de 39°C, FC de 45 lpm, FR de 23 rpm, PA de 100/50 mmHg y SatO2 del 95%. El examen físico muestra un latido irregular regular con un soplo diastólico temprano agudo y decreciente. La auscultación pulmonar revela crepitantes en las bases pulmonares bilaterales. Los paraclínicos de ingreso son normales. Se toma un electrocardiograma (ver imagen). ¿Cuál es el manejo adecuado para este paciente? 
+https://1drv.ms/i/c/2cc078be4a32d93b/IQS1N88A27hUS7DNUi6aV2fMATMpzwLS_4Ovx_hfoIL0XfM?width=921&height=113
+#A. Intubación orotraqueal.
+#B. Estimulación transcutánea. 
+#C. Desfibrilación.
+#D. No es necesario ningún tratamiento.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTOEhtKSwb2QZ1_S2syFf0EARI5sSFRExnwhaYhjgQweX8?width=1024
+
+#Masculino de 27 años es llevado a urgencias luego de un accidente de tránsito. Refiere dolor y debilidad en brazo y mano derecha. Al examen físico es capaz de cerrar el puño, pero hay dificultad a la hora de agarrar objetos con la mano derecha. Una radiografía de dicho miembro evidencia fractura humeral diafisiaria. Según la clínica, la siguiente estructura está lesionada: 
+#A. Nervio mediano.
+#B. Nervio radial.
+#C. Nervio cubital.
+#D. Nervio musculocutaneo.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRMWAEiyrzHQKZHPcMNXRpKARWff5JBwJ1J8WbMlBlTmCU?width=1024
+
+#Femenina de 25 años. Consulta por lesiones en la vulva de 2 semanas de evolución, no dolorosa. Examen físico: se objetiva 3 ulceras de márgenes elevados, base eritematosa y fondo limpio en introito vaginal, de 6-8 mm de diámetro. No hay linfadenopatia inguinal asociada. Laboratorios: ELISA para VIH (-), VDRL no reactivo.  ¿Cuál de los siguientes es el diagnóstico y tratamiento más probable? 
+#A. Sífilis primaria, penicilina benzatínica 2.400.000 U IM DU.
+#B. Herpes genital, aciclovir 400 mg c/8h/7 días VO.
+#C. Linfogranuloma venéreo, doxiciclina 100 mg VO cada 12 horas por 21 días.
+#D. Granuloma inguinal, azitromicina 1 g VO c/7 días/3 semanas
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQJamwEHtDTTJvnIZZfLclvATCa4rROmgBShsTb2J2d_Uo?width=1024
+
+#Ana, de 29 años, G1P1, con embarazo sin complicaciones, cursa su tercer día postparto tras una cesárea de emergencia por estado fetal no tranquilizador y ruptura prolongada de membranas. La paciente refiere fiebre, la cual fue objetivada durante su estancia con una temperatura de 38.7 °C, además de escalofríos, dolor hipogástrico progresivo y sensación de malestar general. Refiere que sus loquios han cambiado de color y tienen un olor fétido. Niega disuria o síntomas urinarios. Signos vitales: T°: 38.7 °C, FC: 110 lpm, FR: 20 rpm, PA: 110/72 mmHg. Al examen físico: Abdomen blando, con dolor suprapúbico a la palpación profunda. Útero aumentado de tamaño y doloroso a la movilización. Loquios seropurulentos y de olor fétido. La herida quirúrgica no presenta signos de infección local. Paraclínicos: Leucocitos 16,200/mm³ con neutrofilia y PCR de 38 mg/L.
+¿Cuál es la conducta adecuada a tomar?
+#A. Administrar clindamicina 900 mg cada 8 horas + gentamicina 3-5 mg/kg/día intravenoso. 
+#B. Administrar clindamicina 900 mg cada 8 horas.
+#C. Administrar clindamicina 900 mg cada 8 horas + gentamicina 3-5 mg/kg/día + ampicilina 2 g cada 6 horas.
+#D. Administrar vancomicina 1 g cada 12 horas IV.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRIMcUbXAwKR47Ok9y0ewxIAWmWCdu_6vw7eahh9-zWZ5M?width=1024
+
+#Mujer de 28 años, G1P0, 35 semanas de gestación. Acude a urgencias tras haber presentado una convulsión tónico-clónica generalizada de 1 minuto de duración. La familia niega antecedentes personales de epilepsia, hipertensión o enfermedades previas. La paciente se encuentra consciente, orientada y con cefalea leve tras la convulsión. Al ingreso, sus signos vitales son: TA 150/90 mmHg, FC 96 lpm, FR 20 rpm y saturación de oxígeno al 97% en aire ambiente. No hay proteinuria en el análisis de orina, y el monitoreo fetal reporta latidos normales. Se estabiliza a la paciente, obteniendo acceso venoso periférico. ¿Cuál es el manejo inicial más apropiado en esta paciente?
+#A. Administrar sulfato de magnesio: dosis de carga 4-6 g (gramos) IV en 15-20 minutos, seguido de mantenimiento con 1-2 g/h.
+#B. Administrar profilaxis anticonvulsivante con fenitoína 20 mg/kg IV a una velocidad máxima de 50 mg/min.
+#C. Administrar profilaxis anticonvulsivante con midazolam 0.1 mg/kg IV como primera línea de manejo.
+#D. Iniciar nifedipino 10 mg VO inmediatamente.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQThg8yDA9R1Rb5aJy62DP71ASy9kiloVTsVLjF7ehxuWKQ?width=1024
+
+#Mujer de 28 años, G2P1, se encuentra en la semana 16 de gestación sin antecedentes médicos relevantes conocidos. Consulta a consulta prenatal de rutina y menciona que recientemente ha tenido contacto cercano con su hijo de 2 años, quien asiste a la guardería y actualmente presenta un cuadro de fiebre con secreción nasal. La paciente refiere sentirse bien, aunque ha notado un cuadro reciente de febrícula (T° 37.8) y astenia que atribuye al estrés laboral. No presenta otros síntomas específicos. Durante la consulta, usted decide realizar estudios serológicos para detectar posibles infecciones virales debido al contexto epidemiológico de contacto con niños pequeños, quienes son considerados una población de alto riesgo para la transmisión de citomegalovirus (CMV). Los resultados revelan: IgG anti-CMV: positiva, IgM anti-CMV: positiva, Avidez de IgG anti-CMV: baja. 
+¿Cuál sería la conducta adecuada a seguir?
+#A. Realizar amniocentesis para PCR de CMV fetal y ofrecer tratamiento antiviral intrauterino en caso de confirmación.
+#B. No intervenir e indicar únicamente vigilancia ecográfica periódica.
+#C. Administrar inmunoglobulina específica anti-CMV a la madre para reducir la transmisión vertical.
+#D. Recomendar la interrupción del embarazo debido al riesgo elevado de afectación fetal.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRLziGvM7tmQavKlPQZOQ2QAQXygj8S02XwKpZrEIsadtM?width=1024
+
+#Primigestante de 36 años, con 33 semanas de gestación y antecedente hace tres años de una pielonefritis. Consultó ahora por disuria de una semana de evolución acompañada de escalofríos, junto a polaquiuria de 4 meses de evolución. Refiere contracciones intermitentes no dolorosas. Signos vitales de Tº 38.1 ºC, PA 110/60 mm Hg y FC 100 lpm, altitud uterina de 30 cm y FCF de 159 lpm con presencia de movimiento fetal. Dolor a palpación en ángulo costovertebral derecho, útero no doloroso y cuello uterino cerrado. El uroanálisis reporta esterasa positiva, piuria y hematuria, pendiente urocultivo. ¿Cuál de las siguientes medidas es la adecuada para esta paciente?
+#A. Nitrofurantoína vía oral 100 mg cada 12 horas durante 7 días
+#B. No se indica manejo antibiótico por el momento dado su edad gestacional
+#C. Aztreonam 0.1 gramos endovenosos cada 8 horas durante las primeras 48 horas
+#D. Ceftriaxona 2 gramos endovenosos cada 24 horas durante las primeras 48 horas
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRaCnKwISoWS75M0Rt4Ds1PAZDyeQFuNJAQZ_v7G-J6Jqk?width=1024
+
+#Una paciente de 32 años, G2P1, con 35 semanas y 5 días de gestación, presenta antecedente de muerte fetal intrauterina a las 35 semanas durante su primer embarazo, la cual fue diagnosticada en el contexto de colestasis intrahepática del embarazo (CIG). Consultó previamente por presentar prurito generalizado intenso, predominantemente nocturno, que afecta palmas y plantas, sin lesiones cutáneas visibles. Refiere que el prurito ha persistido durante las últimas dos semanas. Las pruebas de función hepática muestran una elevación moderada de las transaminasas (AST de 84 y ALT de 90) y los ácidos biliares totales alcanzan un valor de 110 μmol/L. Se inició manejo con ácido ursodesoxicólico y antihistamínico. Se realizó un monitoreo fetal sin hallazgos anormales. ¿Cuál sería la conducta más adecuada en esta paciente?
+#A. Continuar el manejo expectante y programar el parto a las 39 semanas.
+#B. Finalizar la gestación inmediatamente debido al riesgo de muerte fetal.
+#C. Programar la finalización de la gestación justo o después de las 36 semanas, considerando el nivel de ácidos biliares y el antecedente de muerte fetal.
+#D. Finalizar la gestación entre las semanas 34 y 36, debido al nivel elevado de ácidos biliares y los síntomas maternos incontrolables.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRa2_5iZ43XRLGNZ56omVS5AXTzVytVR0eJFTmFWx-njD0?width=1024
+
+#Don Juan de 69 años, sin antecedentes de interés, quien acude a consulta por pérdida progresiva de la visión durante varios años, la cual no mejora con gafas ni al ponerle un estenopeico. Niega historial de dolor asociado. En el fondo de ojo se identifican lesiones blanquecinas de apariencia cremosa alrededor del área macular, algunas de las cuales coalescen entre sí, mientras que otras presentan un aspecto más brillante. Teniendo en cuenta el diagnóstico más probable en este paciente, ¿Cuál de las siguientes afirmaciones es verdadera? 
+#A. Se trata de la principal causa de pérdida visual en > 65 años
+#B. Se trata indudablemente de una oclusión de la vena retiniana (OVR) 
+#C. La hiperglicemia crónica es el principal factor de riesgo para esta condición, se debe tamizar para diabetes con una Hb1Ac 
+#D. Los hallazgos en el fondo de ojo son compatibles con retinocoroiditis por T. gondii, requiriendo 8 semanas de tratamiento oral con pirimetamina, sulfadiacina, ácido fólico y prednisona en altas dosis. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTeIHX5_03IQ44eg3BxVaYzASdkeqUSxwS8P909alHVcXs?width=1024
+
+#Varón de 48 años, acude a urgencias refiriendo pérdida marcada de visión en el ojo izquierdo, sin dolor asociado. Refiere como antecedentes cirugía de cataratas hace más de un año y miopía degenerativa. Con los anteriores datos, ¿Cuál sería el diagnóstico más probable en este paciente?
+#A. Degeneración macular asociada a la edad húmeda 
+#B. Desprendimiento posterior de vítreo.
+#C. Desprendimiento de retina
+#D. Neuritis óptica 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSTdyaiGxQqQ69c_0rUQYu9AT-gWOWsWe7zX1yaM50Perg?width=1024
+
+#Paciente con disminución de la agudeza visual sin mejoría espontánea, pero que mejora significativamente al usar un estenopeico. Al realizar la transiluminación pupilar, no se observan anomalías.
+¿Qué condición podría explicar su cuadro clínico?
+#A. Ambliopía.
+#B. Catarata 
+#C. Defecto de refracción.
+#D. Glaucoma
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRPI3sMiIKiQonnBuscAoNfAadhan81YTcNC2PITZ2gT2M?width=1024
+
+#Mujer de 31 años, consulta al servicio de urgencias por dolor y fotofobia de dos días de evolución en ojo derecho. También comenta que, al mirarse en el espejo, ha notado la presencia de un ‘’pequeño punto blanco’’ localizado en la parte oscura del ojo. Como antecedentes relevantes destaca historial de diabetes tipo 1 y es usuaria de lentes de contacto desde los 21 años. Al ingreso presenta signos vitales estables. Se aprecia hiperemia ciliar intensa, un infiltrado corneal blanquecino central bien delimitado de 3 × 5 mm que compromete el estroma anterior, asociado a un Tyndall intenso y edema corneal. 
+¿Qué medida terapéutica no es adecuada para el manejo de este paciente?
+#A. Colirio ciclopléjico
+#B. Iniciar antibiótico tópico de amplio espectro como moxifloxacino 
+#C. Gotas oftálmicas lubricantes sin preservantes  
+#D. Ocluir el ojo para alivio del dolor y facilitar la reepitelización
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQLuI61C2k-SbNXAGy3VlzLATiuD7okxIsE9W5erKRhHYQ?width=1024
+
+#Varón de 21 años, sin antecedentes de interés, es llevado al servicio de urgencias por una lesión en el ojo derecho. Hace aproximadamente treinta minutos, el paciente estuvo involucrado en una pelea y recibió un golpe directo con el puño en el ojo derecho, lo que le provocó dolor intenso y visión borrosa. Al ingreso presenta signos vitales estables. En la exploración se evidencia hifema grado I. La agudeza visual está preservada, la respuesta pupilar es simétrica y reactiva, y la presión intraocular (PIO) se encuentra dentro de los límites normales. El resto del EF es normal. 
+¿Cuál sería el tratamiento correcto para este paciente? 
+#A. Manejo ambulatorio con reposo en cama durante los primeros 5 días, cabecera a 30°, analgésicos, esteroides tópicos, cicloplejicos y vigilancia estricta, con indicación de acudir nuevamente ante cambios visuales o aumento del dolor.
+#B. Manejo ambulatorio con reposo en cama durante los primeros 5 días, cabecera a 30°, analgésicos, esteroides tópicos, cicloplejicos, antibióticos tópicos de amplio espectro y vigilancia estricta, con indicación de acudir nuevamente ante cambios visuales o aumento del dolor.
+#C. Llevar a cirugía urgente
+#D. Manejo ambulatorio con reposo en cama durante los primeros 5 días, analgésicos y vigilancia estricta, con indicación de acudir nuevamente ante cambios visuales o aumento del dolor.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQS68Y2Ry3V-R6FCeC4bbJ4zAW0R2x04_4luPHygzZrhUTs?width=1024
