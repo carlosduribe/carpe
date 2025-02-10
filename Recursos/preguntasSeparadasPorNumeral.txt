@@ -24919,7 +24919,7 @@ Al examen físico, afebril, 6 rpm, SatO2 92%. Solo se alerta al dolor, tiene mio
 #C. Trombosis de la vena central de la retina
 #D. Endoftalmitis por Candida
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsv0LPXi6dfVrkAD-W?embed=1&width=1237&height=1600
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0Mjiua3FlJYGzIV?embed=1&width=2470&height=1600
 
 #Masculino de 51 años, sin antecedentes de interés, traído a Urgencias por su esposa por historial de fiebre de varios días de evolución con deterioro reciente del nivel de conciencia y ataxia. En el examen físico se evidencia rigidez de nuca, nistagmus y parálisis facial central. 
 ¿Cuál de las siguientes es la causa más probable de su cuadro clínico? 
@@ -24928,7 +24928,7 @@ Al examen físico, afebril, 6 rpm, SatO2 92%. Solo se alerta al dolor, tiene mio
 #C. L. monocytogenes
 #D. N. meningitis
 #Respuesta correcta:
-#https://1drv.ms/i/s!AjvZMkq-eMAsv0Mjiua3FlJYGzIV?embed=1&width=2470&height=1600
+#https://1drv.ms/i/s!AjvZMkq-eMAsv0LPXi6dfVrkAD-W?embed=1&width=1237&height=1600
 
 #Patricia de 30 años con antecedente de legrado hace 4 años por un aborto e hipertensión crónica manejada en el embarazo con labetalol.  Ahora es evaluada a las 2 horas postparto por sangrado vaginal profuso acompañado de coágulos, que empapan las sábanas, se calcula pérdidas aproximadas de 1200ml. Este fue su 7° parto vaginal, hace un año tuvo un parto vaginal espontáneo y sin complicaciones con una pérdida de sangre estimada de 250 ml. Signos vitales PA de 148/102 mm/Hg, FC de 110 lpm. Al examen pélvico, fondo uterino blando. El segmento uterino está distendido con coágulos de sangre. ¿Qué medicamento está contraindicado en Patricia?
 #A. Oxitocina
@@ -27791,3 +27791,213 @@ https://1drv.ms/i/c/2cc078be4a32d93b/IQQjnxDBZDL7QIA5hF-mGoaXAbElolUVHs5L2d6lert
 #D. Griseofulvina oral
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQQ0d__GDbw0SZ6fKr3GbklTAXJzFLeS1A60UbX6jhtxwAY?width=1237&height=1600
+
+#Mujer de 21 años, sin antecedentes patológicos de interés, acude a consulta refiriendo historial de dolor menstrual severo desde hace tres años, el cual ocasiona falta de asistencia a clases en su universidad dos-tres veces al mes. Refiere que el dolor inicia en hemiabdomen inferior y se irradia a región lumbar. Niega sangrado vaginal, disuria o flujo vaginal anormal. La FUM fue hace diez días. Es sexualmente activa con hombres y utiliza preservativos como método anticonceptivo. Todas sus citologías previas han sido normales. El examen físico, incluyendo la exploración ginecológica, es anodina. Trae reporte de prueba de embarazo negativa. Refiere uso de ibuprofeno durante los episodios de dolor a horario, con escasa mejoría. 
+¿Cuál de las siguientes es la conducta más adecuada a seguir?
+#A. Solicitar ecografía pélvica.
+#B. Indicar analgésico bimodal compuesto por acetaminofén y codeína.
+#C. Iniciar tratamiento con anticonceptivo oral combinado.
+#D. Recomendar dispositivo intrauterino de cobre 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQL8lX5snHhRoebdKU1czC1AUJy_jy4dy0vnvuD46u9VQw?width=2459&height=1600
+
+#Mujer de 31 años, G1P0 con embarazo intrauterino de 8 semanas de gestación, sin antecedentes personales. Acude al servicio de urgencias por presencia de náuseas y vómito desde hace dos semanas, ahora sin tolerancia a la vía oral. Refiere sentirse fatigada y con sed, además de tener mareos posturales. 
+¿Cuál sería la conducta más adecuada? 
+#A. Solicitar hemograma, ionograma y función renal. Iniciar líquidos endovenosos, y tiamina.
+#B. Solicitar hemograma, ionograma. Iniciar metoclopramida intravenosa y analgesia.
+#C. Iniciar 10 mg de succinato de doxilamina + 10 mg de piridoxina cada 6 horas vía oral. Dar egreso con control ambulatorio.
+#D. Solicitar hemograma, ionograma, función renal, fosfatasa alcalina, ALT/AST y bilirrubinas. Iniciar líquidos endovenosos y antiemético intravenoso.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQS2qlWajv0YRbTfxRiSW97OAY5_yKSvbN3k7XYB5ldbEx4?width=1978&height=1284
+
+#Mujer de 26 años acude por amenorrea de 6 meses de evolución, iniciada tras la suspensión de anticonceptivos orales combinados. No ha estado embarazada. Desde entonces, presenta cefaleas frecuentes y aumento del acné, sin otra sintomatología. La paciente trabaja en gestión administrativa de una empresa de aguacate, realiza actividad física regularmente, mantiene una dieta sana y no consume alcohol u otras sustancias. Al examen físico los signos vitales son normales, su IMC es de 24 kg/m² y se aprecian comedones abiertos dispersos en las mejillas y en menor medida la zona perioral. La exploración ginecológica es normal.  La prueba de embarazo es negativa y la ecografía pélvica es normal. Pendiente el reporte de TSH. 
+¿Cuál es el siguiente paso más apropiado para evaluar a esta paciente?
+#A. Solicitar resonancia magnética (RM) simple y contrastadas de cráneo con énfasis en silla turca.
+#B. Solicitar medición de niveles de FSH, LH, prolactina, TSH y estradiol 
+#C. No se precisan pruebas adicionales por ahora; se sugiere control ambulatorio en tres meses.
+#D. Solicitar medición de FSH y prolactina 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTAor32tA7BSrZJQY-Zmb1KAXIKDRO9Cyvhk1bseMb8IDg?width=1975&height=1284
+
+#Mujer de 42 años, sin antecedentes de interés.  Consulta por una citología que reporta células glandulares atípicas. Citologías previas normales. Los ciclos menstruales son regulares, con una duración de 3 a 5 días; su última menstruación fue hace dos semanas. El examen ginecológico muestra un cuello uterino normal sin lesiones visibles, un útero pequeño en anteversión y sin masas anexiales. 
+¿Qué medida debe implementarse como el próximo paso en el manejo de esta paciente?
+#A. Medición del marcador tumoral CA-125
+#B. Programar para histeroscopía
+#C. Prueba de VPH.
+#D. Biopsia endometrial. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRcJJULS5LNSoYTTT3FAekXATltYjTaTO-UMiDf1_aYYJs?width=1237&height=1600
+
+#Femenina 31 años, G2P1, con antecedente de diabetes tipo 2 en manejo con insulina basal, ingresada al servicio de urgencias por preeclampsia severa. Tras el inicio de protocolo de manejo y estabilización, se intentó inducción del parto sin éxito, por lo que hace dos horas se realizó una cesárea emergente. El procedimiento se complicó por hemorragia intraoperatoria con una pérdida estimada de 2.3 L secundaria a la ruptura de una arteria uterina, la cual fue controlada mediante sutura hemostática y reposición volumétrica. Actualmente, presenta somnolencia. SV: T 37.5 °C, PA 138/85 mm Hg, FC 72 lpm, FR 10 rpm. EF: pulmones claros, útero firme y sin dolor a la palpación, incisión de Pfannenstiel sin sangrado significativo. Reflejos rotulianos abolidos, escasa orina en el catéter Foley. Laboratorios: glucosa plasmática 250 mg/dL. Actualmente, está recibiendo esquema de insulina basal-prandial e infusión de sulfato de magnesio.  
+¿Cuál de las siguientes es la causa más probable de su cuadro clínico?
+#A. Cetoacidosis diabética 
+#B. Anemia secundaria a hemorragia intraoperatoria
+#C. Intoxicación por sulfato de magnesio
+#D. Embolia de líquido amniótico
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQRYCflXQozTozS88az03KEAbHzDMwDEIA3nGbDzSovwNs?width=1967&height=1280
+
+#Femenina de 45 años consulta a urgencias posterior a un accidente de tránsito. Refiere que el vehículo fue chocado de lado a aprox. 100 km/h. El examen primario es normal. A la valoración secundaria se evidencia una laceración sangrante y una depresión palpable del hueso temporal izquierdo. Tiene una disminución de la sensibilidad en frente, nariz, boca y mandíbula. La mandíbula se desvía a la izquierda cuando se le pide que abra la boca. ¿Cuál de los siguientes pares craneales probablemente tenga una lesión? 
+#A. V par craneal.
+#B. VII par craneal.
+#C. IX par craneal.
+#D. X par craneal.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR8d9NVdDrnR6V6bxxOxPQ_AQcQfydHd6kxOKgKgUt47ME?width=1236&height=1600
+
+#Femenina de 77 años consulta para una valoración anual. La hija de la paciente afirma que ha notado a su madre con dificultades para realizar sus actividades diarias. Refiere que hace 2 años empezó a olvidar instrucciones sencillas y que tiene dificultades para realizar mandados. Ya no puede pagar facturas y olvida como llegar a casa. Su esposo murió hace 1 mes y suele sentirse triste. Tiene antecedente de obesidad, hipertensión y diabetes. Signos vitales son normales. Al examen neurológico tiene una puntuación de 7 en el Mini-Mental State Examination (MMSE). El resto del examen físico es normal. ¿Cuál de los siguientes es un tratamiento adecuado para esta paciente? 
+#A. Fisostigmina.
+#B. Rivastigmina.
+#C. Fluoxetina.
+#D. Neostigmina.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR2R0E9m8vTSpRXPWDtxcyPAb8RFuM9y4bDqkEV5kkbMYI?width=1236&height=1600
+
+#Masculino de 22 años consulta por un fuerte dolor facial. El paciente describe el dolor como intenso y agudo alrededor del ojo derecho. El dolor apareció lentamente hace 2 horas y ha ido empeorando progresivamente. Refiere que además siente el oído derecho “lleno de algodón” y rinorrea. Ha tenido episodios similares en los últimos años, que a menudo se producen varios días seguidos al mes. ¿Cuál sería el tratamiento inicial adecuado para este paciente? 
+#A. Carbamazepina
+#B. Verapamilo.
+#C. Oxigeno por cánula nasal.
+#D. Amitriptilina.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQUL5VPm0DdSKy9Coy9d-eZAYNynLShwLT1OexDvMqeQUc?width=2408&height=1600
+
+#Masculino de 60 años es ingresado a UCI para le manejo de una hemorragia subaracnoidea no traumática. Fue llevado a urgencias hace 3 horas por una cefalea de inició súbito, encontrándose confundido y desorientado, posteriormente tornándose somnoliento y luego fue intubado. Una TC reveló sangre en las convexidades corticales y un Angiotac evidencia un aneurisma de la comunicante posterior. Se encuentra en plan de una cirugía endovascular para el día de mañana. Al llegar a UCI sus signos vitales son: Temp. de 37°C, FC de 76 lpm, FR de 12 rpm asistidas por el ventilador y la PA es de 180/90 mmHg. Se encuentra sedado farmacológicamente. ¿Cuál es el manejo adecuado para este paciente? 
+#A. Indicar nimodipino.
+#B. Indicar Dextrosa IV.
+#C. Mantener hipervolémico.
+#D. Administrar aspirina a dosis antiagregante.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTUB1FSgGquS5Ei3i_6DB7xAQHTNdsahGBdOm6DaRVbWxs?width=1236&height=1600
+
+#Femenina de 73 años es llevada a urgencias por debilidad repentina del lado izquierdo de su cuerpo el cual inició hace 2 horas. Tiene antecedente de hipertensión y tabaquismo. Niega consumo de medicamento y no tiene cirugías recientes. Niega otros antecedentes de importancia. Signos vitales: Temp. de 37°C, FC de 81 lpm, PA de 166/104 mmHg. Al examen físico tiene una marcada debilidad e hipoestesia en el brazo y la pierna izquierda. La TC de cerebro simple es normal. ¿Cuál es el manejo adecuado para este paciente? 
+#A. Indicar activador tisular del plasminógeno recombinante.
+#B. Administrar ácido acetilsalicílico y atorvastatina.
+#C. Indicar heparina.
+#D. Indicar cuidados paliativos.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSAK1mIqSiCQJ6UF6L6qP7ZAZPmytiRwUQwxS_aGmsk_Xg?width=1236&height=1600
+
+#Julio, tiene 2 meses de edad, no tiene antecedentes patológicos y tiene el PAI completo para su edad. La madre refiere que hace 3 días inició con rinorrea hialina y fiebre objetiva de 38.5°C. Hace 24 horas inició con tos en accesos y signos de dificultad respiratoria. Desde hace 12 horas, rechaza todas las tomas. Al examen físico, taquicárdico, taquipnéico, SatO2 90% al aire ambiente, con tirajes intercostales y subcostales, se auscultan crépitos y sibilancias en ambos campos pulmonares. ¿Qué diagnóstico realizaría en este paciente?
+#A. Crisis asmática
+#B. Neumonía
+#C. Infección de vías respiratorias altas
+#D. Bronquiolitis aguda
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTBJgkIYUwaSIhv9GZJ8o4bAfRASGPku0JWjWn6WHnVLYE?width=1236&height=1600
+
+#Paciente pediátrico de 8 años con antecedentes de reacción anafiláctica severa a la penicilina, se presenta con su madre debido a una erupción roja y áspera al tacto que se ha diseminado por el cuello, el tórax y las extremidades, incluyendo las palmas y las plantas. La madre refiere que, 72 horas antes, el niño presentó fiebre alta, malestar general, odinofagia y eritema faríngeo con presencia de placas blanquecinas en la lengua. 
+¿Cuál es el tratamiento correcto para este paciente? 
+#A. Manejo sintomático
+#B. Cefuroxima x 10 días 
+#C. Clindamicina x 7 días 
+#D. Azitromicina x 3 días 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTOrNXdaigeQJ9jOwJbKS3YAeK_f4in3sNGuS1zZFktl7w?width=1236&height=1600
+
+#Damián, 3 años de edad. Es llevado a urgencias por un cuadro clínico de aproximadamente 30 minutos de evolución, consistente en angioedema, disfonía, sibilancias audibles, vómito y urticaria generalizada. La madre refiere que hace dos horas consumió un pan con poca cantidad de mantequilla de maní. Tiene antecedentes de dermatitis atópica, rinitis alérgica y asma. De acuerdo con su sospecha clínica, ¿este paciente requiere administración de adrenalina?
+#A. No, solo se debe iniciar salbutamol en esquema de crisis y beclometasona inhalados
+#B. El paciente no tiene una reacción anafiláctica, por lo que no requiere adrenalina; sus síntomas probablemente sean por una exacerbación asmática 
+#C. Si, se debe iniciar adrenalina porque es un cuadro de anafilaxia
+#D. Ninguna de las anteriores es correcta
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSkQcA_cT0KQozIi-2uJgoLAej2AJa3xbInvxufe6Ol1Dw?width=1236&height=1600
+
+#Valeria, 7 años. Hace dos semanas presenta tos no productiva y rinorrea inicialmente hialina que se ha vuelto purulenta en los últimos cinco días. Hace 3 días inicia con sensación de plétora facial. Los padres le han administrado descongestionantes, sin mejoría. Tiene PAI completo para la edad y antecedentes de rinitis alérgica. Al examen físico, se encuentra febril, FC 90, FR 14 y PA 110/70 mmHg; se evidencia congestión nasal con rinorrea y escurrimiento posterior purulentos y dolor a la palpación de ambos senos maxilares. ¿Cuál de las siguientes es la explicación más probable de los hallazgos clínicos de esta paciente? 
+#A. Sinusitis de origen viral
+#B. Infección bacteriana secundaria
+#C. Obstrucción por cuerpo extraño
+#D. Exacerbación de su rinitis alérgica de base
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRK5lax6H_AQahMiS-XRQ2OARbT4p3duoyVJEvz-3yvRvw?width=1236&height=1600
+
+#Fabián, 4 años. Es llevado a su consulta porque ha presentado encopresis durante los últimos seis meses, con evacuación de heces líquidas al menos 4-5 días de la semana. El paciente presentó control de esfínteres a los 3 años y actualmente, usa el baño al menos una vez por semana para defecar. El padre refiere que Fabián presenta, con frecuencia, expulsión de heces grandes bristol 1. Al examen físico, se palpa fecaloma en fosa ilíaca izquierda. Inicialmente usted le recomienda cambios en el estilo de vida, sin mejoría. ¿Cuál sería el tratamiento a seguir?
+#A. Iniciar PEG diariamente
+#B. Introducir un sistema de recompensa positiva para el uso del baño
+#C. Realizar manometría rectal para objetivizar la incontinencia
+#D. Es normal que el paciente presente encopresis por la edad, solo hacer seguimiento
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT5InZt8JQ2Q4dKWQrFfUSrAQsTxTC6gCVQmc5_ZHNrAzc?width=1236&height=1600
+
+#Un hombre de 66 años consulta por haber presentado en el último mes ha presentado dos episodios caracterizados por movimientos amplios, saltatorios e involuntarios en los miembros izquierdos, que progresaron en aproximadamente dos minutos a pérdida de conciencia y movimientos tónico-clónicos generalizados. Tras cada episodio, experimentó un periodo posictal que se resolvió en 15-20 minutos. Tiene antecedentes de hipertensión, diabetes tipo 2 y un diagnóstico reciente de deterioro cognitivo leve. Sus medicamentos incluyen losartan + hidroclorotiazida y metformina. Los signos vitales son normales y el resto de los hallazgos, incluyendo el examen neurológico, no muestran alteraciones. Las pruebas de función renal, ionograma y bioquímica hepática son normales. La RM y el EEG también son normales. 
+¿Cuál de los siguientes es el tratamiento más adecuado?
+#A. No hace falta administrar terapia anticonvulsiva.
+#B.  Lamotrigina
+#C. Etosuximida
+#D. Ácido valproico
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQluJSxra43SbpJUDOpDhSJAQPVXj1YfNQV4GZNFd6L4GY?width=1236&height=1600
+
+#Mujer de 68 años programada para artroplastia total de cadera derecha por fractura pertrocantérea. Valorada por medicina interna para valoración prequirúrgica por comorbilidades. Tiene antecedente de hipertensión, diabetes, FA no valvular. Actualmente en tratamiento con rivaroxabán, bisoprolol, losartán + hidroclorotiazida, atorvastatina y metformina.  Al examen físico presenta signos vitales estables. En reposo, refiere dolor en la región de la cadera afectada, exacerbado con cualquier intento de movilización. A la auscultación presenta ritmo cardíaco irregular. Laboratorios: Cr 0.9 mg/dL, TFG 65.7. 
+¿Qué manejo perioperatorio del anticoagulante sería el más apropiado en este caso?
+#A. Suspender el anticoagulante tres días previos a la cirugía y realizar un puente enoxaparina
+#B. Suspenderlo 72 horas antes del procedimiento
+#C. Suspenderlo una semana antes del procedimiento
+#D. Suspender el anticoagulante siete días previos a la cirugía y realizar un puente enoxaparina 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQzzhpJKoD5QoOmwT7huH_lARA88dqdWBTLuieemLfaGBE?width=1236&height=1600
+
+#Varón de 62 años, acude a consulta de control. Antecedentes relevantes: diabetes mellitus tipo 2 diagnosticada hace 8 años, enfermedad renal diabética con TFG de 53.47 ml/min, e insuficiencia cardíaca con FEVI del 39% secundaria a enfermedad coronaria desde hace 4 años. Actualmente en tratamiento con ASA, metformina, sacubitrilo-valsartán, rosuvastatina y bisoprolol. No refiere hospitalizaciones previas por descompensaciones de sus condiciones crónicas. En el examen físico, incluidos los signos vitales, no se detectan alteraciones. Los estudios de laboratorio muestran HbA1c de 7.2%.
+¿Cuál de los siguientes es el mejor medicamento para intensificar la terapia antidiabética en esta paciente?
+#A. Liraglutida
+#B. Saxagliptina
+#C. Dapagliflozina
+#D. Glipizida
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRsEGzOKvI0RpxPifRFvgreARygmSjGaTEKspqPuor0wTQ?width=1236&height=1600
+
+#En un paciente con síndrome nefrótico secundario a nefropatía membranosa, confirmado por biopsia renal, y con albúmina sérica de 2.2 g/dL, ¿cuál de las siguientes complicaciones es más probable que se desarrolle en los próximos 6 a 12 meses?
+#A. Hemorragia alveolar difusa
+#B. Enfermedad renal terminal 
+#C. Enfermedad tromboembólica venosa
+#D. Infecciones recurrentes por bacilos gramnegativos entéricos 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT3tcMTE7QZQ45cJpVVjg5UAav-Ow798MOf3x3MbV41m6Q?width=1236&height=1600
+
+#Paciente varón de 35 años acude al programa de control. Fue diagnosticado hace un año con infección por VIH y ha estado en tratamiento antirretroviral (TARV) con buena adherencia, además de recibir profilaxis con TMP/SMX. Antes del diagnóstico, había salido recientemente de la cárcel. En el momento del diagnóstico contaba con carga viral de 952,000 copias/mL, conteo CD4+ de 82 /µL y prueba de Mantoux negativa. La Rx de tórax también fue normal. Hoy, la carga viral es indectetable y el conteo de CD4+ de 230 /µL. 
+¿Cuál de las siguientes es la conducta más adecuada?
+#A. Iniciar tratamiento para TB latente
+#B. No realizar tratamiento y control anual de radiografía de tórax.
+#C. No es necesario realizar pruebas adicionales ni iniciar tratamiento.
+#D. Realizar nueva prueba de Mantoux
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSD6oqnqaNbQYatLLmlPLYaARI7M80hwrrebe6fv8rraRk?width=1236&height=1600
+
+#Paciente femenina de 24 años consulta a urgencias por dolor abdominal desde hace 4 días. La paciente informa que el dolor inició a nivel periumbilical y que posteriormente migró a el cuadrante inferior derecho, sin embargo, indica que ahora le duele todo el abdomen. Signos vitales: Temp. de 37.8°C, FC de 101 lpm, PA de 123/77 mmHg y FR de 18 rpm. Al examen físico el abdomen está distendido, hay dolor abdominal difuso, rigidez, defensa y dolor al rebote. Los paraclínicos séricos se encuentran pendientes. Una radiografía de tórax en bipedestación es normal. ¿Cuál de los siguientes es el abordaje adecuado para esta paciente? 
+#A. Solicitar una ecografía transvaginal.
+#B. Indicar una tomografía computarizada de abdomen y pelvis contrastada.
+#C. Realizar una ecografía de abdomen total.
+#D. Realizar una parecentesis. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTzmJHD7sm9QLd0ewAPKfRFAXKFGCkn8nYWCWGYpGsTlak?width=1236&height=1600
+
+#Femenina de 45 años consulta por una masa en mama evidenciada en un autoexamen. La paciente es militar y regresó recientemente una operación de rescate hace una semana. Refiere que su ultima mamografía fue hace 4 meses y fue normal. Al regresar de su misión fue recetada con acetaminofén para tratar las contusiones musculares. Tiene antecedente de Ca de mama en una tía diagnosticada a los 76 años. Signos vitales normales. Al examen físico se evidencia una masa mamaria firme, de forma irregular, de 1.4 cm, ligeramente dolorosa al tacto, en el cuadrante superior externo de la mama izquierda.  Se evidencia un hematoma sobre la piel suprayacente. No hay secreción por el pezón. La mama contralateral es normal. ¿Cuál es el diagnostico más probable? 
+#A. Fibroadenoma.
+#B. Necrosis grasa.
+#C. Carcinoma ductal invasivo.
+#D. Papiloma intraductal.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQyaMyC8yyjTYpwCxB5ZMpRATRNTk2nK3GqsBg8gOmmAgA?width=1236&height=1600
+
+#Masculino de 78 años consulta porque su pierna izquierda está “fría”. El paciente despertó esta mañana y fue a ponerse medias cuando notó los cambios en su extremidad. Refiere que ha presentado dolor en dicha pierna que se exacerba al caminar. Tiene antecedente de Diabetes y es alérgico a la penicilina y al Yodo. Sus signos vitales son normales. Al examen físico la pierna izquierda se encuentra fría y pálida, no puede flexionar o dorsiflexionar el pie izquierdo. La fuerza motora se encuentra disminuida. La sensibilidad se encuentra ausente. Los pulsos distales no son palpables. Un estudio imagenológico evidencia ausencia de flujo sanguíneo distal. ¿Cuál es el diagnostico sospechado y la modalidad de imagen utilizada en este paciente? 
+#A. Extremidad no viable - Angiografía por tomografía.
+#B. Extremidad amenazada – Ecografía Doppler.
+#C. Extremidad no viable -Angiografía por resonancia magnética.
+#D. Extremidad no viable - Ecografía Doppler. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSKGUb-haW5TbEYNbaUuB7OAQisHXGON8OA9vOWL5EEHsY?width=1236&height=1600
+
+#Masculino de 95 años consulta por dolor abdominal. Tiene antecedente de enfermedad coronaria, portador de un Stent liberados de fármacos colocado hace 2 meses, insuficiencia cardiaca con FEVI del 10%, EPOC estadio IV con uso de oxígeno domiciliario e hipertensión pulmonar grave. Signos vitales: Temp. de 39°C, FC de 106 lpm, PA de 78/48 mmHg, FR de 20 rpm y SO2 del 94% con oxigeno por cánula nasal a 4L min. Al examen físico el paciente tiene dolor en el cuadrante superior derecho a la palpación, sin signos de irritación peritoneal. Dentro de los paraclínicos destaca una leucocitosis. Una ecografía abdominal evidencia un conducto biliar común de 13 mm con la presencia de un cálculo impactado. Se inician líquidos IV y piperacilina-tazobactam. El paciente es llevado a CPRE pero no se puede canular el árbol biliar y se suspende el procedimiento. ¿Cuál es el tratamiento adecuado para el manejo de este paciente? 
+#A. Realizar colecistectomía abierta.
+#B. Indiciar antibióticos IV y manejo conservador.
+#C. Realizar colecistectomía laparoscópica.
+#D. Colocar un drenaje biliar percutáneo. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTLxET9mJrKS7MsnfW3-V_YARmMATbMDmMe1MEv7vPT3dI?width=1236&height=1600
+
+#Una mujer de 62 años acude al médico de atención primaria para recibir autorización preoperatoria para la colocación quirúrgica de una dentadura postiza. La paciente tiene antecedentes de estenosis aórtica y hace 5 años se sometió a una sustitución bioprotésica. La paciente no tiene alergias. ¿Cuál de las siguientes opciones describe el mejor régimen de tratamiento antes de la intervención quirúrgica?  
+#A. Amoxicilina oral antes del procedimiento.
+#B. Tetraciclina oral antes del procedimiento.
+#C. Amoxicilina oral durante 2 semanas antes del procedimiento.
+#D. Ciprofloxacina oral antes del procedimiento.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSc7p1LD1ysT5Kx4GytJEl-AdnD1w1VMGQjaHW-O72Fdgo?width=1236&height=1600
