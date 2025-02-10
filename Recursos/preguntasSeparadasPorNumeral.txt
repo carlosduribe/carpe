@@ -28206,3 +28206,209 @@ https://1drv.ms/i/c/2cc078be4a32d93b/IQQjnxDBZDL7QIA5hF-mGoaXAbElolUVHs5L2d6lert
 #D. Tomar hemocultivos, iniciar antibioticoterapia empírica y realizar TAC toracoabdominal.
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQQ_VO0wlM_AQ5q2paV-hGgkAdUX0nZxQOUY2QCRHoNUk4o?width=1024
+
+#Don Ernesto, de 61 años, está en la UCI intermedia desde hace tres días por fibrilación auricular de reciente diagnóstico, con respuesta ventricular rápida e insuficiencia cardíaca. Tiene antecedentes de hipertensión y DT2. Refiere dolor abdominal intenso, continuo, en región periumbilical, acompañado de 48 horas sin evacuaciones y tenesmo rectal. Está en tratamiento con furosemida, enoxaparina, metoprolol, losartán, hidroclorotiazida y metformina/linagliptina. Se encuentra álgico, con PA 120/70 mmHg, FC 118 lpm e irregular, y FR 22 rpm. El abdomen está blando, depresible y levemente doloroso, sin defensa ni rebote, con ruidos intestinales presentes. Tacto rectal: heces marrones. Laboratorios: Hb 12.8 g/dL, leucocitos 12,500/m³ (75% PMN), HCO₃ 19 mEq/L, lactato 1.8 mEq/L. La TAC abdominopélvica sin contraste es normal.
+¿Qué estudio diagnóstico sería el más adecuado realizar a continuación?
+#A. AngioRM 
+#B. Eco.Doppler abdominal
+#C. Colonoscopia
+#D. AngioTAC
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTGHpRhShuAQqQ8zGtwBdLhARLk3RekJFy9EATrsIj30Ko?width=2383&height=1600
+
+#Varón de 35 años, sin antecedentes de interés, acude a consulta de endocrinología porque ha presentado en los últimos tres meses disminución de la libido. Niega otros sintomas asociados, refiere adecuado desarrollo en la pubertad y tuvo dos hijos a los 25 y 29 años. Refiere consumo ocasional de alcohol y niega consumo de otras sustancias. Tiene IMC 27. Las características sexuales secundarias y el volumen testicular son normales. Se realizó cuestionario PHQ-9, el cual fue negativo. Trae reporte de medición de testosterona total realizado de forma particular, medido a las 15:00 H, con un valor de 192 ng/dL (VRN: 250-1200). 
+¿Cuál es el examen diagnóstico más apropiado para llevar a cabo a continuación?
+#A. Medir niveles séricos de globulina transportadora de hormonas sexuales (SHBG)
+#B. Medir niveles séricos de LH y FSH
+#C. Repetir medición de testosterona total a las 15:00 H
+#D. Medir testosterona total tomada entre las 8:00 y las 10:00 horas
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQOx10WZS5KQ6w31c0sxjZMAfZj54smQq4xP6ubj0q9vAM?width=988&height=1280
+
+#Mujer de 54 años consulta al servicio de urgencias por dolor en una herida causada por la mordedura de un perro doméstico en la cara interna del antebrazo derecho. Antecedente de cirrosis hepática por esteatohepatitis alcohólica. Actualmente en tratamiento con propranolol, furosemida, espironolactona y lactulosa. Los signos vitales están estables. A la exploración física se observan dos heridas punzantes de 15 mm localizadas en el antebrazo derecho, sin edema asociado, eritema en expansión, induración ni supuración. 
+¿Cuál de las siguientes la conducta terapéutica más adecuada?
+#A. Hospitalizar e iniciar ampicilina/sulbactam por 48 horas, si presenta mejoría se ordena alta médica con amoxicilina/clavulanato hasta completar cinco días
+#B. Manejo ambulatorio con amoxicilina/clavulanato por 3 días, y dar instrucciones de consultar ante presencia de signos de alarma
+#C. Manejo ambulatorio con ciprofloxacino por 5 días, y dar instrucciones de consultar ante presencia de signos de alarma
+#D. Manejo ambulatorio con amoxicilina/clavulanato por 10 días, y dar instrucciones de consultar ante presencia de signos de alarma
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT74IBj5RORR4Z-X_5HqNAoAcpWrppVVu_OnSYI-DJMfLw?width=1973&height=1284
+
+#Varón de 45 años es evaluado por una lesión ocupante de espacio en el lóbulo frontal derecho, identificada mediante una TC tras presentar alteraciones conductuales, incluyendo cambios de personalidad, apatía y dificultad para ejecutar tareas planificadas en los últimos 3 meses. No tiene antecedentes médicos relevantes y no toma medicamentos. En el examen físico, los signos vitales son normales. Se observa debilidad leve en el brazo izquierdo y abulia. La resonancia magnética contrastada muestra una lesión de 1.8 cm en el lóbulo frontal derecho, hiperintensa en secuencias T2 e hipointensa en T1, sin realce tras la administración de gadolinio ni evidencia de edema vasogénico. Además de remitir a neurocirugía, ¿cuál de los siguientes tratamientos debe ser iniciado en este paciente?
+#A. Profilaxis anticonvulsivante con ácido valproico
+#B. Corticoides orales a dosis bajas
+#C.  Profilaxis anticonvulsivante con levetiracetam
+#D. No se precisa tratamiento adicional
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTPRzjZ8g31QIEPG4Tp-d76AdxShL3jhyOOu1RNw9aHjtc?width=988&height=1280
+
+#Varón de 61 años, evaluado en el servicio de urgencias por empeoramiento de su disnea hasta hacerse de mínimos esfuerzos, aumento de la tos y producción des esputo de más de un día de evolución. Tiene un antecedente de ocho años de EPOC tratado con umeclidinio/vilanterol. Gasometría arterial: pH 7.30, PaCO2 61 mmHg, HCO3 31 mEq/L, PaO2 61 mmHg, 
+¿Qué alteración ácido-base está presente?
+#A. Alcalosis respiratoria
+#B. Alcalosis metabólica y acidosis respiratoria
+#C. Acidosis metabólica y acidosis respiratoria
+#D. Acidosis respiratoria
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRkoUtoMu5kSZsDfSltDKggAQV1MbO-zUkfiZcymiCIS8A?width=988&height=1280
+
+#Salomé, 13 años, sin antecedentes patológicos previos. Llevada a su consultorio por un cuadro de 1 semana de evolución de fiebre, malestar y dolor torácico, de 6/10 en intensidad, no irradiado y que empeora con la inspiración profunda. Hace 3 semanas presentó odinofagia, autolimitada. Al examen físico, en regulares condiciones, febril, con conjuntivas pálidas, nódulos subcutáneos en codos y muñecas bilateralmente, con un soplo sistólico II/IV que se escucha mejor en el ápex. En paraclínicos, con Hb 12.3, GB 13000, plaquetas 233000, VSG 45, antiestreptolisina O 327 (N <200). Usted inicia manejo con penicilina, con lo cual se recupera. En la ecocardiografía realizada 14 días después, no se evidencian anormalidades. ¿Cuál sería la recomendación más adecuada para Salomé?
+#A. Penicilina Benzatínica IM cada 21 días durante 10 años 
+#B. Penicilina Benzatínica IM cada 21 días durante 5 años
+#C. Penicilina Benzatínica IM cada 21 días hasta los 21 años 
+#D. Dar profilaxis con penicilina antes de procedimientos odontológicos
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRA7xPG0YGVR6yn9NbOxiEvAcnPNWzYZmXICoxoU2g3u6s?width=1979&height=1284
+
+#Susana, 14 años, sin antecedentes patológicos, practica tenis. Consulta por dolor en la región hipotenar de su mano derecha, exacerbado al empuñar la mano; asociado a una disminución de la fuerza de agarre y parestesias en el cuarto y quinto dedo. ¿Cuál de las siguientes imágenes es la indicada para el diagnóstico que sospecha?
+#A. Rx de muñeca 
+#B. RMN de muñeca
+#C. Rx de mano
+#D. Electromiografía 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRz6kPL3e4fQ7tQQtgTfVsRATOfnOTnEZqtPoJwlNQc5hY?width=1973&height=1284
+
+#Samantha tiene 5 semanas de vida. Nació a las 39 semanas por parto vaginal, sin complicaciones. Vive con sus padres y su hermano de 4 años. Es llevada a urgencias por su madre por fiebre subjetiva desde hace aproximadamente dos horas, sin otra sintomatología. Al examen físico, T 38.6°C, FC 112 lpm, FR 38 rpm, SatO2 96%, sin otras alteraciones. ¿Cuál sería el mejor paso a seguir?
+#A. Administrar ibuprofeno, 10 mg/kg por vía oral y volver a controlar la temperatura después de 1 hora
+#B. Realizar un panel viral respiratorio
+#C. Realizar uroanálisis, hemocultivos, HLG y PCR
+#D. Realizar uroanálisis, hemocultivos, HLG y punción lumbar
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSTuSgdKkGDQIafd649LQaCAarutY9-5toQG0YAaDFrCNo?width=988&height=1280
+
+#Pablo tiene 6 años, no tiene ningún antecedente. La madre refiere PAI incompleto para la edad pero no trae el carnét. Hace media hora presentó una caída desde su propia altura mientras se encontraba corriendo en el jardín de su casa. Al examen físico se observa una pequeña abrasión gingival cerca del frenillo superior y una laceración superficial lineal de 1 cm en el labio superior que cruza el borde bermellón. ¿Cuál sería el tratamiento más apropiado?
+#A. Administrar toxoide tetánico, anestesiar y suturar la herida del labio
+#B. Administrar toxoide tetánico, inmunoglobulina antitetánica, anestesiar y suturar la herida del labio
+#C. Ordenar TAC de cara para descartar fracturas faciales
+#D. Administrar toxoide tetánico y no suturar heridas para cierre por segunda intención
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRUPvrN3jVBRJ9zo5_6p_OFAbC93Ol_tpG6wMQn2nYDj0w?width=988&height=1280
+
+#Cristina tiene 17 años, tiene PAI completo para la edad y ya inició vida sexual. Llega a urgencias por un día de fiebre, cefalea y artralgias en tobillos, muñecas y falanges. Al examen físico, con apariencia tóxica, temperatura de 40°C, FC 120 lpm, FR 25 rpm, PA 60/65 mmHg, SatO2 100%; se evidencian pápulas y pústulas en todas las extremidades y edema en tobillos y articulaciones metacarpofalángicas de mano derecha. Usted solicita laboratorios: GB 29.000, Hb 14, Plaquetas 330.000, N 75%, Cr 1.2, ionograma y función hepática sin alteraciones. ¿Cuál de los siguientes microorganismos es el que mejor explica el cuadro clínico de esta paciente?
+#A. N. gonorrhoeae
+#B. N. meningitidis
+#C. T. pallidum 
+#D. Shigella
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ1SlZsplCgT5PARINn1yBZAc06mlgNRTg2mLRIBsCMgyk?width=1973&height=1278
+
+#Mujer de 50 años, es evaluada por historial de cefalea frontal de intensidad progresiva, fatiga y aumento en el tamaño de manos y pies en los últimos tres años que la ha obligado a retirarse los anillos y aumentar la talla de calzado cerrado. Tiene antecedente de hipertensión en manejo actual con losartán + amlodipino. Signos vitales: PA 130/75 mmHg, FC 81 lpm. IMC 25. A la exploración se evidencia prognatismo, nariz ancha y gruesa. Al superponer la mano del paciente con la del examinador, se evidencia macrodatilia con ensanchamiento falángico distal y engrosamiento de tejidos subcutáneos.
+¿Qué prueba es la más indicada para confirmar el diagnóstico?
+#A. Realizar resonancia magnética contrastada de encéfalo con énfasis en silla turca
+#B. Realizar medición de niveles de hormona del crecimiento
+#C. Realizar medición de niveles séricos de factor de crecimiento parecido a la insulina tipo 1
+#D. Se indica medición de hormona de crecimiento (GH) posterior a la administración de 75 g de glucosa oral.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRuJAPzyMHgSZFaVAb2YOodAdX8O256Bfzy7_VBHky_7do?width=988&height=1280
+
+#Masculino de 31 años, sin antecedentes de interés, consulta al servicio de urgencias por dolor ocular izquierdo de dos días de evolución. Manifiesta visión borrosa en el ojo afectado, y es usuario de lentes de contacto. Al examen físico solo se evidencia inyección ciliar, células en cámara anterior con precipitados queráticos finos en el endotelio corneal, sin alteraciones evidentes en la tinción con fluoresceína. Con los anteriores datos, ¿Cuál es el diagnóstico más probable?
+#A. Glaucoma agudo de ángulo estrecho
+#B. Queratitis herpética
+#C. Uveitis anterior
+#D. Lesión epitelial corneal en contexto de uso prolongado de lentes de contacto.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQtbE5Ir7vyTIwF-j1bxM5FAS0WJyJybjUQ4qE00qm_xXc?width=988&height=1280
+
+#Entre las siguientes características del trastorno histriónico de la personalidad, hay una incorrecta. ¿Cuál es? 
+#A. Preocupación desmedida por la propia imagen y bienestar, con escasa consideración por el entorno.
+#B. Comportamiento dependiente con temor al abandono y dificultad para la autonomía.
+#C. Manifestación desmesurada y dramatizada de los afectos.
+#D. Tendencia a idealizar logros y expectativas personales de grandeza desproporcionada.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRhb9QLYpZWSYS1NZbIZUzwAe_8lhIsSWaVZF2cVMOuJxU?width=988&height=1280
+
+#Varón de 27 años, con historia de infección respiratoria alta previa, presenta odinofagia súbita y severa, progresando rápidamente a disfagia dolorosa, marcada dificultad para la deglución y fiebre alta. A su llegada a urgencias, se observa rechazo al decúbito, prefiriendo permanecer sentado e inclinado hacia adelante. Con los anteriores datos, ¿Qué diagnóstico consideraría en primer lugar?
+#A. Angina de Ludwick.
+#B. Laringitis aguda
+#C. Epiglotitis aguda
+#D. Edema de Reinke.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSZZjysipAsQZ_dfX-Os1uFAfGw0rXhaRG4aGu2txNR_zw?width=1973&height=1280
+
+#Mujer de 41 años, con antecedente de artritis reumatoide en manejo con metotrexato + ácido fólico. Consulta al servicio de urgencias por disnea progresiva de un mes de evolución. Al ingreso hemodinamicamente estable. Se evidencia aidencia alteraciones crónicas de artritis reumatoide en manos, muñecas y pies, sin signos de inflamación articular activa, además de disminución en la expansión torácica y reducción del murmullo vesicular en ambos campos pulmonares. La rx de tórax muestra signos de derrame pleural bilateral y linfadenopatía mediastínica prominente. Se realiza toracocentesis, drenándose 1 L de líquido de aspecto lechoso.
+¿Qué examen se debe pedir en el líquido pleural para confirmar las sospechas?
+#A. Proteínas totales
+#B. Amilasa
+#C. Triglicéridos
+#D. Colesterol
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR6pt81H1W9QoKq_ej4VdweAbjc3pUp1EqVkMy_4FyaFQw?width=988&height=1280
+
+#Femenina de 30 años se encuentra en su tercer día de manejo conservador ante un diagnóstico de obstrucción intestinal. Refiere sentir mejora de dolor abdominal con la administración de morfina. Tiene antecedente de apendicetomía hace 3 años por una apendicitis perforada. Signos vitales hoy: FC de 100 lpm y PA de 100/70 mmHg. La sonda nasogástrica presenta 600 mL de líquido intestinal en las últimas 24 horas. Al examen físico el abdomen se encuentra distendido, peristalsis disminuida y timpánico. No hay signos de irritación peritoneal. Las radiografías seriadas de abdomen con medio hidrosoluble evidencia medio de contraste hasta intestino delgado distal sin llegada al ciego a las 72h. ¿Cuál es el manejo más adecuado? 
+#A. Esperar 24 horas para verificar la llegada de medio de contraste al ciego.
+#B. Se encuentra indicado el manejo quirúrgico.
+#C. Se debe continuar con manejo médico y observación clínica por 24 horas más.
+#D. Realizar una TAC de abdomen para descartar complicaciones.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR23znPvwYBTIt1SVBa5ZYDAUJbR6gfVa86o5DIKuC_4vU?width=1236&height=1600
+
+#Paciente femenina de 30 años presentó una lesión cortopunzante en brazo derecho. Refiere haber tenido sangrado abundante, sin embargo, actualmente no se encuentra sangrando. Se encuentra estable. Al examen físico no hay hematomas, no se ausculta soplo ni se palpa thrill. La extremidad no se encuentra pálida ni fría. La paciente niega parestesias, pero sus pulsos distales se encuentran disminuidos. ¿Cuál es el manejo correcto?
+#A. Exploración vascular urgente.
+#B. Observación clínica.
+#C. Realizar angiotomografía de la extremidad.
+#D. Suturar herida y alta médica.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTYnH8SDFK8TJOB1UqjxSPdAVU7T5Z55pc5Jpm3ExxCtEY?width=1236&height=1600
+
+#Femenina de 53 años, consulta al servicio de Urgencias por disnea en reposo, dolor torácico y malestar general de una semana de evolución. Describe el dolor torácico como retroesternal, no irradiado. Tiene antecedente de adenocarcinoma de colon estadio IVA, diabetes tipo 2 e hipertensión. Al examen físico se encuentra pálida, ansiosa, PA 110/70 mmHg, FC 140 lpm, FR 25 rpm, distensión venosa yugular, crépitos bibasáleses, sin otros hallazgos a la exploración. EKG: taquicardia sinusal. Ecocardiograma TT: derrame pericárdico moderado de 310 ml.  ¿Cuál sería el manejo adecuado?
+#A. Administrar diurético tipo furosemida y revalorar en 6 horas.
+#B. Administrar indometacina + colchicina.
+#C. Iniciar furosemida + digoxina + betabloqueador selectivo y revalorar en 6 horas.
+#D. Periocardiocentesis urgente.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTNy7mhAoFdQr79Oqjt2iJLAW0ByfSatjxnP5jLx6OxTy8?width=1236&height=1600
+
+#Masculino de 60 años se encuentra en el tercer día de un postoperatorio de laparotomía por obstrucción intestinal por bridas. Tiene antecedente de diabetes e hipertensión. Refiere dolor intenso en la herida. Signos vitales: temp. de 38,3°C, PA de 121/76 mmHg, FC de 100/min. La herida drena secreción gris turbia, el tejido subcutáneo es oscuro-friable, con sensibilidad disminuida en los bordes. Glicemia: 312 mg/dL. ¿Cuál es la conducta más apropiada?
+#A. Iniciar antibióticos parenterales y desbridamiento quirúrgico urgente.
+#B. Iniciar antibióticos parenterales y terapia de heridas con presión negativa.
+#C. Realizar cambios diarios de vendajes y control estricto de la glucosa.
+#D. Iniciar antibióticos parenterales y observación.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQD6KdSSeO7RZA8hA4XFeVjAdiqA7WqPYfiGpEIDdbvWO4?width=1024
+
+#Masculino de 7 años es llevado a urgencias tras caerse de su bicicleta refiriendo dolor en la muñeca derecha. Al examen físico se evidencia leve edema y dolor a la palpación con rango de movimiento limitado. Los pulsos radiales son palpables. Una radiografía lateral y AP de la muñeca evidencia una fractura incompleta con protuberancia a lo largo de la cara dorsal de las metáfisis radial y cubital sin una angulación significativa. ¿Cuál es el diagnóstico de este paciente? 
+#A. Fractura de Smith.
+#B. Fractura de Salter-Harris
+#C. Fractura toroidea.
+#D. Fractura de Colles.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTq8IC0-g97RpdYDFlPvnBJATXZoyigR-vPRttKApOEvig?width=1024
+
+#Paciente femenina de 34 años con antecedentes de G2P2, obesidad grado II y diabetes tipo 2 no insulinorequeriente en manejo con metformina, semaglutida y empagliflozina. Sin otros antecedentes relevantes. Paciente con HbA1c de control de hace una semana en 7.1%. Consulta para ingreso a control prenatal tras haberse enterado del embarazo hace 48 horas y trae consigo una ecografía particular que describe un feto único vivo intraútero de 7 semanas + 2 días. Refiere no presentar sintomatología activa. No se encuentran hallazgos anormales en el examen físico. Dado lo anterior, ¿cuál es la conducta más adecuada respecto a su diabetes?
+#A. Continuamos igual manejo e iniciamos esquema basal-bolo de insulina con glargina + lispro y guiamos dosis con un diario de glucometrías.
+#B. Continuamos manejo con empagliflozina, semaglutida y metformina e iniciamos un diario glucométrico para definir nueva conducta.
+#C. Suspendemos medicación por completo y solicitamos HbA1c para el próximo control.
+#D. Suspendemos medicación previa e iniciamos esquema basal-bolo de insulina con glargina + lispro y guiamos dosis con un diario de glucometrías.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRegoKZ1SpeQ6gaewJxjhI7Aa93IJbQKkXXNyV2DQOj930?width=1024
+
+#Erika, de 32 años, G2P1C1, actualmente hospitalizada tras una cesárea indicada por detención del progreso del trabajo de parto sin otra anormalidad conocida. Refiere a las 12 horas de su estancia sensación de calor y dolor generalizado. Comenta que tiene que cambiar su compresa perineal cada 4 horas y que ha presentado contracciones abdominales involuntarias cuando amamanta. Signos vitales: T° 37.9, FC de 85 lpm, FR de 18 rpm, PA de 118/70 mm Hg. El abdomen está blando, distendido, no doloroso. Las heridas quirúrgicas sin hallazgos anormales. Se palpa un fondo uterino firme y no doloroso a la altura del ombligo. Se observa sangre roja brillante en la almohadilla perineal. Las mamas están congestionadas y no dolorosas, sin enrojecimiento ni masas palpables. ¿Cuál es la conducta adecuada a seguir?
+#A. Solicitar tomografía contrastada de abdomen.
+#B. Continuar con observación intrahospitalaria sin nuevas conductas por el momento.
+#C. Proceder con una histerectomía de emergencia.
+#D. Realizar un legrado.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTsQRNLgxPWTLS2Ue2QKYHsARF3lYn6ew1HyTk2eY4c3zg?width=1024
+
+#Lina, de 27 años, secundigesta con embarazo de 33 semanas + 2 días, con ecografía que reporta embarazo gemelar monocorial monoamniótico, consulta hoy a su séptimo control prenatal. Paraclínicos hasta el momento sin hallazgos anormales, paciente muy adherente a los controles. No refiere actividad uterina, ni salida de flujo o líquido por vagina. Al examen físico, signos vitales dentro de rangos normales. Al examen físico sin alteraciones o hallazgos anormales. Se escucha fetocardia de 134 lpm y otra de 145 lpm. ¿Cuál es la conducta adecuada a seguir con esta paciente teniendo en cuenta lo descrito previamente?
+#A. Se sugiere finalizar la gestación antes de la semana 34, por lo que se ingresa para inducción del parto.
+#B. Se indica próximo control en 2 semanas para definir finalizar gestación entre semana 36+0 a 36+6 semanas.
+#C. Se continúa con controles cada 2 semanas sin necesidad por el momento de definir una fecha para finalizar la gestación dado que la paciente está controlada.
+#D. Se indica continuar con controles y tener en mente que si no hay factores de riesgo o signos de alarma finalizar gestación entre semana 38+0 a 38+6 semanas.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTmTQujz3QcT64Kg4rWUhsBAfnKxJmNY7oDPU0NPzuWbro?width=1024
+
+#Femenina de 24 años con G1P0 primigestante de 30 semanas + 0 días, con antecedente de migraña, consulta por cuadro clínico de 7 horas de evolución de cefalea unilateral en región parietal derecha de carácter "pulsátil" de intensidad 6/10 EAD, asociada a náuseas sin emesis y fotofobia. No comenta que se asocie a cambios posturales, no fue de inició súbito, refiere que fue progresiva, comenta que es parecida a la cefalea que tenía en sus crisis migrañosas previas al embarazo. No comenta trauma, ni síntomas visuales o síntomas neurológicos focales, no describió viajes recientes. Paciente tolera vía oral y comenta que hace 6 horas se automedicó con 1000 mg de acetaminofén vía oral, pero comenta que no hubo mejoría. Signos vitales: PA 118/78 mmHg, FC 80 lpm, T° 36.8. Al examen físico, paciente sin déficit neurológico, con FCF de 145 lpm, sin hallazgos anormales para una gestante de 30 semanas. Dado lo anterior, se dio manejo intrahospitalario con 1000 mg de acetaminofén + 130 mg de cafeína vía oral, pero a los 60 min la paciente comenta que persiste con los mismos síntomas. Aún tolera la vía oral. ¿Cuál es la conducta médica adecuada?
+#A. Ingresa para administrar 75 mg de diclofenaco IV
+#B. Ingresa para administrar metoclopramida 10 mg IV y difenhidramina 25 mg IV
+#C. Se repite dosis de 1000 mg de acetaminofén en 60 minutos
+#D. Se indica administrar sumatriptán 20 mg en spray nasal
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTqHuxbMtOXR5v81klo_vkOAemDhqncxp7FJi2yvOWWbDs?width=1024
+
+#Yuleidy, de 17 años, con antecedente de ambigüedad genital al nacer y fractura de radio al caer desde su propia altura hace 2 años. Ahora consulta porque aún no ha tenido menarca. Al examen físico, la paciente está en el percentil 95 de altura y en el percentil 50 de peso. Los signos vitales están todos dentro del rango de normalidad, incluyendo la presión arterial. Al examen físico, presenta acné noduloquístico en el rostro y en la región torácica anterior. El estadio de los senos según Tanner es grado I. Al examen pélvico, presenta vello púbico normal con clitoromegalia. Trae una ecografía pélvica realizada por un particular el día anterior, que evidenció ovarios con múltiples quistes y un útero normal. ¿Cuál de los siguientes es el diagnóstico más probable luego de descartar un embarazo?
+#A. Síndrome de Turner
+#B. Deficiencia de aromatasa
+#C. Síndrome de ovario poliquístico
+#D. Síndrome de Rokitansky
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ4pXrN9xnTRI4RMHOkr9PCASTdreLwyNzd7qlIx1iwGTI?width=1024
