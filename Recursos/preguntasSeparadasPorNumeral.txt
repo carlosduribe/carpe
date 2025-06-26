@@ -29044,3 +29044,216 @@ Sedimento urinario: cristales de urato, 8 hematíes/hpf y 1 leucocito/hpf.
 #D. Inmovilización en extensión con cabestrillo
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQTmUjM_N4brQqdvTEg75ONaAbpeoFZpYUawEo85rps2pP0?width=2469&height=1600
+
+#Masculino de 62 años es valorado en urgencias por la presencia de un cuadro respiratorio. Vive en un ancianato y es traído porque los cuidadores lo encuentran febril y con disnea. Signos vitales: Temp. 39.1°C, PA 85/45 mmHg, PAM: 56 mmHg, FC de 120 lpm, FR de 24 rpm y SatO2 al 95% con cánula nasal a 3L min. Al examen físico las mucosas están secas, con leve uso de musculatura accesoria. Se auscultan roncus y estertores en base pulmonar izquierdo. Se solicita hemograma completo, panel metabólico, lactato, perfil de coagulación y hemocultivos. Se inicia manejo hídrico adecuado. Posterior a ello la PA es de 79/50 mmHg y PAM: 60 mmHg. ¿Cuál de las siguientes afirmaciones es correcta?
+#A. Se deben iniciar antibióticos en la primera hora. 
+#B. Se debe iniciar vasopresina de forma inmediata como primera línea.
+#C. Se debe realizar intubación orotraqueal.
+#D. Se debe iniciar hidrocortisona 50 mg IV cada 6 horas. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQKkf3xMTY_T6OqyGugRkY8Ac4p8L3sMBSOCNlLcU4b814?width=548&height=710
+
+#Femenina de 18 años consulta por disnea. Hace 30 minutos se encontraba almorzando en un restaurante cuando comenzó a sentirse asfixiada. Tiene antecedente de asma. Signos vitales: Temp. de 37°C, FC de 112 lpm, PA de 93/64 mmHg, FR de 26 rpm y SatO2 del 89% con aire ambiente. La paciente puede hablar en oraciones completas, pero usa músculos accesorios para respirar. La auscultación de los pulmones revela sibilancias bilaterales. Hay una erupción urticarial en ambas extremidades superiores. ¿Cuál es el manejo adecuado para este paciente? 
+#A. Realizar intubación orotraqueal.
+#B. Indicar salbutamol nebulizado.
+#C. Difenhidramina IV.
+#D. Adrenalina IM.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSrLdC8UBbmTYUljN-0kZSMAUOKsydtnGsDpHRksyEuSMM?width=1275&height=1650
+
+#Masculino de 60 años consulta por episodios recurrentes de deja vu. Refiere que en varias ocasiones ha presentado la sensación de ya haber experimentado una situación, asociado a ansiedad de aprox. 30 – 40 segundos. Nota un olor desagradable o un sabor metálico justo antes de estos episodios. Después de estos se siente ligeramente somnoliento. Tiene antecedente de hipertensión en manejo con lisinopril. Signos vitales: Temp. de 37°C, FC de 80 lpm, FR de 16 rpm y PA de 124/85 mmHg. El examen físico completo es totalmente normal. ¿Cuál de los siguientes confirmaría el diagnostico? 
+#A. Electroencefalograma.
+#B. Ecografía doppler de vasos de cuello.
+#C. Tomografía computarizada de cráneo simple.
+#D. Resonancia magnética cerebral.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQStTJEcdOFTRq0OcnScRbAaASF5GCGhtiWG7B4AqcrisiI?width=1275&height=1650
+
+#Masculino de 64 años consulta a urgencias por hemiparesia derecha desde hace 2 horas. Tiene antecedente de hipertensión, diabetes, dislipidemia y tabaquismo. Se encuentra en manejo con insulina, metformina, enalapril y atorvastatina. Signos vitales: Temp. de 37°C, FC de 80 lpm, FR de 16 rpm y PA de 140/85 mmHg. Al examen físico el paciente se encuentra alerta, obedece ordenes, se evidencia desviación de comisura labial derecha, hemiparesia derecha e hipoestesia de la sensibilidad del lado derecho. ¿Cuál es el paso a seguir en el abordaje de este paciente? 
+#A. Administrar aspirina.
+#B. Realizar una glucometría 
+#C. Indicar alteplasa.
+#D. Realizar una tomografía de cráneo simple.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQllSd_KhVER4aIuTJGx3WaAXhTcxbQSiIvTt7V1xEnsvc?width=1275&height=1650
+
+#Masculino de 20 es llevado a urgencias por un episodio de crisis convulsiva. Su acompañante refiere que el paciente ha presentado fiebre, cefalea y malestar general desde hace 4 días. Además, tuvo un cuadro respiratorio alto recientemente diagnosticado como sinusitis. El paciente no ha tenido traumas recientes y no consume drogas. Tiene antecedente de sinusitis recurrente. Es veterinario. Signos vitales: Temp. de 39°C, FC de 105 lpm y PA de 125/85 mmHg. Al examen físico el paciente se encuentra en estado posictal. Una resonancia magnética evidencia una lesión anular de 3 cm rodeada de edema angiógeno en lóbulo frontal. ¿Cuál es el manejo adecuado para este paciente?  
+#A. Realizar una punción lumbar.
+#B. Realizar un drenaje quirúrgico. 
+#C. Iniciar tratamiento con albendazol.
+#D. Iniciar tratamiento unicamente con doxiciclina y metronidazol.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRatWcwhHZISKYDQcyoJnXLAc38iyhLNbcGxfPnope5AuI?width=2552&height=1650
+
+#Masculino de 71 años acude a cita de control una semana después de haber presentado un episodio de 15 minutos de duración caracterizado por hemiparesia faciobraquial izquierda. Dichos síntomas se resolvieron de forma espontánea. Tiene antecedentes de hipertensión y diabetes en tratamiento. Su medicación actual incluye ASA, clopidogrel, losartán, amlodipino y atorvastatina. Signos vitales: PA: 130/85 mmHg, FC de 75 lpm, FR de 16 rpm y SatO2 del 99% con O2 ambiente. El examen físico es normal. La resonancia magnética es normal. Los paraclínicos están dentro de los rangos de normalidad. El electrocardiograma (ECG) de ingreso muestra ritmo sinusal y signos de hipertrofia ventricular izquierda. El holter de ritmo de 24 horas es sinusal.  El ecocardiograma transtorácico (EcoTT) evidencia una fracción de eyección del ventrículo izquierdo (FEVI) del 52%, con dilatación auricular izquierda, pero sin anomalías en la motilidad parietal, insuficiencia ni estenosis valvulares. El Doppler carotídeo muestra estenosis <35% en ambas carótidas y flujo vertebral normal. La ARM cerebral no evidencia estenosis significativas en arterias principales.
+¿Qué enfoque clínico es el más indicado?
+#A. Suspender aspirina e iniciar apixaban
+#B. Ordenar ecocardiograma TE
+#C. Ordenar monitoreo ambulatorio de eventos 
+#D. Cambiar clopidogrel por ticagrelor
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQowA9eqgOnTI-eaAL5i9DGAVA1WNEe7Mb_N-BnxWvt5Bc?width=2552&height=1650
+
+#Masculino de 45 años, consulta por dolor torácico que describe como ‘’intenso e insoportable’’, con irradiación a la espalda, asociado a disnea y disfagia. Refiere que los sintomas iniciaron hace media hora y comenta que también ha tenido múltiples episodios de eméticos. Tiene antecedentes personales de alcoholismo crónico con consumo de un litro de alcohol diariamente, sin otros antecedentes de interés. En el examen físico, sus signos vitales son normales, pero se evidencia crepitación a la palpación sobre el esternón, sin otros hallazgos a la exploración. 
+¿Cuál de los siguientes es el estudio diagnostico más adecuado para este paciente?
+#A. Rx simple de tórax 
+#B. TAC de tórax 
+#C. Endoscopia flexible
+#D. Esofagograma contrastado  
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTMvFJkxBXBR6jR0IzQmHgvAQXblO_d2iN77fmTZG4xGVw?width=2552&height=1650
+
+#Mujer de 39 años es llevada al servicio de urgencias por un cuadro de cuatro días de fiebre, dolor epigástrico y vómitos. Hace cinco semanas presentó un primer episodio de pancreatitis aguda (PA) de etiología biliar, la cual fue tratada con CPRE sin complicaciones y posterior colecistectomía. Refiere consumo ocasional de una a dos cervezas, sin otros antecedentes de antecedentes de interés. Al ingreso, se encuentra TA: 98/68 mmHg, FC: 118 lpm, FR: 19 rpm y T°: 38.6°C. Se evidencia dolor a la palpación en epigastrio y las heridas laparoscópicas presentan adecuada cicatrización. Laboratorio: Hb 9.8 g/dL, leucocitos 16,200/mm³, Na 138 mEq/L, Cl 101 mEq/L, K 4.6 mEq/L, HCO3 24 mEq/L, BUN 17 mg/dL, Cr 1.1 mg/dL, FA 72 U/L, AST 20 U/L, ALT 18 U/L, GGT 50 U/L, bilirrubina 1.1 mg/dL, glucosa 110 mg/dL, amilasa 230 U/L y lipasa 350 U/L. La tomografía abdominal contrastada evidencia una colección quística compleja en el páncreas, con disminución en la captación del contraste, paredes irregulares y tabicaciones. 
+¿Cuál es el diagnóstico más probable?
+#A. Pancreatitis inducida por CPRE  
+#B. Pseudoquiste pancreático
+#C. Colección peripancreática aguda
+#D. Necrosis amurrallada
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSPfOlQS6ieSaFgX8FOhhTyARNg5I9GfbnhuTULnJSBiu4?width=1275&height=1650
+
+#Varón de 51 años, acude a urgencias con dolor perianal de dos días de evolución. El paciente refiere que ya no puede continuar con sus actividades diarias porque “sentarse le duele”. Tiene antecedente de diabetes tipo 2 en tratamiento con metformina/linagliptina, con poca adherencia. Signos vitales: T° 37.1°C, FC 82 lpm, FR 16 rpm y TA 125/70 mmHg. A la exploración el tacto rectal provoca dolor y se evidencia zona indurada de 2.5 cm, tumefacta y enrojecida en la zona perianal derecha.
+¿Cuál es el manejo más apropiado para este paciente?
+#A. Realizar una TAC para definir la estrategia terapéutica más adecuada 
+#B. Drenaje quirúrgico emergente
+#C. Iniciar antibioticos de amplio espectro endovenosos y evaluar a las 48 horas respuesta para definir si requiere o no drenaje quirúrgico  
+#D. Programar drenaje quirúrgico en las primeras 24 horas
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQ_p-6meudST6Ni9_o3EmMqARBGQzsjKmFC54PLkn1pvBI?width=2552&height=1650
+
+#Lactante mayor de 11 meses, referido por testículo derecho no descendido. Nació a las 37 semanas de gestación y ha estado sano desde entonces. Presenta talla y peso en percentiles adecuados para su edad, con signos vitales dentro de los parámetros normales. Examen físico: Se palpa un testículo en el hemiescroto izquierdo, de consistencia normal, indoloro y de tamaño adecuado. Se identifica una masa ovoidea, firme y no dolorosa en el canal inguinal derecho, que no desciende al escroto con maniobras de tracción suave. 
+¿Cuál de las siguientes conductas es la más adecuada a seguir?
+#A. Cita de control al cumplir el año
+#B. Programar para orquiectomía
+#C. Ordenar ecografía y medición del volumen de los testículos, además de medición de LH y FSH
+#D. Programar para orquidopexia
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQRutnp6r4ISa-ES6MBduLwAZY2PSceNNr0KVRDytK1Yt0?width=2552&height=1650
+
+#Salomé tiene 24 meses y es llevada a una cita de crecimiento y desarrollo, al revisar el carné de vacunación, se identifica que su esquema está incompleto, y que las últimas vacunas aplicadas fueron las de los 6 meses. ¿Qué vacunas recomendaría para Salomé?
+#A. Primera dosis de SRP y el refuerzo en un mes, Neumococo PCV13, influenza, hepatitis A, polio IM, fiebre amarilla y refuerzo de Pentavalente.
+#B. Primera dosis de SRP y el refuerzo en un mes, Neumococo PCV10, influenza, hepatitis A, polio IM, y refuerzo de Pentavalente.
+#C. Pentavalente, Neumococo PCV13, influenza, hepatitis A, polio IM
+#D. Influenza, polio IM, rotavirus, Neumococo PCV10, Neumococo PCV10 o PCV13
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTu_eAnxXgRRoymgHgnI308AStamoYHTSOvNDDFJGLuuKc?width=1275&height=1650
+
+#Antonio, 8 años, quien ingresa al servicio de urgencias en traslado no regulado por TEC. Según relata la madre, estaba jugando en el colegio y se le cayó un poste metálico de arco de fútbol en región frontotemporal derecha, con posterior pérdida de la conciencia y del tono postural. Trasladan de forma emergente a Hospital más cercano, ingresa inconsciente, aseguran vía área y remiten. Al examen físico se encuentra hemodinámicamente estable, intubación orotraqueal, glucometría 110 mg/dl, pupilas isocóricas poco reactivas a la luz y otorraquia bilateral. No tiene apertura ocular al llamado, emite sonidos incomprensibles y localiza el dolor. De acuerdo a lo descrito, ¿Cuál sería la clasificación del TEC? 
+#A. TEC leve
+#B. TEC moderado
+#C. TEC grave
+#D. Se necesitan más datos 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQskUXvodvKTosTnv1gwahBAeslMHbh7A921NU7BeD1GZ4?width=2552&height=1650
+
+#Santiago de 4 años es llevado al médico por su padre por un cuadro clínico de 4 días de evolución de fiebre objetiva y odinofagia. Hace 3 días, apareció un exantema maculopapular generalizado, no pruriginoso. El niño nació a término y previamente sano, presentó un episodio de amigdalitis hace 6 meses, tratado con éxito. Sus vacunas están al día. Al examen físico, afebril, con linfadenopatía cervical anterior derecha de 1.5 cm aprox, lengua de color rojo brillante, edematizada, con protuberancias y manchas blancas y eritema amigdalino con exudados. ¿Cuál de las siguientes es la medida más adecuada para iniciar el tratamiento de este paciente?
+#A. Realizar ecocardiograma 
+#B. Solicitar prueba rápida de Estreptococo
+#C. Solicitar anticuerpos anti estreptolisina
+#D. Solicitar hemoleucograma completo y PCR  
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQToYFvhM-T3SqmVMs2mHIbJAbGkxT1C-38V1FAQryl9jVU?width=1275&height=1650
+
+#Natalia de 28 años, G3P2, con 12 semanas de gestación, acude a consulta para su control prenatal. Refiere sensación de fatiga, sin otros síntomas. En gestaciones previas, presentó anemia ferropénica. Niega consumo de sustancias psicoactivas. Tiene antecedentes de epilepsia, en manejo con lamotrigina. Toma multivitaminas. Al examen físico, FC 88 lpm, PA 144/96 mmHg, sin alteraciones al examen físico. Refiere que ayer su presión arterial fue de 140/95 mmHg. Trae laboratorios con una glucosa sérica y TSH, dentro de límites normales. ¿Cuál de las siguientes alteraciones tiene mayor riesgo de presentar el hijo de Natalia?
+#A. Síndrome fetal de hidantoína
+#B. Polihidramnios
+#C. Discapacidad intelectual
+#D. Pequeño para la edad gestacional 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRnzMjXx2WAT6FdGKc-2r8dAed-aBl0ff5OfBLR5ZW7P90?width=2552&height=1650
+
+#Mariana, 4 meses, es llevada a consulta por su madre debido a un cuadro de 4 días de evolución con vómito, hiporexia y aumento en la somnolencia. A la exploración, la paciente se encuentra letárgica, con signos vitales normales, tiene la fontanela anterior abombada y tensa y la fundoscopia muestra hemorragias retinianas bilaterales. En el HLG, con GB 8.000, rx de tórax con fracturas en proceso de cicatrización en las costillas 4ª y 5ª izquierdas. ¿Cuál es la causa más probable de la condición de esta paciente?
+#A. Lesiones por cizallamiento
+#B. Enfermedad del tejido conectivo
+#C. Hemorragia de la matriz germinal
+#D. Hematoma epidural
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT2khAiD1CMQrJOu1PTZpKiATXR8Ff-q635G7s5MSaEfxU?width=1275&height=1650
+
+#Mariana, de 32 años, llega a su consulta de primer nivel. Es una paciente sin antecedentes médicos relevantes, que reside a seis horas a caballo del hospital. Consulta por prurito vulvar, dispareunia y flujo vaginal blanco espeso e inodoro de 30 días de evolución. Refiere haber tenido cinco cuadros similares en los últimos 12 meses, los cuales fueron tratados con antifúngicos tópicos de corta duración, con mejoría parcial. No refiere fiebre ni síntomas urinarios. Al examen físico, la paciente presenta eritema vulvar, flujo blanquecino adherente sin olor fétido, sin ulceraciones ni lesiones vesiculosas. pH vaginal: 4.2. Tinción de KOH: reporta pseudohifas y blastoconidias. Lamentablemente, en su hospital no se cuenta con cultivos. ¿Cuál es el tratamiento más adecuado para esta paciente?
+#A. Fluconazol 150 mg VO dosis única.
+#B. Clotrimazol 500 mg óvulo vaginal dosis única.
+#C. Fluconazol 150 mg vía oral semanal por 6 meses.
+#D. Miconazol crema 2% intravaginal por 7 días.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQy2Qojk1IGToXcBWLHtSHrAXljQIfqni0FQmnEfxMCOEc?width=2552&height=1650
+
+#Teniendo en cuenta el caso anterior, la misma paciente, Mariana, realiza el tratamiento propuesto por usted para su cuadro clínico según las recomendaciones de las guías. La paciente comenta que realizó el manejo de forma muy adherente, tal como usted lo indicó; sin embargo, consulta nuevamente a los 7 meses de haber iniciado el tratamiento refiriendo que persiste con los mismos síntomas de prurito vulvar, dispareunia y flujo vaginal blanco espeso e inodoro. Al examen físico y al realizar un nuevo examen de flujo, vuelve a obtener el diagnóstico de una candidiasis vaginal recurrente. Tras dialogar con la paciente sobre la necesidad de realizar un cultivo de flujo, ella decide viajar a la ciudad más cercana con sus ahorros y realizarse los exámenes, cuyos resultados le entrega posteriormente en consulta. El reporte indica: "Crecimiento de C. albicans resistente a los azoles." No se proporciona otro informe ni conclusión, ni se reporta la concentración mínima inhibitoria (MIC) para itraconazol ni ketoconazol. ¿Cuál es la conducta adecuada a seguir?
+#A. Ácido bórico en supositorio o cápsula vaginal 600 mg/día por 14 días.
+#B. Nistatina en supositorio vaginal 100,000 UI/día por 5 días.
+#C. Remisión a infectología para uso de VT-116.
+#D. Itraconazol 100 mg vía oral, 1 tableta por 5 días.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSYVoEVOMQ9TpdzR2BX-CM3AS2CjdBNTIGdcV28A02zeCI?width=2552&height=1650
+
+#Estefania de 32 años, G2C1, con antecedentes de cesárea previa por sufrimiento fetal agudo, acude a consulta a las 38+3 semanas de gestación por contracciones dolorosas cada 7-8 minutos en las últimas 3 horas y sensación de presión pélvica. No presenta sangrado transvaginal ni pérdida de líquido amniótico. Al examen físico, se encuentra con signos vitales normales y dinámica uterina moderada (3 contracciones en 10 minutos). En la exploración cervical, se palpa un cuello dilatado 3 cm, borrado 70%, con presentación cefálica en estación -2. La cicatriz de la cesárea previa no presenta signos de dolor o descompensación. Se realiza monitoreo fetal, encontrándose una FCF 145 lpm, con variabilidad moderada y sin desaceleraciones. Se ingresa paciente que, durante su estancia hospitalaria, progresa en dilatación hasta 6 cm en 4 horas, pero en la última evaluación, refiere un dolor súbito y severo en la cicatriz de la cesárea, acompañado de taquicardia materna y fetal. En el examen abdominal, se palpa un útero hipersensible y con una leve deformidad en la región suprapúbica. 
+¿Cuál es la mejor conducta a seguir?
+#A. Administrar analgesia y continuar el trabajo de parto con vigilancia estricta
+#B. Indicar cesárea de urgencia
+#C. Administrar oxitocina y reevaluar la progresión en 1 hora
+#D. Realizar monitoreo intrauterino de presión y diferir la decisión quirúrgica
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSUfsVu3s4jQIRpb_tEUOOkAToYH7EY-tLs2M2XGR4Jka0?width=2552&height=1650
+
+#Carolina, de 26 años, G1P0, con 10 semanas de gestación, acude a su primer control prenatal sin comentar sintomatología activa, sin hallazgos anormales en todo el examen físico y con signos vitales en rango de normalidad. Como parte del tamizaje prenatal, se le realiza una prueba treponémica que resulta positiva. Posteriormente, se obtiene una prueba no treponémica (VDRL) reactiva. Ante la ausencia de síntomas o signos clínicos de sífilis reciente, se establece el diagnóstico de sífilis latente temprana y se inicia tratamiento. Durante la consulta, Mariana menciona que su pareja de 30 años ha sido su única pareja sexual en el último año (no usan protección) y no ha presentado síntomas. Se le indica que debe recibir tratamiento, pero al interrogarlo refiere haber presentado una reacción urticarial leve en la infancia posterior a la administración de penicilina.
+¿Cuál es el manejo más adecuado para Roberto?
+#A. Uso de penicilina G benzatínica.
+#B. Doxiciclina 100 mg VO cada 12 horas por 14 días.
+#C. Realizar antes de considerar tratamiento pruebas para sífilis en Roberto.
+#D. Azitromicina 2 g VO en dosis única.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSY4uszdA54Qpj9Jwy1tTuOAfwEoVk5OaS-N5pG4e1eKFI?width=2552&height=1650
+
+#Ana, de 27 años, cursa con un embarazo de 19 semanas de gestación con la siguiente consideración evidenciada por usted en controles: en su control prenatal inicial en la semana 10, se realizó tamizaje serológico para toxoplasmosis, reportándose Toxoplasma gondii IgG (-) e IgM (-). En la semana 16 de gestación, en un control de rutina, se repite la serología, encontrando IgG (-) e IgM (+), por lo que se sospecha infección aguda. Dos semanas después, se repite la serología y se documenta seroconversión (IgG (+) e IgM (+)). Dado lo anterior, se realiza una amniocentesis con una PCR para Toxoplasma gondii en líquido amniótico negativa, por lo que se decide manejo con espiramicina para reducir el riesgo de transmisión vertical. Sin embargo, la paciente refiere antecedentes de reacción alérgica severa a macrólidos, incluyendo espiramicina.
+Ante esta situación, ¿cuál es la mejor alternativa terapéutica para Ana?
+#A. Iniciar pirimetamina-sulfadiazina más ácido folínico
+#B. Administrar azitromicina como alternativa a la espiramicina
+#C. No iniciar tratamiento y repetir amniocentesis en 4 semanas
+#D. Indicar profilaxis con cotrimoxazol hasta la semana 36
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQc3UiD0ZTMTIa0tlWiHLHJAQEIxyUPdw7dZSucsCSCV5c?width=2552&height=1650
+
+#Varón de 21 años consulta por tos y opresión torácica inducidas por el ejercicio, lo que ha limitado su entrenamiento para su primer maratón. Niega síntomas en reposo, estridor o disfonía. Examen físico sin alteraciones. Espirometría basal normal. Prueba de esfuerzo con caída del FEV1 >15% respecto al basal.
+¿Cuál es el tratamiento más adecuado en este caso?
+#A. Albuterol diario
+#B. Ipratropio 5-20 minutos antes del ejercicio
+#C. Budesonida q12h 
+#D. Budesonida-formoterol 5-20 minutos antes del ejercicio
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTRk1LtjbbSRrylGiz6eIBiAVCfPkllZLAfcDlwlyaJXXA?width=1275&height=1650
+
+#Varón de 51 años sin antecedentes patológicos conocidos, consulta por debilidad progresiva en miembros inferiores de cinco días de evolución, lo que impide la bipedestación y la marcha. Refirió parestesias en las cuatro extremidades desde hace diez días, seguidas de dolor lumbar y pérdida progresiva de fuerza en las piernas. Niega infecciones recientes o uso de fármacos. Recibió la vacuna contra la influenza hace tres semanas. En el examen físico, se encuentra alerta, reactivo y con signos vitales estables. Presenta fuerza 2/5 en extremidades inferiores, arreflexia bilateral y sensibilidad conservada. No se evidencian alteraciones en los pares craneales, signos meníngeos ni disautonomías. La respuesta plantar es flexora y la marcha no es valorable. 
+¿Cuál sería la conducta más adecuada a seguir?
+#A. Administración de metilprednisolona a 1 g/kg/día durante 5 días.
+#B. Plasmaféresis.
+#C. Realizar punción lumbar con análisis de LCR y pruebas electrodiagnósticas; definir tratamiento según los resultados.
+#D. No indicar tratamiento. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSZpzRh2qMRTKupn1rpKzB0AddVzDBzMNet42f8ea38QV0?width=1275&height=1650
+
+#Varón de 24 años, evaluado por síndrome retroviral agudo. Refiere múltiples parejas sexuales masculinas con uso esporádico de preservativo, siendo su último contacto hace 14 días. No toma medicamentos. En el examen físico, presenta signos vitales dentro de rangos normales y adenopatías en la región cervical; el resto del examen es normal. Refiere que desea iniciar PrEP. Laboratorios: ELISA de 4ª generación para VIH (+), inmunoensayo de diferenciación de anticuerpos VIH-1/2 (-), VDRL (-). 
+¿Cuál sería la conducta más adecuada a seguir?
+#A. Iniciar PrEP con emtricitabina/tenofovir disoproxil fumarato (FTC/TDF) y reforzar la consejería sobre prácticas sexuales seguras.
+#B. Medir conteo de células T CD4+ y remisión a grupo de atención integral
+#C. Solicitar carga viral de VIH-1
+#D. Iniciar TAR con tenofovir/emtricitabina con darunavir 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSeVg4WPj0XSrW3Pa6WegKlAdy5ZoX2L0ouf7adjtP8qIY?width=2552&height=1650
+
+#Varón de 59 años remitido a consulta de medicina interna por su médico de atención primaria por detectar elevación de enzimas hepáticas en estudios rutinarios. Tiene antecedentes de hipertensión, dislipidemia y DT2. En tratamiento actual conmetformina, losartán/amlodipino y rosuvastatina. Consumo de alcohol de dos cervezas cada quince días. En el examen físico, TA 138/85 mmHg, IMC 35. Se palpa hepatomegalia sin esplenomegalia. Laboratorios: FA 175 U/L, ALT 55 U/L, AST 39 U/L, plaquetas 267,000/µL, Alb y BT dentro de la normalidad. Ecoabdominal evidencia hepatomegalia con aumento de ecogenicidad hepática. Se calcula Fibrosis 4 Score con puntuación 1.16 (bajo riesgo < 1.3). 
+¿Cuál es el siguiente paso más adecuado en el tratamiento?
+#A. Pérdida de peso y cambios en el estilo de vida 
+#B. Cambiar rosuvastatina por atorvastatina 
+#C. Suspender el consumo de alcohol
+#D. Pioglitazona
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQHsMuLvWESQKc1x3r34YFyAT-KMVbrbP-08BV5ujnjSDE?width=2552&height=1650
+
+#Hombre de 50 años, sin antecedentes patológicos conocidos, consulta por síntomas de visión borrosa, inestabilidad al caminar y sensación de debilidad. Ha tenido al menos cuatro episodios similares en el último mes, siempre en la tarde después de largos períodos sin comer. Un monitor de glucosa adquirido por recomendación en redes sociales ha detectado niveles de hasta 43 mg/dL en dichos eventos, los cuales desaparecen tras la ingesta de alimentos. En el examen físico, los signos vitales son normales, con un IMC de 30 y sin hallazgos relevantes en la exploración. Los resultados de exámenes recientes reportan glicemia en ayunas de 80 mg/dL, HbA1c de 5.0%, perfil lipídico dentro de parámetros normales y función hepática y renal sin alteraciones.
+¿Qué prueba sería más apropiada para establecer el diagnóstico?
+#A. Test de ayuno 
+#B. Prueba de tolerancia a las comidas mixtas (PTCM)
+#C. Ordenar TAC abdominal contrastada
+#D. Prueba de tolerancia oral a la glucosa con 75 g
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTYIJLaaomiS6AJhryZHKQ2AY8SUpdyHx9wBInKu9B432g?width=1275&height=1650
