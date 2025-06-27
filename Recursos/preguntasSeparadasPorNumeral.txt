@@ -29257,3 +29257,212 @@ Ante esta situación, ¿cuál es la mejor alternativa terapéutica para Ana?
 #D. Prueba de tolerancia oral a la glucosa con 75 g
 #Respuesta correcta:
 #https://1drv.ms/i/c/2cc078be4a32d93b/IQTYIJLaaomiS6AJhryZHKQ2AY8SUpdyHx9wBInKu9B432g?width=1275&height=1650
+
+#Varón de 62 años es evaluado por un temblor que ha progresado gradualmente a lo largo de cuatro años. El temblor afecta ambas manos y la cabeza, y es más evidente al escribir o leer un periódico. Su temblor mejora después de consumir una cerveza. No toma ningún medicamento. El examen neurológico revela un temblor de acción simétrico en las manos y los brazos, sin otros signos neurológicos acompañantes. Además, presenta un temblor cefálico caracterizado por un movimiento oscilatorio en el plano horizontal tipo "no-no". Su voz también es trémula, sin alteraciones en la articulación del habla. 
+¿Cuál es el diagnóstico más probable?
+#A. Temblor Distónico
+#B. Temblor fisiológico
+#C. Temblor esencial 
+#D. Discinesia tardía
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRBBnKyx8CBT7Jm9Lf1ivWpAWvck_ADg0z_79mIe_thSq4?width=2544&height=1650
+
+#Mujer de 47 años con antecedente de migraña en progresión durante los últimos 4 años, con aumento tanto en la frecuencia como en la intensidad de las crisis. Inicialmente, las cefaleas coincidían con el primer día del ciclo menstrual, pero han evolucionado a 8-9 episodios mensuales. Además, en dos ocasiones al mes, la paciente presenta escotomas de aproximadamente 10 minutos como pródromo de la cefalea. El manejo agudo con sumatriptán + naproxeno ha sido efectivo en las crisis agudas, aunque el incremento en la frecuencia de los episodios provoca que la paciente ocasionalmente se quede sin medicación antes de finalizar el mes. Se ha intentado tratamiento preventivo con amitriptilina, metoprolol y topiramato en los últimos dos años, sin una respuesta clínica satisfactoria.
+¿Qué opción terapéutica es la más indicada como siguiente paso en la profilaxis de esta condición?
+#A. OnabotulinumtoxinaA
+#B. Venlafaxina
+#C. Galcanezumab
+#D. Anticonceptivos orales combinados 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR68Vvp38nZSYVj9X9r1pn9AaWxbDHxIx3PcqbxMdae_Gg?width=2544&height=1650
+
+#Mujer de 29 años, con embarazo de 14 semanas, se somete a una cervicometría de tamizaje. Tiene un antecedente obstétrico de parto prematuro a las 27 semanas. La evaluación ecográfica revela una longitud cervical de 31 mm. 
+¿Cuál de las siguientes opciones es la adecuada para prevenir la recurrencia de parto prematuro en esta paciente?
+#A. Repetir cervicometria cada dos semanas hasta semana 24  
+#B. Cerclaje cervical + progesterona vaginal micronizada 200 mg/día hasta semana 36
+#C. Repetir cervicometria cada semana hasta semana 24  
+#D. Caproato de 17-hidroxiprogesterona muscular semanal 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR212IbZr7pSqFDnBABhtF0AWSp3yHDe1xWxtlo4bOHK4g?width=1275&height=1650
+
+#Mujer de 29 años, con embarazo de 33.4 semanas por ecografía, ingresa a urgencias por contracciones uterinas con sospecha de amenaza de parto prematuro. En la evaluación, el registro cardiotocográfico muestra 4 contracciones en 20 minutos, dilatación de 4 cm. Lo correcto sería:
+#A. Recolección de muestras vaginales y manejo activo (Admisión, tocolisis, corticoides)
+#B. Recolección de muestras vaginales y manejo conservador (alta, instrucciones y signos de alarma)
+#C. Admisión de la paciente y solicitar fibronectina fetal o alfamicroglobulina-1 para definir conducta 
+#D. Dejar en observación con monitoreo continuo y realizar cervicometría para definir conducta. 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQH_DvGk3n5S76ls3OfTwAgAXPnpeyHUWDn_euIwfuXREs?width=1275&height=1650
+
+#Mujer de 37 años, sin antecedentes relevantes, consulta tras palparse un nódulo mamario izquierdo. A la exploración física, se identifica una lesión nodular de contornos regulares, móvil, de 25 x 30 mm, localizada en la coordenada 3,5 de la mama izquierda. 
+¿Cuál sería la conducta adecuada a seguir?
+#A. Solicitar evaluación por imágenes, siendo la ecografía la opción de elección inicial.
+#B. Realizar punción con aguja gruesa de la lesión
+#C. Indicar estudios de imagen, con preferencia por ecografía + mamografía 
+#D. Indicar estudios de imagen, con resonancia magnética como el método de elección en este caso.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQZiQoKboOVSqFj1ZK4h_9rARRY_ry_GYRhlX6x7u1M6F0?width=1275&height=1650
+
+#Una mujer de 65 años es llevada a urgencias por presentar náuseas, vómitos y distensión abdominal con 12 horas de evolución. Refiere antecedentes de episodios previos de dolor abdominal, aunque nunca había buscado atención médica.  Tiene antecedente de diabetes y obesidad. Signos vitales: Temp. de 38°C, FC de 89 lpm, FR de 20 rpm y PA de 125/85 mmHg. Al examen físico hay distensión abdominal moderada y una masa eritematosa y dolorosa a la palpación de aprox. 3 cm por debajo del ligamento inguinal derecho y lateral al tubérculo púbico. Dicha masa es timpánica y no se puede reducir. Una TAC de abdomen evidencia una obstrucción de intestino delgado. ¿Cuál es el mecanismo fisiopatológico para la condición actual de esta paciente? 
+#A. Debilidad de la fascia transversalis.
+#B. Ensanchamiento del anillo femoral.
+#C. Proceso vaginal permanente.
+#D. Anomalía en la fascia de Spiegel.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQkuP07sX18QaqZ2p2GZ3sMAbU7rnFghVqU3l9l0tsycNU?width=1275&height=1650
+
+#Varón de 55 años que consulta por dolor abdominal de intensidad progresiva, acompañado de náuseas y vómitos. Refiere ausencia de evacuaciones en los últimos 3 días. Tiene antecedente de hipertensión, estreñimiento y reparación de una hernia ventral hace 7 años. Signos vitales son normales. Al examen físico, se evidencia abdomen distendido, timpánico a la percusión y doloroso a la palpación. Los ruidos intestinales son hiperactivos. Una TAC de abdomen evidencia un intestino delgado distendido con 2 puntos de transición. El intestino distal se encuentra colapsado. ¿Cuál es el diagnostico más probable? 
+#A. Íleo Biliar.
+#B. Pseudo obstrucción colónica aguda. 
+#C. Diverticulitis aguda.
+#D. Vólvulo.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTrgLAF350gS5sQO4NET2sUAV5N-UF-PqepODZDpWPqXQ4?width=1275&height=1650
+
+#Femenina de 38 años consulta por dolor abdominal irradiado a espalda, náuseas y episodios eméticos desde hace 6 horas. Tiene antecedente de consumo de alcohol frecuente. Signos vitales: Temp. de 38.9°C, PA de 92/65 mmHg, FC de 126 lpm, FR de 24 rpm y SatO2 del 94% con O2 ambiente. Al examen físico hay distensión y dolor abdominal a la palpación en epigastrio, equimosis periumbilical y estertores bilaterales en bases pulmonares. Paraclínicos: Leucocitos en 15.000/mm3, amilasa de 2300 U/L y Lipasa de 1800 U/l. ¿Cuál es el manejo adecuado para esta paciente? 
+#A. Administrar ringer lactato IV.
+#B. Realizar una TAC de abdomen y pelvis.
+#C. Indicar morfina IV.
+#D. Iniciar manejo con piperacilina/tazobactam.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQT4Dz8gbFofR5511vqLRf7mAZF1euzm3wGsJz-b3lQu_qo?width=1275&height=1650
+
+#Masculino de 55 años consulta por una herida en su tobillo derecho desde hace 2 meses. El paciente refiere edema de ambos miembros inferiores y heridas en el mismo lugar previamente las cuales resolvieron sin tratamiento. Esta vez, su herida comenzó como una pequeña área de eritema, pero en las semanas siguientes, se ha ensanchado en diámetro y ocasionalmente forma costras. Tiene antecedente de Diabetes insulinorequiriente con mal control metabólico. Refiere dolor en el mismo miembro de predominio nocturno. Sus signos vitales son normales. Al examen fisico hay una úlcera de 4 cm en el maléolo medial de su extremidad inferior derecha que tiene tejido de granulación en la base. Hay drenaje claro de la herida. Hay una decoloración de la piel de color marrón rojizo circundante, pero no hay signos de infección. Ambas piernas tienen edema bilateral con fóvea de 2+ en la mitad de las pantorrillas y múltiples manchas de color marrón rojizo. Los pulsos pedían dorsal y tibial posterior son de 2+ bilaterales. ¿Cuál es el diagnostico más probable? 
+#A. Pioderma gangrenoso.
+#B. Ulcera por insuficiencia arterial.
+#C. Ulcera venosa.
+#D. Ulcera por presión.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQqBOC6Oi6dT6bkF229Nl-rAVdxRisj2HoDDt-tOIk8dGI?width=1275&height=1650
+
+#Mujer de 61 años. Consulta al Servicio de Urgencias por cefalea de inicio brusco, descrita como ‘’la peor de su vida’’. Tiene antecedente de HTA y diabetes tipo 2 con poca adherencia a tratamiento farmacologico. Al examen físico se evidencia una paciente somnolienta, PA 152/91 mmhg, taquicárdica, taquipneica y rigidez de nuca. La TAC simple de cráneo es normal, y la punción lumbar con estudio LCR reporta presión de apertura elevada, glucosa normal y el centrifugado demostró la presencia de xantocromía.  ¿Cuál sería el estudio de elección/conducta a realizar en esta paciente? 
+#A. Realizar AngioTAC cerebral
+#B. Realizar trombólisis con Alteplase 0.9 mg/kg 
+#C. Realizar craneotomía descompresiva urgente
+#D. Realizar panangiografía cerebral
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQQNeW-RA0hnTL4SmI6m0OhtAc5D2G8By2XkzLTt0FLsodc?width=1275&height=1650
+
+#Samuel, 2 años, es llevado al servicio de urgencias por su madre inmediatamente después de que lo vio tragarse una moneda, aproximadamente 15 minutos después de haber terminado de comer su cena. No presenta ninguna sintomatología. Al examen físico, sin alteraciones. En las radiografías de tórax y abdomen se evidencia una densidad redonda y radiopaca de 2 cm en el esófago distal. ¿Cuál de los siguientes pasos es el más apropiado para este niño?
+#A. Requiere extracción endoscópica bajo anestesia general
+#B. Dar de alta con órdenes de radiografías seriadas
+#C. Realizar esofagograma con bario 
+#D. Dejar en observación y realizar rx seriadas 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRQ0vM1q3aXSp1QXIq87yUdAQC6m_VVqJ1GhGNeLQAhPug?width=1275&height=1650
+
+#Ismael, 6 años, llevado a urgencias por dolor abdominal en mesogastrio, intermitente y varios episodios de vómitos no biliosos durante 4 horas. El dolor se irradia a su abdomen inferior derecho y ocurre cada 15 a 30 minutos. Durante estos episodios de dolor, el niño levanta las rodillas hacia el pecho. Tuvo dos episodios similares en los últimos 6 meses. En la ecografía abdominal se evidencia el signo de la diana, tiene una Hb de 9. De acuerdo con la patología sospechada, ¿cuál es la causa subyacente más probable?
+#A. Malrotación con vólvulo
+#B. Divertículo de Meckel
+#C. Apendicitis aguda 
+#D. Pólipos intestinales
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRXMBRl9yPWQqfaFeWChOQZAbIVymT4Z3tnhemI_enO4tI?width=1275&height=1650
+
+#Erick, 10 años con asma bronquial, es llevado al médico por su madre debido a un cuadro de erupción generalizada, no pruriginosa, desde hace 2 días. También ha tenido fiebre y odinofagia durante 3 días. Se encuentra con un inhalador de fluticasona/salmeterol, PAI completo para la edad. Se encuentra febril, taquicárdico, con mucosas secas y eritema facial con palidez peribucal, con una erupción eritematosa maculopapular difusa que palidece con la presión sobre el tronco con un aspecto lineal y petequial en la axila y la ingle, con eritema faríngeo y una lengua en fresa. Su hemoglobina es de 13.5, GB 13200, plaquetas 220.000. ¿Cuál de las siguientes es la secuela más probable de esta afección?
+#A. Aneurismas coronarios
+#B. Glomerulonefritis postinfecciosa 
+#C. Anemia hemolítica
+#D. Encefalitis
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRXYnHUOYWGS5wD1f4P6gCgAbWihVPC92sn02Mi6FePJiU?width=1275&height=1650
+
+#Bibiana, 3 años, es llevada al servicio de urgencias debido a un cuadro de dolor y diarrea acuosa durante los últimos 2 días. Hoy, presentó disentería. La paciente asiste a una guardería, tiene el PAI al día. Se encuentra febril, taquicárdica, PA normal; el abdomen es doloroso a la palpación en el cuadrante inferior derecho con signo de Blumberg positivo. En un cultivo de heces crece Yersinia enterocolitica. ¿El consumo de cuál de los siguientes alimentos contaminados es más probable que cause la infección observada en esta paciente?
+#A. Carne de cerdo poco cocida
+#B. Huevos poco cocidos
+#C. Carne de ave poco cocida
+#D. Carnes frías
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRoGb7layKlRIibEmyRG21JAVtVcyW3B_Z9eO3s-B2d9YE?width=1275&height=1650
+
+#Javier, 8 años, es llevado a urgencias por una semana de evolución de fiebre de difícil control, diaforesis nocturna, pérdida de apetito y fatiga. Tiene antecedentes de estenosis aórtica que se le diagnosticó al nacer y se reparó quirúrgicamente con la colocación de una válvula aórtica protésica hace varios años. Desde la cirugía, asintomático. Al examen físico, T 39,4 °C, FC 123, FR 20, PA 103/63 mm Hg; se ausculta un soplo sistólico áspero grado III/IV que se irradia al cuello; con hepatomegalia 4 cm por debajo del reborde costal. Se evidencian pequeñas lesiones eritematosas, indoloras y que no palidecen en sus manos. Se solicitan hemocultivos y se realiza un ecocardiograma que revela una nueva dehiscencia parcial de la válvula aórtica del paciente. ¿Cuál de los siguientes sería el mejor cubrimiento antibiótico?
+#A. Piperacilina/tazobactam
+#B. Ceftriaxona
+#C. Ampicilina/sulbactam + gentamicina 
+#D. Ciprofloxacina
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSX5opzjlKpS5hZrxbsa9ToAeynQPLydvvymZXvphndxxo?width=2544&height=1650
+
+#Kelly, secundigesta de 30 años, con antecedente de G2P1 y preeclampsia en su embarazo previo, acude a su consulta de control prenatal a las 30 semanas de gestación. En paraclínicos previos, la paciente presenta perfil infeccioso negativo, IgG de rubéola positiva (toxoinmune) y paraclínicos de control metabólico sin alteraciones. La ecografía de tamizaje genético no muestra alteraciones.La paciente se realizó hace 2 días una ecografía obstétrica, en la que se estima un peso fetal de 1100 g. Al calcular el percentil de crecimiento según las curvas de Hadlock, se encuentra en percentil 9. Ante este hallazgo, se decide realizar una evaluación más detallada para determinar la etiología del crecimiento fetal no satisfactorio. ¿Cuál es la conducta inicial adecuada a seguir?
+#A. Solicitar serologías maternas IgG e IgM para citomegalovirus (CMV) y rubéola.
+#B. Realizar ecocardiografía fetal.
+#C. Solicitar de forma prioritaria cariotipo en líquido amniótico.
+#D. Realizar Doppler de circulación fetal y placentaria y ecografía de detalle anatómico.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRO2E97oA6FQ6g_qlxHzXQ0Aa2i0_7iIYjb6WICypZL7wQ?width=2544&height=1650
+
+#María, de 29 años, G2P1, acude a su consulta de control prenatal a las 31+2 semanas de gestación. No tiene antecedentes de enfermedades autoinmunes ni metabólicas, y sus paraclínicos previos han sido normales, incluyendo un perfil infeccioso negativo y una serología para CMV y rubéola sin hallazgos relevantes. Su IMC previo al embarazo era de 24 kg/m² y su PA se ha mantenido en rangos normales hasta el momento. En una ecografía obstétrica realizada hace 3 días, se estima un peso fetal de 1250 g, lo que corresponde a un percentil de 8 según Hadlock. El líquido amniótico y la anatomía fetal se encuentran dentro de los parámetros normales, sin malformaciones evidentes. Se realiza un Doppler de la circulación fetal y placentaria sin alteraciones. ¿Cuál es la conducta adecuada a seguir en esta paciente?
+#A. Indicar reposo absoluto y administrar corticoides antenatales para madurez pulmonar fetal.
+#B. Realizar seguimiento con ecografía de crecimiento fetal cada 72 horas y finalizar la gestación a las 34 semanas.
+#C. Realizar seguimiento con Doppler fetal y ecografía cada 2 semanas y finalizar la gestación a las 40 semanas si no hay deterioro fetal.
+#D. Ingresar a la paciente a hospitalización inmediata y planear interrupción del embarazo en las próximas 24 horas.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSb9p-64svJQopzVDl-ZYS3AWtEdHturcG9FvR-DFPRzYU?width=2544&height=1650
+
+#Patricia, de 28 años, primigestante de 34 semanas + 5, con antecedente de migraña, consulta por 4 horas de evolución de cefalea progresiva unilateral en región parietal izquierda, de carácter "pulsátil" e intensidad 7/10 EAD, asociada a náuseas con emesis alimentaria y fotofobia. Comenta que el cuadro es similar a cefaleas previas. No refiere trauma ni síntomas neurológicos focales, ni ha realizado viajes recientes. Al ingreso, la paciente no tolera la vía oral. Al examen físico, signos vitales dentro de rangos, sin déficit neurológico, con FCF de 148 lpm y sin hallazgos fuera de lo normal. Se decide iniciar LEV, solicitar paraclínicos y administrar metoclopramida + difenhidramina IV, con mejoría casi completa de los síntomas a los 60 minutos. No obstante, se deja a la paciente en observación, y a las 7 horas, refiere nuevamente dolor cefálico residual de intensidad 4/10 EAD. ¿Cuál es la conducta médica más adecuada?
+#A. Administrar nuevamente metoclopramida 10 mg IV y difenhidramina 25 mg IV.
+#B. Administrar 30 mg de ketorolaco IV.
+#C. Indicar sumatriptán 6 mg subcutáneo.
+#D. Aplicar 100 mg de tramadol IV.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSdbwuYuQTXR6Y_e8O1JGVKAa2sBDEzYKNiPKYDBRPBkGU?width=2544&height=1650
+
+#Mariana, una mujer de 38 años, acude a consulta por dolor pélvico intermitente de tres meses de evolución, sin asociación con el ciclo menstrual y sin otros síntomas sistémicos. Como antecedente relevante, es G2P2, sin abortos, sin historia de cáncer ginecológico en la familia y con ciclos menstruales regulares, con FUM hace 1 semana. En la exploración física, se palpa una masa anexial izquierda, de consistencia blanda, no dolorosa, sin datos de irritación peritoneal ni ascitis. Se realiza una ecografía transvaginal que reporta imagen quística simple de 8 cm, unilocular, sin evidencia de áreas sólidas, con paredes delgadas, sin septos ni proyecciones papilares. TAC abdominal descarta evidencia de líquido libre en cavidad abdominal. El CA-125 dio 100 U/ml. Con base en estos hallazgos, ¿cuál es la mejor conducta a seguir en esta paciente?
+#A. Indicar exploración quirúrgica con biopsia por congelación.
+#B. Realizar seguimiento ecográfico en 6-8 semanas.
+#C. Indicar cirugía laparoscópica con anexectomía unilateral.
+#D. Solicitar resonancia magnética y repetir marcadores tumorales en un mes.
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRmhN3M14AOQobygGVoV7nsAQqjr-8aYZGU3Kz1Fs1y6go?width=2544&height=1650
+
+#María, de 29 años, sin antecedentes relevantes, consultó por sangrado genital de moderada cantidad y dolor en hipogastrio de tipo cólico, de intensidad 4/10 EAD, de 4 horas de evolución. Refiere FUM hace 6 semanas y actividad sexual sin anticoncepción. Al interrogatorio, no refiere fiebre ni descarga vaginal anormal. Signos vitales: T°: 36.8 °C, FC: 85 lpm, PA: 112/76 mmHg. Al examen físico orientada en las 3 esferas, sin palidez mucocutánea. Abdomen blando, depresible, con dolor leve a la palpación en hipogastrio, sin signos de irritación peritoneal. Especuloscopia con cérvix cerrado con sangrado escaso. Al tacto útero de tamaño acorde a 6 semanas, no doloroso, anexos sin masas ni dolor a la movilización cervical. Paraclínicos: Hb de 12.4 g/dL, β-hCG cuantitativa: 3600 mUI/mL. Ecografía transvaginal: endometrio engrosado de 12 mm, sin saco gestacional intrauterino ni masas anexiales. Cavidad endometrial vacía. ¿Cuál es la conducta más adecuada en esta paciente?
+#A. Administrar metotrexato intramuscular y seguimiento con β-hCG
+#B. Repetir β-hCG en 48 horas y ecografía TV
+#C. Realizar legrado uterino por sospecha de aborto incompleto
+#D. Solicitar laparoscopía diagnóstica por sospecha de embarazo ectópico
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQSjWI0vHp8aQqRrhIpR6j3TAUkwxVufvu8S8aj822qoyog?width=2544&height=1650
+
+#Un varón de 29 años, con antecedente de asma bien controlada con budesonida a dosis bajas, consulta porque en el último mes ha presentado episodios tos y sibilancias persistentes hasta 2-3 veces por semana, sin relación con el ejercicio. Refiere el uso de albuterol 4-5 veces por semana, con adecuada respuesta, pero en las últimas tres semanas ha experimentado despertares nocturnos por dificultad respiratoria. No reporta desencadenantes claros, no fuma ni consume alcohol, y su técnica de inhalación es adecuada. Al examen físico, los signos vitales son normales, y la auscultación revela sibilancias espiratorias.
+¿Cuál de los siguientes tratamientos debe iniciarse?
+#A. Macrolidos, azitromicina de elección 
+#B. Corticoides orales
+#C. LAMA
+#D. LABA 
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTl7U-BM1VyQrfnZdDVx2zuAfRAQ7Yc4kHg_VsJmkW30no?width=1275&height=1650
+
+#Varón de 25 años con dolor epigástrico progresivo de cinco meses de evolución, que se intensifica con la ingesta y se asocia con náuseas, lo que ha llevado a una disminución de la ingesta oral. Antecedente familiar de cáncer gástrico en su padre. Se inició tratamiento con omeprazol durante ocho semanas, el cual no ha sido efectivo. Exploración física sin hallazgos relevantes, excepto leve dolor epigástrico a la palpación, sin signos peritoneales. Endoscopía digestiva alta y biopsias gástricas y duodenales normales.
+¿Cuál sería la conducta adecuada a seguir?
+#A. Suspender omeprazol e iniciar metoclopramida
+#B. Suspender omeprazol e iniciar famotidina
+#C. Continuar omeprazol por cuatro semanas más e iniciar sertralina
+#D. Suspender omeprazol e iniciar amitriptilina
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQR2I3FO3WqfSKSHvkay-CJZAdTWnKYGpZ7MrTSzfTcDrl4?width=1275&height=1650
+
+#Varón de 50 años con lesión ocupante de espacio (LOE) cervical izquierda de tres semanas de evolución. Sin antecedentes relevantes ni síntomas sistémicos. Al examen, se palpa LOE firme, fija y no dolorosa de 2.5 cm. Laboratorios dentro de parámetros normales. TC de cuello: masa parcialmente quística con sospecha de invasión a tejidos adyacentes. No se evidencian adenopatías. 
+¿Cuál sería la conducta adecuada a seguir? 
+#A. Seguimiento trimestral con ecografía tiroidea y analítica de función tiroidea.
+#B. Programar para cirugía 
+#C. Realizar punción con aguja fina de la lesión
+#D. Solicitar un PET-TAC
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTkawriDK1nRJe1gn11-NcxAXJVLaOxQfECAiHoOcVIC08?width=1275&height=1650
+
+#Hombre de 75 años que acude a urgencias por dolor torácico. Durante la evaluación, sufre deterioro del estado de conciencia y no responde a estímulos. Se obtiene ECG. 
+¿Cuál es el diagnóstico más probable? 
+#A. Taquicardia ventricular polimórfica
+#B. Taquicardia ventricular monomórfica
+#C. Fibrilación ventricular
+#D. Fibrilación auricular con aberrancia
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQTD4P0g5KB0SpNT_tDKfBXWAUFkaxm9HryOq8T8Q3vp02A?width=1275&height=1650
+
+#Varón de 60 años en consulta para evaluación de riesgo cardiovascular. Antecedentes de infarto agudo de miocardio a los 56 y 58 años, hipertensión controlada y tratamiento con hipolipemiantes de alta intensidad. Perfil lipídico, glucemia en ayunas y HbA1c dentro de rangos normales. No fumador. IMC de 27 kg/m².
+¿Cuál es la prueba más útil para estimar su riesgo cardiovascular?
+#A. ApoA
+#B. Lp (a) 
+#C. ApoB
+#D. Homocisteína
+#Respuesta correcta:
+#https://1drv.ms/i/c/2cc078be4a32d93b/IQRgLai5aXXsR5ywUXlX0B2uAcKsIfWl3KzhxO6KajUraAY?width=2544&height=1650
